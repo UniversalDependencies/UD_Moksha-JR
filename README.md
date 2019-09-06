@@ -1,16 +1,17 @@
 # Summary
 
 Erme Universal Dependencies annotated texts Moksha are the origin of UD_Moksha-JR with annotation (CoNLL-U) for texts in the Moksha language,
-it originally consists of a sample from a number of fiction authors writing originals in Moksha,
-but there are also about 20 parallel sentences translated by Marina Liovina from the Erzya and Russian
-texts: [http://ilazki.thinkgeek.co.uk/brat/#/uralic/myv](http://ilazki.thinkgeek.co.uk/brat/#/uralic/myv) and
-[http://ilazki.thinkgeek.co.uk/brat/#/uralic/rus](http://ilazki.thinkgeek.co.uk/brat/#/uralic/rus)
+it originally consists of a sample from a number of fiction authors writing originals in Moksha.
 
 
 # Introduction
 
 This is a collection of sentences from almost entirely original Moksha-language literary sources dating back to the 1880s with
  Universal Dependencies (UD) annotations. It has been constructed in alignment with parallel work on Erzya language Universal Dependencies.
+
+There are also about 20 parallel sentences translated by Marina Liovina from the Erzya and Russian
+texts: [http://ilazki.thinkgeek.co.uk/brat/#/uralic/myv](http://ilazki.thinkgeek.co.uk/brat/#/uralic/myv) and
+[http://ilazki.thinkgeek.co.uk/brat/#/uralic/rus](http://ilazki.thinkgeek.co.uk/brat/#/uralic/rus)
 
 The sent_id attribute value is not randomized in works published earlier than 1938. Developing UD documentation can be found at https://github.com/UniversalDependencies/docs for Erzya.
 
