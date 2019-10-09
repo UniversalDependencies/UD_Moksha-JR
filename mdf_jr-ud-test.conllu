@@ -806,7 +806,7 @@
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
 # text = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
 # text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
-# text_fi = Hän kasvoi Pariisissa, joka on Ranksan pääkaupunki.
+# text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 1	Сон	сон	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	кассь	касомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 3	Парижса	Парижса	PROPN	_	Case=Nom|Definite=Ind|Number=Sing	2	obl	_	GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
