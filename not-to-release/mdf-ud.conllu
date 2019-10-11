@@ -48,7 +48,7 @@
 # text = А касан пяк савор, нинге школавка аф якан.
 1	А	а	CCONJ	CC	_	2	cc	_	_
 2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
-3	пяк	пяк	ADV	Adv	AdvType=Degree	4	advmod	_	_
+3	пяк	пяк	ADV	Adv	AdvType=Deg	4	advmod	_	_
 4	савор	савор	ADV	Adv	_	2	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	нинге	нинге	ADV	Adv	_	9	advmod	_	_
@@ -153,7 +153,7 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:26"
 # text = ― Кемоньшка кизоня ётай, касат, козонга аф туят.
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
-2	Кемоньшка	кемонь	NUM	Num	Case=Appr|Number=Plur,Sing	3	nummod	_	_
+2	Кемоньшка	кемонь	NUM	Num	Case=Comp|Number=Plur,Sing	3	nummod	_	_
 3	кизоня	кизоня	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
 4	ётай	ётамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	6	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	4	punct	_	_
@@ -202,7 +202,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:31"
 # text = Монць эрь шиня мастярлан самолётт, и лийфнесайне няканень.
-1	Монць	монць	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflexive=Yes	4	nsubj	_	_
+1	Монць	монць	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	nsubj	_	_
 2	эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	3	det	_	_
 3	шиня	шиня	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	obl:tmod	_	_
 4	мастярлан	мастярламс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
@@ -800,7 +800,7 @@
 6	сяс	сяс	ADV	_	_	8	mark	_	_
 7	мес	мес	ADV	_	_	6	fixed	_	_
 8	ласьксь	ласьксь	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1	4	advcl	_	GTtags=Ind,Prt1,ScSg3
-9	пяк	пяк	ADV	_	AdvType=Degree	10	advmod	_	GTtags=AdA
+9	пяк	пяк	ADV	_	AdvType=Deg	10	advmod	_	GTtags=AdA
 10	вишкста	вишкста	ADV	_	_	8	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	4	punct	_	_
 
