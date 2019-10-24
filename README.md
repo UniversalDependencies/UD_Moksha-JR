@@ -39,7 +39,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 ## About the authors
 
-Мишанина, В. И. 1972: Лиендень очконяса. (MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39) (Мордовиянь Кадошкина аймаконь Адаж веле)
+* Кузнецов, Юрий 1975: Сембось ушеткшни киста. Саранск.
+* Mishanina, V. I. (Мишанина, В. И.) 1972: Лиендень очконяса. Мокша №3, 38–39. Саранск. (MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39) (Мордовиянь Кадошкина аймаконь Адаж веле)
 
 
 # Changelog
@@ -59,7 +60,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Rueter, Jack; Liovina, Maria
+Contributors: Rueter, Jack; Liovina, Maria; Kabaeva, Nadezhda
 Contributing: here
 Contact: rueter.jack@gmail.com
 ===============================================================================
