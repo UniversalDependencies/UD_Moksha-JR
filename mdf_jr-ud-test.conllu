@@ -86,12 +86,12 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:17"
 # text = Алязтиге азондыне арьсеманень, а сон пеедезевсь и корхтай:
 1	Алязтиге	аля	NOUN	N	Case=Dat|Clitic=Ge|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obl	_	_
-2	азондыне	азондомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	_
+2	азондыне	азондомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 3	арьсеманень	арьсема	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	7	punct	_	_
 5	а	а	CCONJ	CC	_	7	cc	_	_
 6	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	пеедезевсь	пеедезевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	conj	_	_
+7	пеедезевсь	пеедезевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	conj	_	_
 8	и	и	CCONJ	CC	_	9	cc	_	_
 9	корхтай	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	7	conj	_	SpaceAfter=No
 10	:	:	PUNCT	CLB	_	2	punct	_	_
@@ -101,7 +101,7 @@
 # text[eng]= If you had been born a boy, your life would have gone better, you might have been a pilot, too
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Цёранянди	цёраня	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	3	xcomp	_	Gloss[eng]=boy
-3	шачелеть	шачемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Prt2|Valency=1	0	root	_	Gloss[eng]=be-born|SpaceAfter=No
+3	шачелеть	шачемс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Gloss[eng]=be-born|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	7	punct	_	_
 5	сяда	сяда	ADV	Adv	_	7	advmod	_	Gloss[eng]=more
 6	кице	ки	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	nsubj	_	Gloss[eng]=road
@@ -111,7 +111,7 @@
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	пади	пади	ADV	Adv	_	13	advmod	_	Gloss[eng]=might|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	11	punct	_	_
-13	улелеть	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Prt2|Valency=1	3	conj	_	Gloss[eng]=be|SpaceAfter=No
+13	улелеть	улемс	AUX	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Valency=1	3	conj	_	Gloss[eng]=be|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:27"
@@ -119,17 +119,17 @@
 1	―	―	PUNCT	PUNCT	_	5	punct	_	_
 2	А	а	CCONJ	CC	_	5	cc	_	_
 3	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-4	ашень	ашезь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Prt1	5	aux:neg	_	_
+4	ашень	ашезь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past	5	aux:neg	_	_
 5	абонда	абондомс	VERB	V	Connegative=Yes|Valency=1	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	мярьгонь	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	5	orphan	_	SpaceAfter=No
+7	мярьгонь	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	5	orphan	_	SpaceAfter=No
 8	:	:	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:43"
 # text = ― Терешкова панчсь теень ки.
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Терешкова	Терешков	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	_
-3	панчсь	панжемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	_
+3	панчсь	панжемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	_
 4	теень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	3	obl	_	_
 5	ки	ки	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -137,7 +137,7 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:1"
 # text = Тоса кизефтине алязень, мзярда касан.
 1	Тоса	тоса	ADV	Adv	_	2	obl	_	_
-2	кизефтине	кизефтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	_
+2	кизефтине	кизефтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 3	алязень	аля	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	мзярда	мъзярда	ADV	Adv	_	6	advmod	_	_
@@ -170,7 +170,7 @@
 2	мялезень	мяль	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	_	_
 3	петемс	петемс	VERB	V	Valency=2|VerbForm=Inf	5	xcomp	_	_
 4	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	_
+5	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	_
 6	самолёткя	самолёт	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -179,7 +179,7 @@
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	мезе	мезе	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	0	root	_	_
 3	кда	кда	SCONJ	CS	_	4	mark	_	_
-4	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	advcl	_	SpaceAfter=No
+4	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	аньцек	аньцек	ADV	Adv	_	7	advmod	_	_
 7	налхксемс	налхксемс	VERB	V	Valency=1|VerbForm=Inf	2	advcl	_	SpaceAfter=No
@@ -234,12 +234,12 @@
 5	кичкор	кичкор	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	6	amod	_	_
 6	мадя	мадя	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nmod:bahuv	_	_
 7	Мишазе	Миша	PROPN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	8	nsubj	_	_
-8	кулось	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	ccomp	_	_
+8	кулось	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	ccomp	_	_
 9	геройкс	герой	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	SpaceAfter=No
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	мзярда	мъзярда	ADV	Adv	_	13	mark	_	_
 12	пятналангста	пятналанга	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	13	obl	_	_
-13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	8	advcl	_	_
+13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	8	advcl	_	_
 14	парашютса	парашют	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	13	obl	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -264,7 +264,7 @@
 2	брадозень	брад	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nmod	_	_
 3	гулянянь	гуляня	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	4	nmod	_	_
 4	куднястонза	кудня	NOUN	N	Case=Ela|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
-5	сявонь	сявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	_
+5	сявонь	сявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 6	кафта	кафта	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	7	nummod	_	_
 7	досканят	досканя	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	obj	_	_
 8	самолётонь	самолёт	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	9	nmod	_	_
@@ -272,7 +272,7 @@
 10	,	,	PUNCT	CLB	_	14	punct	_	_
 11	а	а	CCONJ	CC	_	14	cc	_	_
 12	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-13	тянкса	тянкса	ADV	Adv	_	14	advmod	_	_
+13	тянкса	тянкса	ADV	Adv	Case=Cau	14	advmod	_	_
 14	пиксомань	пиксома	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	conj	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -280,20 +280,20 @@
 # text = Эста сельмоведьботмоса пеняцянь тядязти, мес аф нармоненди шачфтомань.
 1	Эста	эста	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	_
 2	сельмоведьботмоса	сельмоведьботмоса	ADV	Adv	_	3	xcomp	_	_
-3	пеняцянь	пеняцямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	0	root	_	_
+3	пеняцянь	пеняцямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	0	root	_	_
 4	тядязти	тядя	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	мес	мес	ADV	Adv	_	9	advmod	_	_
 7	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
 8	нармоненди	нармонь	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	9	xcomp	_	_
-9	шачфтомань	шачфтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Prt1|Valency=2	3	advcl	_	SpaceAfter=No
+9	шачфтомань	шачфтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past|Valency=2	3	advcl	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:22"
 # text = Эста самолётовок теень афоль эряв, келептелине пацянень и лиелень коволхненди.
 1	Эста	эста	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	_
 2	самолётовок	самолёт	NOUN	N	Case=Nom|Clitic=Vok|Definite=Ind|Number=Sing	5	nsubj	_	_
-3	теень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obl	_	_
+3	теень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obl:agent	_	_
 4	афоль	афоль	AUX	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	5	aux:neg	_	_
 5	эряв	эрявомс	AUX	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
@@ -308,11 +308,11 @@
 # text = Кда сизелень, ковол лангс озалень.
 # text[eng]= When I got tired, I would sit down on a cloud.
 1	Кда	къда	SCONJ	CS	_	2	mark	_	_
-2	сизелень	сиземс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt2|Valency=1	6	advcl	_	SpaceAfter=No
+2	сизелень	сиземс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1|Valency=1	6	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	ковол	ковол	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	obl	_	_
 5	лангс	лангс	ADP	Adp	AdpType=Post	4	case	_	_
-6	озалень	озамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt2|Valency=1	0	root	_	SpaceAfter=No
+6	озалень	озамс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:15"
@@ -329,7 +329,7 @@
 # text = И мон лийкстань.
 1	И	и	CCONJ	CC	_	3	cc	_	_
 2	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	лийкстань	лийкстамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	0	root	_	SpaceAfter=No
+3	лийкстань	лийкстамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:12"
@@ -359,15 +359,15 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:40"
 # text = Сявонь пикскя, сувань гулянянь карденяв, пельгта сотонь вете гулянят.
-1	Сявонь	сявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	_
+1	Сявонь	сявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 2	пикскя	пикскя	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
-4	сувань	сувамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	1	conj	_	_
+4	сувань	сувамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	1	conj	_	_
 5	гулянянь	гуляня	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	_
 6	карденяв	карденя	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
 8	пельгта	пельге	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	9	obl	_	_
-9	сотонь	сотомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	1	conj	_	_
+9	сотонь	сотомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	1	conj	_	_
 10	вете	вете	NUM	Num	NumType=Card	11	nummod	_	_
 11	гулянят	гуляня	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	1	punct	_	_
@@ -377,7 +377,7 @@
 1	Очконять	очконя	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obj	_	_
 2	аноконди	аноконди	ADV	Adv	_	4	xcomp	_	_
 3	ни	ни	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	_
-4	куцфтине	куцьфтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	_
+4	куцфтине	куцьфтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 5	карденя	карденя	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	obl	_	_
 6	пряв	пряв	ADP	Adp	AdpType=Post	5	case	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -385,20 +385,20 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:28"
 # text = Тоса сотнине гулянятнень очконять ужеванза и монць озань эзонза.
 1	Тоса	тоса	ADV	Adv	_	2	advmod	_	_
-2	сотнине	сотнемс	VERB	V	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	_
+2	сотнине	сотнемс	VERB	V	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 3	гулянятнень	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Plur	2	obj	_	_
 4	очконять	очконя	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	nmod	_	_
 5	ужеванза	ужа	NOUN	N	Case=Prl|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	_
 6	и	и	CCONJ	CC	_	8	cc	_	_
 7	монць	монць	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	8	nsubj	_	_
-8	озань	озамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	2	conj	_	_
+8	озань	озамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	2	conj	_	_
 9	эзонза	эзонза	ADV	Adv	Case=Ill|Number[psor]=Sing|Person[psor]=3	8	obl	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:14"
 # text = Кончайне сельмонень.
 # text[eng]= I closed my eyes.
-1	Кончайне	кончамс	VERB	V	Mood=Ind|Number[obj]=Plur,Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Prt1|Valency=1	0	root	_	_
+1	Кончайне	кончамс	VERB	V	Mood=Ind|Number[obj]=Plur,Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=1	0	root	_	_
 2	сельмонень	сельме	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	1	obj	_	SpaceAfter=No
 3	.	.	PUNCT	CLB	_	1	punct	_	_
 
@@ -410,12 +410,12 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:29"
 # text = Арьсень, лиян ни, панжине сельмонень, а мон станяк карденя прясан.
-1	Арьсень	арьсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	SpaceAfter=No
+1	Арьсень	арьсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	лиян	лиемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	1	conj	_	_
 4	ни	ни	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	панжине	панжемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Prt1|Valency=2	1	conj	_	_
+6	панжине	панжемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	1	conj	_	_
 7	сельмонень	сельме	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	12	punct	_	_
 9	а	а	CCONJ	CC	_	12	cc	_	_
@@ -429,28 +429,28 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:19"
 # text = Ашень кеподев теест, эрявсь лездомс.
-1	Ашень	ашезь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Prt1	2	aux:neg	_	_
+1	Ашень	ашезь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past	2	aux:neg	_	_
 2	кеподев	кеподевомс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	_
-3	теест	сон	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs|Variant=Short	2	obl	_	SpaceAfter=No
+3	теест	сон	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs|Variant=Short	2	obl:agent	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	эрявсь	эрявомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	6	aux	_	_
+5	эрявсь	эрявомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	6	aux	_	_
 6	лездомс	лездомс	VERB	V	Valency=1|VerbForm=Inf	2	conj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:8"
 # text = Ладяйне прокс пеняти очконять, пильгса орхкадине и аф вяри лиема тунь, а алу.
-1	Ладяйне	ладямс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	_
+1	Ладяйне	ладямс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 2	прокс	прокс	ADV	Adv	_	3	advmod	_	_
 3	пеняти	пеня	NOUN	N	Case=Dat|Definite=Def|Number=Sing	1	obl	_	_
 4	очконять	очконя	NOUN	N	Case=Gen|Definite=Def|Number=Sing	1	obj	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	пильгса	пильге	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	obl	_	_
-7	орхкадине	орхкадемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Prt1|Valency=2	1	conj	_	_
+7	орхкадине	орхкадемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	1	conj	_	_
 8	и	и	CCONJ	CC	_	12	cc	_	_
 9	аф	аф	AUX	Aux	Polarity=Neg	10	aux:neg	_	_
 10	вяри	вяри	ADV	Adv	_	11	advmod	_	_
 11	лиема	лиема	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	12	xcomp	_	_
-12	тунь	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	1	conj	_	SpaceAfter=No
+12	тунь	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	1	conj	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	15	punct	_	_
 14	а	а	CCONJ	CC	_	15	cc	_	_
 15	алу	алу	ADV	Adv	AdvType=Loc	12	conj	_	SpaceAfter=No
@@ -459,10 +459,10 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:25"
 # text = Афи шарьхкодень, кода лаподень карденя пряста.
 1	Афи	афи	AUX	Aux	Polarity=Neg	2	aux:neg	_	_
-2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=2	0	root	_	SpaceAfter=No
+2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	кода	кода	ADV	Adv	_	5	mark	_	_
-5	лаподень	лаподемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=2	2	advcl	_	_
+5	лаподень	лаподемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	2	advcl	_	_
 6	карденя	карденя	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	obl	_	_
 7	пряста	пряста	ADP	Adp	AdpType=Post	6	case	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -470,12 +470,12 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:18"
 # text = Очконясь велясь пильгозень лангс и цють ашезе синде.
 1	Очконясь	очконя	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
-2	велясь	велямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	_
+2	велясь	велямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	_
 3	пильгозень	пильге	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obl	_	_
 4	лангс	лангс	ADP	Adp	AdpType=Post	3	case	_	_
 5	и	и	CCONJ	CC	_	8	cc	_	_
 6	цють	цють	ADV	Adv	_	8	advmod	_	_
-7	ашезе	ашезь	AUX	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Polarity=Neg|Tense=Prt1	8	aux:neg	_	_
+7	ашезе	ашезь	AUX	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Polarity=Neg|Tense=Past	8	aux:neg	_	_
 8	синде	синдемс	VERB	V	Connegative=Yes|Valency=2	2	conj	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -486,7 +486,7 @@
 3	:	:	PUNCT	CLB	_	6	punct	_	_
 4	фкя	фкя	NUM	Num	NumType=Card	5	nummod	_	_
 5	гулянясь	гуляня	NOUN	N	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	_
-6	сутямсь	сутямомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	ccomp	_	_
+6	сутямсь	сутямомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	ccomp	_	_
 7	и	и	CCONJ	CC	_	8	cc	_	_
 8	ащи	ащемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	6	conj	_	_
 9	фкя	фкя	NUM	Num	NumType=Card	10	nummod	_	_
@@ -498,16 +498,16 @@
 15	беднаять	бедная	NOUN	N	Case=Gen|Definite=Def|Number=Sing	13	appos	_	SpaceAfter=No
 16	,	,	PUNCT	CLB	_	15	punct	_	_
 17	пацяняц	пацяня	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	nsubj	_	_
-18	синдевсь	синдевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	6	conj	_	SpaceAfter=No
+18	синдевсь	синдевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	6	conj	_	SpaceAfter=No
 19	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:23"
 # text = Ашень кирде эста, аварьгодонь оцю вайгяльхть...
-1	Ашень	ашезь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Prt1	2	aux:neg	_	_
+1	Ашень	ашезь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past	2	aux:neg	_	_
 2	кирде	кирдемс	VERB	V	Connegative=Yes|Valency=2	0	root	_	_
 3	эста	эста	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	аварьгодонь	аварьгодомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	2	conj	_	_
+5	аварьгодонь	аварьгодомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	2	conj	_	_
 6	оцю	оцю	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
 7	вайгяльхть	вайгяль	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	obl	_	SpaceAfter=No
 8	...	...	PUNCT	CLB	_	2	punct	_	_
@@ -515,14 +515,14 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:21"
 # text = И сргозень.
 1	И	и	CCONJ	CC	_	2	cc	_	_
-2	сргозень	сргоземс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Prt1|Valency=1	0	root	_	SpaceAfter=No
+2	сргозень	сргоземс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:9"
 # text = Кали тя ульсь онцтон?
 1	Кали	кали	ADV	Adv	_	4	advmod	_	_
 2	тя	тя	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	_
-3	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	4	cop	_	_
+3	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	4	cop	_	_
 4	онцтон	он	NOUN	N	Case=Ela|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=1	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	CLB	_	4	punct	_	_
 
@@ -556,7 +556,7 @@
 # text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
 # text_kpv = Ныв ёртыслы гижис письмӧ.
 1	Стирсь	стирь	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Def
-2	сёрмадсь	сёрмадомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
+2	сёрмадсь	сёрмадомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 3	сёрма	сёрма	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	obj	_	GTtags=Sg,Nom,Indef
 4	ялганцты	ялга	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=Sg,Dat,PxSg3|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -580,7 +580,7 @@
 # text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
 # text_kpv = Сійӧ заводитліс чӧвтны куритчӧмсӧ да юӧмсӧ.
 1	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	тяряфтсь	тяряфтомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
+2	тяряфтсь	тяряфтомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 3	кадомс	кадомс	VERB	V	Valency=2|VerbForm=Inf	2	xcomp	_	GTtags=TV,Inf
 4	таргаманц	таргама	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Sg,Gen,PxSg3
 5	и	и	CCONJ	CC	_	6	cc	_	_
@@ -593,7 +593,7 @@
 # text_sms = Haaʹlääk-a mõõnnâd?
 # text_fi = Haluatko mennä?
 # text_kpv = Кӧсъян мунны?
-1	Молелексолеть	молемс	VERB	V	Mood=Des|Number[subj]=Sing|Person[subj]=2|Tense=Prt2|Valency=1	0	root	_	GTtags=IV,Des,Prt2,ScSg2|SpaceAfter=No
+1	Молелексолеть	молемс	VERB	V	Mood=Des|Number[subj]=Sing|Person[subj]=2|Tense=Past|Valency=1	0	root	_	GTtags=IV,Des,Prt2,ScSg2|SpaceAfter=No
 2	?	?	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = LM_brat_2018:5
@@ -615,7 +615,7 @@
 # text_fi = Hän pani miehensä pesemään auton.
 # text_kpv = Сійӧ тшӧктіс верӧсыслы мыськыны машинасӧ.
 1	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	кошардозе	кошардомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
+2	кошардозе	кошардомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 3	мирденц	мирде	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Sg,Gen,PxSg3
 4	машинань	машина	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	obj	_	GTtags=SP,Gen,Indef
 5	штама	штамс	VERB	V	Case=Loc|Valency=2|VerbForm=Inf	2	xcomp	_	GTtags=TV,Inf,Loc|SpaceAfter=No
@@ -629,7 +629,7 @@
 # text_kpv = Петилӧн суседыс краситӧма заборсӧ.
 1	Петять	Петя	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	nmod	_	GTtags=Prop,Sem/Mal,Sg,Gen,Def
 2	шабрац	шабра	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Sg,Nom,PxSg3
-3	архтозе	архтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
+3	архтозе	архтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 4	перяфксть	перяфкс	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -652,7 +652,7 @@
 # text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
 # text_kpv = Мери шедӧдіс бронза, Питер - эзысь, а Джейн - зарни.
 1	Марья	Марья	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom,Indef
-2	сявозе	сявомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
+2	сявозе	сявомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 3	бронзать	бронза	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	Петя	Петя	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	2	conj	_	GTtags=Prop,Sem/Mal,Sg,Nom,Indef
@@ -691,7 +691,7 @@
 5	аф	аф	AUX	_	Polarity=Neg	6	aux:neg	_	GTtags=Neg
 6	Марья	Марья	PROPN	_	Case=Nom|Definite=Ind|Number=Sing	2	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom,Indef
 7	Браун	Браун	PROPN	_	Case=Nom|Definite=Ind|Number=Sing	6	flat	_	GTtags=Prop,Sem/Sur,Sg,Nom,Indef
-8	ашесть	ашезь	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Prt1|VerbType=Aux	9	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScPl3
+8	ашесть	ашезь	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	9	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScPl3
 9	кочкав	кочкавомс	VERB	_	Connegative=Yes|Valency=1	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	9	punct	_	_
 
@@ -703,12 +703,12 @@
 # text_kpv = Найӧ дзик оз тӧдны, коді тайӧс гижис.
 1	Синь	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod	_	GTtags=Pers,Pl3,Gen
 2	мялезост-ка	мялезост-ка	NOUN	N	Case=Ill|Clitic=Ka|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=SP|Ill,PxPl3,Clt/Ka
-3	ашезь	ашезь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Prt1|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
+3	ашезь	ашезь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	кунда	кундамс	VERB	V	Connegative=Yes|Valency=2	0	root	_	GTtags=TV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	кие	кие	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	8	nsubj	_	GTtags=Interr,Sg,Nom
 7	тянь	тя	PRON	Pron	Case=Gen|Number=Plur,Sing|PronType=Dem	8	obj	_	GTtags=Dem|SP,Gen
-8	сёрмадозе	сёрмадомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	4	csubj	_	GTtags=TV,Ind,Prt1,ScSg3|OcSg3|SpaceAfter=No
+8	сёрмадозе	сёрмадомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	4	csubj	_	GTtags=TV,Ind,Prt1,ScSg3|OcSg3|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = LM_brat_2018:13
@@ -743,7 +743,7 @@
 # text_fi = Hän osti auton mutta veljensä vain pyörän.
 # text_kpv = Сійӧ ньӧбис машина, а вокыс сӧмын велосипед.
 1	Сон	сон	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	рамась	рамамс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
+2	рамась	рамамс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 3	машина	машина	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	2	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	а	а	CCONJ	CC	_	6	cc	_	_
@@ -761,9 +761,9 @@
 1	Петя	Петя	PROPN	_	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom,Indef
 2	и	и	CCONJ	CC	_	3	cc	_	_
 3	Маря	Маря	PROPN	_	Case=Nom|Number=Sing	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-4	ашкордасть	ашкордамс	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
+4	ашкордасть	ашкордамс	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
 5	и	и	CCONJ	CC	_	6	cc	_	_
-6	лиссть	лисемс	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=1	4	conj	_	GTtags=IV,Ind,Prt1,ScPl3
+6	лиссть	лисемс	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	4	conj	_	GTtags=IV,Ind,Prt1,ScPl3
 7	комнатаста	комната	NOUN	_	Case=Ela|Definite=Ind|Number=Plur,Sing	6	obl	_	GTtags=SP,Ela,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_
 
@@ -773,8 +773,8 @@
 # text_sms = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam. 
 # text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
 # text_kpv = Сылы коліс юрсисӧ мичаа вӧчны, но мыйлакӧ тайӧ лунӧ сійӧ эз кӧсйы.
-1	Сондеенза	Сондеенза	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Long	3	obl	_	GTtags=Pers,Sg3,Dat,Long
-2	эрявсть	эрявомс	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=1	3	aux	_	GTtags=IV,Ind,Prt1,ScPl3
+1	Сондеенза	Сондеенза	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Long	3	obl:agent	_	GTtags=Pers,Sg3,Dat,Long
+2	эрявсть	эрявомс	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	3	aux	_	GTtags=IV,Ind,Prt1,ScPl3
 3	тиемс	тиемс	VERB	_	Valency=2|VerbForm=Inf	0	root	_	GTtags=TV,Inf
 4	шяяренза	шяярь	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Pl,Nom,PxSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
@@ -782,7 +782,7 @@
 7	ся	ся	DET	_	Case=Nom|Number=Sing|PronType=Dem	8	det	_	GTtags=Dem,Sg,Nom
 8	шиня	ши	NOUN	_	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing	9	obl:tmod	_	GTtags=Der/Dimin,N,Sg,Nom,Indef
 9	сонь	сон	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	conj	_	GTtags=Pers,Sg3,Gen
-10	ашель	аш	AUX	_	Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Prt2|VerbType=Aux	9	aux:neg	_	GTtags=Aux,Neg,Prt2,ScSg3
+10	ашель	аш	AUX	_	Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	9	aux:neg	_	GTtags=Aux,Neg,Prt2,ScSg3
 11	мялец	мяль	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -794,12 +794,12 @@
 # text_kpv = Ме эг вермы сійӧс вӧтӧдны, сы вӧсна мый сійӧ зэв тэрыба котӧртіс.
 1	Мондейне	мон	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Long	4	obl	_	GTtags=Pers,Sg1,Dat,Long
 2	сон	сон	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
-3	ашезь	ашезь	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Prt1|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
+3	ашезь	ашезь	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	сатов	сатовомс	VERB	_	Connegative=Yes|Valency=1	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	сяс	сяс	ADV	_	_	8	mark	_	_
 7	мес	мес	ADV	_	_	6	fixed	_	_
-8	ласьксь	ласьксь	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1	4	advcl	_	GTtags=Ind,Prt1,ScSg3
+8	ласьксь	ласьксь	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	4	advcl	_	GTtags=Ind,Prt1,ScSg3
 9	пяк	пяк	ADV	_	AdvType=Deg	10	advmod	_	GTtags=AdA
 10	вишкста	вишкста	ADV	_	_	8	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -816,7 +816,7 @@
 4	эзда	эзда	ADP	_	Case=Abl	3	case	_	GTtags=Abl|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
 6	и	и	CCONJ	CC	_	7	cc	_	_
-7	кандозь	кандомс	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	3	conj	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
+7	кандозь	кандомс	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	3	conj	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
 8	сонь	сон	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	obj	_	GTtags=Pers,Sg3,Gen
 9	исяк	исяк	ADV	_	_	7	advmod:tmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -828,7 +828,7 @@
 # text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
 # text_kpv = Сійӧ быдмис Парижын, Францияса юркарын.
 1	Сон	сон	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	кассь	касомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+2	кассь	касомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 3	Парижса	Парижса	PROPN	_	Case=Nom|Definite=Ind|Number=Sing	2	obl	_	GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 5	Парижсь	Парижсь	PROPN	_	Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	GTtags=Prop,Sg,Nom,Def
