@@ -1,5 +1,6 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:11"
 # text = Мон седишкада ванондан веленьконь велькска лиенди самолёттнень мельге и сельмотькшнян.
+# text_en = I like to watch the airplanes flying over our village, and I get envious.
 1	Мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	седишкада	седишкада	ADV	Adv	_	3	advmod	_	_
 3	ванондан	ванондомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	_
@@ -14,6 +15,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:36"
 # text = Лётчикне, улема, кядьса токсесазь коволнятнень.
+# text_en = The pilots, it would seem, touch the little clouds with their hands.
 1	Лётчикне	лётчик	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
 3	улема	улема	PART	Pcle	_	6	advmod	_	SpaceAfter=No
@@ -25,6 +27,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:13"
 # text = И уендихть сенем менельть потмоса, кода оцю морява.
+# text_en = And they glide through the blue heavens as if in a great sea.
 1	И	и	CCONJ	CC	_	2	cc	_	_
 2	уендихть	уендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	_
 3	сенем	сенем	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	_
@@ -38,6 +41,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:44"
 # text = Касондярян, улян лётчикокс.
+# text_en = When I grow up, I’m going to be a pilot.
 1	Касондярян	касомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=1|Valency=1	4	advcl	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	_
 3	улян	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	4	cop	_	_
@@ -46,6 +50,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:20"
 # text = А касан пяк савор, нинге школавка аф якан.
+# text_en = But I’m growing so slowly, I don’t even go to school yet.
 1	А	а	CCONJ	CC	_	2	cc	_	_
 2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
 3	пяк	пяк	ADV	Adv	AdvType=Deg	4	advmod	_	_
@@ -59,6 +64,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:0"
 # text = Эрь шиня стяшендан табуреткать лангс и кяднень венепнесайне поталакти, а поталаксь нинге вяре, вяре.
+# text_en = Every day, I stand up on the stool and stretch my hands toward the ceiling, but the ceiling is still high as can be.
 1	Эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	2	det	_	_
 2	шиня	шиня	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obl:tmod	_	_
 3	стяшендан	стяшендомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
@@ -79,12 +85,14 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:24"
 # text = Савор касан.
+# text_en = I’m growing slowly.
 1	Савор	савор	ADV	Adv	_	2	advmod	_	_
 2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:17"
 # text = Алязтиге азондыне арьсеманень, а сон пеедезевсь и корхтай:
+# text_en = I’m growing slowly. I even told to my father my thoughts, but he burst into laughter and says:
 1	Алязтиге	аля	NOUN	N	Case=Dat|Clitic=Ge|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obl	_	_
 2	азондыне	азондомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 3	арьсеманень	арьсема	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	2	obj	_	SpaceAfter=No
@@ -98,7 +106,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:42"
 # text = ― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть.
-# text[eng]= If you had been born a boy, your life would have gone better, you might have been a pilot, too
+# text_en = If you had been born a boy, your life would have gone better, you might have been a pilot, too
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Цёранянди	цёраня	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	3	xcomp	_	Gloss[eng]=boy
 3	шачелеть	шачемс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Gloss[eng]=be-born|SpaceAfter=No
@@ -116,6 +124,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:27"
 # text = ― А мон ашень абонда, мярьгонь:
+# text_en = But I didn’t let it disturb me, I said:
 1	―	―	PUNCT	PUNCT	_	5	punct	_	_
 2	А	а	CCONJ	CC	_	5	cc	_	_
 3	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
@@ -127,6 +136,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:43"
 # text = ― Терешкова панчсь теень ки.
+# text_en = Tereshkova opened the way for me.
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Терешкова	Терешков	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	_
 3	панчсь	панжемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	_
@@ -136,6 +146,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:1"
 # text = Тоса кизефтине алязень, мзярда касан.
+# text_en = There I asked my father when would I grow.
 1	Тоса	тоса	ADV	Adv	_	2	obl	_	_
 2	кизефтине	кизефтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 3	алязень	аля	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obj	_	SpaceAfter=No
@@ -146,12 +157,14 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:4"
 # text = Сон корхтай:
+# text_en = He says:
 1	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	корхтай	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:26"
 # text = ― Кемоньшка кизоня ётай, касат, козонга аф туят.
+# text_en = Ten years or so will pass, you’ll grow, you can’t avoid it.
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Кемоньшка	кемонь	NUM	Num	Case=Comp|Number=Plur,Sing	3	nummod	_	_
 3	кизоня	кизоня	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
@@ -166,6 +179,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:3"
 # text = Сяльде мялезень петемс сон рамась самолёткя.
+# text_en = Then to make me feel better he bought [me] a little airplane.
 1	Сяльде	сяльде	ADV	Adv	_	5	advmod	_	_
 2	мялезень	мяль	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	_	_
 3	петемс	петемс	VERB	V	Valency=2|VerbForm=Inf	5	xcomp	_	_
@@ -176,6 +190,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:35"
 # text = А мезе кда рамась, аньцек налхксемс, а мон ёран лиендемс.
+# text_en = And what if he bought [one], only for play, but I want to fly around.
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	мезе	мезе	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	0	root	_	_
 3	кда	кда	SCONJ	CS	_	4	mark	_	_
@@ -192,6 +207,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:30"
 # text = Рамаль хуш тядязень муськома очконц эшка.
+# text_en = He should have bought one at least the size of my mother’s laundry trough.
 1	Рамаль	рамамс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	_
 2	хуш	хуш	ADV	Adv	_	5	advmod	_	_
 3	тядязень	тядя	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nmod	_	_
@@ -202,6 +218,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:31"
 # text = Монць эрь шиня мастярлан самолётт, и лийфнесайне няканень.
+# text_en = Every day I work at controlling airplanes, and I fly my dolls.
 1	Монць	монць	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	nsubj	_	_
 2	эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	3	det	_	_
 3	шиня	шиня	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	obl:tmod	_	_
@@ -215,6 +232,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:16"
 # text = Сясы синь сембе и лётчикт, и космонавтт.
+# text_en = That’s why they are all pilots and cosmonauts.
 1	Сясы	сясы	SCONJ	CS	_	5	mark	_	_
 2	синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 3	сембе	сембе	ADV	Adv	_	2	advmod	_	_
@@ -227,6 +245,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:6"
 # text = Аньцек ужяль, мес кичкор мадя Мишазе кулось геройкс, мзярда пятналангста валгсь парашютса.
+# text_en = Only it’s too bad that my crooked-pawed Teddy died a hero when he came down off oven top with a parachute.
 1	Аньцек	аньцек	ADV	Adv	_	2	advmod	_	_
 2	ужяль	ужяль	ADV	Adv	_	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -245,7 +264,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:5"
 # text = Тяни ёран тиемда оцю самолёт, аньцек коданга аф лисенди.
-# text[eng]= Now I'm trying to make a big airplane but it just isn't working out.
+# text_en = Now I'm trying to make a big airplane but it just isn't working out.
 1	Тяни	тяни	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	_
 2	ёран	ёрамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	_
 3	тиемда	тиемс	VERB	V	Case=Abl|Valency=2|VerbForm=Inf	2	xcomp	_	_
