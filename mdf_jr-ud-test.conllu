@@ -5,7 +5,7 @@
 2	седишкада	седишкада	ADV	Adv	_	3	advmod	_	_
 3	ванондан	ванондомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	_
 4	веленьконь	веле	NOUN	N	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	5	nmod:part	_	_
-5	велькска	велькска	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	3	obl:lmod	_	_
+5	велькска	велькска	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing|Typo=Yes	3	obl:lmod	_	CorrectForm=вельхкска
 6	лиенди	лиендемс	VERB	V	Derivation=I|Tense=Pres|Valency=1|VerbForm=Part	7	amod	_	_
 7	самолёттнень	самолёт	NOUN	N	Case=Gen|Definite=Def|Number=Plur	3	obl:lmod	_	_
 8	мельге	мельге	ADP	Adp	AdpType=Post|Case=Prl	7	case	_	_
