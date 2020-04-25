@@ -49,7 +49,7 @@
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:20"
-# text = А касан пяк савор, нинге школавка аф якан.
+# text = А касан пяк савор, нинге школавга аф якан.
 # text_en = But I’m growing so slowly, I don’t even go to school yet.
 1	А	а	CCONJ	CC	_	2	cc	_	_
 2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
