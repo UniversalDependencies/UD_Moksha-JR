@@ -441,7 +441,7 @@
 10	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 11	станяк	станяк	ADV	Adv	_	12	advmod	_	_
 12	карденя	карда	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing	13	nmod	_	_
-13	пряс	пря	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing|Number[subj]=Sing|Person[subj]=1|Tense=Pres	1	conj	_	SpaceAfter=No
+13	прясан	пря	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing|Number[subj]=Sing|Person[subj]=1|Tense=Pres	1	conj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:19"
@@ -1669,7 +1669,7 @@
 2	Миша	Миша	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	5	nsubj:cop	_	GTtags=Prop,Sem/Mal,Sg,Nom,Indef
 3	ялгань	ялга	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,Gen,Indef
 4	коряс	коряс	ADP	Adp	_	3	case	_	_
-5	сятяв	сятяв	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=3|Tense=Prt2	0	root	_	GTtags=Sg,Nom,Indef,Clt/Cop,Prt2,ScSg3|SpaceAfter=No
+5	сятяволь	сятяв	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=3|Tense=Prt2	0	root	_	GTtags=Sg,Nom,Indef,Clt/Cop,Prt2,ScSg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id = MKS:2008:11:LevchaevP:1
@@ -1761,7 +1761,7 @@
 2	къда	кда	SCONJ	CS	Style=Ped	3	mark	_	ModernForm=кда
 3	токади	токадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	6	advcl:tmod	_	GTtags=IV,Ind,Prs,ScSg3
 4	ёфси	ёфси	ADV	Adv	AdvType=Deg	6	advmod	_	GTtags=Deg
-5	сядонга	сяда	ADV	Adv	Clitic=AddNgA	6	advmod	_	GTtags=Clt/NgA
+5	сядонга	сяда	ADV	Adv	Clitic=AddNgA	6	advmod:deg	_	GTtags=Clt/NgA
 6	кальдяв	кальдяв	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
 
