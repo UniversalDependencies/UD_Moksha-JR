@@ -819,3 +819,12 @@
 9	ине	ине	ADJ	_	Case=Nom|Definite=Ind|Number=Sing	10	amod	_	GTtags=Sg,Nom,Indef
 10	ошец	ош	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	parataxis	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 11 . . CLB _ _ 10 punct _ _
+
+# sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:4:2
+# text = – Тейне директорсь эряви.
+
+# sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:5:1
+# text = Канайкинонь каршес класста лиссь нильгемоньшка кизоса аля, нюрьхкяня ожа панарса, серай брюкаса.
+
+# sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:6:1
+# text = – Мон директорсь, – пшкядсь сон пцтай весяласта, и сельмованфоц курькстсь Колянь ронгонц кувалмова.

@@ -37,14 +37,18 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 [![DOI](https://zenodo.org/badge/118232421.svg)](https://zenodo.org/badge/latestdoi/118232421)
 
+
 ## About the authors
 
 * Кузнецов, Юрий 1975: Сембось ушеткшни киста. Саранск.
 * Mishanina, V. I. (Мишанина, В. И.) 1972: Лиендень очконяса. Мокша №3, 38–39. Саранск. (MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39) (Мордовиянь Кадошкина аймаконь Адаж веле)
-
+* Мокшень кяль. Синтаксис : учебник / аноклаф-тиф Н. С. Алямкинонь и О. Е. Поляковонь профессорхнень вятемаснон ала. -- Саранск : Изд-во Мордов. ун-та, 2008. -- 200 с. -- На морд.-мокша яз.
 
 # Changelog
 
+* 2020-05-15 v2.6
+  * Adding example sentences quoted in Moksha syntaxis (2008).
+  * Expanding advmod:mmod, :lmod, :tmod and adding NameTypes.
 * 2019-11-15 v2.5
   * Initial release in Universal Dependencies.
 
@@ -60,7 +64,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Rueter, Jack; Liovina, Maria; Kabaeva, Nadezhda
+Contributors: Rueter, Jack; Levina, Maria; Kabaeva, Nadezhda
 Contributing: here
 Contact: rueter.jack@gmail.com
 ===============================================================================
