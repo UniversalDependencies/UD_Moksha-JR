@@ -1773,3 +1773,18 @@
 4	вазнясь	ваз	NOUN	N	Case=Nom|Definite=Def|Derivation=Dimin|Number=Sing	3	nsubj:cop	_	GTtags=Der/Dimin,N,Sg,Nom,Def|SpaceAfter=No
 5	!	!	PUNCT	CLB	_	3	punct	_	_
 
+# sent_id = MishaninaV:1993:56:3:7
+# text = Тя нинге лац ашезь матодов, а матодовондяряй -- кирдест стенатне.
+1	Тя	тя	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	5	nsubj	_	GTtags=Dem,Sg,Nom,Indef
+2	нинге	нинге	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+3	лац	лац	ADV	Adv	_	5	advmod	_	_
+4	ашезь	аф	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	5	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
+5	матодов	матодовомс	VERB	V	Connegative=Yes|Valency=1	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	а	а	CCONJ	CC	_	8	cc	_	_
+8	матодовондяряй	матодовомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|Valency=1	10	advcl	_	GTtags=IV,Cond,ScSg3
+9	--	--	PUNCT	PUNCT	_	8	punct	_	_
+10	кирдест	кирдемс	VERB	V	Mood=Opt|Number[subj]=Plur|Person[subj]=3|Valency=1	5	conj	_	GTtags=IV,Opt,ScPl3
+11	стенатне	стена	NOUN	N	Case=Nom|Definite=Def|Number=Plur	10	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
+12	.	.	PUNCT	CLB	_	5	punct	_	_
+
