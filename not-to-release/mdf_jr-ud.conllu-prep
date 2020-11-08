@@ -822,9 +822,47 @@
 
 # sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:4:2
 # text = – Тейне директорсь эряви.
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
+2	Тейне	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	4	obl:agent	_	GTtags=Pers,Sg1,Dat,Short
+3	директорсь	директор	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def
+4	эряви	эрявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	_
+
 
 # sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:5:1
 # text = Канайкинонь каршес класста лиссь нильгемоньшка кизоса аля, нюрьхкяня ожа панарса, серай брюкаса.
+1	Канайкинонь	Канайкин	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing|Sem/Mal-Sur	2	nmod	_	GTtags=Prop,Sem/Mal-Sur,SP,Gen,Indef
+2	каршес	карша	NOUN	N	Relator|Case=Ill|Definite=Ind|Number=Plur,Sing	3	nmod	_	GTtags=Relator,SP,Ill,Indef
+3	класста	класс	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Abl,Indef
+4	лиссь	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+5	нильгемоньшка	нильгемонь	NUM	Num	Case=Comp|Definite=Ind|Number=Plur,Sing|NumType=Card	6	nummod	_	GTtags=Card,SP,Cmpr,Indef
+6	кизоса	киза	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	nmod	_	GTtags=SP,Ine,Indef
+7	аля	аля	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	11	punct	_	_
+9	нюрьхкяня	нюрьхкяня	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	10	amod	_	GTtags=Sg,Nom,Indef
+10	ожа	ожа	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	11	nmod	_	GTtags=Sg,Nom,Indef
+11	панарса	панар	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	nmod	_	GTtags=SP,Ine,Indef|SpaceAfter=No
+12	,	,	PUNCT	CLB	_	14	punct	_	_
+13	серай	серай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	14	amod	_	GTtags=Sg,Nom,Indef
+14	брюкаса	брюкат	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	nmod	_	GTtags=SP,Ine,Indef|SpaceAfter=No
+15	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:6:1
 # text = – Мон директорсь, – пшкядсь сон пцтай весяласта, и сельмованфоц курькстсь Колянь ронгонц кувалмова.
+1	–	–	PUNCT	PUNCT	_	2	punct	_	_
+2	Мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	GTtags=Pers,Sg1,Nom
+3	директорсь	директор	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj:cop	_	GTtags=Sg,Nom,Def|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	–	–	PUNCT	PUNCT	_	6	punct	_	_
+6	пшкядсь	пшкядемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3
+7	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg3,Nom
+8	пцтай	пцтай	ADV	Adv	_	9	advmod	_	_
+9	весяласта	весяласта	ADV	Adv	AdvType=Man	6	advmod	_	GTtags=Manner|SpaceAfter=No
+10	,	,	PUNCT	CLB	_	13	punct	_	_
+11	и	и	CCONJ	CC	_	13	cc	_	_
+12	сельмованфоц	сельмованф	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	GTtags=Sg,Nom,PxSg3
+13	курькстсь	курькстомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	2	conj	_	GTtags=IV,Ind,Prt1,ScSg3
+14	Колянь	Коля	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	15	nmod	_	GTtags=Prop,SP,Gen,Indef
+15	ронгонц	ронга	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl	_	GTtags=Sg,Gen,PxSg3
+16	кувалмова	кувалма	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	15	case	_	GTtags=SP,Prl,Indef|SpaceAfter=No
+17	.	.	PUNCT	CLB	_	2	punct	_	_
