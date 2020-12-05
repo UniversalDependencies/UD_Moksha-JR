@@ -72,7 +72,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Rueter, Jack; Levina, Maria; Kabaeva, Nadezhda
+Contributors: Rueter, Jack; Levina, Maria; Kabaeva, Nadezhda; Molnár, Judit
 Contributing: here
 Contact: rueter.jack@gmail.com
 ===============================================================================
