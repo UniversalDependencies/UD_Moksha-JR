@@ -4,14 +4,11 @@
 	"Керата" N Prop SP Gen Indef
 "<козялятне>"
 	"козяля" N Pl Nom Def
-	"козяля" N Pl Nom PxSg2
 "<нинге>"
 	"нинге" Adv Sem/Time
 "<сяда>"
 	"сяда" Adv Deg
-	"сяда" Num Card Sg Nom Indef
 "<хитрайста>"
-	"хитрай" A SP Ela Indef
 	"хитрайста" Adv Manner
 "<тисть>"
 	"тиемс" V Ind Prt1 ScPl3
@@ -36,16 +33,12 @@
 	"нинге" Adv Sem/Time
 "<сяда>"
 	"сяда" Adv Deg
-	"сяда" Num Card Sg Nom Indef
 "<мазыста>"
-	"мазы" A SP Ela Indef
-	"мазыста" Adv Err/Orth Manner
 	"мазыста" Adv Manner
 "<и>"
 	"и" CC
 "<павазуста>"
-	"павазу" A SP Ela Indef
-	"павазуста" Adv
+	"павазуста" Adv Manner
 "<.>"
 	"." CLB
 
@@ -68,8 +61,6 @@
 "<пцтай>"
 	"пцтай" Adv
 "<шобдаста>"
-	"шобда" A SP Ela Indef
-	"шобда" N SP Ela Indef
 	"шобдаста" Adv Sem/Time
 "<мрдан>"
 	"мрдамс" V Ind Prs ScSg1
@@ -95,12 +86,10 @@
 "<праздник>"
 	"праздник" N Sg Nom Indef
 "<шиня>"
-	"ши" N Pl Nom PxSg1 Err/Orth-lowered-final-e-2-ja
-	"шине" N Sg Nom Indef Err/Orth-lowered-final-e-2-ja
+	"ши" N SP Temp Indef
 "<виздеме>"
 	"виздемс" V Ind Prt1 ScPl1
 "<саманьконь>"
-	"сама" N SP Gen PxPl1
 	"самс" V NomAct SP Gen PxPl1
 "<.>"
 	"." CLB

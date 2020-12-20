@@ -310,6 +310,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:22"
 # text = Эста самолётовок теень афоль эряв, келептелине пацянень и лиелень коволхненди.
+# text_en = Then I wouldn't have even needed an airplane, I would spread my wings and fly to the clouds.
 1	Эста	эста	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	_
 2	самолётовок	самолёт	NOUN	N	Case=Nom|Clitic=AddVok|Definite=Ind|Number=Sing	5	nsubj	_	_
 3	теень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obl:agent	_	_
@@ -470,7 +471,7 @@
 12	тунь	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	1	conj	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	15	punct	_	_
 14	а	а	CCONJ	CC	_	15	cc	_	_
-15	алу	алу	ADV	Adv	AdvType=Loc	12	conj	_	SpaceAfter=No
+15	алу	алу	ADV	Adv	AdvType=Loc|Case=Lat	12	conj	_	SpaceAfter=No
 16	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:25"
@@ -545,6 +546,7 @@
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:32"
 # text = Ну, кли онцтон, пара: гулянять пацяняц апак синтть.
+# text_en = Well, it was in my dream, good: the little pigeon's wing isn't broken.
 1	Ну	ну	INTJ	Interj	_	6	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	6	punct	_	_
 3	кли	кли	ADV	Adv	_	4	advmod	_	_
@@ -1138,6 +1140,7 @@
 
 # sent_id = MKS:2008:8:MokshoniA:1
 # text = Шись нинге ашезь стя, аньцек няевсь, кода якстерьгодсь шинь стяма ширеста менельсь.
+# text_en = The sun hadn't risen yet, you could only see how the sky in the east had turned red.
 1	Шись	ши	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def
 2	нинге	нинге	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Temp
 3	ашезь	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Prt1|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
@@ -1439,7 +1442,7 @@
 # text = Эрявихть ломаттне тяза экскурсияс усксемс.
 1	Эрявихть	эрявомс	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	5	aux	_	GTtags=IV,Ind,Prs,ScPl3
 2	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	5	nsubj:pass	_	GTtags=Pl,Nom,Def
-3	тяза	тяза	ADV	Adv	AdvType=Loc	5	advmod:lmod	_	GTtags=Spat
+3	тяза	тяза	ADV	Adv	AdvType=Loc|Case=Ill	5	advmod:lmod	_	GTtags=Spat
 4	экскурсияс	экскурсия	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	GTtags=SP,Ill,Indef
 5	усксемс	усксемс	VERB	V	Valency=2|VerbForm=Inf	0	root	_	GTtags=TV,Inf|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -1808,6 +1811,7 @@
 
 # sent_id= MKS:2008:12:3:KirdjashkinT
 # text =  Сёксень вирсь ульсь пяк мазы, кодама аньцек краскат сонь эсонза ашельхть.
+# text_en = The autumn forest was really beautiful, there was no lack of colors in it.
 1	Сёксень	сёксе	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod	_	GTtags=SP,Gen,Indef
 2	вирсь	вирь	NOUN	N	Case=Nom|Definite=Def|Number=Sing	5	nsubj:cop	_	GTtags=Sg,Nom,Def
 3	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	5	cop	_	GTtags=Ind,Prt1,ScSg3
@@ -1819,7 +1823,7 @@
 9	краскат	краска	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	10	nsubj:cop	_	GTtags=Pl,Nom,Indef
 10	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	conj	_	GTtags=Pers,Sg3,Gen
 11	эсонза	эса	ADP	Adp	Case=Ine|Number[psor]=Sing|Person[psor]=3	10	case	_	GTtags=Ine,PxSg3
-12	ашельхть	аш	AUX	V	Case=Loc|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Prt2|VerbType=Aux	10	cop	_	GTtags=Aux,Neg,Loc,Ind,Prt2,ScPl3|SpaceAfter=No
+12	ашельхть	аш	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Prt2|VerbType=Aux	10	cop	_	GTtags=Aux,Neg,Loc,Ind,Prt2,ScPl3|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id= MKS:2008:12:4:DevinI
@@ -1911,6 +1915,7 @@
 
 # sent_id= MKS:2008:12:10:MoiseevM
 # text =  Митроха атянь сельмоц нинге оржа и кядец аф трнаты.
+# text_en = Old man Mitrokha's eye is still sharp and his hand doesn't shake.
 1	Митроха	Митроха	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	nmod	_	GTtags=Prop,Sg,Nom,Indef
 2	атянь	атя	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	1	flat:name	_	GTtags=SP,Gen,Indef
 3	сельмоц	сельме	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj:cop	_	GTtags=Sg,Nom,PxSg3
