@@ -66,7 +66,7 @@
 # text = Эрь шиня стяшендан табуреткать лангс и кяднень венепнесайне поталакти, а поталаксь нинге вяре, вяре.
 # text_en = Every day, I stand up on the stool and stretch my hands toward the ceiling, but the ceiling is still high as can be.
 1	Эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	2	det	_	_
-2	шиня	ши	NOUN	N	Case=Temp|Definite=Ind|Number=Sing	3	obl:tmod	_	_
+2	шиня	ши	NOUN	N	Case=Tem|Definite=Ind|Number=Sing	3	obl:tmod	_	_
 3	стяшендан	стяшендомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
 4	табуреткать	табуретка	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	obl:lmod	_	_
 5	лангс	ланга	ADP	Adp	Case=Ill	3	case	_	_
@@ -221,7 +221,7 @@
 # text_en = Every day I work at controlling airplanes, and I fly my dolls.
 1	Монць	монць	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	nsubj	_	_
 2	эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	3	det	_	_
-3	шиня	ши	NOUN	N	Case=Temp|Definite=Ind|Number=Sing	4	obl:tmod	_	_
+3	шиня	ши	NOUN	N	Case=Tem|Definite=Ind|Number=Sing	4	obl:tmod	_	_
 4	мастярлан	мастярламс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
 5	самолётт	самолёт	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	4	obj	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -799,7 +799,7 @@
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	аньцек	аньцек	ADV	_	_	9	advmod	_	_
 7	ся	ся	DET	_	Case=Nom|Number=Sing|PronType=Dem	8	det	_	GTtags=Dem,Sg,Nom
-8	шиня	ши	NOUN	_	Case=Temp|Definite=Ind|Number=Sing	9	obl:tmod	_	GTtags=Der/Dimin,N,Sg,Nom,Indef
+8	шиня	ши	NOUN	_	Case=Tem|Definite=Ind|Number=Sing	9	obl:tmod	_	GTtags=Der/Dimin,N,Sg,Nom,Indef
 9	сонь	сон	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	conj	_	GTtags=Pers,Sg3,Gen
 10	ашель	аш	AUX	_	Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	9	cop:own	_	GTtags=Aux,Neg,Prt2,ScSg3
 11	мялец	мяль	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
@@ -1172,7 +1172,7 @@
 
 # sent_id = MKS:2008:9:ImiarekovM:1
 # text = Мъзярда кулезе эсь фамилиянц, Тумкин тись аськолкс инголи.
-1	Мъзярда	мзярда	ADV	Adv	Case=Temp|Style=Ped	2	mark	_	GTtags=Temp|ModernForm=Мзярда
+1	Мъзярда	мзярда	ADV	Adv	AdvType=Tim|Style=Ped	2	mark	_	GTtags=Temp|ModernForm=Мзярда
 2	кулезе	кулемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	7	advcl	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 3	эсь	эсь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	4	det	_	GTtags=Sg,Nom,Indef
 4	фамилиянц	фамилия	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Sg,Gen,PxSg3|SpaceAfter=No
@@ -1306,7 +1306,7 @@
 4	переменав	перемена	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	3	obl:lmod	_	GTtags=SP,Lat,Indef|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	10	punct	_	_
 6	и	и	CCONJ	CC	_	10	cc	_	_
-7	курок	курок	ADV	Adv	Case=Temp	10	advmod:tmod	_	GTtags=Temp
+7	курок	курок	ADV	Adv	AdvType=Tim	10	advmod:tmod	_	GTtags=Temp
 8	марнек	марнек	ADV	Adv	_	10	advmod	_	_
 9	школась	школа	NOUN	N	Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	GTtags=Sg,Nom,Def
 10	пяшкодсь	пяшкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	3	conj	_	GTtags=TV,Ind,Prt1,ScSg3
@@ -1421,9 +1421,9 @@
 1	Ошу	ош	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	3	obl:lmod	_	GTtags=SP,Lat,Indef
 2	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg3,Nom
 3	тусь	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-4	кунара	кунара	ADV	Adv	Case=Temp	3	advmod:tmod	_	GTtags=Temp|SpaceAfter=No
+4	кунара	кунара	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Temp|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	мъзярда	мзярда	SCONJ	CS	Case=Temp|Style=Ped	7	mark	_	GTtags=Temp|ModernForm=мзярда
+6	мъзярда	мзярда	SCONJ	CS	AdvType=Tim|Style=Ped	7	mark	_	GTtags=Temp|ModernForm=мзярда
 7	тейнза	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	4	appos	_	GTtags=Pers,Sg3,Dat,Short
 8	ульсь	улемс	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	7	aux	_	GTtags=IV,Ind,Prt1,ScSg3
 9	комсь	комсь	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	10	nmod	_	GTtags=Card,Sg,Nom,Indef
@@ -1695,7 +1695,7 @@
 
 # sent_id = MKS:2008:11:KirdiashkinT:3
 # text = Эста стирьхне сявозь Архипонь, кона ульсь синь корязост сяда ёмла, кядьта-пильгта и нолдазь бохаряму.
-1	Эста	эста	ADV	Adv	Case=Temp	3	advmod:tmod	_	GTtags=Temp
+1	Эста	эста	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Temp
 2	стирьхне	стирь	NOUN	N	Case=Nom|Definite=Def|Number=Plur	3	nsubj	_	GTtags=Pl,Nom,Def
 3	сявозь	сявомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
 4	Архипонь	Архип	PROPN	N	Case=Gen|Definite=Ind|NameType=Giv|Number=Plur,Sing	3	obj	_	GTtags=Prop,SP,Gen,Indef|SpaceAfter=No
