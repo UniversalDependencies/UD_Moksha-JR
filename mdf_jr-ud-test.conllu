@@ -168,7 +168,7 @@
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
 2	Кемоньшка	кемонь	NUM	Num	Case=Comp|Number=Plur,Sing	3	nummod	_	_
 3	кизоня	киза	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing	4	nsubj	_	_
-4	ётай	ётамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	6	advcl:tmod	_	SpaceAfter=No
+4	ётай	ётамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	6	advcl:tcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	4	punct	_	_
 6	касат	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	CLB	_	10	punct	_	_
@@ -258,7 +258,7 @@
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	мзярда	мзярда	ADV	Adv	_	13	mark	_	_
 12	пятналангста	пятналанга	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	13	obl:lmod	_	_
-13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	8	advcl:tmod	_	_
+13	валгсь	валгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	8	advcl:tcl	_	_
 14	парашютса	парашют	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	13	obl	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -328,7 +328,7 @@
 # text = Кда сизелень, ковол лангс озалень.
 # text[eng]= When I got tired, I would sit down on a cloud.
 1	Кда	кда	SCONJ	CS	_	2	mark	_	_
-2	сизелень	сиземс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1|Valency=1	6	advcl:tmod	_	SpaceAfter=No
+2	сизелень	сиземс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1|Valency=1	6	advcl:tcl	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	ковол	ковол	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	obl:lmod	_	_
 5	лангс	ланга	ADP	Adp	Case=Ill	4	case	_	_
@@ -342,7 +342,7 @@
 3	лиендемась	лиендема	NOUN	N	Case=Nom|Definite=Def|Number=Sing	5	csubj	_	_
 4	прясон	пря	NOUN	N	Case=Ine|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=1	5	obl:lmod	_	_
 5	шарсь	шаромс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	_
-6	мадомста	мадомс	VERB	V	Case=Ela|VerbForm=Conv	5	advcl:tmod	_	SpaceAfter=No
+6	мадомста	мадомс	VERB	V	Case=Ela|VerbForm=Conv	5	advcl:tcl	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:10"
@@ -1017,7 +1017,7 @@
 
 # sent_id = MKS:2008:8:SajginM:1
 # text = Валдашкодомс колмоцьке танкатне ульсть путфт вастоваст и маскировандафт.
-1	Валдашкодомс	валдашкодомс	VERB	V	Valency=1|VerbForm=Inf	5	advcl:tmod	_	GTtags=IV,Inf
+1	Валдашкодомс	валдашкодомс	VERB	V	Valency=1|VerbForm=Inf	5	advcl:tcl	_	GTtags=IV,Inf
 2	колмоцьке	колма	NUM	Num	Case=Nom|Number=Sing|NumType=Coll	3	nummod	_	GTtags=Coll,Sg,Nom
 3	танкатне	танка	NOUN	N	Case=Nom|Definite=Def|Number=Plur	5	nsubj	_	GTtags=Pl,Nom,Def
 4	ульсть	улемс	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=1	5	cop	_	GTtags=IV,Ind,Prt1,ScPl3
@@ -1762,7 +1762,7 @@
 # text = А къда токади ёфси сядонга кальдяв.
 1	А	а	CCONJ	CC	_	3	cc	_	_
 2	къда	кда	SCONJ	CS	Style=Ped	3	mark	_	ModernForm=кда
-3	токади	токадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	6	advcl:tmod	_	GTtags=IV,Ind,Prs,ScSg3
+3	токади	токадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	6	advcl:tcl	_	GTtags=IV,Ind,Prs,ScSg3
 4	ёфси	ёфси	ADV	Adv	AdvType=Deg	6	advmod:deg	_	GTtags=Deg
 5	сядонга	сяда	ADV	Adv	Clitic=AddNgA	6	advmod:deg	_	GTtags=Clt/NgA
 6	кальдяв	кальдяв	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
@@ -1940,7 +1940,7 @@
 
 # sent_id= MKS:2008:12:12:KirdjashkinT
 # text =  Тумстост шись стясь пяк маниста.
-1	Тумстост	тумс	VERB	V	Case=Ela|Number[psor]=Plur|Person[psor]=3|VerbForm=Conv	3	advcl:tmod	_	GTtags=Ger,Ela,PxPl3
+1	Тумстост	тумс	VERB	V	Case=Ela|Number[psor]=Plur|Person[psor]=3|VerbForm=Conv	3	advcl:tcl	_	GTtags=Ger,Ela,PxPl3
 2	шись	ши	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def
 3	стясь	стямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 4	пяк	пяк	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg

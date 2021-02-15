@@ -1,19 +1,12 @@
 # sent_id = MKS:2008:13:1:Kirdjashkin
 # text = Кератань козялятне нинге сяда хитрайста тисть.
-"<Кератань>"
-	"Керата" N Prop SP Gen Indef
-"<козялятне>"
-	"козяля" N Pl Nom Def
-"<нинге>"
-	"нинге" Adv Sem/Time
-"<сяда>"
-	"сяда" Adv Deg
-"<хитрайста>"
-	"хитрайста" Adv Manner
-"<тисть>"
-	"тиемс" V Ind Prt1 ScPl3
-"<.>"
-	"." CLB
+1	Кератань	Керата	N	_	Prop|SP|Gen|Indef	2	nmod	_	_
+2	козялятне	козяля	N	_	Pl|Nom|Def	6	nsubj	_	_
+3	нинге	нинге	Adv	_	Sem/Time	6	advmod:tmod	_	_
+4	сяда	сяда	Adv	_	Deg	5	advmod:deg	_	_
+5	хитрайста	хитрайста	Adv	_	Manner	6	advmod:mmod	_	_
+6	тисть	тиемс	V	_	Ind|Prt1|ScPl3	0	root	_	_
+7	.	.	CLB	_	_	6	punct	_	_
 
 # sent_id = MKS:2008:13:2:MoiseevM
 # text = Кепсеви ломанть мялец, сон няеви нинге сяда мазыста и павазуста.
