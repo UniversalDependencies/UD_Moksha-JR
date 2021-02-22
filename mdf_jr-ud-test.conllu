@@ -109,17 +109,17 @@
 # text_en = If you had been born a boy, your life would have gone better, you might have been a pilot, too
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Цёранянди	цёраня	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	3	xcomp	_	Gloss[eng]=boy
-3	шачелеть	шачемс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Gloss[eng]=be-born|SpaceAfter=No
+3	шачелеть	шачемс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Gloss[eng]=be-born|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	7	punct	_	_
 5	сяда	сяда	ADV	Adv	_	7	advmod:deg	_	Gloss[eng]=more
 6	кице	ки	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	nsubj	_	Gloss[eng]=road
-7	удалаль	удаламс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3|Valency=1	3	conj	_	Gloss[eng]=succeed|SpaceAfter=No
+7	удалаль	удаламс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Valency=1	3	conj	_	Gloss[eng]=succeed|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
 9	лётчикокска	лётчик	NOUN	N	Case=Tra|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	13	xcomp	_	Gloss[eng]=pilot|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	пади	пади	ADV	Adv	_	13	advmod:mmod	_	Gloss[eng]=might|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	11	punct	_	_
-13	улелеть	улемс	AUX	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Valency=1	3	conj	_	Gloss[eng]=be|SpaceAfter=No
+13	улелеть	улемс	AUX	V	Mood=Sub|Number[subj]=Sing|Person[subj]=2|Valency=1	3	conj	_	Gloss[eng]=be|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:27"
@@ -208,7 +208,7 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:30"
 # text = Рамаль хуш тядязень муськома очконц эшка.
 # text_en = He should have bought one at least the size of my mother’s laundry trough.
-1	Рамаль	рамамс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	_
+1	Рамаль	рамамс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	_
 2	хуш	хуш	ADV	Adv	_	5	advmod	_	_
 3	тядязень	тядя	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nmod	_	_
 4	муськома	муськомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Valency=2|VerbForm=Vnoun	5	nmod	_	_
@@ -314,13 +314,13 @@
 1	Эста	эста	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	_
 2	самолётовок	самолёт	NOUN	N	Case=Nom|Clitic=AddVok|Definite=Ind|Number=Sing	5	nsubj	_	_
 3	теень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obl:agent	_	_
-4	афоль	аф	AUX	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	5	aux:neg	_	_
-5	эряв	эрявомс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	SpaceAfter=No
+4	афоль	аф	AUX	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	5	aux:neg	_	_
+5	эряв	эрявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	келептелине	келептемс	VERB	V	Mood=Cnj|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	5	conj	_	_
+7	келептелине	келептемс	VERB	V	Mood=Sub|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	5	conj	_	_
 8	пацянень	паця	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	7	obj	_	_
 9	и	и	CCONJ	CC	_	10	cc	_	_
-10	лиелень	лиемс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1|Valency=1	7	conj	_	_
+10	лиелень	лиемс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=1|Valency=1	7	conj	_	_
 11	коволхненди	ковол	NOUN	N	Case=Dat|Definite=Def|Number=Plur	10	obl:lmod	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 
@@ -328,11 +328,11 @@
 # text = Кда сизелень, ковол лангс озалень.
 # text[eng]= When I got tired, I would sit down on a cloud.
 1	Кда	кда	SCONJ	CS	_	2	mark	_	_
-2	сизелень	сиземс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1|Valency=1	6	advcl:tcl	_	SpaceAfter=No
+2	сизелень	сиземс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=1|Valency=1	6	advcl:tcl	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	ковол	ковол	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	obl:lmod	_	_
 5	лангс	ланга	ADP	Adp	Case=Ill	4	case	_	_
-6	озалень	озамс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	SpaceAfter=No
+6	озалень	озамс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
 
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:15"
@@ -448,7 +448,7 @@
 # sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:19"
 # text = Ашень кеподев теест, эрявсь лездомс.
 1	Ашень	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past	2	aux:neg	_	_
-2	кеподев	кеподевомс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	_
+2	кеподев	кеподевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	_
 3	теест	сон	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs|Variant=Short	2	obl:agent	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	эрявсь	эрявомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	6	aux	_	_
