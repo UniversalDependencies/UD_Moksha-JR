@@ -1054,7 +1054,7 @@
 12	,	,	PUNCT	CLB	_	14	punct	_	_
 13	синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	GTtags=Pers,Pl3,Nom
 14	кандсть	кандомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=2	8	conj	_	GTtags=TV,Ind,Prt1,ScPl3
-15	кафонц	кафонц	NUM	Num	NumType=Coll	16	nummod	_	GTtags=Card,Coll
+15	кафонц	кафонц	NUM	Num	NumType=Sets	16	nummod	_	GTtags=Card,Coll
 16	носилкат	носилка	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	14	obj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 17	.	.	PUNCT	CLB	_	8	punct	_	_
 
