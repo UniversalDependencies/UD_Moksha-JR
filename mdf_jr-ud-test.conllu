@@ -716,12 +716,12 @@
 
 # sent_id = LM_brat_2018:12
 # aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
-# text = Синь мялезост-ка ашезь кунда, кие тянь сёрмадозе.
+# text = Синь мялезостка ашезь кунда, кие тянь сёрмадозе.
 # text_sms = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi. 
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
 # text_kpv = Найӧ дзик оз тӧдны, коді тайӧс гижис.
 1	Синь	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod	_	GTtags=Pers,Pl3,Gen
-2	мялезост-ка	мяль	NOUN	N	Case=Ill|Clitic=AddGA|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=SP|Ill,PxPl3,Clt/Ka
+2	мялезостка	мяль	NOUN	N	Case=Ill|Clitic=AddGA|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=SP|Ill,PxPl3,Clt/Ka
 3	ашезь	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	кунда	кундамс	VERB	V	Connegative=Yes|Valency=2	0	root	_	GTtags=TV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -1869,7 +1869,7 @@
 # text =  А ушесь пародонга пароль, хоть и август, а ульцясь июленнекс пси.
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	ушесь	уша	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj:cop	_	GTtags=Sg,Nom,Def
-3	пародонга	пара	ADJ	A	Case=Abl|Clitic=Add|Definite=Ind|Number=Plur,Sing	4	nmod:comp	_	GTtags=SP,Abl,Indef,Clt/Add
+3	пародонга	пара	ADJ	A	Case=Abl|Clitic=AddNgA|Definite=Ind|Number=Plur,Sing	4	nmod:comp	_	GTtags=SP,Abl,Indef,Clt/Add
 4	пароль	пара	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Sg,Nom,Indef,Clt/Cop,Prt2,ScSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	хоть	хоть	PART	Pcle	_	8	mark	_	_
@@ -1908,7 +1908,7 @@
 12	ниле	ниле	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	13	nummod	_	GTtags=Card,Sg,Nom,Indef
 13	шабат	шаба	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	10	nsubj:cop	_	GTtags=Pl,Nom,Indef
 14	да	да	CCONJ	CC	_	17	cc	_	_
-15	бабасновок	баба	NOUN	N	Case=Nom|Clitic=Add|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	17	nsubj:cop	_	GTtags=SP,Nom,PxPl3,Clt/Add
+15	бабасновок	баба	NOUN	N	Case=Nom|Clitic=AddVok|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	17	nsubj:cop	_	GTtags=SP,Nom,PxPl3,Clt/Add
 16	нинге	нинге	ADV	Adv	_	17	advmod:tmod	_	_
 17	живой	живой	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	10	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	5	punct	_	_
@@ -2086,7 +2086,7 @@
 3	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	4	cop	_	GTtags=Ind,Prt1,ScSg3
 4	мокша	мокша	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
 5	и	и	CCONJ	CC	_	7	cc	_	_
-6	рузкс	руз	NOUN	N	Case=Tra|Clitic=Add|Definite=Ind|Number=Sing	7	obl	_	GTtags=Sg,Tra,Indef,Clt/Add
+6	рузкс	руз	NOUN	N	Case=Tra|Definite=Ind|Number=Sing	7	obl	_	GTtags=Sg,Tra,Indef,Clt/Add
 7	корхтась	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	4	conj	_	GTtags=Ind,Prt1,ScSg3
 8	ёфси	ёфси	ADV	Adv	_	9	advmod:deg	_	_
 9	кальдявста	кальдявста	ADV	Adv	_	7	advmod:mmod	_	SpaceAfter=No
