@@ -1272,7 +1272,7 @@
 
 # sent_id = MKS:2008:9:DevinI:1
 # text = Цямкаерясь лиссь ортава ульцяв.
-1	Цямкаерясь	Цямкаеря	NOUN	N	Case=Nom|Definite=Def|Derivation=Wife|Number=Sing	2	nsubj	_	GTtags=Prop,Der/Wife,Sem/Fem,Sg,Nom,Def
+1	Цямкаерясь	Цямкаеря	PROPN	N	Case=Nom|Definite=Def|Derivation=Wife|Number=Sing	2	nsubj	_	GTtags=Prop,Der/Wife,Sem/Fem,Sg,Nom,Def
 2	лиссь	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 3	ортава	орта	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	GTtags=SP,Prl,Indef
 4	ульцяв	ульця	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	GTtags=SP,Lat,Indef|SpaceAfter=No
