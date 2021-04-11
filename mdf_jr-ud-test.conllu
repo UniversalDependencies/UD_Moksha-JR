@@ -1272,6 +1272,7 @@
 
 # sent_id = MKS:2008:9:DevinI:1
 # text = Цямкаерясь лиссь ортава ульцяв.
+# text_en = Tsyamkay's wife went out through the gate into the street.
 1	Цямкаерясь	Цямкаеря	PROPN	N	Case=Nom|Definite=Def|Derivation=Wife|Number=Sing	2	nsubj	_	GTtags=Prop,Der/Wife,Sem/Fem,Sg,Nom,Def
 2	лиссь	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 3	ортава	орта	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	2	obl:lmp	_	GTtags=SP,Prl,Indef
