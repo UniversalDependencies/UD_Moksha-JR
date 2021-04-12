@@ -2910,7 +2910,7 @@
 3	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	GTtags=Pl,Nom,Def
 4	тя	тя	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	5	det	_	GTtags=Dem,Sg,Nom,Indef
 5	празднику	праздник	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	6	obl:lto	_	GTtags=SP,Lat,Indef
-6	сашендольхть	сашендомс	VERB	V	Mood=Cnj|Number[subj]=Plur|Person[subj]=3	0	root	_	GTtags=Conj,ScPl3
+6	сашендольхть	сашендомс	VERB	V	Mood=Sub|Number[subj]=Plur|Person[subj]=3	0	root	_	GTtags=Conj,ScPl3
 7	сятка	ся	PRON	Pron	Case=Nom|Clitic=Add|Definite=Ind|Number=Plur|PronType=Dem	6	dislocated	_	GTtags=Dem,Pl,Nom,Indef,Clt/Add|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	12	punct	_	_
 9	кие	кие	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	12	nsubj	_	GTtags=Interr,Sg,Nom
@@ -3643,7 +3643,7 @@
 5	Дарюняти	Дарюня	NOUN	N	Case=Dat|Definite=Def|Number=Sing	0	root	_	GTtags=Prop,Sg,Dat,Def
 6	—	—	PUNCT	PUNCT	_	8	punct	_	_
 7	хоть	хоть	SCONJ	CS	_	8	mark	_	_
-8	шталезе-урядалезе	штамс-урядамс	VERB	V	Mood=Cnj|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	5	advcl	_	GTtags=Conj,ScSg3,OcSg3
+8	шталезе-урядалезе	штамс-урядамс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	5	advcl	_	GTtags=Conj,ScSg3,OcSg3
 9	цебярняста	цебярняста	ADV	Adv	AdvType=Man	8	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
 10	!	!	PUNCT	PUNCT	_	5	punct	_	_
 
