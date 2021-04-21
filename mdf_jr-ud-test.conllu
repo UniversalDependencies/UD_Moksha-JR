@@ -2173,7 +2173,7 @@
 5	,	,	PUNCT	PUNCT	_	9	punct	_	_
 6	да	да	CCONJ	CC	_	9	cc	_	_
 7	праздник	праздник	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	8	nmod	_	GTtags=Sg,Nom,Indef
-8	шиня	ши	NOUN	N	Case=Tem|Definite=Ind|Number=Plur,Sing	_	_	_	GTtags=SP,Temp,Indef
+8	шиня	ши	NOUN	N	Case=Tem|Definite=Ind|Number=Plur,Sing	9	obl:tmod	_	GTtags=SP,Temp,Indef
 9	виздеме	виздемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past	2	conj	_	GTtags=Ind,Prt1,ScPl1
 10	саманьконь	самс	VERB	V	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1|VerbForm=Vnoun	9	xcomp	_	GTtags=NomAct,SP,Gen,PxPl1|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	2	punct	_	_
@@ -2461,7 +2461,7 @@
 5	тага	тага	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
 6	весть	фкя	ADV	Adv	Adv|Derivation=Iter|NumType=Mult	7	advmod:freq	_	GTtags=Der/Iter,Adv,Iter
 7	няфтезе	няфтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3|SpaceAfter=No
-8	-	-	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+8	-	-	PUNCT	PUNCT	_	11	punct	_	_
 9	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj:cop	_	GTtags=Pers,Sg3,Nom
 10	тяса	тяса	ADV	Adv	Case=Ine	11	advmod:lmod	_	GTtags=Ine
 11	азор	азор	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	ccomp	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
@@ -2688,7 +2688,7 @@
 # sent_id = MKS:2008:14:21:KirdjashkinT
 # text = Синь эряйхть корязонк сяда цебярьста.
 1	Синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Pl3,Nom
-2	эряйхть	эрямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	_	_	_	GTtags=Ind,Prs,ScPl3
+2	эряйхть	эрямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3
 3	корязонк	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=1	5	nmod:comp	_	GTtags=Ill,PxPl1
 4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
 5	цебярьста	цебярьста	ADV	Adv	AdvType=Man	2	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
@@ -3119,7 +3119,7 @@
 1	Колма	колма	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	2	nummod	_	GTtags=Card,Sg,Nom,Indef
 2	шит	ши	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	3	obl:tmod	_	GTtags=Pl,Nom,Indef
 3	трудясь	трудямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
-4	Макарня	Макар	NOUN	N	Case=Nom|Dimin|Number=Sing	3	nsubj	_	GTtags=Prop,Dimin,Sg,Nom|SpaceAfter=No
+4	Макарня	Макар	NOUN	N	Case=Nom|Derivation=Dimin|Number=Sing	3	nsubj	_	GTtags=Prop,Dimin,Sg,Nom|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
 6	апак	апак	AUX	Pcle	Polarity=Neg	7	aux:neg	_	GTtags=Neg
 7	ваймак	ваймамс	VERB	V	ConNegII	3	xcomp	_	GTtags=ConNegII
@@ -3404,12 +3404,13 @@
 
 # sent_id = MKS:2008:18:7:SajginM
 # text = Кальхнень ёткса чильнясть нармоннят, кафтонь лиендсть шуфттнень вельхкска.
+# text_en = There were little birds chirping among the willows, they flew in twos over the trees.
 1	Кальхнень	каль	NOUN	N	Case=Gen|Definite=Def|Number=Plur	2	nmod	_	GTtags=Pl,Gen,Def
 2	ёткса	ётка	NOUN	N	Case=Ine|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	obl:lmod	_	GTtags=Relator,SP,Ine,Indef
 3	чильнясть	чильнямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScPl3
 4	нармоннят	нармоння	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	3	nsubj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
-6	кафтонь	кафта	NUM	Num	Case=Gen|Definite=Ind|Number=Plur,Sing|NumType=Card	7	advmod	_	GTtags=Card,SP,Gen,Indef
+6	кафтонь	кафтонь	ADV	Num	Case=Gen|Definite=Ind|Number=Plur,Sing|NumType=Card	7	advmod	_	GTtags=Card,SP,Gen,Indef
 7	лиендсть	лиендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	3	conj	_	GTtags=Ind,Prt1,ScPl3
 8	шуфттнень	шуфта	NOUN	N	Case=Gen|Definite=Def|Number=Plur	9	nmod	_	GTtags=Pl,Gen,Def
 9	вельхкска	вельхкс	NOUN	N	Case=Prl|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	obl:lmp	_	GTtags=Relator,SP,Prl,Indef|SpaceAfter=No
