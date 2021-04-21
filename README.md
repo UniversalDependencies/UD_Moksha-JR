@@ -44,6 +44,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 * Кузнецов, Юрий 1975: Сембось ушеткшни киста. Саранск.
 * Mishanina, V. I. (Мишанина, В. И.) 1972: Лиендень очконяса. Мокша №3, 38–39. Саранск. (MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39) (Мордовиянь Кадошкина аймаконь Адаж веле)
 * Мокшень кяль. Синтаксис : учебник / аноклаф-тиф Н. С. Алямкинонь и О. Е. Поляковонь профессорхнень вятемаснон ала. -- Саранск : Изд-во Мордов. ун-та, 2008. -- 200 с. -- На морд.-мокша яз.
+* Pyanzin, Fyodor (Пьянзин, Фёдор) 1991: Седить тердеманц коряс: Повесть. -- Саранск: Мордов. кн. изд-во, 1991. -- 120 с. Мордов.-мокша яз.
 
  In release 2.7 additional example sentences used in the Moksha-language grammar *Мокшень кяль, синтаксис: учебник* (2008) were included. These sentences are marked with sent_id-s that contain the components `MKS:2008:page:n-th sentence:original author`. It is hoped that the inclusion of these sentences will help cover various grammatical phenomena in Moksha syntax. When refering to these sentences, we advise you also cite the original source:
 
