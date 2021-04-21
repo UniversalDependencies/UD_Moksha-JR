@@ -2600,7 +2600,7 @@
 # sent_id = MKS:2008:14:15:TjapaevA
 # text = Сяка илять велесонк марявсь кальдяв куля.
 1	Сяка	сяка	DET	Det	_	2	det	_	_
-2	илять	илять	NOUN	N	Sem/Time	4	obl:tmod	_	GTtags=Sem/Time
+2	илять	илять	NOUN	N	AdvType=Tim|Case=Gen|Definite=Def|Number=Sing	4	obl:tmod	_	GTtags=Sem/Time
 3	велесонк	веле	NOUN	N	Case=Ine|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	4	obl:lmod	_	GTtags=SP,Ine,PxPl1
 4	марявсь	марявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 5	кальдяв	кальдяв	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	6	amod	_	GTtags=Sg,Nom,Indef
@@ -3141,7 +3141,7 @@
 # sent_id = MKS:2008:17:2:KirdjashkinT
 # text = Москуста тумозонза Тишка аноклазень сембонь: сюлгамонди уськоня, панар петьксонди гаруст, крганянди ожнат.
 1	Москуста	Моску	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	2	obl:lfrom	_	GTtags=Prop,SP,Ela,Indef
-2	тумозонза	тумс	VERB	V	Case=Ill|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	4	advcl:tmod	_	GTtags=NomAct,SP,Ill,PxSg3
+2	тумозонза	тумс	VERB	V	Case=Ill|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	4	advcl:tcl	_	GTtags=NomAct,SP,Ill,PxSg3
 3	Тишка	Тишка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Prop,Sg,Nom,Indef
 4	аноклазень	анокламс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcPl3
 5	сембонь	сембе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing	4	obj	_	GTtags=SP,Gen,Indef|SpaceAfter=No
@@ -3411,7 +3411,7 @@
 3	чильнясть	чильнямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScPl3
 4	нармоннят	нармоння	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	3	nsubj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
-6	кафтонь	кафтонь	ADV	Num	Case=Gen|Definite=Ind|Number=Plur,Sing|NumType=Card	7	advmod	_	GTtags=Card,SP,Gen,Indef
+6	кафтонь	кафтонь	ADV	Num	Case=Gen|Definite=Ind|NumType=Card	7	advmod	_	GTtags=Card,SP,Gen,Indef
 7	лиендсть	лиендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	3	conj	_	GTtags=Ind,Prt1,ScPl3
 8	шуфттнень	шуфта	NOUN	N	Case=Gen|Definite=Def|Number=Plur	9	nmod	_	GTtags=Pl,Gen,Def
 9	вельхкска	вельхкс	NOUN	N	Case=Prl|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	obl:lmp	_	GTtags=Relator,SP,Prl,Indef|SpaceAfter=No
