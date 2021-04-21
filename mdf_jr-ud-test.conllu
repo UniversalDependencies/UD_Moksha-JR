@@ -2193,7 +2193,7 @@
 
 # sent_id = MKS:2008:13:6:KirdjashkinT
 # text = Нолдазь пряснон нинге сяда алу и таяскодсть фкя вастс, сельмосна коневсть эсезост.
-1	Нолдазь	нолдамс	VERB	V	Derivation=Ozj|Prc	0	root	_	GTtags=Der/Ozj,Prc
+1	Нолдазь	нолдамс	VERB	V	Derivation=Ozj|VerbForm=Conv	0	root	_	GTtags=Der/Ozj,Prc
 2	пряснон	пря	NOUN	N	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	1	obj	_	GTtags=SP,Gen,PxPl3
 3	нинге	нинге	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
 4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
@@ -2460,8 +2460,8 @@
 3	меле	меле	ADV	Adv	_	1	appos	_	_
 4	Порватов	Порватов	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nsubj	_	GTtags=Prop,Sg,Nom,Indef
 5	тага	тага	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
-6	весть	весть	ADV	Adv	Derivation=Iter|NumType=Mult	7	advmod:freq	_	GTtags=Der/Iter,Adv,Iter
-7	няфтезе	няфтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3|SpaceAfter=No
+6	весть	весть	ADV	Adv	NumType=Mult	7	advmod:freq	_	GTtags=Der/Iter,Adv,Iter
+7	няфтезе	няфтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3
 8	-	-	PUNCT	PUNCT	_	11	punct	_	_
 9	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj:cop	_	GTtags=Pers,Sg3,Nom
 10	тяса	тяса	ADV	Adv	Case=Ine	11	advmod:lmod	_	GTtags=Ine
@@ -2877,7 +2877,7 @@
 # sent_id = MKS:2008:15:15:LevchaevP
 # text = Маринкась ёмланяньбрят тонадозень велень тефнень.
 1	Маринкась	Маринка	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Prop,Sg,Nom,Def
-2	ёмланяньбрят	ёмланяньбрят	ADV	Adv	xcomp	3	xcomp	_	GTtags=State
+2	ёмланяньбрят	ёмланяньбрят	ADV	Adv	_	3	xcomp	_	GTtags=State
 3	тонадозень	тонадомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcPl3
 4	велень	веле	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	5	nmod:poss	_	GTtags=SP,Gen,Indef
 5	тефнень	тев	NOUN	N	Case=Gen|Definite=Def|Number=Plur	3	obj	_	GTtags=Pl,Gen,Def|SpaceAfter=No
@@ -3437,7 +3437,7 @@
 
 # sent_id = MKS:2008:18:9:TjapaevA
 # text = Сёксенда кемонце классу озан.
-# text = In the fall, I'll enter the tenth grade.
+# text_en = In the fall, I'll enter the tenth grade.
 1	Сёксенда	сёксенда	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
 2	кемонце	кемонце	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|NumType=Ord	3	amod	_	GTtags=Ord,Sg,Nom,Indef
 3	классу	класс	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	4	obl:lto	_	GTtags=SP,Lat,Indef
