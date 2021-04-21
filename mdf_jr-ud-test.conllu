@@ -723,7 +723,7 @@
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
 # text_kpv = Найӧ дзик оз тӧдны, коді тайӧс гижис.
 1	Синь	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod	_	GTtags=Pers,Pl3,Gen
-2	мялезостка	мяль	NOUN	N	Case=Ill|Clitic=AddGA|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	4	obl:lto	_	GTtags=SP|Ill,PxPl3,Clt/Ka
+2	мялезостка	мяль	NOUN	N	Case=Ill|Clitic=AddGA|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	4	obl:lto	_	GTtags=SP,Ill,PxPl3,Clt/Ka
 3	ашезь	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	кунда	кундамс	VERB	V	Connegative=Yes|Valency=2	0	root	_	GTtags=TV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -2925,7 +2925,7 @@
 13	велеста	веле	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	12	obl:lfrom	_	GTtags=SP,Ela,Indef
 14	и	и	CCONJ	CC	_	15	cc	_	_
 15	эряй-ащи	-ащемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	12	conj	_	GTtags=Ind,Prs,ScSg3
-16	косовок	косовок	ADV	Adv	Case=Ine|Definite=Ind	18	det	_	GTtags=Indef,Ine
+16	косовок	косовок	ADV	Adv	Case=Ine|Definite=Ind	18	advmod:lmod	_	GTtags=Indef,Ine
 17	пяк	пяк	ADV	Adv	AdvType=Deg	18	advmod:deg	_	GTtags=Deg
 18	ичкозе	ичкозе	ADV	Adv	Case=Loc	15	advmod:lmod	_	GTtags=Loc|SpaceAfter=No
 19	.	.	PUNCT	PUNCT	_	6	punct	_	_
@@ -2979,7 +2979,7 @@
 3	ваймот	вайме	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	1	dislocated	_	GTtags=Pl,Nom,Indef
 4	кенярдсть	кенярдемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScPl3
 5	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	GTtags=Pers,Sg3,Gen
-6	саманцты	самс	VERB	V	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	4	advcl:to	_	GTtags=NomAct,Sg,Dat,PxSg3|SpaceAfter=No
+6	саманцты	самс	VERB	V	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	4	advcl:tcl	_	GTtags=NomAct,Sg,Dat,PxSg3|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = MKS:2008:16:6:UchvatovN
@@ -3008,7 +3008,7 @@
 # sent_id = MKS:2008:16:8:DevinI
 # text = Елена Васильевна каяфтозе мирденц шинеленц, валхтозе вазенц.
 1	Елена	Елена	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	3	nsubj	_	GTtags=Prop,Sg,Nom,Indef
-2	Васильевна	Василий	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Derivation=PatrFem|Gender=Fem|NameType=Sur|Number=Sing	1	flat:name	_	GTtags=Prop,Der/PatrFem,Sem/Fem-Patr,Sg,Nom,Indef
+2	Васильевна	Василий	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Fem|NameType=Pat|Number=Sing	1	flat:name	_	GTtags=Prop,Der/PatrFem,Sem/Fem-Patr,Sg,Nom,Indef
 3	каяфтозе	каяфтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3
 4	мирденц	мирде	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nmod:poss	_	GTtags=Sg,Gen,PxSg3
 5	шинеленц	шинель	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Sg,Gen,PxSg3|SpaceAfter=No
@@ -3123,7 +3123,7 @@
 4	Макарня	Макар	NOUN	N	Case=Nom|Derivation=Dimin|Number=Sing	3	nsubj	_	GTtags=Prop,Dimin,Sg,Nom|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
 6	апак	апак	AUX	Pcle	Polarity=Neg	7	aux:neg	_	GTtags=Neg
-7	ваймак	ваймамс	VERB	V	ConNegII	3	xcomp	_	GTtags=ConNegII
+7	ваймак	ваймамс	VERB	V	Connegative=Yes	3	xcomp	_	GTtags=ConNegII
 8	эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	9	det	_	GTtags=Sg,Nom,Indef
 9	шиня	ши	NOUN	N	Case=Tem|Definite=Ind|Number=Sing	3	obl:freq	_	GTtags=Sg,Temp,Indef|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	3	punct	_	_
