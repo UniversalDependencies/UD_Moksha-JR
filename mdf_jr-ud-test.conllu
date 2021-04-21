@@ -2210,9 +2210,9 @@
 
 # sent_id = MKS:2008:13:7:TjapaevA
 # text = Коса-бди аф ичкозе морасть жаворонкатне, перьфпяльге исть лотксе крфамда тюжя толса цецятне.
-1	Коса-бди	коса-бди	ADV	Adv	Case=Ine|Definite=Ind	4	appos	_	GTtags=Indef,Ine
+1	Коса-бди	коса-бди	ADV	Adv	Case=Ine|Definite=Ind	3	advmod:lmod	_	GTtags=Indef,Ine
 2	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	3	aux:neg	_	GTtags=Aux,Neg
-3	ичкозе	ичкозе	ADV	Adv	Case=Loc	1	advmod:lmod	_	GTtags=Loc
+3	ичкозе	ичкозе	ADV	Adv	Case=Loc	4	advmod:lmod	_	GTtags=Loc
 4	морасть	морамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScPl3
 5	жаворонкатне	жаворонка	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
@@ -2272,7 +2272,7 @@
 2	ванондсь	ванондомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 3	кафцьке	кафта	NUM	Num	Case=Nom|Number=Sing|NumType=Coll	4	nummod	_	GTtags=Coll,Sg,Nom
 4	ширьгя	ширь	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	2	obl:lmp	_	GTtags=SP,Prl,Indef
-5	и	и	CCONJ	CC	_	6	_	_	_
+5	и	и	CCONJ	CC	_	6	cc	_	_
 6	арьсесь	арьсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -2385,6 +2385,7 @@
 
 # sent_id = MKS:2008:13:21:KirdjashkinT
 # text = Вармась уфась шобдавать коряс сяда вишкста.
+# 
 1	Вармась	варма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Def
 2	уфась	уфамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 3	шобдавать	шобдава	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	obl:comp	_	GTtags=Sg,Gen,Def
