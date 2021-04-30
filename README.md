@@ -53,6 +53,10 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 # Changelog
 
+* 2021-04-29
+  * Auxiliary, feature and deprel documentation
+  * Continued annotation of Moksha syntaxis (2008).
+  * Language tag systematization.
 * 2020-11-15 v2.7
   * Adding more example sentences quoted in Moksha syntaxis (2008).
 * 2020-05-15 v2.6
