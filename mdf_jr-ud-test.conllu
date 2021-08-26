@@ -1,4 +1,4 @@
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:11"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:11
 # text = Мон седишкада ванондан веленьконь велькска лиенди самолёттнень мельге и сельмотькшнян.
 # text_en = I like to watch the airplanes flying over our village, and I get envious.
 1	Мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -13,7 +13,7 @@
 10	сельмотькшнян	сельмотькшнемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	3	conj	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:36"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:36
 # text = Лётчикне, улема, кядьса токсесазь коволнятнень.
 # text_en = The pilots, it would seem, touch the little clouds with their hands.
 1	Лётчикне	лётчик	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	SpaceAfter=No
@@ -25,7 +25,7 @@
 7	коволнятнень	ковол	NOUN	N	Case=Gen|Definite=Def|Derivation=Dimin|Number=Plur	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:13"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:13
 # text = И уендихть сенем менельть потмоса, кода оцю морява.
 # text_en = And they glide through the blue heavens as if in a great sea.
 1	И	и	CCONJ	CC	_	2	cc	_	_
@@ -39,7 +39,7 @@
 9	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	4	obl:lmp	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:44"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:44
 # text = Касондярян, улян лётчикокс.
 # text_en = When I grow up, I’m going to be a pilot.
 1	Касондярян	касомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=1|Valency=1	4	advcl	_	SpaceAfter=No
@@ -48,7 +48,7 @@
 4	лётчикокс	лётчик	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:20"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:20
 # text = А касан пяк савор, нинге школавга аф якан.
 # text_en = But I’m growing so slowly, I don’t even go to school yet.
 1	А	а	CCONJ	CC	_	2	cc	_	_
@@ -62,7 +62,7 @@
 9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:0"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:0
 # text = Эрь шиня стяшендан табуреткать лангс и кяднень венепнесайне поталакти, а поталаксь нинге вяре, вяре.
 # text_en = Every day, I stand up on the stool and stretch my hands toward the ceiling, but the ceiling is still high as can be.
 1	Эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	2	det	_	_
@@ -83,14 +83,14 @@
 16	вяре	вяре	ADV	Adv	_	14	conj	_	SpaceAfter=No
 17	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:24"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:24
 # text = Савор касан.
 # text_en = I’m growing slowly.
 1	Савор	савор	ADV	Adv	_	2	advmod:mmod	_	_
 2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:17"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:17
 # text = Алязтиге азондыне арьсеманень, а сон пеедезевсь и корхтай:
 # text_en = I’m growing slowly. I even told to my father my thoughts, but he burst into laughter and says:
 1	Алязтиге	аля	NOUN	N	Case=Dat|Clitic=AddGA|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obl	_	_
@@ -104,7 +104,7 @@
 9	корхтай	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	7	conj	_	SpaceAfter=No
 10	:	:	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:42"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:42
 # text = ― Цёранянди шачелеть, сяда кице удалаль, лётчикокска, пади, улелеть.
 # text_en = If you had been born a boy, your life would have gone better, you might have been a pilot, too
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
@@ -122,7 +122,7 @@
 13	улелеть	улемс	AUX	V	Mood=Sub|Number[subj]=Sing|Person[subj]=2|Valency=1	3	conj	_	Gloss[eng]=be|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:27"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:27
 # text = ― А мон ашень абонда, мярьгонь:
 # text_en = But I didn’t let it disturb me, I said:
 1	―	―	PUNCT	PUNCT	_	5	punct	_	_
@@ -134,7 +134,7 @@
 7	мярьгонь	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	5	orphan	_	SpaceAfter=No
 8	:	:	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:43"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:43
 # text = ― Терешкова панчсь теень ки.
 # text_en = Tereshkova opened the way for me.
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
@@ -144,7 +144,7 @@
 5	ки	ки	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:1"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:1
 # text = Тоса кизефтине алязень, мзярда касан.
 # text_en = There I asked my father when would I grow.
 1	Тоса	тоса	ADV	Adv	_	2	obl:lmod	_	_
@@ -155,14 +155,14 @@
 6	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	2	ccomp	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:4"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:4
 # text = Сон корхтай:
 # text_en = He says:
 1	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	корхтай	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:26"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:26
 # text = ― Кемоньшка кизоня ётай, касат, козонга аф туят.
 # text_en = Ten years or so will pass, you’ll grow, you can’t avoid it.
 1	―	―	PUNCT	PUNCT	_	4	punct	_	_
@@ -177,7 +177,7 @@
 10	туят	тумс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	6	conj	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:3"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:3
 # text = Сяльде мялезень петемс сон рамась самолёткя.
 # text_en = Then to make me feel better he bought [me] a little airplane.
 1	Сяльде	сяльде	ADV	Adv	_	5	advmod:tmod	_	_
@@ -188,7 +188,7 @@
 6	самолёткя	самолёт	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:35"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:35
 # text = А мезе кда рамась, аньцек налхксемс, а мон ёран лиендемс.
 # text_en = And what if he bought [one], only for play, but I want to fly around.
 1	А	а	CCONJ	CC	_	4	cc	_	_
@@ -205,7 +205,7 @@
 12	лиендемс	лиендемс	VERB	V	Valency=1|VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:30"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:30
 # text = Рамаль хуш тядязень муськома очконц эшка.
 # text_en = He should have bought one at least the size of my mother’s laundry trough.
 1	Рамаль	рамамс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	_
@@ -216,7 +216,7 @@
 6	эшка	эшка	ADP	Adp	AdpType=Post|Case=Cmp	5	case	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:31"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:31
 # text = Монць эрь шиня мастярлан самолётт, и лийфнесайне няканень.
 # text_en = Every day I work at controlling airplanes, and I fly my dolls.
 1	Монць	монць	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	nsubj	_	_
@@ -230,7 +230,7 @@
 9	няканень	няка	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:16"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:16
 # text = Сясы синь сембе и лётчикт, и космонавтт.
 # text_en = That’s why they are all pilots and cosmonauts.
 1	Сясы	сясы	SCONJ	CS	_	5	mark	_	_
@@ -243,7 +243,7 @@
 8	космонавтт	космонавт	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	conj	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:6"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:6
 # text = Аньцек ужяль, мес кичкор мадя Мишазе кулось геройкс, мзярда пятналангста валгсь парашютса.
 # text_en = Only it’s too bad that my crooked-pawed Teddy died a hero when he came down off oven top with a parachute.
 1	Аньцек	аньцек	ADV	Adv	_	2	advmod:foc	_	_
@@ -262,7 +262,7 @@
 14	парашютса	парашют	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	13	obl:inst	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:5"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:5
 # text = Тяни ёран тиемда оцю самолёт, аньцек коданга аф лисенди.
 # text_en = Now I'm trying to make a big airplane but it just isn't working out.
 1	Тяни	тяни	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	_
@@ -277,7 +277,7 @@
 10	лисенди	лисендемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	2	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:39"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:39
 # text = Улхкомба брадозень гулянянь куднястонза сявонь кафта досканят самолётонь пацянди, а сон тянкса пиксомань.
 1	Улхкомба	улхкомба	ADV	Adv	_	5	advmod:tmod	_	_
 2	брадозень	брад	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nmod	_	_
@@ -295,7 +295,7 @@
 14	пиксомань	пиксомc	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past|Valency=2	5	conj	_	SpaceAfter=No
 15	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:33"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:33
 # text = Эста сельмоведьботмоса пеняцянь тядязти, мес аф нармоненди шачфтомань.
 # text_en = Then with tears in my eyes I complained to my mother, why hadn't she given birth to me as a bird.
 1	Эста	эста	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	_
@@ -309,7 +309,7 @@
 9	шачфтомань	шачфтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Past|Valency=2	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:22"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:22
 # text = Эста самолётовок теень афоль эряв, келептелине пацянень и лиелень коволхненди.
 # text_en = Then I wouldn't have even needed an airplane, I would spread my wings and fly to the clouds.
 1	Эста	эста	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	_
@@ -325,9 +325,9 @@
 11	коволхненди	ковол	NOUN	N	Case=Dat|Definite=Def|Number=Plur	10	obl:lto	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:7"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:7
 # text = Кда сизелень, ковол лангс озалень.
-# text[eng]= When I got tired, I would sit down on a cloud.
+# text_en = When I got tired, I would sit down on a cloud.
 1	Кда	кда	SCONJ	CS	_	2	mark	_	_
 2	сизелень	сиземс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=1|Valency=1	6	advcl:tcl	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
@@ -336,7 +336,7 @@
 6	озалень	озамс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:15"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:15
 # text = Весть самолётса лиендемась прясон шарсь мадомста.
 # text_en = Once flying an airplane spun in my head while going to bed.
 1	Весть	весть	ADV	Adv	_	5	advmod:freq	_	_
@@ -347,14 +347,14 @@
 6	мадомста	мадомс	VERB	V	Case=Ela|VerbForm=Conv	5	advcl:tcl	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:10"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:10
 # text = И мон лийкстань.
 1	И	и	CCONJ	CC	_	3	cc	_	_
 2	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	лийкстань	лийкстамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:12"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:12
 # text = Брадозень гулянянза учёнайхть, нолдасайть воляс ― лиендихть-тиихть и меки мрдайхть.
 1	Брадозень	брад	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nmod	_	_
 2	гулянянза	гуляня	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
@@ -369,7 +369,7 @@
 11	мрдайхть	мрдамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	5	conj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:41"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:41
 # text = Арьсян, моньге лийфнесамазь-тисамазь и валхтсамазь.
 1	Арьсян	арьсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	4	punct	_	_
@@ -379,7 +379,7 @@
 6	валхтсамазь	валхтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=1|Person[subj]=3|Tense=Pres|Valency=2	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:40"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:40
 # text = Сявонь пикскя, сувань гулянянь карденяв, пильгта сотонь вете гулянят.
 1	Сявонь	сявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 2	пикскя	пикскя	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	1	obj	_	SpaceAfter=No
@@ -394,7 +394,7 @@
 11	гулянят	гуляня	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:2"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:2
 # text = Очконять аноконди ни куцфтине карденя пряв.
 1	Очконять	очка	NOUN	N	Case=Gen|Definite=Def|Derivation=Dimin|Number=Sing	4	obj	_	_
 2	аноконди	анок	ADJ	A	Case=Dat|Definite=Ind|Number=Plur,Sing	4	xcomp	_	_
@@ -404,7 +404,7 @@
 6	пряв	пря	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	4	obl:lto	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:28"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:28
 # text = Тоса сотнине гулянятнень очконять ужеванза и монць озань эзонза.
 1	Тоса	тоса	ADV	Adv	_	2	advmod:lmod	_	_
 2	сотнине	сотнемс	VERB	V	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
@@ -417,20 +417,20 @@
 9	эзонза	эзонза	ADP	Adp	Case=Ill|Number[psor]=Sing|Person[psor]=3	8	obl:lto	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:14"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:14
 # text = Кончайне сельмонень.
-# text[eng]= I closed my eyes.
+# text_en = I closed my eyes.
 1	Кончайне	кончамс	VERB	V	Mood=Ind|Number[obj]=Plur,Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=1	0	root	_	_
 2	сельмонень	сельме	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	1	obj	_	SpaceAfter=No
 3	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:38"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:38
 # text = Гулянятнень либорьфсна.
 1	Гулянятнень	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Plur	2	nmod	_	_
 2	либорьфсна	либорьф	NOUN	N	Case=Nom|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:29"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:29
 # text = Арьсень, лиян ни, панжине сельмонень, а мон станяк карденя прясан.
 1	Арьсень	арьсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
@@ -447,7 +447,7 @@
 13	прясан	пря	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing|Number[subj]=Sing|Person[subj]=1|Tense=Pres	1	conj	_	SpaceAfter=No
 14	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:19"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:19
 # text = Ашень кеподев теест, эрявсь лездомс.
 1	Ашень	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past	2	aux:neg	_	_
 2	кеподев	кеподевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	_
@@ -457,7 +457,7 @@
 6	лездомс	лездомс	VERB	V	Valency=1|VerbForm=Inf	2	conj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:8"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:8
 # text = Ладяйне прокс пеняти очконять, пильгса орхкадине и аф вяри лиема тунь, а алу.
 1	Ладяйне	ладямс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|Valency=2	0	root	_	_
 2	прокс	прокс	ADV	Adv	_	3	advmod	_	_
@@ -476,7 +476,7 @@
 15	алу	алу	ADV	Adv	AdvType=Loc|Case=Lat	12	conj	_	SpaceAfter=No
 16	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:25"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:25
 # text = Афи шарьхкодень, кода лаподень карденя пряста.
 1	Афи	афи	AUX	Aux	Polarity=Neg	2	aux:neg	_	_
 2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	SpaceAfter=No
@@ -487,7 +487,7 @@
 7	пряста	пря	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	5	obl:lfrom	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:18"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:18
 # text = Очконясь велясь пильгозень лангс и цють ашезе синде.
 1	Очконясь	очка	NOUN	N	Case=Nom|Definite=Def|Derivation=Dimin|Number=Sing	2	nsubj	_	_
 2	велясь	велямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	_
@@ -499,7 +499,7 @@
 8	синде	синдемс	VERB	V	Connegative=Yes|Valency=2	2	conj	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:34"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:34
 # text = Тоса ванан: фкя гулянясь сутямсь и ащи фкя вастса, а сонь, беднайть, пацяняц синдевсь.
 1	Тоса	тоса	ADV	Adv	_	2	advmod:lmod	_	_
 2	ванан	ваномс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	SpaceAfter=No
@@ -521,7 +521,7 @@
 18	синдевсь	синдевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	6	conj	_	SpaceAfter=No
 19	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:23"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:23
 # text = Ашень кирде эста, аварьгодонь оцю вайгяльхть...
 1	Ашень	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past	2	aux:neg	_	_
 2	кирде	кирдемс	VERB	V	Connegative=Yes|Valency=2	0	root	_	_
@@ -532,13 +532,13 @@
 7	вайгяльхть	вайгяль	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	5	obl	_	SpaceAfter=No
 8	...	...	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:21"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:21
 # text = И сргозень.
 1	И	и	CCONJ	CC	_	2	cc	_	_
 2	сргозень	сргоземс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=1	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:9"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:9
 # text = Кали тя ульсь онцтон?
 1	Кали	кали	ADV	Adv	_	4	advmod	_	_
 2	тя	тя	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	_
@@ -546,7 +546,7 @@
 4	онцтон	он	NOUN	N	Case=Ela|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=1	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:32"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:32
 # text = Ну, кли онцтон, пара: гулянять пацяняц апак синтть.
 # text_en = Well, it was in my dream, good: the little pigeon's wing isn't broken.
 1	Ну	ну	INTJ	Interj	_	6	discourse	_	SpaceAfter=No
@@ -562,7 +562,7 @@
 11	синтть	синдемс	VERB	V	Connegative=Yes|Valency=2	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id="MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:37"
+# sent_id = MishaninaValentina_LiendenyOchkonyasa_Moksha-1972-No2-pp38-39:37
 # text = А кодама цебярь лиемась!
 1	А	а	CCONJ	CC	_	3	cc	_	_
 2	кодама	кодама	ADV	Adv	_	3	advmod:deg	_	_
@@ -571,7 +571,6 @@
 5	!	!	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = LM_brat_2018:1
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="1" # storyID="brat"
 # text = Стирсь сёрмадсь сёрма ялганцты.
 # text_sms = Tõt nijdd ǩeeʹrjti ǩeeʹrj taaurõššʼses.
 # text_fi = Se tyttö kirjoitti kirjeen kaverilleen.
@@ -583,7 +582,6 @@
 5	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = LM_brat_2018:2
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="2" # storyID="brat"
 # text = Арьсян, пизем туй.
 # text_sms = Joordam što âbrr.
 # text_fi = Luulen että sataa.
@@ -595,7 +593,6 @@
 5	.	.	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = LM_brat_2018:3
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="3" # storyID="brat"
 # text = Сон тяряфтсь кадомс таргаманц и симоманц.
 # text_sms = Son ǩiččlõõddi looppted tääbbaǩ puälddmõõžž da veeiʹn juukkmõõžž.
 # text_fi = Hän yritti lopettaa tupakoinnin ja juomisen.
@@ -609,7 +606,6 @@
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = LM_brat_2018:4
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="4" # storyID="brat"
 # text = Молелексолеть?
 # text_sms = Haaʹlääk-a mõõnnâd?
 # text_fi = Haluatko mennä?
@@ -618,7 +614,6 @@
 2	?	?	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = LM_brat_2018:5
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="5" # storyID="brat"
 # text = Панчк-ка вальмять, Самсон!
 # text_sms = Ääʹved ikkân Sam!
 # text_fi = Avaa ikkuna Sam!
@@ -630,7 +625,6 @@
 5	!	!	PUNCT	CLB	_	1	punct	_	_
 
 # sent_id = LM_brat_2018:6
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="6" # storyID="brat"
 # text = Сон кошардозе мирденц машинань штама.
 # text_sms = Son piiji kuõjâs põõssâd aaut.
 # text_fi = Hän pani miehensä pesemään auton.
@@ -643,7 +637,6 @@
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = LM_brat_2018:7
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="7" # storyID="brat"
 # text = Петять шабрац архтозе перяфксть.
 # text_sms = Peter räʹjjlaž kälkkii čuâl.
 # text_fi = Peterin naapuri maalasi aidan.
@@ -655,7 +648,6 @@
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = LM_brat_2018:8
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="8" # storyID="brat"
 # text = Алязе тонь алядот крутой.
 # text_sms = Eččad lij luândstes lääʹđesmiõllsab ǥu eččan.
 # text_fi = Isäni on viileämpi kuin sinun.
@@ -667,7 +659,6 @@
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = LM_brat_2018:9
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="9" # storyID="brat"
 # text = Марья сявозе бронзать, Петя – сияннеть, а Джейн – зрняннеть.
 # text_sms = Mary vuäǯǯai proons, Peter siilb da Jane kååʹll.
 # text_fi = Mary voitti pronssin , Peter hopean ja Jane kultaa.
@@ -687,7 +678,6 @@
 13	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = LM_brat_2018:10
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="10" # storyID="brat"
 # text = Игуазсь оцю или ёмла мастор?
 # text_sms = Lij-a Iguazu jõnn avi uʹcc jânnam?
 # text_fi = Onko Iguazu iso vai pieni maa?
@@ -700,7 +690,6 @@
 6	?	?	PUNCT	CLB	_	5	punct	_	_
 
 # sent_id = LM_brat_2018:11
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="11" # storyID="brat"
 # text = Аф Петя Смит, аф Марья Браун ашесть кочкав.
 # text_sms = Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu še Mary Brown.
 # text_fi = Ei voitu valita Peter Smithiä eikä Mary Brownia.
@@ -717,7 +706,6 @@
 10	.	.	PUNCT	CLB	_	9	punct	_	_
 
 # sent_id = LM_brat_2018:12
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="12" # storyID="brat"
 # text = Синь мялезостка ашезь кунда, кие тянь сёрмадозе.
 # text_sms = Seeʹst jeäʹla  ǩeeʹrjteeʹjest võl ni måkam jurddi.
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
@@ -733,7 +721,6 @@
 9	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = LM_brat_2018:13
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="13" # storyID="brat"
 # text = Мезень лангс ванат?
 # text_sms = Mâiʹd ǩiõččak?
 # text_fi = Mitä katsot?
@@ -744,7 +731,6 @@
 4	?	?	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = LM_brat_2018:14
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="14" # storyID="brat"
 # text = Кода арьсят, мзярда тон сават?
 # text_sms = Mâiʹd joordak što kuäʹss piâzzčiǩ?
 # text_fi = Milloin luulet voivasi tulla?
@@ -758,7 +744,6 @@
 7	?	?	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = LM_brat_2018:15
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="15" # storyID="brat"
 # text = Сон рамась машина, а брадоц  аньцек велосипед.
 # text_sms = Son vueʹsti aaut da väʹst viʹlljes pâi tanccâmvuâjan.
 # text_fi = Hän osti auton mutta veljensä vain pyörän.
@@ -774,7 +759,6 @@
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = LM_brat_2018:16
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="16" # storyID="brat"
 # text = Петя и Маря ашкордасть и  лиссть комнатаста.
 # text_sms = Peter da Mary âskkõʹlle da liõʹhtte meädda lõõnjâst.
 # text_fi = Peter ja Mary halasivat toisiaan ja lähtivät huoneesta.
@@ -789,7 +773,6 @@
 8	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = LM_brat_2018:17
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="17" # storyID="brat"
 # text = Сондеенза эрявсть тиемс шяяренза, аньцек ся шиня сонь ашель мялец.
 # text_sms = Suʹst leäi õlggâm leeʹd tõn peeiʹv čååǥǥâʹttmen vuõptees, leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam.
 # text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
@@ -808,7 +791,6 @@
 12	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = LM_brat_2018:18
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="18" # storyID="brat"
 # text = Мондейне сон ашезь сатов, сяс мес ласьксь пяк вишкста.
 # text_sms = Jiõm pâsttam seuʹrrjed suu urččmõõžž ǥu son leäi samai jåʹttel.
 # text_fi = En pystynyt seuraamaan koska hän juoksi liian nopeasti.
@@ -826,7 +808,6 @@
 11	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = LM_brat_2018:19
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="19" # storyID="brat"
 # text = Тя сёрмась Петянь эзда, и кандозь сонь исяк.
 # text_sms = Tät jåhtta tuåimtum ǩeʹrjj lij Peter vuõltteem.
 # text_fi = Tämä on kirje Peteriltä ja se toimitettiin eilen
@@ -843,7 +824,6 @@
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = LM_brat_2018:20
-# aannotation="yes" # paragID="1" # pgNo="1" # sentID="20" # storyID="brat"
 # text = Сон кассь Парижса. Парижсь – тя Франциять ине ошец.
 # text_sms = Son jälsti čõõđ ääiʹj Pariizzâst, Franskkjânnam vueiʹvvgåårdest.
 # text_fi = Hän kasvoi Pariisissa, joka on Ranskan pääkaupunki.
@@ -860,7 +840,7 @@
 10	ошец	ош	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	parataxis	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	10	punct	_	_
 
-# sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:4:2
+# sent_id = KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:4:2
 # text = – Тейне директорсь эряви.
 1	–	–	PUNCT	PUNCT	_	4	punct	_	_
 2	Тейне	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	4	obl:agent	_	GTtags=Pers,Sg1,Dat,Short
@@ -868,7 +848,7 @@
 4	эряви	эрявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:5:1
+# sent_id = KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:5:1
 # text = Канайкинонь каршес класста лиссь нильгемоньшка кизоса аля, нюрьхкяня ожа панарса, серай брюкаса.
 1	Канайкинонь	Канайкин	NOUN	N	Case=Gen|Definite=Ind|NameType=Sur|Number=Plur,Sing	2	nmod	_	GTtags=Prop,Sem/Mal-Sur,SP,Gen,Indef
 2	каршес	карша	NOUN	N	Case=Ill|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	nmod	_	GTtags=Relator,SP,Ill,Indef
@@ -886,7 +866,7 @@
 14	брюкаса	брюкат	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	nmod	_	GTtags=SP,Ine,Indef|SpaceAfter=No
 15	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id= KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:6:1
+# sent_id = KuznetsovJu_SembosyUshetkshniKista_Saransk-1975-p138:6:1
 # text = – Мон директорсь, – пшкядсь сон пцтай весяласта, и сельмованфоц курькстсь Колянь ронгонц кувалмова.
 1	–	–	PUNCT	PUNCT	_	2	punct	_	_
 2	Мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	GTtags=Pers,Sg1,Nom
@@ -1794,7 +1774,7 @@
 11	стенатне	стена	NOUN	N	Case=Nom|Definite=Def|Number=Plur	10	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id= MKS:2008:12:1:MoiseevM
+# sent_id = MKS:2008:12:1:MoiseevM
 # text =  Вай конашкава ужяль вазнясь!
 1	Вай	вай	INTJ	Interj	_	3	discourse	_	_
 2	конашкава	конашкава	ADV	Adv	_	3	advmod:deg	_	_
@@ -1802,7 +1782,7 @@
 4	вазнясь	вазня	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj:cop	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 5	!	!	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id= MKS:2008:12:2:DevinI
+# sent_id = MKS:2008:12:2:DevinI
 # text =  Да тон варжака, конашкава ляпоня!
 1	Да	да	CCONJ	CC	_	3	cc	_	_
 2	тон	тон	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg2,Nom
@@ -1812,7 +1792,7 @@
 6	ляпоня	ляпоня	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	ccomp	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 7	!	!	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id= MKS:2008:12:3:KirdjashkinT
+# sent_id = MKS:2008:12:3:KirdjashkinT
 # text =  Сёксень вирсь ульсь пяк мазы, кодама аньцек краскат сонь эсонза ашельхть.
 # text_en = The autumn forest was really beautiful, there was no lack of colors in it.
 1	Сёксень	сёксе	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod	_	GTtags=SP,Gen,Indef
@@ -1829,7 +1809,7 @@
 12	ашельхть	аш	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	10	cop	_	GTtags=Aux,Neg,Loc,Ind,Prt2,ScPl3|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id= MKS:2008:12:4:DevinI
+# sent_id = MKS:2008:12:4:DevinI
 # text =  Аф сиволькс ащи, пяк ни калгода, марявсь мезе-бди шуфтонь.
 1	Аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	2	aux:neg	_	GTtags=Aux,Neg
 2	сиволькс	сиволь	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Tra,Indef
@@ -1844,7 +1824,7 @@
 11	шуфтонь	шуфта	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	10	nmod	_	GTtags=SP,Gen,Indef|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id= MKS:2008:12:5:MoiseevM
+# sent_id = MKS:2008:12:5:MoiseevM
 # text =  Но лётчиксь сяшкава эреколь, ашезь макса пря.
 1	Но	но	CCONJ	CC	_	4	cc	_	_
 2	лётчиксь	лётчик	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj:cop	_	GTtags=Sg,Nom,Def
@@ -1856,7 +1836,7 @@
 8	пря	пря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id= MKS:2008:12:6:KirdjashkinT
+# sent_id = MKS:2008:12:6:KirdjashkinT
 # text =  Авдю арась сяшкава иля, бта шачсь оду.
 1	Авдю	Авдю	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	GTtags=Prop,Sg,Nom,Indef
 2	арась	арамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
@@ -1868,7 +1848,7 @@
 8	оду	оду	ADV	Adv	Case=Lat	7	advmod:tmod	_	GTtags=Lat|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id= MKS:2008:12:7:KuznecovJu
+# sent_id = MKS:2008:12:7:KuznecovJu
 # text =  А ушесь пародонга пароль, хоть и август, а ульцясь июленнекс пси.
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	ушесь	уша	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj:cop	_	GTtags=Sg,Nom,Def
@@ -1885,7 +1865,7 @@
 13	пси	пси	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id= MKS:2008:12:8:DevinI
+# sent_id = MKS:2008:12:8:DevinI
 # text =  Велеть ширде уфась кизоннекс лямбе варманя.
 1	Велеть	веле	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	obl:lfrom	_	GTtags=Sg,Gen,Def
 2	ширде	ширде	ADP	Adp	Case=Abl	1	case	_	GTtags=Abl
@@ -1895,7 +1875,7 @@
 6	варманя	варма	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Sing	3	nsubj	_	GTtags=Der/Dimin,Sg,Nom,Indef|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id= MKS:2008:12:9:ViardV
+# sent_id = MKS:2008:12:9:ViardV
 # text =  Пяк ни синь ашуста эряйхть, семьясна оцю: сонь мархтонза ниле шабат да бабасновок нинге живой.
 1	Пяк	пяк	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
 2	ни	ни	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Sem/Time
@@ -1916,7 +1896,7 @@
 17	живой	живой	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	10	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id= MKS:2008:12:10:MoiseevM
+# sent_id = MKS:2008:12:10:MoiseevM
 # text =  Митроха атянь сельмоц нинге оржа и кядец аф трнаты.
 # text_en = Old man Mitrokha's eye is still sharp and his hand doesn't shake.
 1	Митроха	Митроха	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	nmod	_	GTtags=Prop,Sg,Nom,Indef
@@ -1930,7 +1910,7 @@
 9	трнаты	трнатомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id= MKS:2008:12:11:LevchaevP
+# sent_id = MKS:2008:12:11:LevchaevP
 # text =  Уборкать пингста сембе ломаттне работасть пяк вишкста.
 1	Уборкать	уборка	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obl:tmod	_	GTtags=Sg,Gen,Def
 2	пингста	пингста	ADP	Adp	Case=Ela	1	case	_	GTtags=Ela
@@ -1941,7 +1921,7 @@
 7	вишкста	вишкста	ADV	Adv	_	5	advmod:mmod	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	5	punct	_	_
 
-# sent_id= MKS:2008:12:12:KirdjashkinT
+# sent_id = MKS:2008:12:12:KirdjashkinT
 # text =  Тумстост шись стясь пяк маниста.
 1	Тумстост	тумс	VERB	V	Case=Ela|Number[psor]=Plur|Person[psor]=3|VerbForm=Conv	3	advcl:tcl	_	GTtags=Ger,Ela,PxPl3
 2	шись	ши	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def
@@ -1950,7 +1930,7 @@
 5	маниста	маниста	ADV	Adv	_	3	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id= MKS:2008:12:13:DevinI
+# sent_id = MKS:2008:12:13:DevinI
 # text =  Мокшэрзянь нюдиень и марийскяй волынкань музыкатне шачсть пяк кунара.
 1	Мокшэрзянь	мокшэрзя	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod	_	GTtags=SP,Gen,Indef
 2	нюдиень	нюди	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	GTtags=SP,Gen,Indef
@@ -1963,7 +1943,7 @@
 9	кунара	кунара	ADV	Adv	_	7	advmod:tmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	7	punct	_	_
 
-# sent_id= MKS:2008:12:14:MoiseevM
+# sent_id = MKS:2008:12:14:MoiseevM
 # text =  Илья пяк рана кадозе белай светть.
 1	Илья	Илья	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Prop,Sg,Nom,Indef
 2	пяк	пяк	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Deg
@@ -1973,7 +1953,7 @@
 6	светть	свет	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id= MKS:2008:12:15:TerjoshkinaJe
+# sent_id = MKS:2008:12:15:TerjoshkinaJe
 # text =  Тон, ванан, пяк вяри лийкстать, кда тяфта кизефнят.
 1	Тон	тон	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg2,Nom|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
@@ -1988,7 +1968,7 @@
 11	кизефнят	кизефнемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	7	conj	_	GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	7	punct	_	_
 
-# sent_id= MKS:2008:12:16:MoiseevM
+# sent_id = MKS:2008:12:16:MoiseevM
 # text =  Варжакстсь Вова фталу — тядяц лядсь пяк ичкози.
 1	Варжакстсь	варжакстомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 2	Вова	Вова	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	1	nsubj	_	GTtags=Prop,Sg,Nom,Indef
@@ -2000,7 +1980,7 @@
 8	ичкози	ичкози	ADV	Adv	Case=Lat	6	advmod:lto	_	GTtags=Lat|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id= MKS:2008:12:17:SajginM
+# sent_id = MKS:2008:12:17:SajginM
 # text =  Морай сяшкава лац, мярьгат пакарьхть лазонды.
 1	Морай	морамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg3
 2	сяшкава	сяшкава	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Deg
@@ -2011,7 +1991,7 @@
 7	лазонды	лазондомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	5	conj	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	1	punct	_	_
 
-# sent_id= MKS:2008:12:18:TerjoshkinaJe
+# sent_id = MKS:2008:12:18:TerjoshkinaJe
 # text =  Алязе комотсь вастстонза сяшкава вишкста, мон нльне эводень.
 1	Алязе	аля	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	GTtags=Sg,Nom,PxSg1
 2	комотсь	комотсь	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
@@ -2024,7 +2004,7 @@
 9	эводень	эводемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past	2	conj	_	GTtags=Ind,Prt1,ScSg1|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id= MKS:2008:12:19:Kirdjashkin
+# sent_id = MKS:2008:12:19:Kirdjashkin
 # text =  Кода, бачка, аф каят сельме ломань лангс, кда векозень эряйне тяшкава беднайста.
 1	Кода	кода	ADV	Adv	_	6	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
@@ -2043,7 +2023,7 @@
 15	беднайста	беднайста	ADV	Adv	_	13	advmod:mmod	_	SpaceAfter=No
 16	.	.	PUNCT	CLB	_	6	punct	_	_
 
-# sent_id= MKS:2008:12:20:MoiseevM
+# sent_id = MKS:2008:12:20:MoiseevM
 # text =  Мес тяшкава рана якат.
 1	Мес	мес	ADV	Adv	Case=Ill|PronType=Int	4	advmod:cau	_	GTtags=Interr,Ill
 2	тяшкава	тяшкава	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Deg
@@ -2051,7 +2031,7 @@
 4	якат	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id= MKS:2008:12:21:MoiseevM
+# sent_id = MKS:2008:12:21:MoiseevM
 # text =  Пцтай шиньберьф шарондонь сёксень вирьгя.
 1	Пцтай	пцтай	ADV	Adv	_	2	advmod:deg	_	_
 2	шиньберьф	шиньберьф	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
@@ -2060,7 +2040,7 @@
 5	вирьгя	вирь	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	3	obl:lmp	_	GTtags=SP,Prl,Indef|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id= MKS:2008:12:22:MoiseevM
+# sent_id = MKS:2008:12:22:MoiseevM
 # text =  Пцтай ряцок морасть и морасть жаворонкатне.
 1	Пцтай	пцтай	ADV	Adv	_	2	advmod:deg	_	_
 2	ряцок	ряцок	ADV	Adv	_	3	advmod	_	_
@@ -2070,7 +2050,7 @@
 6	жаворонкатне	жаворонка	NOUN	N	Case=Nom|Definite=Def|Number=Plur	5	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id= MKS:2008:12:23:Kirdjashkin
+# sent_id = MKS:2008:12:23:Kirdjashkin
 # text =  Тишка каязе пиджаконц и кармась работама ёфси маласа.
 1	Тишка	Тишка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	GTtags=Prop,Sg,Nom,Indef
 2	каязе	каямс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3
@@ -2082,7 +2062,7 @@
 8	маласа	маласа	ADV	Adv	Case=Ine	6	advmod:lmod	_	GTtags=Ine|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
-# sent_id= MKS:2008:12:24:MoiseevM
+# sent_id = MKS:2008:12:24:MoiseevM
 # text =  Янгаев цёрась ульсь мокша и рузкс корхтась ёфси кальдявста.
 1	Янгаев	Янгаев	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj:cop	_	GTtags=Prop,Sg,Nom,Indef
 2	цёрась	цёра	NOUN	N	Case=Nom|Definite=Def|Number=Sing	1	nmod	_	GTtags=Sg,Nom,Def
@@ -2095,7 +2075,7 @@
 9	кальдявста	кальдявста	ADV	Adv	_	7	advmod:mmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
-# sent_id= MKS:2008:12:25:PinjasovG
+# sent_id = MKS:2008:12:25:PinjasovG
 # text =  Цють марявиста читоргодсь кенкшсь.
 1	Цють	цють	ADV	Adv	_	2	advmod:deg	_	_
 2	марявиста	марявиста	ADV	Adv	_	3	advmod:mmod	_	_
@@ -2103,7 +2083,7 @@
 4	кенкшсь	кенкш	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
-# sent_id= MKS:2008:12:26:MoiseevM
+# sent_id = MKS:2008:12:26:MoiseevM
 # text =  «Оду аф няйсамасть!» -- цють сяда кулевиста кайгсть Людмила Николаевнань пилеса цёранц мекольце валонза.
 1	«	«	PUNCT	PUNCT	_	4	punct	_	GTtags=LEFT|SpaceAfter=No
 2	Оду	оду	ADV	Adv	Case=Lat	4	advmod:tmod	_	GTtags=Lat
@@ -2385,7 +2365,7 @@
 
 # sent_id = MKS:2008:13:21:KirdjashkinT
 # text = Вармась уфась шобдавать коряс сяда вишкста.
-# 
+# text_en = The wind was blowing faster than in the morning.
 1	Вармась	варма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Def
 2	уфась	уфамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 3	шобдавать	шобдава	NOUN	N	Case=Gen|Definite=Def|Number=Sing	2	obl:comp	_	GTtags=Sg,Gen,Def
