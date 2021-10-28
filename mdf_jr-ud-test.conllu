@@ -3869,7 +3869,7 @@
 # gloss_en = be-COND.CONJ.3SG at_home let_in:CONJ:S3SG>O3SG
 # Comment = Тяпаев, Седь лангса тол 1990: 266; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = If she were at home, she would have let him in.
-1	Улендяряль	улемс	AUX	V	Mood=Cnd|Mood=Cnj|Number[subj]=Sing|Person[subj]=3	2	cop	_	GTtags=Cond,Conj,ScSg3
+1	Улендяряль	улемс	AUX	V	Mood=CndSub|Number[subj]=Sing|Person[subj]=3	2	cop	_	GTtags=Cond,Conj,ScSg3
 2	кудса	куд	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	advcl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	нолдалезе	нолдамс	VERB	V	Mood=Cnj|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3,OcSg3|SpaceAfter=No
@@ -3905,12 +3905,12 @@
 6	сёлговоль	сёлговомс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3
 7	церькавоньке	церькав	NOUN	N	Case=Nom|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	6	nsubj	_	GTtags=SP,Nom,PxPl1|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	лисендяряль	лисемс	VERB	V	Mood=Cnd|Mood=Cnj|Number[subj]=Sing|Person[subj]=3	6	advcl	_	GTtags=Cond,Conj,ScSg3
+9	лисендяряль	лисемс	VERB	V	Mood=CndSub|Number[subj]=Sing|Person[subj]=3	6	advcl	_	GTtags=Cond,Conj,ScSg3
 10	сембе	сембе	DET	Det	Case=Nom|Definite=Ind|Number=Sing	11	det	_	GTtags=Qnt,Sg,Nom,Indef
 11	велесь	веле	NOUN	N	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	GTtags=Sg,Nom,Def
 12	антихристтнень	антихрист	NOUN	N	Case=Gen|Definite=Def|Number=Plur	13	nmod:poss	_	GTtags=Pl,Gen,Def
 13	каршес	карша	NOUN	N	Relator|Case=Ill|Definite=Ind|Number=Plur,Sing	9	obl	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
-14	?	?	PUNCT	_	_	_	x	_	_
+14	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = KehayovP2020:5b:Devin1991:Nardishe:165:2
 # text_orig = Afəĺ śoĺgəv!
@@ -4065,10 +4065,10 @@ kiŕďəst śťenaťńä.
 # Comment = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = But at breakfast time, at lunch or dinner, you constantly hear her saying: “Eat, eat …”, as though, if she doesn’t/wouldn’t urge people on, they will/would remain hungry.
 1	А	а	CCONJ	CC	_	3	cc	_	_
-2	завтракамста	завтракамс	VERB	V	Case=Ela|VerbForm=Conv	3	advcl:tmod	_	GTtags=Ger,Ela
+2	завтракамста	завтракамс	VERB	V	Case=Ela|VerbForm=Conv	3	advcl:tcl	_	GTtags=Ger,Ela
 3	кой	кой	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	_	x	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
-5	обедамста-ужнамста	обедамс-ужнамс	VERB	V	Case=Ela|VerbForm=Conv	8	advcl:tmod	_	GTtags=Ger,Ela
+5	обедамста-ужнамста	обедамс-ужнамс	VERB	V	Case=Ela|VerbForm=Conv	8	advcl:tcl	_	GTtags=Ger,Ela
 6	аньцек	аньцек	ADV	Adv	_	8	advmod	_	_
 7	и	и	CCONJ	CC	_	6	fixed	_	_
 8	кулят	кулемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	3	conj	_	GTtags=Ind,Prs,ScSg2
@@ -4128,7 +4128,7 @@ kiŕďəst śťenaťńä.
 # gloss_en = come:IND.PST1.3SG come-COND.CONJ.3SG more early maybe think:CONJ:1SG become:INF or NEG guard:TRNSL
 # Comment = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Had it come earlier, I would have thought – to become or not a guard.
-1	Сандяряль	самс	VERB	V	Mood=Cnd|Mood=Cnj|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Cond,Conj,ScSg3
+1	Сандяряль	самс	VERB	V	Mood=CndSub|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Cond,Conj,ScSg3
 2	сяда	сяда	ADV	Adv	AdvType=Deg	3	advmod	_	GTtags=Deg
 3	рана	рана	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Sem/Time|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	5	punct	_	_
@@ -4188,8 +4188,8 @@ kiŕďəst śťenaťńä.
 # gloss_en = build-COND.CONJ-S3PL barn.NOM house:ELA superfluous housewares:ACC there bury:CONJ:S3PL and also fix_up:CONJ:S3PL there bed.NOM or even two
 # Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = If they were to build a barn, they could store the superfluous housewares and fix up a bed or even two there.
-1	Путондяряльхть	путомс	VERB	V	Mood=Cnd|Mood=Cnj|Number[subj]=Plur|Person[subj]=3	8	advcl	_	GTtags=Cond,Conj,ScPl3
-2	утомня	утом	NOUN	N	Case=Nom|Err/Orth-lowered-final-e-2-ja|Number=Plur|Number[psor]=Sing|Person[psor]=1	1	obj	_	GTtags=Pl,Nom,PxSg1,Err/Orth-lowered-final-e-2-ja|SpaceAfter=No
+1	Путондяряльхть	путомс	VERB	V	Mood=CndSub|Number[subj]=Plur|Person[subj]=3	8	advcl	_	GTtags=Cond,Conj,ScPl3
+2	утомня	утом	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	1	obj	_	GTtags=Pl,Nom,PxSg1,Err/Orth-lowered-final-e-2-ja|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	1	punct	_	_
 4	кудста	куд	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	8	obl:lmod	_	GTtags=SP,Ela,Indef
 5	лишнай	лишнай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	6	amod	_	GTtags=Sg,Nom,Indef
