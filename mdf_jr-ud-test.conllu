@@ -3995,8 +3995,7 @@
 7	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = KehayovP2020:9:Mishanina1993:OzksTumotjTaradonza:56
-# text_orig = Tʼä ńiŋgä lac ašəź matədəv, a matədəvə-ńďäŕä-j, 
-kiŕďəst śťenaťńä.
+# text_orig = Tʼä ńiŋgä lac ašəź matədəv, a matədəvə-ńďäŕä-j, kiŕďəst śťenaťńä.
 # text = Тя нинге лац ашезь матодов, а матодовондяряй, кирдест стенатне.
 # gloss_en = this.NOM yet well NEG.PST1.3SG fall_asleep.CNG and fall_asleep-COND-3SG hold_up:IND.PST1.3PL wall:PL.DEF.NOM
 # Comment = Мишанина, Озкс тумоть тарадонза 1993: 56; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -4022,7 +4021,7 @@ kiŕďəst śťenaťńä.
 # text_en = And an anonymous receipt can be given to anyone, but if it is lost, then a new one cannot be substituted for it.
 1	А	а	CCONJ	CC	_	7	cc	_	_
 2	лемфтома	лем	NOUN	N	Case=Abe|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Abe,Indef
-3	максф	максомс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=f|Number=Sing|VerbForm=Part	4	acl	_	GTtags=Der/f,PrfPrc,Sg,Nom,Indef
+3	максф	максомс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=F|Number=Sing|VerbForm=Part	4	acl	_	GTtags=Der/f,PrfPrc,Sg,Nom,Indef
 4	квитанциясь	квитанция	NOUN	N	Case=Nom|Definite=Def|Number=Sing	7	csubj:cop	_	GTtags=Sg,Nom,Def
 5	ули	улемс	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	7	cop	_	GTtags=Ind,Prs,ScSg3
 6	кода	кода	SCONJ	CS	_	7	mark	_	_
@@ -4066,7 +4065,7 @@ kiŕďəst śťenaťńä.
 # text_en = But at breakfast time, at lunch or dinner, you constantly hear her saying: “Eat, eat …”, as though, if she doesn’t/wouldn’t urge people on, they will/would remain hungry.
 1	А	а	CCONJ	CC	_	3	cc	_	_
 2	завтракамста	завтракамс	VERB	V	Case=Ela|VerbForm=Conv	3	advcl:tcl	_	GTtags=Ger,Ela
-3	кой	кой	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	_	x	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+3	кой	кой	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	обедамста-ужнамста	обедамс-ужнамс	VERB	V	Case=Ela|VerbForm=Conv	8	advcl:tcl	_	GTtags=Ger,Ela
 6	аньцек	аньцек	ADV	Adv	_	8	advmod	_	_
@@ -4138,7 +4137,7 @@ kiŕďəst śťenaťńä.
 8	-	-	PUNCT	PUNCT	_	9	punct	_	_
 9	арамс	арамс	VERB	V	VerbForm=Inf	7	ccomp	_	GTtags=Inf
 10	или	или	CCONJ	CC	_	11	cc	_	_
-11	аф	аф	VERB	V	Polarity=Neg|VerbType=Aux	9	conj	_	GTtags=Aux,Neg
+11	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	9	conj	_	GTtags=Aux,Neg
 12	сторожкс	сторож	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	9	xcomp	_	GTtags=SP,Tra,Indef|SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
@@ -4157,12 +4156,12 @@ kiŕďəst śťenaťńä.
 7	ня	ня	DET	Det	Number=Plur|PronType=Dem	8	det	_	GTtags=Dem,Pl
 8	шочкнень	шочка	NOUN	N	Case=Gen|Definite=Def|Number=Plur	10	obl	_	GTtags=Pl,Gen,Def
 9	эзда	эзда	ADP	Adp	Case=Abl	8	case	_	GTtags=Abl
-10	тиемацка	тиемс	VERB	V	Case=Nom|Clitic=AddGA|Number=Sing|NomAct|Number[psor]=Sing|Person[psor]=3	11	xcomp	_	GTtags=NomAct,Sg,Nom,PxSg3,Clt/Add
+10	тиемацка	тиемс	VERB	V	Case=Nom|Clitic=AddGA|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=Vnoun	11	xcomp	_	GTtags=NomAct,Sg,Nom,PxSg3,Clt/Add
 11	мезевок	мезевок	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	3	conj	_	GTtags=Indef,Sg,Nom,Indef
 12	аш	аш	AUX	_	Case=Loc|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Pres|VerbType=Aux	11	aux:neg	_	GTtags=Aux,Neg,Loc,Prs,ScSg3|SpaceAfter=No
-13	,	,	PUNCT	PUNCT	PUNCT	15	punct	_	GTtags=PUNCT
+13	,	,	PUNCT	PUNCT	_	15	punct	_	GTtags=PUNCT
 14	анок	анок	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	15	advmod	_	GTtags=Sg,Nom,Indef
-15	шапфт	шапомс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=f|Number=Plur|VerbForm=Part	11	acl:relcl	_	GTtags=Der/f,PrfPrc,Pl,Nom,Indef|SpaceAfter=No
+15	шапфт	шапомс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=F|Number=Plur|VerbForm=Part	11	acl:relcl	_	GTtags=Der/f,PrfPrc,Pl,Nom,Indef|SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:2
@@ -4267,7 +4266,7 @@ kiŕďəst śťenaťńä.
 # Comment = Мишанина, Озкс тумоть тарадонза 1993: 16; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = … it is time to teach that coddled boy the meaning of life, otherwise if he becomes an orphan and if his illness gets worse, he will vanish, the family will be left without progeny.
 1	...	...	PUNCT	PUNCT	_	4	punct	_	_
-2	анеляф	анелямс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=f|Number=Sing|VerbForm=Part	3	acl	_	GTtags=Der/f,PrfPrc,Sg,Nom,Indef
+2	анеляф	анелямс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=F|Number=Sing|VerbForm=Part	3	acl	_	GTtags=Der/f,PrfPrc,Sg,Nom,Indef
 3	цёранц	цёра	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nmod:poss	_	GTtags=Sg,Gen,PxSg3
 4	пинге	пинге	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
 5	эряфонь	эряф	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod:poss	_	GTtags=SP,Gen,Indef
