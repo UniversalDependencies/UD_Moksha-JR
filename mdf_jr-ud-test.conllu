@@ -3845,3 +3845,577 @@
 8	ава	ава	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
+# sent_id = KehayovP2020:4a:Kirdiashkin1953:KeliMoksha:8
+# text_orig = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən azəŋkšńəma, sati kafta šit.
+# text = Ату мон ушедондярян аватнень эряфснон азонкшнема, саты кафта шит.
+# gloss_en = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən chatter:INF suffice:IND.PRS.3SG two days
+# Comment = Кирдяшкин, Кели Мокша 1953: 8; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = Otherwise, if I begin chattering about the lives of the women, it will take two days.
+1 Ату	Ату	Adv	_	_	3	advmod	_	_
+2	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg1,Nom
+3	ушедондярян	ушедомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=1	8	advcl	_	GTtags=Cond,ScSg1
+4	аватнень	ава	NOUN	N	Case=Gen|Definite=Def|Number=Plur	5	nmod:poss	_	GTtags=Pl,Gen,Def
+5	эряфснон	эряф	NOUN	N	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	6	obj	_	GTtags=SP,Gen,PxPl3
+6	азонкшнема	азонкшнемс	VERB	V	Case=Loc|VerbForm=Inf	3	xcomp	_	GTtags=Inf,Loc|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	саты	сатомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg3
+9	кафта	кафта	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom,Indef
+10	шит	ши	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	8	obj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = KehayovP2020:4b:Tiapaev1990:SedjLangsaTol:266
+# text_orig = Uĺə-ńďäŕäĺ kudsa, noldaĺəźä.
+# text = Улендяряль кудса, нолдалезе.
+# gloss_en = be-COND.CONJ.3SG at_home let_in:CONJ:S3SG>O3SG
+# Comment = Тяпаев, Седь лангса тол 1990: 266; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = If she were at home, she would have let him in.
+1	Улендяряль	улемс	AUX	V	Mood=Cnd|Mood=Cnj|Number[subj]=Sing|Person[subj]=3	2	cop	_	GTtags=Cond,Conj,ScSg3
+2	кудса	куд	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	advcl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	нолдалезе	нолдамс	VERB	V	Mood=Cnj|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3,OcSg3|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = KehayovP2020:5a:Devin1991:Nardishe:144
+# text_orig = Odu savə-ńďäŕä-j veńćams, tonga ťafta ťik svaďbaćəń.
+# text = Оду савондяряй венцямс, тонга тяфта тик свадьбацень.
+# gloss_en = again have_to-COND-3SG marry:INF you.NOM:CL like_this do:IMP.2SG wedding:POSS.2SG.SG:ACC
+# Comment = Девин, Нардише 1991: 144; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = If you have to marry again, make your wedding also like this!
+1	Оду	оду	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
+2	савондяряй	савомс	AUX	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	3	aux	_	GTtags=Cond,ScSg3
+3	венцямс	венцямс	VERB	V	VerbForm=Inf	7	advcl	_	GTtags=Inf|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	тонга	тон	PRON	Pron	Case=Nom|Clitic=Add|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg2,Nom,Clt/Add
+6	тяфта	тяфта	ADV	Adv	_	7	advmod	_	_
+7	тик	тиемс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2	0	root	_	GTtags=Imprt,ScSg2
+8	свадьбацень	свадьба	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	obj	_	GTtags=Sg,Gen,PxSg2|SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = KehayovP2020:5b:Devin1991:Nardishe:165:1
+# text_orig = Što ĺi, mäŕgat, śoĺgəvəĺ ćeŕkavəńkä, ĺiśə-ńďäŕäĺ śеmbä veĺəś ańťiχristťńəń karšəs?
+# text = Што ли, мярьгат, сёлговоль церькавоньке, лисендяряль сембе велесь антихристтнень каршес?
+# gloss_en = what	Q(yes/no)	say:IND.PRS.2SG	close:PASS:CONJ.3SG	church:POSS.1PL.SG rise-COND.CONJ.3SG	whole	village:DEF.NOM	antichrist:PL.DEF:GEN	against:ILL
+# Comment = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = What do you say – why would be our church closed, if the whole village had risen against those antichrists?
+1	Што	што	SCONJ	CS	_	6	advmod	_	_
+2	ли	ли	AUX	_	Pcle|Qst	1	fixed	_	GTtags=Pcle,Qst|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	мярьгат	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	6	parataxis	_	GTtags=Ind,Prs,ScSg2|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	сёлговоль	сёлговомс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3
+7	церькавоньке	церькав	NOUN	N	Case=Nom|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	6	nsubj	_	GTtags=SP,Nom,PxPl1|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	лисендяряль	лисемс	VERB	V	Mood=Cnd|Mood=Cnj|Number[subj]=Sing|Person[subj]=3	6	advcl	_	GTtags=Cond,Conj,ScSg3
+10	сембе	сембе	DET	Det	Case=Nom|Definite=Ind|Number=Sing	11	det	_	GTtags=Qnt,Sg,Nom,Indef
+11	велесь	веле	NOUN	N	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	GTtags=Sg,Nom,Def
+12	антихристтнень	антихрист	NOUN	N	Case=Gen|Definite=Def|Number=Plur	13	nmod:poss	_	GTtags=Pl,Gen,Def
+13	каршес	карша	NOUN	N	Relator|Case=Ill|Definite=Ind|Number=Plur,Sing	9	obl	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
+14	?	?	PUNCT	_	_	_	x	_	_
+
+# sent_id = KehayovP2020:5b:Devin1991:Nardishe:165:2
+# text_orig = Afəĺ śoĺgəv!
+# text = Афоль сёлгов!
+# gloss_en = Afəĺ śoĺgəv!
+# Comment = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = No, it wouldn’t be closed!
+1	Афоль	аф	AUX	_	Mood=Cnj|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|VerbType=Aux	2	aux:neg	_	GTtags=Aux,Neg,Conj,ScSg3
+2	сёлгов	сёлговомс	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
+3	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = KehayovP2020:6:Devin1991:Nardishe:93
+# text_orig = A eŕavə-ńďäŕä-j kačka, – mon ťijan, af staka, juvaďś gollandka ftalda Pivkin.
+# text = А эрявондяряй качка, - мон тиян, аф стака, ювадсь голландка фталда Пивкин.
+# gloss_en = and be_necessary-COND-3SG cradle.NOM I.NOM make:IND.PRS.S1SG NEG difficult shout:IND.PST1.3SG brick_oven.NOM back:ABL Pivkin
+# Comment = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = And if you need a cradle, – I will make one for you, it’s not difficult – Pivkin shouted from behind the brick oven.
+1	А	а	CCONJ	CC	_	2	cc	_	_
+2	эрявондяряй	эрявомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Cond,ScSg3
+3	качка	качка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	-	-	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+6	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
+7	тиян	тиемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	10	aux:neg	_	GTtags=Aux,Neg
+10	стака	стака	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	7	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	ювадсь	ювадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	7	parataxis	_	GTtags=Ind,Prt1,ScSg3
+13	голландка	голландка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	12	obl:lmod	_	GTtags=Sg,Nom,Indef
+14	фталда	фталда	ADP	Adp	Case=Abl	13	case	_	GTtags=Abl
+15	Пивкин	Пивкин	NOUN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	12	nsubj	_	GTtags=Prop,Sem/Mal-Sur,Sg,Nom,Indef|SpaceAfter=No
+16	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = KehayovP2020:7:Beban1995:TundanjNarmottj:60
+# text_orig = Äŕ, avańät, af ozadəń śeďi uĺə-f-ťäŕäĺ, ďäŕäj śävəĺχćä iĺəń pŕä urmať, …
+# text = Эрь, аванят, аф озадонь седи улефтяряль, дяряй сявольхце илянь пря урмать, ...
+# gloss_en = INTERJ	woman:DIM:PL NEG sitting:GEN	heart.NOM be-NEG-COND.CONJ.3SG EMPH.PTCL take:CONJ:S3SG>O3SG	other:GEN head.NOM illness:DEF.ACC
+# Comment = Бебан, Тундань нармотть 1995: 60; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = Well – (such are) women – if her heart were not upset, would she have taken over the worries of other people!?
+1	Эрь	эрь	INTJ	Interj	_	11	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	аванят	ава	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Plur	11	vocative	_	GTtags=Der/Dimin,Pl,Nom,Indef|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	6	aux:neg	_	GTtags=Aux,Neg
+6	озадонь	озадонь	ADJ	A	GenAttr	7	amod	_	GTtags=GenAttr
+7	седи	седи	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	11	advcl	_	GTtags=Sg,Nom,Indef
+8	улефтяряль	улемс	AUX	V	Mood=Cnj|Number[subj]=Sing|NegProt|Person[subj]=3	7	cop	_	GTtags=NegProt,Conj,ScSg3|SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	7	punct	_	_
+10	дяряй	дяряй	PART	Pcle	Mood=Cnd	11	advmod	_	GTtags=Cond
+11	сявольхце	сявомс	VERB	V	Mood=Cnj|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3,OcSg3
+12	илянь	илямс	ADJ	A	VGen	14	amod	_	GTtags=VGen
+13	пря	пря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	14	nmod	_	GTtags=Sg,Nom,Indef
+14	урмать	урма	NOUN	N	Case=Gen|Definite=Def|Number=Sing	11	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	11	punct	_	_
+16	...	...	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = KehayovP2020:8:Teriohkina1991:SajAkshaLishmosa:169:1
+# text_orig = Konaškava mazijχť siń valsna.
+# text = Конашкава мазыхть синь валсна.
+# gloss_en = how beautiful:PRS.3SG their word:POSS.3PL.PL.NOM
+# Comment = Терёшкина, Сай акша лишмоса 1991: 169; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = How beautiful are their words!
+1	Конашкава	конашкава	ADV	Adv	_	2	advmod	_	_
+2	мазыхть	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	0	root	_	GTtags=Pl,Nom,Indef
+3	синь	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	det	_	GTtags=Pers,Pl3,Gen
+4	валсна	вал	NOUN	N	Case=Nom|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	2	nsubj:cop	_	GTtags=SP,Nom,PxPl3|SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = KehayovP2020:8:Teriohkina1991:SajAkshaLishmosa:169:2
+# text_orig = Konaškava mazijχť siń valsna. Kasə-ńďäŕä-n, objazaťeĺna tonafńəsa ciganəń käĺť.
+# text = Касондярян, обязательна тонафнеса цыганонь кяльть.
+# gloss_en = how beautiful:PRS.3SG their word:POSS.3PL.PL.NOM grow_up-COND-1SG necessarily	learn:IND.PRS.S1SG>O3SG Romani:GEN language:DEF.ACC
+# Comment = Терёшкина, Сай акша лишмоса 1991: 169; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = When (lit. if) I grow up, I will learn the Romani language.
+1	Касондярян	касомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=1	4	advcl	_	GTtags=Cond,ScSg1|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	обязательна	обязательна	ADV	Adv	_	4	advmod	_	_
+4	тонафнеса	тонафнемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1,OcSg3
+5	цыганонь	цыган	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	GTtags=SP,Gen,Indef
+6	кяльть	кяль	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = KehayovP2020:9:Mishanina1993:OzksTumotjTaradonza:56
+# text_orig = Tʼä ńiŋgä lac ašəź matədəv, a matədəvə-ńďäŕä-j, 
+kiŕďəst śťenaťńä.
+# text = Тя нинге лац ашезь матодов, а матодовондяряй, кирдест стенатне.
+# gloss_en = this.NOM yet well NEG.PST1.3SG fall_asleep.CNG and fall_asleep-COND-3SG hold_up:IND.PST1.3PL wall:PL.DEF.NOM
+# Comment = Мишанина, Озкс тумоть тарадонза 1993: 56; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = He was not asleep yet, and even if he was, the walls were holding up.
+1	Тя	тя	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	5	nsubj	_	GTtags=Dem,Sg,Nom,Indef
+2	нинге	нинге	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+3	лац	лац	ADV	Adv	_	5	advmod	_	_
+4	ашезь	аф	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	5	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
+5	матодов	матодовомс	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	а	а	CCONJ	CC	_	8	cc	_	_
+8	матодовондяряй	матодовомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	10	advcl	_	GTtags=Cond,ScSg3|SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	8	punct	_	_
+10	кирдест	кирдемс	VERB	V	Mood=Opt|Number[subj]=Plur|Person[subj]=3	5	conj	_	GTtags=Opt,ScPl3
+11	стенатне	стена	NOUN	N	Case=Nom|Definite=Def|Number=Plur	10	nsubj	_	GTtags=Pl,Nom,Def|SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = KehayovP2020:10:Kaganovich01011929:GosudarstvanjZajmatnia
+# text_orig = A ĺemfťəma maksf kvitanćijaś uĺi koda  maksəms kińďi -povś, no juma-ńďäŕä-j, esta soń vastzənza od kvitanćija af maksijχť.
+# text = А лемфтома максф квитанциясь ули кода максомс кинди повсь, но юмандяряй, эста сонь вастознза од квитанция аф максыхть.
+# gloss_en = and namelessly give:PST.PASS.PTCP receipt:DEF.NOM be.IND.PRS.3SG how  give:INF anyone:ALL but disappear-COND-3SG then it.GEN place:ILL:POSS.3SG.SG new.NOM receipt.NOM NEG give:IND.PRS.S3PL
+# Comment = Kаgаnovič 01.01.1929: Gosudаrstvаnʹ zаjmаtnâ; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = And an anonymous receipt can be given to anyone, but if it is lost, then a new one cannot be substituted for it.
+1	А	а	CCONJ	CC	_	7	cc	_	_
+2	лемфтома	лем	NOUN	N	Case=Abe|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Abe,Indef
+3	максф	максомс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=f|Number=Sing|VerbForm=Part	4	acl	_	GTtags=Der/f,PrfPrc,Sg,Nom,Indef
+4	квитанциясь	квитанция	NOUN	N	Case=Nom|Definite=Def|Number=Sing	7	csubj:cop	_	GTtags=Sg,Nom,Def
+5	ули	улемс	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	7	cop	_	GTtags=Ind,Prs,ScSg3
+6	кода	кода	SCONJ	CS	_	7	mark	_	_
+7	максомс	максомс	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
+8	кинди	кие	PRON	Pron	Case=Dat|Number=Plur,Sing|PronType=Int	7	obl	_	GTtags=Interr,SP,Dat
+9	повсь	повомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	8	fixed	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	но	но	CCONJ	CC	_	12	cc	_	_
+12	юмандяряй	юмамс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	20	advcl	_	GTtags=Cond,ScSg3|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	эста	эста	ADV	Adv	AdvType=Tim	20	advmod:tmod	_	GTtags=Sem/Time
+15	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	det	_	GTtags=Pers,Sg3,Gen
+16	вастозонза	васта	NOUN	N	Case=Ill|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	20	obl	_	GTtags=SP,Ill,PxSg3
+17	од	од	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	18	amod	_	GTtags=Sg,Nom,Indef
+18	квитанция	квитанция	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	20	obj	_	GTtags=Sg,Nom,Indef
+19	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	20	aux:neg	_	GTtags=Aux,Neg
+20	максыхть	максомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	7	conj	_	GTtags=Ind,Prs,ScPl3|SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = KehayovP2020:11:Beban1995:TundanjNarmottj:118
+# text_orig = Śasi korχtan, ĺezdə-ńďäŕä-tada jarmaksa, vajməńkəń targasaśk.
+# text = Сясы корхтан, лездондярятада ярмакса, ваймоньконь таргасаськ.
+# gloss_en = therefore say:IND.PRS:1SG help-COND-S2PL money:INE soul:POSS.1PL.SG:ACC pull:IND.PRS.S1PL>O3SG
+# Comment = Бебан, Тундань нармотть 1995: 118; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = Therefore I’m saying – if you help us with money, we will pull through.
+1	Сясы	сясы	ADV	Adv	_	2	advmod	_	_
+2	корхтан	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	лездондярятада	лездомс	VERB	V	Mood=Cnd|Number[subj]=Plur|Person[subj]=2	8	advcl	_	GTtags=Cond,ScPl2
+5	ярмакса	ярмак	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	ваймоньконь	вайме	NOUN	N	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	8	obj	_	GTtags=SP,Gen,PxPl1
+8	таргасаськ	таргамс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Tense=Pres	2	ccomp	_	GTtags=Ind,Prs,ScPl1,OcPl3|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = KehayovP2020:12:Devin1991:Nardishe:93
+# text_orig = A zavtrakamsta koj, abedamsta-užnamsta ańćək i  kuĺat śaka valənc: “Jarχcada, jarχcada …” bəta af mäŕgə-ńďäŕä-j ťafta, lomaťťńä iĺadijχť  vačədəńä.
+# text = А завтракамста кой, обедамста-ужнамста аньцек и кулят сяка валонц: "Ярхцада , ярхцада . . . ", бта аф мярьгондяряй тяфта, ломаттне илядыхть вачедоня.
+# gloss_en = but eat_breakfast:CVB habit eat_lunch:CVB-eat_dinner:CVB only PTCL hear:IND.PRS.2SG same word:ACC:POSS.3SG.SG eat:IMP.2PL eat:IMP.2PL as_if NEG say-COND-S3SG so  people:DEF remain:IND.PRS.3PL hungry:DIM
+# Comment = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = But at breakfast time, at lunch or dinner, you constantly hear her saying: “Eat, eat …”, as though, if she doesn’t/wouldn’t urge people on, they will/would remain hungry.
+1	А	а	CCONJ	CC	_	3	cc	_	_
+2	завтракамста	завтракамс	VERB	V	Case=Ela|VerbForm=Conv	3	advcl:tmod	_	GTtags=Ger,Ela
+3	кой	кой	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	_	x	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	обедамста-ужнамста	обедамс-ужнамс	VERB	V	Case=Ela|VerbForm=Conv	8	advcl:tmod	_	GTtags=Ger,Ela
+6	аньцек	аньцек	ADV	Adv	_	8	advmod	_	_
+7	и	и	CCONJ	CC	_	6	fixed	_	_
+8	кулят	кулемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	3	conj	_	GTtags=Ind,Prs,ScSg2
+9	сяка	сяка	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing	10	det	_	GTtags=Sg,Nom,Indef
+10	валонц	вал	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Gen,PxSg3|SpaceAfter=No
+11	:	:	PUNCT	_	_	13	punct	_	_
+12	"	_	PUNCT	PUNCT	_	13	punct	_	_
+13	Ярхцада	ярхцамс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	10	appos	_	GTtags=Imprt,ScPl2|SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	ярхцада	ярхцамс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	13	conj	_	GTtags=Imprt,ScPl2|SpaceAfter=No
+16	...	...	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	"	_	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	бта	бта	ADV	Adv	_	21	mark	_	_
+20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux:neg	_	GTtags=Aux,Neg
+21	мярьгондяряй	мярьгомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	25	advcl	_	GTtags=Cond,ScSg3
+22	тяфта	тяфта	ADV	Adv	_	21	advmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	21	punct	_	_
+24	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	25	nsubj	_	GTtags=Pl,Nom,Def
+25	илядыхть	илядомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,ScPl3
+26	вачедоня	вачедоня	ADV	Adv	_	25	advcl	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = KehayovP2020:13:Tiapaev1990:SedjLangsaTol:34:1
+# text_orig = Śergej, učiĺiščasa storəšks rabotan!
+# text = Сергей, училищаса сторожкс работан!
+# gloss_en = Sergej school:INE guard:TRNSL work:IND.PRS.1SG
+# Comment = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = Sergej, I work as school guard!
+1	Сергей	Сергей	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	vocative	_	GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	1	punct	_	GTtags=PUNCT
+3	училищаса	училища	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	GTtags=SP,Ine,Indef
+4	сторожкс	сторож	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	5	xcomp	_	GTtags=SP,Tra,Indef
+5	работан	работамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
+6	!	!	PUNCT	PUNCT	_	5	punct	_	GTtags=PUNCT
+
+# sent_id = KehayovP2020:13:Tiapaev1990:SedjLangsaTol:34:2
+# text_orig = Oformilsja česť -po -česťi, a meĺä śormaćä saś.
+# text = Оформился честь по чести, а меле сёрмаце сась. 
+# gloss_en = [shape:PST:REFL properly]Rus and later letter:POSS.2SG.SG.NOM come:IND.PST1.3SG
+# Comment = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = I matured properly, and then your letter came.
+1	Оформился	Оформился	X	_	_	9	dep	_	_
+2	честь	честь	X	_	_	1	dep	_	_
+3	по	по	X	_	_	4	dep	_	_
+4	чести	честь	X	_	_	1	dep	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	1	punct	_	GTtags=PUNCT
+6	а	а	CCONJ	CC	_	9	cc	_	_
+7	меле	меле	ADV	Adv	_	9	advmod:tmod	_	_
+8	сёрмаце	сёрма	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	9	nsubj	_	GTtags=Sg,Nom,PxSg2
+9	сась	самс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	9	punct	_	GTtags=PUNCT
+
+# sent_id = KehayovP2020:13:Tiapaev1990:SedjLangsaTol:34:3
+# text_orig = Śergej, učiĺiščasa storəšks rabotan! Oformilsja česť -po -česťi, a meĺä śormaćä saś. Sa-ńďäŕäĺ śada rana, šäť, aŕśəĺəń  – arams iĺi af storəšks.
+# text = Сандяряль сяда рана, шять, арьселень - арамс или аф сторожкс.
+# gloss_en = come:IND.PST1.3SG come-COND.CONJ.3SG more early maybe think:CONJ:1SG become:INF or NEG guard:TRNSL
+# Comment = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = Had it come earlier, I would have thought – to become or not a guard.
+1	Сандяряль	самс	VERB	V	Mood=Cnd|Mood=Cnj|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Cond,Conj,ScSg3
+2	сяда	сяда	ADV	Adv	AdvType=Deg	3	advmod	_	GTtags=Deg
+3	рана	рана	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Sem/Time|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	шять	шять	PART	Pcle	_	7	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	арьселень	арьсемс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1	0	root	_	GTtags=Conj,ScSg1|SpaceAfter=No
+8	-	-	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+9	арамс	арамс	VERB	V	VerbForm=Inf	7	ccomp	_	GTtags=Inf
+10	или	или	CCONJ	CC	_	11	cc	_	_
+11	аф	аф	VERB	V	Polarity=Neg|VerbType=Aux	9	conj	_	GTtags=Aux,Neg
+12	сторожкс	сторож	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	9	xcomp	_	GTtags=SP,Tra,Indef|SpaceAfter=No
+13	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:1
+# text_orig = A koda laďaĺ utəmńaś ťejst, ńä šočkńəń ezda ťijemacka meźəvək aš, anək šapft.
+# text = А кода ладяль утомнясь тейст, ня шочкнень эзда тиемацка мезевок аш, анок шапфт.
+# gloss_en = and how build_up:CONJ.S3SG barn:DEF.NOM they:DAT those log:PL.DEF:GEN from making:PTCL nothing NEG.EXIST ready notch:PST.PASS.PTCP:PL
+# Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = What if she built up a barn for them – using these logs would be easy, they are already notched.
+1	А	а	CCONJ	CC	_	3	cc	_	_
+2	кода	кода	ADV	Adv	_	3	advmod	_	_
+3	ладяль	ладямс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3
+4	утомнясь	утом	NOUN	N	Case=Nom|Definite=Def|Derivation=Dimin|Number=Sing	3	nsubj	_	GTtags=Der/Dimin,Sg,Nom,Def
+5	тейст	сон	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs|Variant=Short	3	obl	_	GTtags=Pers,Pl3,Dat,Short|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	11	punct	_	_
+7	ня	ня	DET	Det	Number=Plur|PronType=Dem	8	det	_	GTtags=Dem,Pl
+8	шочкнень	шочка	NOUN	N	Case=Gen|Definite=Def|Number=Plur	10	obl	_	GTtags=Pl,Gen,Def
+9	эзда	эзда	ADP	Adp	Case=Abl	8	case	_	GTtags=Abl
+10	тиемацка	тиемс	VERB	V	Case=Nom|Clitic=Add|Number=Sing|NomAct|Number[psor]=Sing|Person[psor]=3	11	xcomp	_	GTtags=NomAct,Sg,Nom,PxSg3,Clt/Add
+11	мезевок	мезевок	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	3	conj	_	GTtags=Indef,Sg,Nom,Indef
+12	аш	аш	AUX	_	Case=Loc|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Pres|VerbType=Aux	11	aux:neg	_	GTtags=Aux,Neg,Loc,Prs,ScSg3|SpaceAfter=No
+13	,	,	PUNCT	PUNCT	PUNCT	15	punct	_	GTtags=PUNCT
+14	анок	анок	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	15	advmod	_	GTtags=Sg,Nom,Indef
+15	шапфт	шапомс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=f|Number=Plur|VerbForm=Part	11	acl:relcl	_	GTtags=Der/f,PrfPrc,Pl,Nom,Indef|SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:2
+# text_orig = Kizənda šabanza purəmijχť, fḱä kudsa matńəms aš koza.
+# text = Кизонда шабанза пуромихть, фкя кудса матнемс аш коза.
+# gloss_en = in_summer child:POSS.3SG.PL.NOM gather:IND.PRS.3PL one house:INE put_to_bed:INF NEG.EXIST where
+# Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = In summer, when her children gather, there is no place in the house to accommodate them all.
+1	Кизонда	кизонда	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
+2	шабанза	шаба	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Pl,Nom,PxSg3
+3	пуромихть	пуромомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	9	punct	_	GTtags=CLB
+5	фкя	фкя	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	6	nummod	_	GTtags=Card,Sg,Nom,Indef
+6	кудса	куд	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	GTtags=SP,Ine,Indef
+7	матнемс	матнемс	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf
+8	аш	аш	AUX	V	Case=Loc|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Pres|VerbType=Aux	9	cop	_	GTtags=Aux,Neg,Loc,Prs,ScSg3
+9	коза	коза	ADV	Adv	_	3	conj	_	SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:3
+# text_orig = Putən-ńďäŕäĺ-χť utəmńa, kudsta ĺišnaj karχčńəń tov ĺiχťəĺχť da ńiŋgä laďaĺχť tov kravať iĺi mäń kafta.
+# text = Путондяряльхть утомня, кудста лишнай кархчнень тов лихтельхть да нинге ладяльхть тов кровать или мянь кафта.
+# gloss_en = build-COND.CONJ-S3PL barn.NOM house:ELA superfluous housewares:ACC there bury:CONJ:S3PL and also fix_up:CONJ:S3PL there bed.NOM or even two
+# Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = If they were to build a barn, they could store the superfluous housewares and fix up a bed or even two there.
+1	Путондяряльхть	путомс	VERB	V	Mood=Cnd|Mood=Cnj|Number[subj]=Plur|Person[subj]=3	8	advcl	_	GTtags=Cond,Conj,ScPl3
+2	утомня	утом	NOUN	N	Case=Nom|Err/Orth-lowered-final-e-2-ja|Number=Plur|Number[psor]=Sing|Person[psor]=1	1	obj	_	GTtags=Pl,Nom,PxSg1,Err/Orth-lowered-final-e-2-ja|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	1	punct	_	_
+4	кудста	куд	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	8	obl:lmod	_	GTtags=SP,Ela,Indef
+5	лишнай	лишнай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	6	amod	_	GTtags=Sg,Nom,Indef
+6	кархчнень	кархч	NOUN	N	Case=Gen|Definite=Def|Number=Plur	8	obj	_	GTtags=Pl,Gen,Def
+7	тов	тов	ADV	Adv	AdvType=Loc	8	advmod:lmod	_	GTtags=Spat
+8	лихтельхть	лихтемс	VERB	V	Mood=Cnj|Number[subj]=Plur|Person[subj]=3	0	root	_	GTtags=Conj,ScPl3
+9	да	да	CCONJ	CC	_	11	cc	_	_
+10	нинге	нинге	ADV	Adv	AdvType=Tim	11	advmod:tmod	_	GTtags=Sem/Time
+11	ладяльхть	ладямс	VERB	V	Mood=Cnj|Number[subj]=Plur|Person[subj]=3	8	conj	_	GTtags=Conj,ScPl3
+12	тов	тов	ADV	Adv	AdvType=Loc	11	advmod:lmod	_	GTtags=Spat
+13	кровать	кровать	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	11	obj	_	GTtags=Sg,Nom,Indef
+14	или	или	CCONJ	CC	_	16	cc	_	_
+15	мянь	мянь	ADV	Adv	_	16	advmod	_	_
+16	кафта	кафта	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	13	conj	_	GTtags=Card,Sg,Nom,Indef|SpaceAfter=No
+17	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:4
+# text_orig = Kizənda šabaťńəńďi uťcəms aru kožfkasa konaškava para.
+# text = Кизонда шабатненди утцемс ару кожфкаса конашкава пара.
+# gloss_en = in_summer child:PL.DEF:DAT sleep:INF clear air:INE  how_much good
+# Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = It is much better for the children to sleep in fresh air in summer.
+1	Кизонда	кизонда	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
+2	шабатненди	шаба	NOUN	N	Case=Dat|Definite=Def|Number=Plur	3	obl	_	GTtags=Pl,Dat,Def
+3	утцемс	утцемс	VERB	V	VerbForm=Inf	7	csubj	_	GTtags=Inf
+4	ару	ару	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	5	amod	_	GTtags=Sg,Nom,Indef
+5	кожфкаса	кожфкаса	NOUN	N	Definite=Ind|Number=Plur,Sing	3	obl:lmod	_	GTtags=SP,Indef
+6	конашкава	конашкава	ADV	Adv	_	7	advmod	_	_
+7	пара	пара	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	7	punct	_	GTtags=CLB
+
+# sent_id = KehayovP2020:15:Beban1995:TundanjNarmottj:186
+# text_orig = I af stak: tundac ćebäŕəĺ, viďəmda meĺä estəkigä tušəndśť para piźəpt, šiťńä ĺämbət, śorəťńä tuśť lac, i kəda ťaftak kiŕďə-ńďäŕä-si piŋgənc, śokśənda päškəďijχť utəpńä śorəda.
+# text = И аф стак: тундац цебярель, видемда меле эстокиге тушендсть пара пизепт, шитне лямбот, сёротне тусть лац, и кда тяфтак кирдендярясы пингонц, сёксенда пяшкодихть утопне сёрода.
+# gloss_en = and NEG without_reason spring:POSS.3SG.SG.NOM fine:PST2.3SG sowing:ABL after immediately go:IND.PST1.3PL good rains.NOM days:DEF.NOM warm:PL grains:DEF.NOM go:IND.PST1.3PL well and if so hold-COND-S3SG>O3SG time:POSS.3SG.SG.ACC in_autumn fill:IND.PRS.S3PL granaries:DEF.NOM grain:ABL 
+# Comment = Бебан, Тундань нармотть 1995: 186; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = And not in vain: spring was fine, they sowed and then it started raining, the days were warm, the grains started growing well, and if it continues like this, in the autumn they will fill the granaries with grains.
+1	И	и	CCONJ	CC	_	3	cc	_	_
+2	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	3	aux:neg	_	GTtags=Aux,Neg
+3	стак	стак	ADV	Adv	_	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	PUNCT	_	6	punct	_	_
+5	тундац	тунда	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj:cop	_	GTtags=Sg,Nom,PxSg3
+6	цебярель	цебярь	ADJ	A	Case=Nom|Clitic=Cop|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=3|Tense=Prt2	3	conj	_	GTtags=Sg,Nom,Indef,Clt/Cop,Prt2,ScSg3|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	11	punct	_	_
+8	видемда	видемс	VERB	V	Case=Abl|VerbForm=Inf	9	advcl	_	GTtags=Inf,Abl
+9	меле	меле	ADV	Adv	_	11	advmod:tmod	_	_
+10	эстокиге	эстокиге	ADV	Adv	AdvType=Tim	11	advmod:tmod	_	GTtags=Sem/Time
+11	тушендсть	тушендомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	3	conj	_	GTtags=Ind,Prt1,ScPl3
+12	пара	пара	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	13	amod	_	GTtags=Sg,Nom,Indef
+13	пизепт	пизем	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	11	nsubj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+14	,	,	PUNCT	PUNCT	_	16	punct	_	_
+15	шитне	ши	NOUN	N	Case=Nom|Definite=Def|Number=Plur	16	nsubj:cop	_	GTtags=Pl,Nom,Def
+16	лямбот	лямбе	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	3	conj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+17	,	,	PUNCT	PUNCT	_	19	punct	_	_
+18	сёротне	сёра	NOUN	N	Case=Nom|Definite=Def|Number=Plur	19	nsubj	_	GTtags=Pl,Nom,Def
+19	тусть	тумс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	3	conj	_	GTtags=Ind,Prt1,ScPl3
+20	лац	лац	ADV	Adv	_	19	advmod	_	SpaceAfter=No
+21	,	,	PUNCT	PUNCT	_	29	punct	_	_
+22	и	и	CCONJ	CC	_	25	cc	_	_
+23	кда	кда	SCONJ	CS	_	25	mark	_	_
+24	тяфтак	тяфтак	ADV	Adv	_	25	advmod	_	_
+25	кирдендярясы	кирдемс	VERB	V	Mood=Cnd|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	29	advcl	_	GTtags=Cond,ScSg3,OcSg3
+26	пингонц	пинге	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	25	obj	_	GTtags=Sg,Gen,PxSg3|SpaceAfter=No
+27	,	,	PUNCT	PUNCT	_	25	punct	_	_
+28	сёксенда	сёксенда	ADV	Adv	AdvType=Tim	29	advmod:tmod	_	GTtags=Sem/Time
+29	пяшкодихть	пяшкодемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,ScPl3
+30	утопне	утом	NOUN	N	Case=Nom|Definite=Def|Number=Plur	29	nsubj	_	GTtags=Pl,Nom,Def
+31	сёрода	сёра	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	29	obl	_	GTtags=SP,Abl,Indef|SpaceAfter=No
+32	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = KehayovP2020:16:Mishanina1993:OzksTumotjTaradonza:16
+# text_orig = …  ańəĺaf ćoranc piŋgä eŕafəń smuźťi tonaftəms, a to ĺadə-ńďäŕä-j ťäďäftəma-aĺäftəma da ńiŋgä kəda urmac vijijäj, jumaj-araj, af ävəndaj famiĺijəń poladivək.
+# text = ... анеляф цёранц пинге эряфонь смузти тонафтомс, а то лядондяряй тядяфтома-аляфтома да нинге кда урмац виияй, юмай-арай, аф эвондай фамилиянь поладывок.
+# gloss_en = coddle:PASS.PTCP boy:POSS.3SG.SG.ACC time life:GEN meaning:ALL teach:INF otherwise remain-COND-3SG without_parents and also if  illness:POSS.3SG.SG.NOM grow_stronger:IND.PRS.3SG vanish:IND.PRS.3SG NEG be_born:IND.PRS.3SG family:GEN progeny:PTCL
+# Comment = Мишанина, Озкс тумоть тарадонза 1993: 16; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = … it is time to teach that coddled boy the meaning of life, otherwise if he becomes an orphan and if his illness gets worse, he will vanish, the family will be left without progeny.
+1	...	...	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+2	анеляф	анелямс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=f|Number=Sing|VerbForm=Part	3	acl	_	GTtags=Der/f,PrfPrc,Sg,Nom,Indef
+3	цёранц	цёра	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nmod:poss	_	GTtags=Sg,Gen,PxSg3
+4	пинге	пинге	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
+5	эряфонь	эряф	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod:poss	_	GTtags=SP,Gen,Indef
+6	смузти	смузь	NOUN	N	Case=Dat|Definite=Def|Number=Sing	7	obl	_	GTtags=Sg,Dat,Def
+7	тонафтомс	тонафтомс	VERB	V	VerbForm=Inf	4	xcomp	_	GTtags=Inf|SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	11	punct	_	_
+9	а	а	CCONJ	CC	_	11	cc	_	_
+10	то	то	SCONJ	CS	_	9	fixed	_	_
+11	лядондяряй	лядомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	19	advcl	_	GTtags=Cond,ScSg3
+12	тядяфтома-аляфтома	тядяфтома-аляфтома	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	11	xcomp	_	GTtags=Sg,Nom,Indef
+13	да	да	CCONJ	CC	_	17	cc	_	_
+14	нинге	нинге	ADV	Adv	AdvType=Tim	17	advmod:tmod	_	GTtags=Sem/Time
+15	кда	кда	SCONJ	CS	_	17	mark	_	_
+16	урмац	урма	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	17	nsubj	_	GTtags=Sg,Nom,PxSg3
+17	виияй	вииямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	11	conj	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
+19-21	юмай-арай	_	_	_	_	_	_	_	_
+19	юмай	юмамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	4	conj	_	GTtags=IV,Ind,Prs,ScSg3,Cmp/Hyph-Serial,Use/Circ,Cmp|Cmp/Hyph
+20	-	-	PUNCT	PUNCT	_	21	punct	_	_
+21	арай	арамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	19	conj	_	GTtags=Ind,Prs,ScSg3
+22	,	,	PUNCT	PUNCT	_	24	punct	_	_
+23	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	24	aux:neg	_	GTtags=Aux,Neg
+24	эвондай	эвондамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	19	conj	_	GTtags=Ind,Prs,ScSg3
+25	фамилиянь	фамилия	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	26	nmod	_	GTtags=SP,Gen,Indef
+26	поладывок	поладывок	VERB	V	Clitic=Add|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	24	nsubj	_	GTtags=Ind,Prs,ScSg3,Clt/Add|SpaceAfter=No
+27	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = KehayovP2020:17:Gorjkij01011955:LomanjShireva:
+# text_orig = Kəda ba son lotka-ĺ korχtamda, ušədə-ĺə-ń ba mon, …
+# text = Кда ба сон лоткаль корхтамда, ушедолень ба мон ...
+# gloss_en = if IRR.PTCL s/he stop-CONJ.3SG speaking:ABL start-CONJ-S1SG IRR.PTCL I
+# Comment = Gor’kij 01.01.1955: Lomаnenʹ širevа; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = If he had stopped speaking, I would have started, …
+1	Кда	кда	SCONJ	CS	_	4	mark	_	_
+2	ба	ба	AUX	Pcle	Mood=Cnd|VerbType=Aux	4	aux:cnd	_	GTtags=Aux,Cond
+3	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
+4	лоткаль	лоткамс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Conj,ScSg3
+5	корхтамда	корхтамс	VERB	V	Case=Abl|VerbForm=Inf	4	obl	_	GTtags=Inf,Abl|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	4	punct	_	_
+7	ушедолень	ушедомс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=1	0	root	_	GTtags=Conj,ScSg1
+8	ба	ба	AUX	Pcle	Mood=Cnd|VerbType=Aux	7	aux:cnd	_	GTtags=Aux,Cond
+9	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom|SpaceAfter=No
+10	...	...	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = KehayovP2020:18:Beban1995:TundanjNarmottj:31
+# text_orig = Kolχozu, korχtan, afə-ľǝ-ť ana pŕä, nužaś stardə-ńďäŕä-tanza.
+# text = Колхозу, корхтан, афолеть ана пря, нужась стардондярятанза.
+# gloss_en = kolkhoz:LAT say:IND.PRS:S1SG NEG-CONJ-2SG beg.CNG head.NOM need:DEF.NOM compel-COND-S3SG>O2SG
+# Comment = Бебан, Тундань нармотть 1995: 31; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = I’m telling you – you won’t show off in the kolkhoz, if the need compels you.
+1	Колхозу	колхоз	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=SP,Lat,Indef|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	корхтан	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	6	parataxis	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	афолеть	аф	AUX	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Polarity=Neg|VerbType=Aux	6	aux:neg	_	GTtags=Aux,Neg,Conj,ScSg2
+6	ана	анамс	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg
+7	пря	пря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	6	punct	_	_
+9	нужась	нужа	NOUN	N	Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	GTtags=Sg,Nom,Def
+10	стардондярятанза	стардомс	VERB	V	Mood=Cnd|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|Valency=2	6	advcl	_	GTtags=TV,Cond,ScSg3,OcSg2|SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = KehayovP2020:19:Terioshkina1991:SajAkshaLishmosa:43
+# text_orig = A kadə-ńďäŕä-sak ťaftak, Škajś vanə-za-źä, kaťi-meźä ľiśi.
+# text = А кадондярясак тяфтак, Шкайсь ванозазе, кати-мезе лиси.
+# gloss_en = and leave-COND-S2SG>O3SG in_this_way God:DEF.NOM see-OPT-PST1.S3SG>O3SG what.NOM come_out:IND.PRS.3SG
+# Comment = Терёшкина, Сай акша лишмоса 1991: 43; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = And if you leave it like this, may God see what comes of it.
+1	А	а	CCONJ	CC	_	2	cc	_	_
+2	кадондярясак	кадомс	VERB	V	Mood=Cnd|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	9	advcl	_	GTtags=Cond,ScSg2,OcSg3
+3	тяфтак	тяфтак	ADV	Adv	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	6	punct	_	_
+5	Шкайсь	Шкай	NOUN	N	Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	GTtags=Prop,Sg,Nom,Def
+6	ванозазе	ванозазе	VERB	V	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	9	advcl	_	GTtags=Opt,ScSg3,OcSg3|SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	6	punct	_	_
+8	кати-мезе	кати-мезе	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	GTtags=Indef,Sg,Nom
+9	лиси	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg3|SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = KehayovP2020:20:Kaganovich1929:GosudarstvanjZajmatnia
+# text_orig = Kepəťksəńďi, putə-ńďäŕä-j kodaməvək lomańć vanftəms 225 calkovajń piťńä obligacijat, esta son vanftəməda karmaj  pandəma kizəťi 7 ťŕošńəkt.
+# text = Кепотьксонди, путондяряй кодамовок ломанць ванфтомс 225 цалковайнь питня облигацият, эста сон ванфтомода кармай пандома кизоти 7 трёшнект.
+# gloss_en = for_example put-COND-S3SG any_kind person.NOM  save:INF 225 rouble:GEN value.NOM bonds.NOM then s/he.NOM deposit:ABL begin:IND.PRS.3SG pay:INF year:ALL 7 kopek:PL   
+# Comment = Kаgаnovič 01.01.1929: Gosudаrstvаnʹ zаjmаtnâ; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = For example, if a person saves 225 roubles’ worth of bonds, then s/he will earn from them 7 kopeks every year.
+1	Кепотьксонди	кепотькс	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	15	obl	_	GTtags=SP,Dat,Indef|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	путондяряй	путомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	15	advcl	_	GTtags=Cond,ScSg3
+4	кодамовок	кодамовок	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	5	amod	_	GTtags=Indef,Sg,Nom
+5	ломанць	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def
+6	ванфтомс	ванфтомс	VERB	V	VerbForm=Inf	3	advcl	_	GTtags=Inf
+7	225	225	NUM	Num	Arab|Case=Nom|Number=Sing	8	nummod	_	GTtags=Arab,Sg,Nom
+8	цалковайнь	цалковай	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	9	nmod	_	GTtags=Err/Orth,SP,Gen,Indef
+9	питня	питне	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	nmod	_	GTtags=Sg,Nom,Indef,Err/Orth-lowered-final-e-2-ja
+10	облигацият	облигация	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	3	obj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+11	,	,	PUNCT	PUNCT	_	3	punct	_	_
+12	эста	эста	ADV	Adv	Case=Ela	15	advmod	_	GTtags=Ela
+13	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	GTtags=Pers,Sg3,Nom
+14	ванфтомода	ванфтомс	VERB	V	Case=Abl|VerbForm=Inf	15	obl	_	GTtags=Inf,Abl
+15	кармай	кармамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg3
+16	пандома	пандомс	VERB	V	Case=Loc|VerbForm=Inf	15	xcomp	_	GTtags=Inf,Loc
+17	кизоти	киза	NOUN	N	Case=Dat|Definite=Def|Number=Sing	16	obl	_	GTtags=Sg,Dat,Def
+18	7	7	NUM	Num	Arab|Case=Nom|Number=Sing	19	nummod	_	GTtags=Arab,Sg,Nom
+19	трёшнект	трёшнек	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	16	obj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+20	.	.	PUNCT	PUNCT	_	15	punct	_	_
+
+# sent_id = KehayovP2020:21:
+# text_orig = Meźä mäŕgan, kiźəfťə-ńďäŕä-samaź lomaťť, koda eŕat-aščat ton, moń fkä śaka śťiŕńəźä?
+# text = Мезе мярьган, кизефтендярясамазь ломатть, кода эрят-ащат тон, монь фкя сяка стирнязе?
+# gloss_en = what.NOM say:IND.PRS.S1SG ask-COND-S3PL>O1SG people.NOM how live:IND.PRS.2SG-dwell:IND.PRS.2SG you.NOM my one_and_only daughter:DIM:POSS.1SG.SG.NOM
+# Comment = Девин, Нардише 1991: 85; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = What do I say, if people ask me, how you are – you, my only daughter?
+1	Мезе	мезе	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	2	obj	_	GTtags=Interr,Sg,Nom
+2	мярьган	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	кизефтендярясамазь	кизефтемс	VERB	V	Mood=Cnd|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=1|Person[subj]=3	2	advcl	_	GTtags=Cond,ScPl3,OcSg1
+5	ломатть	ломань	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	4	nsubj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	кода	кода	ADV	Adv	_	8	advmod	_	_
+8-10	эрят-ащат	_	_	_	_	_	_	_	_
+8	эрят	эрямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	4	ccomp	_	GTtags=IV,Ind,Prs,ScSg2,Cmp/Hyph-Serial,Use/Circ
+9	-	_	PUNCT	PUNCT	_	10	punct	_	_
+10	ащат	ащемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	8	conj	_	GTtags=Ind,Prs,ScSg2
+11	тон	тон	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	GTtags=Pers,Sg2,Nom|SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	16	punct	_	_
+13	монь	мон	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	16	dep	_	GTtags=Pers,Sg1,Gen
+14	фкя	фкя	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	16	nummod	_	GTtags=Card,Sg,Nom,Indef
+15	сяка	сяка	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing	16	det	_	GTtags=Sg,Nom,Indef
+16	стирнязе	стирня	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	11	appos	_	GTtags=Sg,Nom,PxSg1|SpaceAfter=No
+17	?	?	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = KehayovP2020:22:Beban1995:TundanjNarmottj:145
+# text_orig = Miń ruzavańkä, odńək-śiŕəńək, ńäjə-ńďäŕä-jχť fotograf, laśkəź-laśkijχť.
+# text = Минь рузаваньке, однек-сиренек, няендяряйхть фотограф, ласькозь-ласькихть.
+# gloss_en = our Russian_woman:POSS.1PL.PL young:COM-old:COM see-COND-S3PL photographer.NOM  run:CVB-run:IND.PRS.3PL
+# Comment = Бебан, Тундань нармотть 1995: 145; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# text_en = Our Russian women, young and old, if they see a photographer, they run fast.
+1	Минь	мон	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	det	_	GTtags=Pers,Pl1,Gen
+2	рузаваньке	рузава	NOUN	N	Case=Nom|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	11	nsubj	_	GTtags=SP,Nom,PxPl1|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	однек-сиренек	однек-сиренек	ADV	Adv	_	2	appos	_	SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	няендяряйхть	няемс	VERB	V	Mood=Cnd|Number[subj]=Plur|Person[subj]=3	11	advcl	_	GTtags=Cond,ScPl3
+7	фотограф	фотограф	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	6	punct	_	_
+9-11	ласькозь-ласькихть	_	_	_	_	_	_	_	SpaceAfter=No
+9	ласькозь	ласькомс	VERB	V	VerbForm=Conv	11	advcl	_	GTtags=Conv
+10	-	-	PUNCT	PUNCT	_	9	punct	_	_
+11	ласькихть	ласькомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
