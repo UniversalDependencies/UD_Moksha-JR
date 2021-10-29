@@ -2165,7 +2165,7 @@
 3	приметазе	приметамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3
 4	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg3,Nom|SpaceAfter=No
 5	:	:	PUNCT	PUNCT	_	8	punct	_	_
-6	Советский	Советский	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	7	nmod	_	GTtags=Prop,Sem/Mal-Sur,Sg,Nom,Indef
+6	Советский	Советский	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	7	nmod	_	GTtags=Prop,Sem/Mal-Sur,Sg,Nom,Indef
 7	ульцява	ульця	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	8	obl:lmp	_	GTtags=SP,Prl,Indef
 8	ласьки	ласькомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	3	ccomp	_	GTtags=Ind,Prs,ScSg3
 9	ава	ава	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	8	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
@@ -3851,7 +3851,7 @@
 # gloss_en = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən chatter:INF suffice:IND.PRS.3SG two days
 # Comment = Кирдяшкин, Кели Мокша 1953: 8; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Otherwise, if I begin chattering about the lives of the women, it will take two days.
-1 Ату	Ату	Adv	_	_	3	advmod	_	_
+1	Ату	ату	ADV	Adv	_	3	advmod	_	_
 2	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg1,Nom
 3	ушедондярян	ушедомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=1	8	advcl	_	GTtags=Cond,ScSg1
 4	аватнень	ава	NOUN	N	Case=Gen|Definite=Def|Number=Plur	5	nmod:poss	_	GTtags=Pl,Gen,Def
@@ -3898,7 +3898,7 @@
 # Comment = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = What do you say – why would be our church closed, if the whole village had risen against those antichrists?
 1	Што	што	SCONJ	CS	_	6	advmod	_	_
-2	ли	ли	AUX	_	Pcle|Qst	1	fixed	_	GTtags=Pcle,Qst|SpaceAfter=No
+2	ли	ли	AUX	Pcle	_	1	fixed	_	GTtags=Pcle,Qst|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	мярьгат	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	6	parataxis	_	GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
@@ -3909,7 +3909,7 @@
 10	сембе	сембе	DET	Det	Case=Nom|Definite=Ind|Number=Sing	11	det	_	GTtags=Qnt,Sg,Nom,Indef
 11	велесь	веле	NOUN	N	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	GTtags=Sg,Nom,Def
 12	антихристтнень	антихрист	NOUN	N	Case=Gen|Definite=Def|Number=Plur	13	nmod:poss	_	GTtags=Pl,Gen,Def
-13	каршес	карша	NOUN	N	Relator|Case=Ill|Definite=Ind|Number=Plur,Sing	9	obl	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
+13	каршес	карша	NOUN	N	Case=Ill|Definite=Ind|NounType=Relat|Number=Plur,Sing	9	obl	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
 14	?	?	PUNCT	_	_	6	punct	_	_
 
 # sent_id = KehayovP2020:5b:Devin1991:Nardishe:165:2
@@ -3932,7 +3932,7 @@
 2	эрявондяряй	эрявомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Cond,ScSg3
 3	качка	качка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
-5	-	-	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+5	-	-	PUNCT	PUNCT	_	2	punct	_	_
 6	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
 7	тиян	тиемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
@@ -3942,7 +3942,7 @@
 12	ювадсь	ювадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	7	parataxis	_	GTtags=Ind,Prt1,ScSg3
 13	голландка	голландка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	12	obl:lmod	_	GTtags=Sg,Nom,Indef
 14	фталда	фталда	ADP	Adp	Case=Abl	13	case	_	GTtags=Abl
-15	Пивкин	Пивкин	NOUN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	12	nsubj	_	GTtags=Prop,Sem/Mal-Sur,Sg,Nom,Indef|SpaceAfter=No
+15	Пивкин	Пивкин	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	12	nsubj	_	GTtags=Prop,Sem/Mal-Sur,Sg,Nom,Indef|SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = KehayovP2020:7:Beban1995:TundanjNarmottj:60
@@ -3956,13 +3956,13 @@
 3	аванят	ава	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Plur	11	vocative	_	GTtags=Der/Dimin,Pl,Nom,Indef|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
 5	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	6	aux:neg	_	GTtags=Aux,Neg
-6	озадонь	озадонь	ADJ	A	GenAttr	7	amod	_	GTtags=GenAttr
+6	озадонь	озадонь	ADJ	A	Derivation=GenAttr	7	amod	_	GTtags=GenAttr
 7	седи	седи	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	11	advcl	_	GTtags=Sg,Nom,Indef
 8	улефтяряль	улемс	AUX	V	Mood=NegCndSub|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	7	cop	_	GTtags=NegProt,Conj,ScSg3|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	7	punct	_	_
-10	дяряй	дяряй	PART	Pcle	Mood=Cnd	11	advmod	_	GTtags=Cond
+10	дяряй	дяряй	PART	Pcle	_	11	advmod	_	GTtags=Cond
 11	сявольхце	сявомс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3,OcSg3
-12	илянь	илямс	ADJ	A	VGen	14	amod	_	GTtags=VGen
+12	илянь	иля	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing	14	amod	_	GTtags=VGen
 13	пря	пря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	14	nmod	_	GTtags=Sg,Nom,Indef
 14	урмать	урма	NOUN	N	Case=Gen|Definite=Def|Number=Sing	11	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
 15	,	,	PUNCT	PUNCT	_	11	punct	_	_
