@@ -558,7 +558,7 @@
 7	:	:	PUNCT	CLB	_	11	punct	_	_
 8	гулянять	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	_
 9	пацяняц	паця	NOUN	N	Case=Nom|Derivation=Dimin|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obj	_	_
-10	апак	апак	AUX	Aux	Polarity=Neg	11	aux:neg	_	_
+10	апак	аф	AUX	Aux	Polarity=Neg|VerbForm=Conv,Part	11	aux:neg	_	_
 11	синтть	синдемс	VERB	V	Connegative=Yes|Valency=2	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 
@@ -3102,7 +3102,7 @@
 3	трудясь	трудямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 4	Макарня	Макар	NOUN	N	Case=Nom|Derivation=Dimin|Number=Sing	3	nsubj	_	GTtags=Prop,Dimin,Sg,Nom|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_
-6	апак	апак	AUX	Pcle	Polarity=Neg	7	aux:neg	_	GTtags=Neg
+6	апак	аф	AUX	Pcle	Polarity=Neg|VerbForm=Conv,Part	7	aux:neg	_	GTtags=Neg
 7	ваймак	ваймамс	VERB	V	Connegative=Yes	3	xcomp	_	GTtags=ConNegII
 8	эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	9	det	_	GTtags=Sg,Nom,Indef
 9	шиня	ши	NOUN	N	Case=Tem|Definite=Ind|Number=Sing	3	obl:freq	_	GTtags=Sg,Temp,Indef|SpaceAfter=No
@@ -4106,7 +4106,7 @@
 
 # sent_id = KehayovP2020:13:Tiapaev1990:SedjLangsaTol:34:2
 # text_orig = Oformilsja česť -po -česťi, a meĺä śormaćä saś.
-# text = Оформился честь по чести, а меле сёрмаце сась. 
+# text = Оформился честь по чести, а меле сёрмаце сась.
 # gloss_en = [shape:PST:REFL properly]Rus and later letter:POSS.2SG.SG.NOM come:IND.PST1.3SG
 # Comment = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = I matured properly, and then your letter came.
@@ -4417,4 +4417,15 @@
 10	-	-	PUNCT	PUNCT	_	9	punct	_	_
 11	ласькихть	ласькомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3
 12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = AlioshkinA1989a:7
+# text = Удалась ли панжемс ся кенкшсь?
+# Comment = Алёшкин, Арьсемат 1989: 7
+# text_en = Did he manage to open that door?
+1	Удалась	удаламс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
+2	ли	ли	AUX	_	_	1	aux:q	_	GTtags=Qst
+3	панжемс	панжемс	VERB	V	VerbForm=Inf	1	xcomp	_	GTtags=Inf
+4	ся	ся	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	5	det	_	GTtags=Dem,Sg,Nom,Indef
+5	кенкшсь	кенкш	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
+6	?	?	PUNCT	PUNCT	_	1	punct	_	_
 
