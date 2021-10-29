@@ -3948,7 +3948,7 @@
 # sent_id = KehayovP2020:7:Beban1995:TundanjNarmottj:60
 # text_orig = Äŕ, avańät, af ozadəń śeďi uĺə-f-ťäŕäĺ, ďäŕäj śävəĺχćä iĺəń pŕä urmať, …
 # text = Эрь, аванят, аф озадонь седи улефтяряль, дяряй сявольхце илянь пря урмать, ...
-# gloss_en = INTERJ	woman:DIM:PL NEG sitting:GEN	heart.NOM be-NEG-COND.CONJ.3SG EMPH.PTCL take:CONJ:S3SG>O3SG	other:GEN head.NOM illness:DEF.ACC
+# gloss_en = INTERJ	woman:DIM:PL NEG sitting:GEN heart.NOM be-NEG-COND.CONJ.3SG EMPH.PTCL take:CONJ:S3SG>O3SG other:GEN head.NOM illness:DEF.ACC
 # Comment = Бебан, Тундань нармотть 1995: 60; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Well – (such are) women – if her heart were not upset, would she have taken over the worries of other people!?
 1	Эрь	эрь	INTJ	Interj	_	11	discourse	_	SpaceAfter=No
@@ -3958,7 +3958,7 @@
 5	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	6	aux:neg	_	GTtags=Aux,Neg
 6	озадонь	озадонь	ADJ	A	GenAttr	7	amod	_	GTtags=GenAttr
 7	седи	седи	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	11	advcl	_	GTtags=Sg,Nom,Indef
-8	улефтяряль	улемс	AUX	V	Mood=Sub|Number[subj]=Sing|NegProt|Person[subj]=3	7	cop	_	GTtags=NegProt,Conj,ScSg3|SpaceAfter=No
+8	улефтяряль	улемс	AUX	V	Mood=NegCndSub|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	7	cop	_	GTtags=NegProt,Conj,ScSg3|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	7	punct	_	_
 10	дяряй	дяряй	PART	Pcle	Mood=Cnd	11	advmod	_	GTtags=Cond
 11	сявольхце	сявомс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3,OcSg3
@@ -4015,7 +4015,7 @@
 
 # sent_id = KehayovP2020:10:Kaganovich01011929:GosudarstvanjZajmatnia
 # text_orig = A ĺemfťəma maksf kvitanćijaś uĺi koda  maksəms kińďi -povś, no juma-ńďäŕä-j, esta soń vastzənza od kvitanćija af maksijχť.
-# text = А лемфтома максф квитанциясь ули кода максомс кинди повсь, но юмандяряй, эста сонь вастознза од квитанция аф максыхть.
+# text = А лемфтома максф квитанциясь ули кода максомс кинди повсь, но юмандяряй, эста сонь вастозонза од квитанция аф максыхть.
 # gloss_en = and namelessly give:PST.PASS.PTCP receipt:DEF.NOM be.IND.PRS.3SG how  give:INF anyone:ALL but disappear-COND-3SG then it.GEN place:ILL:POSS.3SG.SG new.NOM receipt.NOM NEG give:IND.PRS.S3PL
 # Comment = Kаgаnovič 01.01.1929: Gosudаrstvаnʹ zаjmаtnâ; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = And an anonymous receipt can be given to anyone, but if it is lost, then a new one cannot be substituted for it.
@@ -4059,7 +4059,7 @@
 
 # sent_id = KehayovP2020:12:Devin1991:Nardishe:93
 # text_orig = A zavtrakamsta koj, abedamsta-užnamsta ańćək i  kuĺat śaka valənc: “Jarχcada, jarχcada …” bəta af mäŕgə-ńďäŕä-j ťafta, lomaťťńä iĺadijχť  vačədəńä.
-# text = А завтракамста кой, обедамста-ужнамста аньцек и кулят сяка валонц: "Ярхцада , ярхцада . . . ", бта аф мярьгондяряй тяфта, ломаттне илядыхть вачедоня.
+# text = А завтракамста кой, обедамста-ужнамста аньцек и кулят сяка валонц: "Ярхцада, ярхцада ... ", бта аф мярьгондяряй тяфта, ломаттне илядыхть вачедоня.
 # gloss_en = but eat_breakfast:CVB habit eat_lunch:CVB-eat_dinner:CVB only PTCL hear:IND.PRS.2SG same word:ACC:POSS.3SG.SG eat:IMP.2PL eat:IMP.2PL as_if NEG say-COND-S3SG so  people:DEF remain:IND.PRS.3PL hungry:DIM
 # Comment = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = But at breakfast time, at lunch or dinner, you constantly hear her saying: “Eat, eat …”, as though, if she doesn’t/wouldn’t urge people on, they will/would remain hungry.
@@ -4074,12 +4074,12 @@
 9	сяка	сяка	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing	10	det	_	GTtags=Sg,Nom,Indef
 10	валонц	вал	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Gen,PxSg3|SpaceAfter=No
 11	:	:	PUNCT	_	_	13	punct	_	_
-12	"	_	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
+12	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
 13	Ярхцада	ярхцамс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	10	appos	_	GTtags=Imprt,ScPl2|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	ярхцада	ярхцамс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	13	conj	_	GTtags=Imprt,ScPl2|SpaceAfter=No
-16	...	...	PUNCT	_	_	15	punct	_	SpaceAfter=No
-17	"	_	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+15	ярхцада	ярхцамс	VERB	V	Mood=Imp|Number[subj]=Plur|Person[subj]=2	13	conj	_	GTtags=Imprt,ScPl2
+16	...	...	PUNCT	_	_	15	punct	_	_
+17	"	"	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
 19	бта	бта	ADV	Adv	_	21	mark	_	_
 20	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	21	aux:neg	_	GTtags=Aux,Neg
