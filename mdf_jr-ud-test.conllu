@@ -3849,7 +3849,7 @@
 # text_orig = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən azəŋkšńəma, sati kafta šit.
 # text = Ату мон ушедондярян аватнень эряфснон азонкшнема, саты кафта шит.
 # gloss_en = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən chatter:INF suffice:IND.PRS.3SG two days
-# Comment = Кирдяшкин, Кели Мокша 1953: 8; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Кирдяшкин, Кели Мокша 1953: 8; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Otherwise, if I begin chattering about the lives of the women, it will take two days.
 1	Ату	ату	ADV	Adv	_	3	advmod	_	_
 2	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg1,Nom
@@ -3867,7 +3867,7 @@
 # text_orig = Uĺə-ńďäŕäĺ kudsa, noldaĺəźä.
 # text = Улендяряль кудса, нолдалезе.
 # gloss_en = be-COND.CONJ.3SG at_home let_in:CONJ:S3SG>O3SG
-# Comment = Тяпаев, Седь лангса тол 1990: 266; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Тяпаев, Седь лангса тол 1990: 266; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = If she were at home, she would have let him in.
 1	Улендяряль	улемс	AUX	V	Mood=CndSub|Number[subj]=Sing|Person[subj]=3	2	cop	_	GTtags=Cond,Conj,ScSg3
 2	кудса	куд	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	advcl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
@@ -3879,7 +3879,7 @@
 # text_orig = Odu savə-ńďäŕä-j veńćams, tonga ťafta ťik svaďbaćəń.
 # text = Оду савондяряй венцямс, тонга тяфта тик свадьбацень.
 # gloss_en = again have_to-COND-3SG marry:INF you.NOM:CL like_this do:IMP.2SG wedding:POSS.2SG.SG:ACC
-# Comment = Девин, Нардише 1991: 144; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Девин, Нардише 1991: 144; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = If you have to marry again, make your wedding also like this!
 1	Оду	оду	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
 2	савондяряй	савомс	AUX	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	3	aux	_	GTtags=Cond,ScSg3
@@ -3895,7 +3895,7 @@
 # text_orig = Što ĺi, mäŕgat, śoĺgəvəĺ ćeŕkavəńkä, ĺiśə-ńďäŕäĺ śеmbä veĺəś ańťiχristťńəń karšəs?
 # text = Што ли, мярьгат, сёлговоль церькавоньке, лисендяряль сембе велесь антихристтнень каршес?
 # gloss_en = what	Q(yes/no)	say:IND.PRS.2SG	close:PASS:CONJ.3SG	church:POSS.1PL.SG rise-COND.CONJ.3SG	whole	village:DEF.NOM	antichrist:PL.DEF:GEN	against:ILL
-# Comment = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = What do you say – why would be our church closed, if the whole village had risen against those antichrists?
 1	Што	што	SCONJ	CS	_	6	advmod	_	_
 2	ли	ли	AUX	Pcle	_	1	fixed	_	GTtags=Pcle,Qst|SpaceAfter=No
@@ -3916,7 +3916,7 @@
 # text_orig = Afəĺ śoĺgəv!
 # text = Афоль сёлгов!
 # gloss_en = Afəĺ śoĺgəv!
-# Comment = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = No, it wouldn’t be closed!
 1	Афоль	аф	AUX	_	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|VerbType=Aux	2	aux:neg	_	GTtags=Aux,Neg,Conj,ScSg3
 2	сёлгов	сёлговомс	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
@@ -3926,7 +3926,7 @@
 # text_orig = A eŕavə-ńďäŕä-j kačka, – mon ťijan, af staka, juvaďś gollandka ftalda Pivkin.
 # text = А эрявондяряй качка, - мон тиян, аф стака, ювадсь голландка фталда Пивкин.
 # gloss_en = and be_necessary-COND-3SG cradle.NOM I.NOM make:IND.PRS.S1SG NEG difficult shout:IND.PST1.3SG brick_oven.NOM back:ABL Pivkin
-# Comment = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = And if you need a cradle, – I will make one for you, it’s not difficult – Pivkin shouted from behind the brick oven.
 1	А	а	CCONJ	CC	_	2	cc	_	_
 2	эрявондяряй	эрявомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Cond,ScSg3
@@ -3949,7 +3949,7 @@
 # text_orig = Äŕ, avańät, af ozadəń śeďi uĺə-f-ťäŕäĺ, ďäŕäj śävəĺχćä iĺəń pŕä urmať, …
 # text = Эрь, аванят, аф озадонь седи улефтяряль, дяряй сявольхце илянь пря урмать, ...
 # gloss_en = INTERJ	woman:DIM:PL NEG sitting:GEN heart.NOM be-NEG-COND.CONJ.3SG EMPH.PTCL take:CONJ:S3SG>O3SG other:GEN head.NOM illness:DEF.ACC
-# Comment = Бебан, Тундань нармотть 1995: 60; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Бебан, Тундань нармотть 1995: 60; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Well – (such are) women – if her heart were not upset, would she have taken over the worries of other people!?
 1	Эрь	эрь	INTJ	Interj	_	11	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	_	_
@@ -3972,7 +3972,7 @@
 # text_orig = Konaškava mazijχť siń valsna.
 # text = Конашкава мазыхть синь валсна.
 # gloss_en = how beautiful:PRS.3SG their word:POSS.3PL.PL.NOM
-# Comment = Терёшкина, Сай акша лишмоса 1991: 169; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Терёшкина, Сай акша лишмоса 1991: 169; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = How beautiful are their words!
 1	Конашкава	конашкава	ADV	Adv	_	2	advmod	_	_
 2	мазыхть	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	0	root	_	GTtags=Pl,Nom,Indef
@@ -3984,7 +3984,7 @@
 # text_orig = Konaškava mazijχť siń valsna. Kasə-ńďäŕä-n, objazaťeĺna tonafńəsa ciganəń käĺť.
 # text = Касондярян, обязательна тонафнеса цыганонь кяльть.
 # gloss_en = how beautiful:PRS.3SG their word:POSS.3PL.PL.NOM grow_up-COND-1SG necessarily	learn:IND.PRS.S1SG>O3SG Romani:GEN language:DEF.ACC
-# Comment = Терёшкина, Сай акша лишмоса 1991: 169; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Терёшкина, Сай акша лишмоса 1991: 169; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = When (lit. if) I grow up, I will learn the Romani language.
 1	Касондярян	касомс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=1	4	advcl	_	GTtags=Cond,ScSg1|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
@@ -3998,7 +3998,7 @@
 # text_orig = Tʼä ńiŋgä lac ašəź matədəv, a matədəvə-ńďäŕä-j, kiŕďəst śťenaťńä.
 # text = Тя нинге лац ашезь матодов, а матодовондяряй, кирдест стенатне.
 # gloss_en = this.NOM yet well NEG.PST1.3SG fall_asleep.CNG and fall_asleep-COND-3SG hold_up:IND.PST1.3PL wall:PL.DEF.NOM
-# Comment = Мишанина, Озкс тумоть тарадонза 1993: 56; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Мишанина, Озкс тумоть тарадонза 1993: 56; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = He was not asleep yet, and even if he was, the walls were holding up.
 1	Тя	тя	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	5	nsubj	_	GTtags=Dem,Sg,Nom,Indef
 2	нинге	нинге	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
@@ -4017,7 +4017,7 @@
 # text_orig = A ĺemfťəma maksf kvitanćijaś uĺi koda  maksəms kińďi -povś, no juma-ńďäŕä-j, esta soń vastzənza od kvitanćija af maksijχť.
 # text = А лемфтома максф квитанциясь ули кода максомс кинди повсь, но юмандяряй, эста сонь вастозонза од квитанция аф максыхть.
 # gloss_en = and namelessly give:PST.PASS.PTCP receipt:DEF.NOM be.IND.PRS.3SG how  give:INF anyone:ALL but disappear-COND-3SG then it.GEN place:ILL:POSS.3SG.SG new.NOM receipt.NOM NEG give:IND.PRS.S3PL
-# Comment = Kаgаnovič 01.01.1929: Gosudаrstvаnʹ zаjmаtnâ; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Kаgаnovič 01.01.1929: Gosudаrstvаnʹ zаjmаtnâ; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = And an anonymous receipt can be given to anyone, but if it is lost, then a new one cannot be substituted for it.
 1	А	а	CCONJ	CC	_	7	cc	_	_
 2	лемфтома	лем	NOUN	N	Case=Abe|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Abe,Indef
@@ -4045,7 +4045,7 @@
 # text_orig = Śasi korχtan, ĺezdə-ńďäŕä-tada jarmaksa, vajməńkəń targasaśk.
 # text = Сясы корхтан, лездондярятада ярмакса, ваймоньконь таргасаськ.
 # gloss_en = therefore say:IND.PRS:1SG help-COND-S2PL money:INE soul:POSS.1PL.SG:ACC pull:IND.PRS.S1PL>O3SG
-# Comment = Бебан, Тундань нармотть 1995: 118; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Бебан, Тундань нармотть 1995: 118; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Therefore I’m saying – if you help us with money, we will pull through.
 1	Сясы	сяс	ADV	Adv	Clitic=I	2	advmod	_	_
 2	корхтан	корхтамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
@@ -4061,7 +4061,7 @@
 # text_orig = A zavtrakamsta koj, abedamsta-užnamsta ańćək i  kuĺat śaka valənc: “Jarχcada, jarχcada …” bəta af mäŕgə-ńďäŕä-j ťafta, lomaťťńä iĺadijχť  vačədəńä.
 # text = А завтракамста кой, обедамста-ужнамста аньцек и кулят сяка валонц: "Ярхцада, ярхцада ... ", бта аф мярьгондяряй тяфта, ломаттне илядыхть вачедоня.
 # gloss_en = but eat_breakfast:CVB habit eat_lunch:CVB-eat_dinner:CVB only PTCL hear:IND.PRS.2SG same word:ACC:POSS.3SG.SG eat:IMP.2PL eat:IMP.2PL as_if NEG say-COND-S3SG so  people:DEF remain:IND.PRS.3PL hungry:DIM
-# Comment = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = But at breakfast time, at lunch or dinner, you constantly hear her saying: “Eat, eat …”, as though, if she doesn’t/wouldn’t urge people on, they will/would remain hungry.
 1	А	а	CCONJ	CC	_	3	cc	_	_
 2	завтракамста	завтракамс	VERB	V	Case=Ela|VerbForm=Conv	3	advcl:tcl	_	GTtags=Ger,Ela
@@ -4095,7 +4095,7 @@
 # text_orig = Śergej, učiĺiščasa storəšks rabotan!
 # text = Сергей, училищаса сторожкс работан!
 # gloss_en = Sergej school:INE guard:TRNSL work:IND.PRS.1SG
-# Comment = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Sergej, I work as school guard!
 1	Сергей	Сергей	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	vocative	_	GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	GTtags=PUNCT
@@ -4108,7 +4108,7 @@
 # text_orig = Oformilsja česť -po -česťi, a meĺä śormaćä saś.
 # text = Оформился честь по чести, а меле сёрмаце сась.
 # gloss_en = [shape:PST:REFL properly]Rus and later letter:POSS.2SG.SG.NOM come:IND.PST1.3SG
-# Comment = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = I matured properly, and then your letter came.
 1	Оформился	Оформился	X	_	_	9	dep	_	_
 2	честь	честь	X	_	_	1	dep	_	_
@@ -4125,7 +4125,7 @@
 # text_orig = Śergej, učiĺiščasa storəšks rabotan! Oformilsja česť -po -česťi, a meĺä śormaćä saś. Sa-ńďäŕäĺ śada rana, šäť, aŕśəĺəń  – arams iĺi af storəšks.
 # text = Сандяряль сяда рана, шять, арьселень - арамс или аф сторожкс.
 # gloss_en = come:IND.PST1.3SG come-COND.CONJ.3SG more early maybe think:CONJ:1SG become:INF or NEG guard:TRNSL
-# Comment = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Had it come earlier, I would have thought – to become or not a guard.
 1	Сандяряль	самс	VERB	V	Mood=CndSub|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Cond,Conj,ScSg3
 2	сяда	сяда	ADV	Adv	AdvType=Deg	3	advmod	_	GTtags=Deg
@@ -4145,7 +4145,7 @@
 # text_orig = A koda laďaĺ utəmńaś ťejst, ńä šočkńəń ezda ťijemacka meźəvək aš, anək šapft.
 # text = А кода ладяль утомнясь тейст, ня шочкнень эзда тиемацка мезевок аш, анок шапфт.
 # gloss_en = and how build_up:CONJ.S3SG barn:DEF.NOM they:DAT those log:PL.DEF:GEN from making:PTCL nothing NEG.EXIST ready notch:PST.PASS.PTCP:PL
-# Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = What if she built up a barn for them – using these logs would be easy, they are already notched.
 1	А	а	CCONJ	CC	_	3	cc	_	_
 2	кода	кода	ADV	Adv	_	3	advmod	_	_
@@ -4168,7 +4168,7 @@
 # text_orig = Kizənda šabanza purəmijχť, fḱä kudsa matńəms aš koza.
 # text = Кизонда шабанза пуромихть, фкя кудса матнемс аш коза.
 # gloss_en = in_summer child:POSS.3SG.PL.NOM gather:IND.PRS.3PL one house:INE put_to_bed:INF NEG.EXIST where
-# Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = In summer, when her children gather, there is no place in the house to accommodate them all.
 1	Кизонда	кизонда	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
 2	шабанза	шаба	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Pl,Nom,PxSg3
@@ -4185,7 +4185,7 @@
 # text_orig = Putən-ńďäŕäĺ-χť utəmńa, kudsta ĺišnaj karχčńəń tov ĺiχťəĺχť da ńiŋgä laďaĺχť tov kravať iĺi mäń kafta.
 # text = Путондяряльхть утомня, кудста лишнай кархчнень тов лихтельхть да нинге ладяльхть тов кровать или мянь кафта.
 # gloss_en = build-COND.CONJ-S3PL barn.NOM house:ELA superfluous housewares:ACC there bury:CONJ:S3PL and also fix_up:CONJ:S3PL there bed.NOM or even two
-# Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = If they were to build a barn, they could store the superfluous housewares and fix up a bed or even two there.
 1	Путондяряльхть	путомс	VERB	V	Mood=CndSub|Number[subj]=Plur|Person[subj]=3	8	advcl	_	GTtags=Cond,Conj,ScPl3
 2	утомня	утом	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	1	obj	_	GTtags=Pl,Nom,PxSg1,Err/Orth-lowered-final-e-2-ja|SpaceAfter=No
@@ -4209,7 +4209,7 @@
 # text_orig = Kizənda šabaťńəńďi uťcəms aru kožfkasa konaškava para.
 # text = Кизонда шабатненди утцемс ару кожфкаса конашкава пара.
 # gloss_en = in_summer child:PL.DEF:DAT sleep:INF clear air:INE  how_much good
-# Comment = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = It is much better for the children to sleep in fresh air in summer.
 1	Кизонда	кизонда	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
 2	шабатненди	шаба	NOUN	N	Case=Dat|Definite=Def|Number=Plur	3	obl	_	GTtags=Pl,Dat,Def
@@ -4224,7 +4224,7 @@
 # text_orig = I af stak: tundac ćebäŕəĺ, viďəmda meĺä estəkigä tušəndśť para piźəpt, šiťńä ĺämbət, śorəťńä tuśť lac, i kəda ťaftak kiŕďə-ńďäŕä-si piŋgənc, śokśənda päškəďijχť utəpńä śorəda.
 # text = И аф стак: тундац цебярель, видемда меле эстокиге тушендсть пара пизепт, шитне лямбот, сёротне тусть лац, и кда тяфтак кирдендярясы пингонц, сёксенда пяшкодихть утопне сёрода.
 # gloss_en = and NEG without_reason spring:POSS.3SG.SG.NOM fine:PST2.3SG sowing:ABL after immediately go:IND.PST1.3PL good rains.NOM days:DEF.NOM warm:PL grains:DEF.NOM go:IND.PST1.3PL well and if so hold-COND-S3SG>O3SG time:POSS.3SG.SG.ACC in_autumn fill:IND.PRS.S3PL granaries:DEF.NOM grain:ABL 
-# Comment = Бебан, Тундань нармотть 1995: 186; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Бебан, Тундань нармотть 1995: 186; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = And not in vain: spring was fine, they sowed and then it started raining, the days were warm, the grains started growing well, and if it continues like this, in the autumn they will fill the granaries with grains.
 1	И	и	CCONJ	CC	_	3	cc	_	_
 2	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	3	aux:neg	_	GTtags=Aux,Neg
@@ -4263,7 +4263,7 @@
 # text_orig = … ańəĺaf ćoranc piŋgä eŕafəń smuźťi tonaftəms, a to ĺadə-ńďäŕä-j ťäďäftəma-aĺäftəma da ńiŋgä kəda urmac vijijäj, jumaj-araj, af ävəndaj famiĺijəń poladivək.
 # text = ... анеляф цёранц пинге эряфонь смузти тонафтомс, а то лядондяряй тядяфтома-аляфтома да нинге кда урмац виияй, юмай-арай, аф эвондай фамилиянь поладывок.
 # gloss_en = coddle:PASS.PTCP boy:POSS.3SG.SG.ACC time life:GEN meaning:ALL teach:INF otherwise remain-COND-3SG without_parents and also if  illness:POSS.3SG.SG.NOM grow_stronger:IND.PRS.3SG vanish:IND.PRS.3SG NEG be_born:IND.PRS.3SG family:GEN progeny:PTCL
-# Comment = Мишанина, Озкс тумоть тарадонза 1993: 16; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Мишанина, Озкс тумоть тарадонза 1993: 16; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = … it is time to teach that coddled boy the meaning of life, otherwise if he becomes an orphan and if his illness gets worse, he will vanish, the family will be left without progeny.
 1	...	...	PUNCT	PUNCT	_	4	punct	_	_
 2	анеляф	анелямс	VERB	V	Aspect=Perf|Case=Nom|Definite=Ind|Derivation=F|Number=Sing|VerbForm=Part	3	acl	_	GTtags=Der/f,PrfPrc,Sg,Nom,Indef
@@ -4298,7 +4298,7 @@
 # text_orig = Kəda ba son lotka-ĺ korχtamda, ušədə-ĺə-ń ba mon, …
 # text = Кда ба сон лоткаль корхтамда, ушедолень ба мон ...
 # gloss_en = if IRR.PTCL s/he stop-CONJ.3SG speaking:ABL start-CONJ-S1SG IRR.PTCL I
-# Comment = Gor’kij 01.01.1955: Lomаnenʹ širevа; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Gor’kij 01.01.1955: Lomаnenʹ širevа; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = If he had stopped speaking, I would have started, …
 1	Кда	кда	SCONJ	CS	_	4	mark	_	_
 2	ба	ба	AUX	Pcle	Mood=Cnd|VerbType=Aux	4	aux:cnd	_	GTtags=Aux,Cond
@@ -4315,7 +4315,7 @@
 # text_orig = Kolχozu, korχtan, afə-ľǝ-ť ana pŕä, nužaś stardə-ńďäŕä-tanza.
 # text = Колхозу, корхтан, афолеть ана пря, нужась стардондярятанза.
 # gloss_en = kolkhoz:LAT say:IND.PRS:S1SG NEG-CONJ-2SG beg.CNG head.NOM need:DEF.NOM compel-COND-S3SG>O2SG
-# Comment = Бебан, Тундань нармотть 1995: 31; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Бебан, Тундань нармотть 1995: 31; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = I’m telling you – you won’t show off in the kolkhoz, if the need compels you.
 1	Колхозу	колхоз	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=SP,Lat,Indef|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	_	_
@@ -4333,7 +4333,7 @@
 # text_orig = A kadə-ńďäŕä-sak ťaftak, Škajś vanə-za-źä, kaťi-meźä ľiśi.
 # text = А кадондярясак тяфтак, Шкайсь ванозазе, кати-мезе лиси.
 # gloss_en = and leave-COND-S2SG>O3SG in_this_way God:DEF.NOM see-OPT-PST1.S3SG>O3SG what.NOM come_out:IND.PRS.3SG
-# Comment = Терёшкина, Сай акша лишмоса 1991: 43; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Терёшкина, Сай акша лишмоса 1991: 43; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = And if you leave it like this, may God see what comes of it.
 1	А	а	CCONJ	CC	_	2	cc	_	_
 2	кадондярясак	кадомс	VERB	V	Mood=Cnd|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	9	advcl	_	GTtags=Cond,ScSg2,OcSg3
@@ -4350,7 +4350,7 @@
 # text_orig = Kepəťksəńďi, putə-ńďäŕä-j kodaməvək lomańć vanftəms 225 calkovajń piťńä obligacijat, esta son vanftəməda karmaj  pandəma kizəťi 7 ťŕošńəkt.
 # text = Кепотьксонди, путондяряй кодамовок ломанць ванфтомс 225 цалковайнь питня облигацият, эста сон ванфтомода кармай пандома кизоти 7 трёшнект.
 # gloss_en = for_example put-COND-S3SG any_kind person.NOM  save:INF 225 rouble:GEN value.NOM bonds.NOM then s/he.NOM deposit:ABL begin:IND.PRS.3SG pay:INF year:ALL 7 kopek:PL   
-# Comment = Kаgаnovič 01.01.1929: Gosudаrstvаnʹ zаjmаtnâ; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Kаgаnovič 01.01.1929: Gosudаrstvаnʹ zаjmаtnâ; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = For example, if a person saves 225 roubles’ worth of bonds, then s/he will earn from them 7 kopeks every year.
 1	Кепотьксонди	кепотькс	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	15	obl	_	GTtags=SP,Dat,Indef|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	_	_
@@ -4377,7 +4377,7 @@
 # text_orig = Meźä mäŕgan, kiźəfťə-ńďäŕä-samaź lomaťť, koda eŕat-aščat ton, moń fkä śaka śťiŕńəźä?
 # text = Мезе мярьган, кизефтендярясамазь ломатть, кода эрят-ащат тон, монь фкя сяка стирнязе?
 # gloss_en = what.NOM say:IND.PRS.S1SG ask-COND-S3PL>O1SG people.NOM how live:IND.PRS.2SG-dwell:IND.PRS.2SG you.NOM my one_and_only daughter:DIM:POSS.1SG.SG.NOM
-# Comment = Девин, Нардише 1991: 85; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Девин, Нардише 1991: 85; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = What do I say, if people ask me, how you are – you, my only daughter?
 1	Мезе	мезе	PRON	Pron	Case=Nom|Number=Sing|PronType=Int	2	obj	_	GTtags=Interr,Sg,Nom
 2	мярьган	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
@@ -4402,7 +4402,7 @@
 # text_orig = Miń ruzavańkä, odńək-śiŕəńək, ńäjə-ńďäŕä-jχť fotograf, laśkəź-laśkijχť.
 # text = Минь рузаваньке, однек-сиренек, няендяряйхть фотограф, ласькозь-ласькихть.
 # gloss_en = our Russian_woman:POSS.1PL.PL young:COM-old:COM see-COND-S3PL photographer.NOM  run:CVB-run:IND.PRS.3PL
-# Comment = Бебан, Тундань нармотть 1995: 145; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
+# source = Бебан, Тундань нармотть 1995: 145; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Our Russian women, young and old, if they see a photographer, they run fast.
 1	Минь	мон	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	det	_	GTtags=Pers,Pl1,Gen
 2	рузаваньке	рузава	NOUN	N	Case=Nom|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	11	nsubj	_	GTtags=SP,Nom,PxPl1|SpaceAfter=No
@@ -4420,7 +4420,7 @@
 
 # sent_id = AlioshkinA1989a:7
 # text = Удалась ли панжемс ся кенкшсь?
-# Comment = Алёшкин, Арьсемат 1989: 7
+# source = Алёшкин, Арьсемат 1989: 7
 # text_en = Did he manage to open that door?
 1	Удалась	удаламс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 2	ли	ли	AUX	_	_	1	aux:q	_	GTtags=Qst
