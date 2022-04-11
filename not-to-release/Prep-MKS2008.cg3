@@ -1,1699 +1,4128 @@
-# sent_id = MKS:2008:13:1:Kirdjashkin
-# text = Кератань козялятне нинге сяда хитрайста тисть.
-1	Кератань	Керата	N	_	Prop|SP|Gen|Indef	2	nmod	_	_
-2	козялятне	козяля	N	_	Pl|Nom|Def	6	nsubj	_	_
-3	нинге	нинге	Adv	_	Sem/Time	6	advmod:tmod	_	_
-4	сяда	сяда	Adv	_	Deg	5	advmod:deg	_	_
-5	хитрайста	хитрайста	Adv	_	Manner	6	advmod:mmod	_	_
-6	тисть	тиемс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = MKS:2008:13:2:MoiseevM
-# text = Кепсеви ломанть мялец, сон няеви нинге сяда мазыста и павазуста.
-1	Кепсеви	кепсевомс	V	_	Ind|Prs|ScSg3	0	root	_	_
-2	ломанть	ломань	N	_	Sg|Gen|Def	3	nmod:poss	_	_
-3	мялец	мяль	N	_	Sg|Nom|PxSg3	1	nsubj	_	_
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	сон	сон	Pron	_	Pers|Sg3|Nom	6	nsubj	_	_
-6	няеви	няевомс	V	_	Ind|Prs|ScSg3	1	conj	_	_
-7	нинге	нинге	Adv	_	Sem/Time	9	advmod	_	_
-8	сяда	сяда	Adv	_	Deg	9	advmod:deg	_	_
-9	мазыста	мазыста	Adv	_	Manner	6	advmod	_	_
-10	и	и	CC	_	_	11	cc	_	_
-11	павазуста	павазуста	Adv	_	Manner	9	conj	_	_
-12	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:13:3:TerjoshkinaJe
-# text = Нинге шобданяста туян школав, тоста тага пцтай шобдаста мрдан меки.
-1	Нинге	нинге	Adv	_	Sem/Time	3	advmod:tmod	_	_
-2	шобданяста	шобданяста	Adv	_	_	3	advmod:tmod	_	_
-3	туян	тумс	V	_	Ind|Prs|ScSg1	0	root	_	_
-4	школав	школа	N	_	SP|Lat|Indef	3	obl:lmod	_	_
-5	,	,	PUNCT	_	_	10	punct	_	_
-6	тоста	тоста	Adv	_	Ela	10	advmod:lmod	_	_
-7	тага	тага	Adv	_	Sem/Time	10	advmod	_	_
-8	пцтай	пцтай	Adv	_	_	9	advmod	_	_
-9	шобдаста	шобдаста	Adv	_	Sem/Time	10	advmod:tmod	_	_
-10	мрдан	мрдамс	V	_	Ind|Prs|ScSg1	3	conj	_	_
-11	меки	меки	Adv	_	_	10	advmod	_	_
-12	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:13:4:KirdjashkinT
-# text = Минь пачкодеме нинге обедшкада, да праздник шиня виздеме саманьконь.
-1	Минь	мон	Pron	_	Pers|Pl1|Nom	2	nsubj	_	_
-2	пачкодеме	пачкодемс	V	_	Ind|Prt1|ScPl1	0	root	_	_
-3	нинге	нинге	Adv	_	Sem/Time	2	advmod:tmod	_	_
-4	обедшкада	обедшкада	Adv	_	Sem/Time	2	advmod:tmod	_	_
-5	,	,	PUNCT	_	_	9	punct	_	_
-6	да	да	CC	_	_	9	cc	_	_
-7	праздник	праздник	N	_	Sg|Nom|Indef	8	nmod	_	_
-8	шиня	ши	N	_	SP|Temp|Indef	_	_	_	_
-9	виздеме	виздемс	V	_	Ind|Prt1|ScPl1	2	conj	_	_
-10	саманьконь	самс	V	_	NomAct|SP|Gen|PxPl1	9	xcomp	_	_
-11	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:13:5:DevinI
-# text = Нинге ичкозе приметазе сон: Советский ульцява ласьки ава.
-1	Нинге	нинге	Adv	_	Sem/Time	2	advmod	_	_
-2	ичкозе	ичкозе	Adv	_	Loc	3	advmod	_	_
-3	приметазе	приметамс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-4	сон	сон	Pron	_	Pers|Sg3|Nom	3	nsubj	_	_
-5	:	:	PUNCT	_	_	8	punct	_	_
-6	Советский	Советский	N	_	Prop|Sem/Mal-Sur|Sg|Nom|Indef	7	nmod	_	_
-7	ульцява	ульця	N	_	SP|Prl|Indef	8	obl:lmod	_	_
-8	ласьки	ласькомс	V	_	Ind|Prs|ScSg3	3	ccomp	_	_
-9	ава	ава	N	_	Sg|Nom|Indef	8	nsubj	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:13:6:KirdjashkinT
-# text = Нолдазь пряснон нинге сяда алу и таяскодсть фкя вастс, сельмосна коневсть эсезост.
-1	Нолдазь	нолдамс	V	_	Der/Ozj|Prc	0	root	_	_
-2	пряснон	пря	N	_	SP|Gen|PxPl3	1	obj	_	_
-3	нинге	нинге	Adv	_	Sem/Time	4	advmod	_	_
-4	сяда	сяда	Adv	_	Deg	5	advmod:deg	_	_
-5	алу	алу	Adv	_	Lat	1	obl	_	_
-6	и	и	CC	_	_	7	cc	_	_
-7	таяскодсть	таяскодомс	V	_	Ind|Prt1|ScPl3	1	conj	_	_
-8	фкя	фкя	Num	_	Card|Sg|Nom|Indef	9	nummod	_	_
-9	вастс	васта	N	_	SP|Ill|Indef	7	obl:lmod	_	_
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	сельмосна	сельме	N	_	SP|Nom|PxPl3	12	nsubj	_	_
-12	коневсть	коневомс	V	_	Ind|Prt1|ScPl3	1	conj	_	_
-13	эсезост	сонць	Pron	_	Refl|Pl3|Ill|Short	12	obl	_	_
-14	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:13:7:TjapaevA
-# text = Коса-бди аф ичкозе морасть жаворонкатне, перьфпяльге исть лотксе крфамда тюжя толса цецятне.
-1	Коса-бди	коса-бди	Adv	_	Indef|Ine	4	appos	_	_
-2	аф	аф	V	_	Aux|Neg	3	aux:neg	_	_
-3	ичкозе	ичкозе	Adv	_	Loc	1	advmod:lmod	_	_
-4	морасть	морамс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-5	жаворонкатне	жаворонка	N	_	Pl|Nom|Def	4	nsubj	_	_
-6	,	,	PUNCT	_	_	9	punct	_	_
-7	перьфпяльге	перьфпяльге	Adv	_	Prl	9	advmod:lmod	_	_
-8	исть	аф	V	_	Aux|Neg|Ind|Prt1|ScPl3	9	aux:neg	_	_
-9	лотксе	лотксемс	V	_	ConNeg	4	conj	_	_
-10	крфамда	крфамс	V	_	Inf|Abl	9	xcomp	_	_
-11	тюжя	тюжя	A	_	Sg|Nom|Indef	12	amod	_	_
-12	толса	тол	N	_	SP|Ine|Indef	10	obl	_	_
-13	цецятне	цеця	N	_	Pl|Nom|Def	9	nsubj	_	_
-14	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:13:8:MoiseevM
-# text = Кати-коста вярде кулян вайгяль.
-1	Кати-коста	кати-коста	Adv	_	Indef|Ela	3	advmod:lmod	_	_
-2	вярде	вярде	Adv	_	Abl	1	appos	_	_
-3	кулян	кулемс	V	_	Ind|Prs|ScSg1	0	root	_	_
-4	вайгяль	вайгяль	N	_	Sg|Nom|Indef	3	obj	_	_
-5	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:13:9:LevchaevP
-# text = Рана шобдава Маринкась тусь работама.
-1	Рана	рана	Adv	_	Sem/Time	4	advmod:tmod	_	_
-2	шобдава	шобдава	Adv	_	Sem/Time	1	appos	_	_
-3	Маринкась	Маринка	N	_	Prop|Sg|Nom|Def	4	nsubj	_	_
-4	тусь	тумс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-5	работама	работамс	V	_	Inf|Loc	4	xcomp	_	_
-6	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:13:10:LarionovS
-# text = Шобдава ранакиге сявозе унокть садняв вятемонза, но тусь аф виде кигя.
-1	Шобдава	шобдава	Adv	_	Sem/Time	3	advmod:tmod	_	_
-2	ранакиге	ранакиге	Adv	_	Sem/Time	1	appos	_	_
-3	сявозе	сявомс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-4	унокть	унок	N	_	Sg|Gen|Def	3	obj	_	_
-5	садняв	сад	N	_	Der/Dimin|SP|Lat|Indef	6	obl:lmod	_	_
-6	вятемонза	вятемс	V	_	Inf|Loc|PxSg3	3	xcomp	_	_
-7	,	,	PUNCT	_	_	9	punct	_	_
-8	но	но	CC	_	_	9	cc	_	_
-9	тусь	тумс	V	_	Ind|Prt1|ScSg3	3	conj	_	_
-10	аф	аф	V	_	Aux|Neg	11	aux:neg	_	_
-11	виде	виде	A	_	Sg|Nom|Indef	12	amod	_	_
-12	кигя	ки	N	_	SP|Prl|Indef	9	obl	_	_
-13	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:13:11:MishaninaVa
-# text = Ялгати арась скушна.
-1	Ялгати	ялга	N	_	Sg|Dat|Def	2	obl	_	_
-2	арась	арамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	скушна	скушна	N	_	Sg|Nom|Indef	2	nsubj	_	_
-4	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:13:11:MishaninaVb
-# text = Сон ванондсь кафцьке ширьгя и арьсесь.
-1	Сон	сон	Pron	_	Pers|Sg3|Nom	2	nsubj	_	_
-2	ванондсь	ванондомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	кафцьке	кафта	Num	_	Coll|Sg|Nom	4	nummod	_	_
-4	ширьгя	ширь	N	_	SP|Prl|Indef	2	obl	_	_
-5	и	и	CC	_	_	6	_	_	_
-6	арьсесь	арьсемс	V	_	Ind|Prt1|ScSg3	2	conj	_	_
-7	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:13:12:LevchaevP
-# text = Сянь эзда Маринкати арась визькс.
-1	Сянь	ся	Pron	_	Dem|Sg|Gen|Indef	4	obl	_	_
-2	эзда	эзда	Adp	_	Abl	1	case	_	_
-3	Маринкати	Маринка	N	_	Prop|Sg|Dat|Def	4	obl	_	_
-4	арась	арамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-5	визькс	визькс	N	_	Sg|Nom|Indef	4	nsubj	_	_
-6	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:13:13:TjapaevA
-# text = Аф ичкозе вирьса кукай кукусь.
-1	Аф	аф	V	_	Aux|Neg	2	aux:neg	_	_
-2	ичкозе	ичкозе	Adv	_	Loc	4	advmod:lmod	_	_
-3	вирьса	вирь	N	_	SP|Ine|Indef	2	appos	_	_
-4	кукай	кукамс	V	_	Ind|Prs|ScSg3	0	root	_	_
-5	кукусь	куку	N	_	Sg|Nom|Def	4	nsubj	_	_
-6	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:13:14:TjapaevA
-# text = Паксянь станць аф ичкозе эрьхке берякса.
-1	Паксянь	пакся	N	_	SP|Gen|Indef	2	nmod	_	_
-2	станць	стан	N	_	Sg|Nom|Def	4	nsubj:cop	_	_
-3	аф	аф	V	_	Aux|Neg	4	aux:neg	_	_
-4	ичкозе	ичкозе	Adv	_	Loc	0	root	_	_
-5	эрьхке	эрьхке	N	_	Sg|Nom|Indef	6	nmod	_	_
-6	берякса	беряк	N	_	SP|Ine|Indef	4	appos	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:13:15:KirdjashkinT
-# text = Сон кати-коста Пензенскяй губернияста.
-1	Сон	сон	Pron	_	Pers|Sg3|Nom	4	nsubj:cop	_	_
-2	кати-коста	кати-коста	Adv	_	Indef|Ela	4	advmod:lmod	_	_
-3	Пензенскяй	пензенскяй	A	_	Sg|Nom|Indef	4	amod	_	_
-4	губернияста	губерния	N	_	SP|Ela|Indef	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:13:16:MoiseevM
-# text = Тячи недляшиста тоса кивок аф васьфтьсамазь, а сяка ардоме.
-1	Тячи	тячи	Adv	_	Sem/Time	6	advmod:tmod	_	_
-2	недляшиста	недляши	N	_	SP|Ela|Indef	1	appos	_	_
-3	тоса	тоса	Adv	_	Ine	6	advmod:lmod	_	_
-4	кивок	кивок	Pron	_	Indef|Sg|Nom	6	nsubj	_	_
-5	аф	аф	V	_	Aux|Neg	6	aux:neg	_	_
-6	васьфтьсамазь	васьфтемс	V	_	Ind|Prs|ScSg3|OcPl1	0	root	_	_
-7	,	,	PUNCT	_	_	10	punct	_	_
-8	а	а	CC	_	_	10	cc	_	_
-9	сяка	сяка	Adv	_	_	10	advmod	_	_
-10	ардоме	ардомс	V	_	Ind|Prt1|ScPl1	6	conj	_	_
-11	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = MKS:2008:13:17:KirdjashkinT
-# text = Лугать ётазь туманть вишке пингстонза, а кда кармасть куцема пандонява вяри, туманць ушедсь шурокстомома.
-1	Лугать	луга	N	_	Sg|Gen|Def	2	obj	_	_
-2	ётазь	ётамс	V	_	Der/Ozj|Ger	0	root	_	_
-3	туманть	туман	N	_	Sg|Gen|Def	5	nmod:poss	_	_
-4	вишке	вишке	A	_	Sg|Nom|Indef	5	amod	_	_
-5	пингстонза	пинге	N	_	SP|Ela|PxSg3	2	obl:tmod	_	_
-6	,	,	PUNCT	_	_	10	punct	_	_
-7	а	а	CC	_	_	10	cc	_	_
-8	кда	кда	ADV	_	_	10	advmod	_	_
-9	кармасть	кармамс	V	_	Ind|Prt1|ScPl3	10	aux:inch	_	_
-10	куцема	куцемс	V	_	Inf|Loc	2	conj	_	_
-11	пандонява	пандоня	N	_	SP|Prl|Indef	10	obl	_	_
-12	вяри	вяри	Adv	_	Lat	10	advmod:lmod	_	_
-13	,	,	PUNCT	_	_	15	punct	_	_
-14	туманць	туман	N	_	Sg|Nom|Def	15	nsubj	_	_
-15	ушедсь	ушедомс	V	_	Ind|Prt1|ScSg3	10	conj	_	_
-16	шурокстомома	шурокстомомс	V	_	Inf|Loc	15	xcomp	_	_
-17	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:13:18:MoiseevM
-# text = Кукушкинць эрязста валгсь куцеманява алу.
-1	Кукушкинць	Кукушкин	N	_	Prop|Sem/Mal-Sur|Sg|Nom|Def	3	nsubj	_	_
-2	эрязста	эрязста	Adv	_	_	3	advmod	_	_
-3	валгсь	валгомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	куцеманява	куцема	N	_	Der/Dimin|SP|Prl|Indef	3	obl	_	_
-5	алу	алу	Adv	_	Lat	3	advmod	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:13:19:TjapaevA
-# text = Немойкс вдь аф молят авать ваксса ряцок.
-1	Немойкс	немой	A	_	SP|Tra|Indef	4	obl	_	_
-2	вдь	вдь	Pcle	_	_	1	discourse	_	_
-3	аф	аф	V	_	Aux|Neg	4	aux:neg	_	_
-4	молят	молемс	V	_	Ind|Prs|ScSg2	0	root	_	_
-5	авать	ава	N	_	Sg|Gen|Def	4	obl	_	_
-6	ваксса	ваксса	Adp	_	Ine	5	case	_	_
-7	ряцок	ряцок	Adv	_	_	4	advmod	_	_
-8	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:13:20:KirdjashkinT
-# text = Урядниксь сувась и видеста шратнень ваксс ётась, а понятойхне лядсть кенкш лангс.
-1	Урядниксь	урядник	N	_	Sg|Nom|Def	2	nsubj	_	_
-2	сувась	сувамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	и	и	CC	_	_	7	cc	_	_
-4	видеста	видеста	Adv	_	_	7	advmod	_	_
-5	шратнень	шра	N	_	Pl|Gen|Def	7	obl:lmod	_	_
-6	ваксс	ваксс	Adp	_	Ill	5	case	_	_
-7	ётась	ётамс	V	_	Ind|Prt1|ScSg3	2	conj	_	_
-8	,	,	PUNCT	_	_	11	punct	_	_
-9	а	а	CC	_	_	11	cc	_	_
-10	понятойхне	понятой	N	_	Pl|Nom|Def	11	nsubj	_	_
-11	лядсть	лядомс	V	_	Ind|Prt1|ScPl3	2	conj	_	_
-12	кенкш	кенкш	N	_	Sg|Nom|Indef	13	nmod	_	_
-13	лангс	ланга	N	_	Relator|SP|Ill|Indef	11	obl:lmod	_	_
-14	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:13:21:KirdjashkinT
-# text = Вармась уфась шобдавать коряс сяда вишкста.
-1	Вармась	варма	N	_	Sg|Nom|Def	2	nsubj	_	_
-2	уфась	уфамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	шобдавать	шобдава	N	_	Sg|Gen|Def	2	obl	_	_
-4	коряс	коряс	Adp	_	Ill	3	case	_	_
-5	сяда	сяда	Adv	_	Deg	6	advmod:deg	_	_
-6	вишкста	вишкста	Adv	_	_	2	advmod	_	_
-7	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:13:22:MoiseevM
-# text = Куцема срхкась ялганц коряс курокста.
-1	Куцема	куцема	VERB	_	Inf|Loc	2	xcomp	_	_
-2	срхкась	срхкамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	ялганц	ялга	N	_	Sg|Gen|PxSg3	2	obl	_	_
-4	коряс	коряс	Adp	_	Ill	3	case	_	_
-5	курокста	курок	ADV	_	Ela	2	advmod	_	_
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:13:23:MoiseevM
-# text = Васток-васток тротуарть ланга шудихть мекольце рдазу шудерьксне.
-1	Васток-васток	васток-васток	Adv	_	_	4	advmod:lmod	_	_
-2	тротуарть	тротуар	N	_	Sg|Gen|Def	3	nmod	_	_
-3	ланга	ланга	N	_	Relator|Sg|Nom|Indef	4	obl	_	_
-4	шудихть	шудемс	V	_	Ind|Prs|ScPl3	0	root	_	_
-5	мекольце	мекольце	A	_	Sg|Nom|Indef	7	amod	_	_
-6	рдазу	рдазу	A	_	Sg|Nom|Indef	7	amod	_	_
-7	шудерьксне	шудерькс	N	_	Pl|Nom|Def	4	nsubj	_	_
-8	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:13:24:KirdjashkinT
-# text = Вадим путозе меки игра лангс куцювонц, стясь шрать ваксста, мольсь Тишкань вастс.
-1	Вадим	Вадим	N	_	Prop|Sg|Nom|Indef	2	nsubj	_	_
-2	путозе	путомс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-3	меки	меки	Adv	_	_	2	advmod	_	_
-4	игра	игра	N	_	Sg|Nom|Indef	5	nmod	_	_
-5	лангс	ланга	N	_	Relator|SP|Ill|Indef	2	obl:lmod	_	_
-6	куцювонц	куцю	N	_	Sg|Gen|PxSg3	2	obj	_	_
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	стясь	стямс	V	_	Ind|Prt1|ScSg3	2	conj	_	_
-9	шрать	шра	N	_	Sg|Gen|Def	8	obl:lmod	_	_
-10	ваксста	ваксста	Adp	_	Ela	9	case	_	_
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	мольсь	молемс	V	_	Ind|Prt1|ScSg3	2	conj	_	_
-13	Тишкань	Тишка	N	_	Prop|SP|Gen|Indef	14	nmod:poss	_	_
-14	вастс	васта	N	_	SP|Ill|Indef	12	obl:lmod	_	_
-15	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:14:1:MoiseevM
-# text = Михаил Девятаев ялга мархта марса служась Покрышкинонь дивизияса.
-1	Михаил	Михаил	N	_	Prop|Sg|Nom|Indef	6	nsubj	_	_
-2	Девятаев	Девятаев	N	_	Prop|Sem/Mal-Sur|Sg|Nom|Indef	1	flat:name	_	_
-3	ялга	ялга	N	_	Sg|Nom|Indef	6	obl	_	_
-4	мархта	мархта	Adp	_	_	3	case	_	_
-5	марса	марса	Adv	_	_	3	advmod	_	_
-6	служась	служамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-7	Покрышкинонь	Покрышкин	N	_	Prop|Sem/Mal-Sur|SP|Gen|Indef	8	nmod:poss	_	_
-8	дивизияса	дивизия	N	_	SP|Ine|Indef	6	obl:lmod	_	_
-9	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = MKS:2008:14:2:MoiseevM
-# text = Роза мархта марса муськ госпитальть.
-1	Роза	роза	N	_	Sg|Nom|Indef	4	nsubj	_	_
-2	мархта	мархта	Adp	_	_	1	case	_	_
-3	марса	марса	Adv	_	_	1	advmod	_	_
-4	муськ	мумс	V	_	Ind|Prt1|ScPl1|OcSg3	0	root	_	_
-5	госпитальть	госпиталь	N	_	Sg|Gen|Def	4	obj	_	_
-6	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:14:3:TjapaevA
-# text = Илять ужнамда меле Порватов тага весть няфтезе - сон тяса азор.
-1	Илять	илять	Adv	_	Sem/Time	7	advmod:tmod	_	_
-2	ужнамда	ужнамс	V	_	NomAct|Err/Orth|SP|Abl|Indef	3	nmod	_	_
-3	меле	меле	Adv	_	_	1	appos	_	_
-4	Порватов	Порватов	N	_	Prop|Sg|Nom|Indef	7	nsubj	_	_
-5	тага	тага	Adv	_	Sem/Time	7	advmod	_	_
-6	весть	фкя	ADV	_	Der/Iter|Adv|Iter	7	advmod	_	_
-7	няфтезе	няфтемс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-8	-	-	PUNCT	_	_	11	punct	_	_
-9	сон	сон	Pron	_	Pers|Sg3|Nom	11	nsubj:cop	_	_
-10	тяса	тяса	Adv	_	Ine	11	advmod:lmod	_	_
-11	азор	азор	N	_	Sg|Nom|Indef	7	ccomp	_	_
-12	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = MKS:2008:14:4:KirdjashkinT
-# text = Лиси илять занятияда меле ульцяв, ётай школать перьф, арап ширеняти и ушеды пара мяльса ванондома.
-1	Лиси	лисемс	V	_	Ind|Prs|ScSg3	0	root	_	_
-2	илять	илять	Adv	_	Sem/Time	1	advmod:tmod	_	_
-3	занятияда	занятия	N	_	SP|Abl|Indef	4	nmod	_	_
-4	меле	меле	Adv	_	_	2	appos	_	_
-5	ульцяв	ульця	N	_	SP|Lat|Indef	1	obl:lmod	_	_
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	ётай	ётамс	V	_	Ind|Prs|ScSg3	1	conj	_	_
-8	школать	школа	N	_	Sg|Gen|Def	7	obl	_	_
-9	перьф	перьф	ADP	_	_	8	case	_	_
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	арап	араб	N	_	Sg|Nom|Indef	12	nmod	_	_
-12	ширеняти	шире	N	_	Relator|Der/Dimin|Sg|Dat|Def	8	appos	_	_
-13	и	и	CC	_	_	14	cc	_	_
-14	ушеды	ушедомс	V	_	Ind|Prs|ScSg3	7	conj	_	_
-15	пара	пара	A	_	Sg|Nom|Indef	16	amod	_	_
-16	мяльса	мяль	N	_	SP|Ine|Indef	17	obl	_	_
-17	ванондома	ванондомс	V	_	Inf|Loc	14	xcomp	_	_
-18	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:14:5:TjapaevA
-# text = Учамбинонь мялецоль мумс квартира университетть эзда аф ичкозе.
-1	Учамбинонь	Учамбин	PROPN	_	Prop|SP|Gen|Indef	2	obl	_	_
-2	мялецоль	мяль	N	_	Sg|Nom|PxSg3|Clt/Cop|Prt2|ScSg3	0	root	_	_
-3	мумс	мумс	V	_	Inf	2	xcomp	_	_
-4	квартира	квартира	N	_	Sg|Nom|Indef	3	obj	_	_
-5	университетть	университет	N	_	Sg|Gen|Def	8	nmod	_	_
-6	эзда	эзда	Adp	_	Abl	5	case	_	_
-7	аф	аф	V	_	Aux|Neg	8	aux:neg	_	_
-8	ичкозе	ичкозе	Adv	_	Loc	3	obl:lmod	_	_
-9	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:14:6:DevinI
-# text = Кассать эзда аф ичкозе скомнять лангса удось Яшкась.
-1	Кассать	касса	N	_	Sg|Gen|Def	4	nmod	_	_
-2	эзда	эзда	Adp	_	Abl	1	case	_	_
-3	аф	аф	V	_	Aux|Neg	4	aux:neg	_	_
-4	ичкозе	ичкозе	Adv	_	Loc	7	obl:lmod	_	_
-5	скомнять	скомня	N	_	Sg|Gen|Def	6	nmod	_	_
-6	лангса	ланга	N	_	Relator|SP|Ine|Indef	4	appos	_	_
-7	удось	удомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-8	Яшкась	Яшка	N	_	Prop|Sg|Nom|Def	7	nsubj	_	_
-9	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = MKS:2008:14:7:KirdjashkinT
-# text = Маманяв тунда видемда инголе сась аньцек кой-кие.
-1	Маманяв	мама	N	_	Der/Dimin|SP|Lat|Indef	5	obl:lmod	_	_
-2	тунда	тунда	Adv	_	Sem/Time	5	advmod:tmod	_	_
-3	видемда	видемс	V	_	NomAct|Err/Orth|SP|Abl|Indef	4	nmod	_	_
-4	инголе	инголе	ADV	_	Loc	2	appos	_	_
-5	сась	самс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-6	аньцек	аньцек	Adv	_	_	7	advmod	_	_
-7	кой-кие	кой-кие	Pron	_	Indef|Sg|Nom	5	nsubj	_	_
-8	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:14:8:TjapaevA
-# text = Весть очижить карта попсь алашаса кудрядс ётась.
-1	Весть	фкя	Adv	_	Iter	7	advmod:tmod	_	_
-2	очижить	очижи	N	_	Sg|Gen|Def	7	obl:tmod	_	_
-3	карта	карта	N	_	Sg|Nom|Indef	4	nmod	_	_
-4	попсь	поп	N	_	Sg|Nom|Def	7	nsubj	_	_
-5	алашаса	алаша	N	_	SP|Ine|Indef	7	obl	_	_
-6	кудрядс	кудряд	N	_	SP|Ill|Indef	7	obl:lmod	_	_
-7	ётась	ётамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = MKS:2008:14:9:TjapaevA
-# text = Илять порфонь пачк тунь.
-1	Илять	илять	Adv	_	Sem/Time	4	advmod:tmod	_	_
-2	порфонь	порф	N	_	SP|Gen|Indef	4	obl	_	_
-3	пачк	пачк	Adp	_	Po	2	case	_	_
-4	тунь	тумс	V	_	Ind|Prt1|ScSg1	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:14:10:MoiseevM
-# text = Лядыхне ащесть оцюняснон перьф озада.
-1	Лядыхне	лядомс	V	_	NomAg|Pl|Nom|Def	2	nsubj	_	_
-2	ащесть	ащемс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-3	оцюняснон	оцюня	A	_	SP|Gen|PxPl3	2	obl:lmod	_	_
-4	перьф	перьф	Adv	_	_	3	case	_	_
-5	озада	озада	Adv	_	_	2	advmod	_	_
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:14:11:TjapaevA
-# text = Самолётсь тага увназевсь, кеподсь вяри акша коволнятнень шири.
-1	Самолётсь	самолёт	N	_	Sg|Nom|Def	3	nsubj	_	_
-2	тага	тага	Adv	_	Sem/Time	3	advmod:tmod	_	_
-3	увназевсь	увназевомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	кеподсь	кеподемс	V	_	Ind|Prt1|ScSg3	3	conj	_	_
-6	вяри	вяри	Adv	_	Lat	5	advmod	_	_
-7	акша	акша	A	_	Sg|Nom|Indef	8	amod	_	_
-8	коволнятнень	ковол	N	_	Der/Dimin|Pl|Gen|Def	9	nmod	_	_
-9	шири	шире	N	_	Relator|SP|Lat|Indef	5	obl:lmod	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:14:12:MoiseevM
-# text = Сондейнза визькс Пашуть инкса.
-1	Сондейнза	сон	Pron	_	Pers|Sg3|Dat|Long	0	root	_	_
-2	визькс	визькс	N	_	Sg|Nom|Indef	1	nsubj	_	_
-3	Пашуть	Пашу	N	_	Prop|Sg|Gen|Def	1	obl	_	_
-4	инкса	инкса	Adp	_	Cau	3	case	_	_
-5	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:14:13:LevchaevP
-# text = Волясь тинь, тиеда-арада, кода сяда лад тейнть..
-1	Волясь	воля	N	_	Sg|Nom|Def	2	nsubj:cop	_	_
-2	тинь	тон	Pron	_	Pers|Pl2|Gen	0	root	_	_
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	тиеда-арада	тиемс-арамс	V	_	Imprt|ScPl2	2	conj	_	_
-5	,	,	PUNCT	_	_	9	punct	_	_
-6	кода	кода	Adv	_	_	9	mark	_	_
-7	сяда	сяда	Adv	_	Deg	8	advmod:deg	_	_
-8	лад	лад	N	_	Sg|Nom|Indef	9	nsubj:cop	_	_
-9	тейнть	тон	Pron	_	Pers|Pl2|Dat|Short	4	conj	_	_
-10	..	..	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:14:14:MoiseevM
-# text = Тейне аф стака штормань пингть уемс морява.
-1	Тейне	мон	Pron	_	Pers|Sg1|Dat|Short	0	root	_	_
-2	аф	аф	V	_	Aux|Neg	3	aux:neg	_	_
-3	стака	стака	A	_	Sg|Nom|Indef	1	nsubj	_	_
-4	штормань	шторма	N	_	SP|Gen|Indef	6	obl:tmod	_	_
-5	пингть	пинге	N	_	Sg|Gen|Def	4	case	_	_
-6	уемс	уемс	V	_	Inf	1	xcomp	_	_
-7	морява	моря	N	_	SP|Prl|Indef	6	obl:lmod	_	_
-8	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:14:15:TjapaevA
-# text = Сяка илять велесонк марявсь кальдяв куля.
-1	Сяка	сяка	DET	_	_	2	det	_	_
-2	илять	илять	NOUN	_	Sem/Time	4	obl:tmod	_	_
-3	велесонк	веле	N	_	SP|Ine|PxPl1	4	obl:lmod	_	_
-4	марявсь	марявомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-5	кальдяв	кальдяв	A	_	Sg|Nom|Indef	6	amod	_	_
-6	куля	куля	N	_	Sg|Nom|Indef	4	nsubj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:14:16:LarionovS
-# text = Тянемс вестенге ашезь няенде сонь тяфтама весяласта и ляпоста главнайть мархта.
-1	Тянемс	тянемс	Adv	_	Sem/Time	4	advmod:tmod	_	_
-2	вестенге	весть	Adv	_	Temp|Clt/Add	4	advmod:tmod	_	_
-3	ашезь	аф	V	_	Aux|Neg|Ind|Prt1|ScSg3	4	aux:neg	_	_
-4	няенде	няендемс	V	_	ConNeg	0	root	_	_
-5	сонь	сон	Pron	_	Pers|Sg3|Gen	4	obj	_	_
-6	тяфтама	тяфтама	A	_	Dem|Sg|Nom|Indef	7	amod	_	_
-7	весяласта	весяласта	Adv	_	_	4	xcomp	_	_
-8	и	и	CC	_	_	9	cc	_	_
-9	ляпоста	ляпоста	Adv	_	_	7	conj	_	_
-10	главнайть	главнай	A	_	Sg|Gen|Def	7	obl	_	_
-11	мархта	мархта	Adp	_	_	10	case	_	_
-12	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:14:17:TerjoshkinaJea
-# text = сонь мархтонза марса, сембонь ёткста цебярьста, монь корязон мазыста, сембонь мархта марса.
-1	сонь	сон	Pron	_	Pers|Sg3|Gen	0	root	_	_
-2	мархтонза	мархта	Adp	_	PxSg3	1	case	_	_
-3	марса	марса	Adv	_	_	1	advmod	_	_
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	сембонь	сембе	Pron	_	SP|Gen|Indef	6	nmod	_	_
-6	ёткста	ётка	N	_	Relator|SP|Ela|Indef	1	conj	_	_
-7	цебярьста	цебярьста	Adv	_	Manner	6	advmod	_	_
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	монь	мон	Pron	_	Pers|Sg1|Gen	1	conj	_	_
-10	корязон	коряс	Adp	_	Ill|PxSg1	9	case	_	_
-11	мазыста	мазыста	Adv	_	Manner	9	advmod	_	_
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	сембонь	сембе	Pron	_	SP|Gen|Indef	1	conj	_	_
-14	мархта	мархта	Adp	_	_	13	case	_	_
-15	марса	марса	Adv	_	_	13	advmod	_	_
-16	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:14:17:TerjoshkinaJeb
-# text = Сембонь мархта марса перьфканза шарсь Лиза.
-1	Сембонь	сембе	Pron	_	SP|Gen|Indef	5	obl	_	_
-2	мархта	мархта	Adp	_	_	1	case	_	_
-3	марса	марса	Adv	_	_	1	advmod	_	_
-4	перьфканза	перьфке	Adp	_	PxSg3	5	obl:lmod	_	_
-5	шарсь	шаромс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-6	Лиза	Лиза	N	_	Prop|Sg|Nom|Indef	5	nsubj	_	_
-7	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:14:18:KirdjashkinT
-# text = Лиятнень ёткста сяда лац няезь Саввань ёжушиц кафта браттне.
-1	Лиятнень	лия	PRON	_	Pl|Gen|Def	2	nmod	_	_
-2	ёткста	ётка	N	_	Relator|SP|Ela|Indef	5	obl	_	_
-3	сяда	сяда	Adv	_	Deg	4	advmod:deg	_	_
-4	лац	лац	Adv	_	_	5	advmod	_	_
-5	няезь	няемс	V	_	Ind|Prt1|ScPl3|OcSg3	0	root	_	_
-6	Саввань	Савва	N	_	Prop|SP|Gen|Indef	7	nmod:poss	_	_
-7	ёжушиц	ёжуши	N	_	Sg|Nom|PxSg3	5	obj	_	_
-8	кафта	кафта	Num	_	Card|Sg|Nom|Indef	9	nummod	_	_
-9	браттне	брат	N	_	Pl|Nom|Def	5	nsubj	_	_
-10	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:14:19:MoiseevM
-# text = Тяда инголе тага Платон дивандафтомань.
-1	Тяда	тя	Pron	_	Dem|Sg|Abl|Indef	2	nmod:comp	_	_
-2	инголе	инголе	Adv	_	Loc	5	advmod:tmod	_	_
-3	тага	тага	Adv	_	Sem/Time	5	advmod:tmod	_	_
-4	Платон	Платон	N	_	Prop|Sg|Nom|Indef	5	nsubj	_	_
-5	дивандафтомань	дивандафтомс	V	_	Ind|Prt1|ScSg3|OcSg1	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:14:20:RadinV
-# text = Ужяль — мондедон сяда инголе ни тяса ульсть инжихть.
-1	Ужяль	ужяль	N	_	Sg|Nom|Indef	0	root	_	_
-2	—	—	PUNCT	_	_	7	punct	_	_
-3	мондедон	мон	Pron	_	Pers|Sg1|Abl	5	nmod:comp	_	_
-4	сяда	сяда	Adv	_	Deg	5	advmod:deg	_	_
-5	инголе	инголе	Adv	_	Loc	7	advmod:tmod	_	_
-6	ни	ни	Adv	_	Sem/Time	_	_	_	_
-7	тяса	тяса	Adv	_	Ine	1	conj	_	_
-8	ульсть	улемс	V	_	Ind|Prt1|ScPl3	7	cop	_	_
-9	инжихть	инжи	N	_	Pl|Nom|Indef	7	nsubj:cop	_	_
-10	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:14:21:KirdjashkinT
-# text = Синь эряйхть корязонк сяда цебярьста.
-1	Синь	сон	Pron	_	Pers|Pl3|Nom	2	nsubj	_	_
-2	эряйхть	эрямс	V	_	Ind|Prs|ScPl3	_	_	_	_
-3	корязонк	коряс	Adp	_	Ill|PxPl1	5	nmod:comp	_	_
-4	сяда	сяда	Adv	_	Deg	5	advmod:deg	_	_
-5	цебярьста	цебярьста	Adv	_	Manner	2	advmod	_	_
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:14:22:MoiseevM
-# text = Корязост эрязста кундазе тростть и вархцодезе меки.
-1	Корязост	коряс	Adp	_	Ill|PxPl3	2	nmod:comp	_	_
-2	эрязста	эрязста	Adv	_	_	3	advmod	_	_
-3	кундазе	кундамс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-4	тростть	трость	N	_	Sg|Gen|Def	3	obj	_	_
-5	и	и	CC	_	_	6	cc	_	_
-6	вархцодезе	вархцодемс	V	_	Ind|Prt1|ScSg3|OcSg3	3	conj	_	_
-7	меки	меки	Adv	_	_	6	advmod	_	_
-8	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:14:23:KirdjashkinT
-# text = Ушедсь торгавама мебельса корязонт сяда уцезста.
-1	Ушедсь	ушедомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-2	торгавама	торгавамс	V	_	Inf|Loc	1	xcomp	_	_
-3	мебельса	мебель	N	_	SP|Ine|Indef	2	obl	_	_
-4	корязонт	коряс	Adp	_	Ill|PxPl2	6	nmod:comp	_	_
-5	сяда	сяда	Adv	_	Deg	6	advmod:deg	_	_
-6	уцезста	уцезста	Adv	_	_	2	advmod	_	_
-7	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:15:1:BebanM
-# text = Поля таргась куймонястонза эйндаф кши, салу куярхт, кельме модамарьхть и путозень руцяня лангс.
-1	Поля	Поля	N	_	Prop|Sg|Nom|Indef	2	nsubj	_	_
-2	таргась	таргамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	куймонястонза	куймоня	N	_	SP|Ela|PxSg3	2	obl:lmod	_	_
-4	эйндаф	эйндамс	V	_	Der/f|PrfPrc|Sg|Nom|Indef	5	acl	_	_
-5	кши	кши	N	_	Sg|Nom|Indef	2	obj	_	_
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	салу	салу	A	_	Sg|Nom|Indef	8	amod	_	_
-8	куярхт	куяр	N	_	Pl|Nom|Indef	5	conj	_	_
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	кельме	кельме	A	_	Sg|Nom|Indef	11	amod	_	_
-11	модамарьхть	модамарь	N	_	Pl|Nom|Indef	5	conj	_	_
-12	и	и	CC	_	_	13	cc	_	_
-13	путозень	путомс	V	_	Ind|Prt1|ScSg3|OcPl3	2	conj	_	_
-14	руцяня	руця	N	_	Pl|Nom|PxSg1|Err/Orth-lowered-final-e-2-ja	15	nmod	_	_
-15	лангс	ланга	N	_	Relator|SP|Ill|Indef	13	obl:lmod	_	_
-16	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:15:2:DevinI
-# text = Лангсонза равжа шинель.
-1	Лангсонза	ланга	N	_	Relator|SP|Ine|PxSg3	0	root	_	_
-2	равжа	равжа	A	_	Sg|Nom|Indef	3	amod	_	_
-3	шинель	шинель	N	_	Sg|Nom|Indef	1	nsubj	_	_
-4	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:15:3:KirdjashkinT
-# text = Врьгазсь эстокиге комотсь стадать кучкас.
-1	Врьгазсь	врьгаз	N	_	Sg|Nom|Def	3	nsubj	_	_
-2	эстокиге	эстокиге	Adv	_	Sem/Time	3	advmod	_	_
-3	комотсь	комотемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	стадать	стада	N	_	Sg|Gen|Def	5	nmod	_	_
-5	кучкас	кучка	N	_	Relator|SP|Ill|Indef	3	obl:lmod	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:15:4:ViardV
-# text = Минь нльня озсеме точка лангс.
-1	Минь	мон	Pron	_	Pers|Pl1|Nom	3	nsubj	_	_
-2	нльня	нльне	Pcle	_	Err/Orth-lowered-final-e-2-ja	3	advmod	_	_
-3	озсеме	озсемс	V	_	Ind|Prt1|ScPl1	0	root	_	_
-4	точка	точка	N	_	Sg|Nom|Indef	5	nmod	_	_
-5	лангс	ланга	N	_	Relator|SP|Ill|Indef	3	obl:lmod	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:15:5:KishnjakovI
-# text = Сяда вии волнась сатнезе омбоцеть.
-1	Сяда	сяда	Adv	_	Deg	2	advmod:deg	_	_
-2	вии	вии	A	_	Sg|Nom|Indef	3	amod	_	_
-3	волнась	волна	N	_	Sg|Nom|Def	4	nsubj	_	_
-4	сатнезе	сатнемс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-5	омбоцеть	омбоце	A	_	Ord|Sg|Gen|Def	4	obj	_	_
-6	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:15:6:KirdjashkinT
-# text = Ётась кудга сембода сире учительницась и сёрмадозе сонь васенце классти.
-1	Ётась	ётамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-2	кудга	куд	N	_	SP|Prl|Indef	1	obl:lmod	_	_
-3	сембода	сембе	Pron	_	SP|Abl|Indef	4	nmod:comp	_	_
-4	сире	сире	A	_	Sg|Nom|Indef	5	amod	_	_
-5	учительницась	учительница	N	_	Sg|Nom|Def	1	nsubj	_	_
-6	и	и	CC	_	_	7	cc	_	_
-7	сёрмадозе	сёрмадомс	V	_	Ind|Prt1|ScSg3|OcSg3	1	conj	_	_
-8	сонь	сон	Pron	_	Pers|Sg3|Gen	7	obj	_	_
-9	васенце	васенце	A	_	Ord|Sg|Nom|Indef	10	amod	_	_
-10	классти	класс	N	_	Sg|Dat|Def	7	obl:lmod	_	_
-11	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:15:7:MishaninaV
-# text = Аннада цебярь ава тейнза аф муви.
-1	Аннада	Анна	N	_	Prop|SP|Abl|Indef	2	nmod:comp	_	_
-2	цебярь	цебярь	A	_	Sg|Nom|Indef	3	amod	_	_
-3	ава	ава	N	_	Sg|Nom|Indef	6	nsubj	_	_
-4	тейнза	сон	Pron	_	Pers|Sg3|Dat|Short	6	obl:agent	_	_
-5	аф	аф	V	_	Aux|Neg	6	aux:neg	_	_
-6	муви	мувомс	V	_	Ind|Prs|ScSg3	0	root	_	_
-7	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = MKS:2008:15:8:LarionovS
-# text = Кивок изь карма пичедема колбатнень инкса.
-1	Кивок	кивок	Pron	_	Indef|Sg|Nom	4	nsubj	_	_
-2	изь	аф	AUX	_	Aux|Neg|Ind|Prt1|ScSg3	4	aux:neg	_	_
-3	карма	кармамс	AUX	_	ConNeg	4	aux:inch	_	_
-4	пичедема	пичедемс	V	_	Inf|Loc	0	root	_	_
-5	колбатнень	колба	N	_	Pl|Gen|Def	4	obl:cau	_	_
-6	инкса	инкса	Adp	_	Cau	5	case	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:15:9:ImjarekovM
-# text = Вярде кить лангс саворне прась акша ляпе ловнясь.
-1	Вярде	вярде	Adv	_	Abl	5	advmod:lmod	_	_
-2	кить	ки	N	_	Sg|Gen|Def	3	nmod:lmod	_	_
-3	лангс	ланга	N	_	Relator|SP|Ill|Indef	5	obl:lmod	_	_
-4	саворне	савор	ADV	_	Pl|Nom|PxSg1	5	advmod	_	_
-5	прась	прамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-6	акша	акша	A	_	Sg|Nom|Indef	8	amod	_	_
-7	ляпе	ляпе	A	_	_	8	amod	_	_
-8	ловнясь	лов	N	_	Der/Dimin|Sg|Nom|Def	5	nsubj	_	_
-9	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:15:10:TjapaevA
-# text = Келаськин таргась зепстонза сардонят, крьвястезень тараттнень.
-1	Келаськин	Келаськин	N	_	Prop|Sem/Mal-Sur|Sg|Nom|Indef	2	nsubj	_	_
-2	таргась	таргамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	зепстонза	зепе	N	_	SP|Ela|PxSg3	2	obl:lmod	_	_
-4	сардонят	сардоня	N	_	Pl|Nom|Indef	2	obj	_	_
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	крьвястезень	крьвястемс	V	_	Ind|Prt1|ScSg3|OcPl3	2	conj	_	_
-7	тараттнень	тарад	N	_	Pl|Gen|Def	6	obj	_	_
-8	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:15:11:MoiseevM
-# text = Инголенк стясть эчке, равжа понтт, кядьсост пистолетт.
-1	Инголенк	инголе	Adp	_	Loc|PxPl1	2	obl:lmod	_	_
-2	стясть	стямс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-3	эчке	эчке	A	_	Sg|Nom|Indef	6	amod	_	_
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	равжа	равжа	A	_	Sg|Nom|Indef	3	conj	_	_
-6	понтт	понда	N	_	Pl|Nom|Indef	2	nsubj	_	_
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	кядьсост	кядь	N	_	SP|Ine|PxPl3	2	conj	_	_
-9	пистолетт	пистолет	N	_	Pl|Nom|Indef	8	nsubj:cop	_	_
-10	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:15:12:DevinI
-# text = Тяфтама пулю киге Аня аськолясь васенцеда.
-1	Тяфтама	тяфтама	A	_	Dem|Sg|Nom|Indef	3	amod	_	_
-2	пулю	пулю	A	_	Sg|Nom|Indef	3	amod	_	_
-3	киге	ки	N	_	SP|Prl|Indef	5	obl:lmp	_	_
-4	Аня	Аня	N	_	Prop|Sg|Nom|Indef	5	nsubj	_	_
-5	аськолясь	аськолямс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-6	васенцеда	васенцеда	Adv	_	Sem/Time	5	advmod:freq	_	_
-7	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:15:13:KirdjashkinT
-# text = Васенда сяфтяма кодама-кодама ёмла тефт.
-1	Васенда	васенда	Adv	_	Sem/Time	2	advmod:freq	_	_
-2	сяфтяма	сявомс	V	_	Ind|Prs|ScPl1	0	root	_	_
-3	кодама-кодама	кодама-кодама	ADJ	_	Distr|Sg|Nom|Indef	5	amod	_	_
-4	ёмла	ёмла	A	_	Sg|Nom|Indef	5	amod	_	_
-5	тефт	тев	N	_	Pl|Nom|Indef	2	obj	_	_
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:15:14:TerjoshkinaJe
-# text = Эвондась сняра врьгаз, ломаттне нльне пельсть велеть эзда ичкози тушендомаснон.
-1	Эвондась	эвондамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-2	сняра	сняра	Adv	_	_	3	advmod:qnt	_	_
-3	врьгаз	врьгаз	N	_	Sg|Nom|Indef	1	nsubj	_	_
-4	,	,	PUNCT	_	_	7	punct	_	_
-5	ломаттне	ломань	N	_	Pl|Nom|Def	7	nsubj	_	_
-6	нльне	нльне	ADV	_	_	7	advmod	_	_
-7	пельсть	пелемс	V	_	Ind|Prt1|ScPl3	1	conj	_	_
-8	велеть	веле	N	_	Sg|Gen|Def	10	nmod	_	_
-9	эзда	эзда	Adp	_	Abl	8	case	_	_
-10	ичкози	ичкози	Adv	_	Lat	11	advmod:lto	_	_
-11	тушендомаснон	тушендомс	V	_	NomAct|SP|Gen|PxPl3	7	obj	_	_
-12	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = MKS:2008:15:15:LevchaevP
-# text = Маринкась ёмланяньбрят тонадозень велень тефнень.
-1	Маринкась	Маринка	N	_	Prop|Sg|Nom|Def	3	nsubj	_	_
-2	ёмланяньбрят	ёмланяньбрят	Adv	_	State	3	xcomp	_	_
-3	тонадозень	тонадомс	V	_	Ind|Prt1|ScSg3|OcPl3	0	root	_	_
-4	велень	веле	N	_	SP|Gen|Indef	5	nmod:poss	_	_
-5	тефнень	тев	N	_	Pl|Gen|Def	3	obj	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:15:16:KishnjakovI
-# text = Вов раман хромовай кямот — эста няйсак!
-1	Вов	вов	Interj	_	_	2	discourse	_	_
-2	раман	рамамс	V	_	Ind|Prs|ScSg1	0	root	_	_
-3	хромовай	хромовай	A	_	Sg|Nom|Indef	4	amod	_	_
-4	кямот	кяме	N	_	Pl|Nom|Indef	2	obj	_	_
-5	—	—	PUNCT	_	_	7	punct	_	_
-6	эста	эста	Adv	_	Sem/Time	7	advmod:tmod	_	_
-7	няйсак	няемс	V	_	Ind|Prs|ScSg2|OcSg3	2	parataxis	_	_
-8	!	!	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:15:17:DevinI
-# text = Июлень шить сюролданзон ала трнаты-вачкаты куднек, ульцянек, саднек-мезнек.
-1	Июлень	июль	N	_	SP|Gen|Indef	2	nmod	_	_
-2	шить	ши	N	_	Sg|Gen|Def	3	nmod	_	_
-3	сюролданзон	сюролда	N	_	Pl|Gen|PxSg3	5	obl:lmod	_	_
-4	ала	ала	Adp	_	Loc	3	case	_	_
-5	трнаты-вачкаты	трнатомс-вачкатомс	V	_	Ind|Prs|ScSg3	0	root	_	_
-6	куднек	куд	N	_	SP|Com|Indef|AssocColl	5	obl	_	_
-7	,	,	PUNCT	_	_	8	punct	_	_
-8	ульцянек	ульця	N	_	SP|Com|Indef|AssocColl	6	conj	_	_
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	саднек-мезнек	сад	N	_	SP|Com|Indef|AssocColl	6	conj	_	_
-11	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:16:1:LevchaevP
-# text = Сире Куженянь ломаттне тя празднику сашендольхть сятка, кие кунара ни тусь велеста и эряй-ащи косовок пяк ичкозе.
-1	Сире	сире	A	_	Sg|Nom|Indef	2	amod	_	_
-2	Куженянь	куженя	N	_	SP|Gen|Indef	3	nmod	_	_
-3	ломаттне	ломань	N	_	Pl|Nom|Def	6	nsubj	_	_
-4	тя	тя	Pron	_	Dem|Sg|Nom|Indef	5	det	_	_
-5	празднику	праздник	N	_	SP|Lat|Indef	6	obl:lto	_	_
-6	сашендольхть	сашендомс	V	_	Conj|ScPl3	0	root	_	_
-7	сятка	ся	Pron	_	Dem|Pl|Nom|Indef|Clt/Add	6	dislocated	_	_
-8	,	,	PUNCT	_	_	12	punct	_	_
-9	кие	кие	Pron	_	Interr|Sg|Nom	12	nsubj	_	_
-10	кунара	кунара	Adv	_	_	12	advmod:tmod	_	_
-11	ни	ни	Adv	_	Sem/Time	10	advmod:tmod	_	_
-12	тусь	тумс	V	_	Ind|Prt1|ScSg3	7	acl:relcl	_	_
-13	велеста	веле	N	_	SP|Ela|Indef	12	obl:lfrom	_	_
-14	и	и	CC	_	_	15	cc	_	_
-15	эряй-ащи	-ащемс	V	_	Ind|Prs|ScSg3	12	conj	_	_
-16	косовок	косовок	Adv	_	Indef|Ine	18	det	_	_
-17	пяк	пяк	Adv	_	Deg	18	advmod:deg	_	_
-18	ичкозе	ичкозе	Adv	_	Loc	15	advmod:lmod	_	_
-19	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = MKS:2008:16:2:DevinI
-# text = Анясь няезе солдатть кядьста колма уженяса сёрманять.
-1	Анясь	Аня	N	_	Prop|Sg|Nom|Def	2	nsubj	_	_
-2	няезе	няемс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-3	солдатть	солдат	N	_	Sg|Gen|Def	4	nmod	_	_
-4	кядьста	кядь	N	_	SP|Ela|Indef	2	obl	_	_
-5	колма	колма	Num	_	Card|Sg|Nom|Indef	6	nummod	_	_
-6	уженяса	уженя	N	_	SP|Ine|Indef	7	nmod:lmod	_	_
-7	сёрманять	сёрма	N	_	Der/Dimin|Sg|Gen|Def	2	obj	_	_
-8	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:16:3:MoiseevM
-# text = И, пади, няевонь кеветиешка кизоса цёранякс.
-1	И	и	Interj	_	_	5	discourse	_	_
-2	,	,	PUNCT	_	_	3	punct	_	_
-3	пади	пади	ADV	_	_	5	parataxis	_	_
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	няевонь	няевомс	V	_	Ind|Prt1|ScSg1	0	root	_	_
-6	кеветиешка	кеветие	Num	_	Card|SP|Cmpr|Indef	7	nummod	_	_
-7	кизоса	киза	N	_	SP|Ine|Indef	8	nmod:tmod	_	_
-8	цёранякс	цёраня	N	_	SP|Tra|Indef	5	xcomp	_	_
-9	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:16:4:KudashkinI
-# text = Катк сембе няйсазь, коза серьгядезь Мулёвть, катк каяйхть сельме сонь лангозонза.
-1	Катк	катк	Pcle	_	Opt	3	aux:opt	_	_
-2	сембе	сембе	Pron	_	Sg|Nom|Indef	3	nsubj	_	_
-3	няйсазь	няемс	V	_	Ind|Prs|ScPl3|OcSg3	0	root	_	_
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	коза	коза	Adv	_	_	6	advmod:lto	_	_
-6	серьгядезь	серьгядемс	V	_	Ind|Prt1|ScPl3|OcSg3	3	ccomp	_	_
-7	Мулёвть	Мулёв	N	_	Prop|Sg|Gen|Def	6	obj	_	_
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	катк	катк	Pcle	_	Opt	10	aux:opt	_	_
-10	каяйхть	каямс	V	_	Ind|Prs|ScPl3	3	conj	_	_
-11	сельме	сельме	N	_	Sg|Nom|Indef	10	obj	_	_
-12	сонь	сон	Pron	_	Pers|Sg3|Gen	13	nmod	_	_
-13	лангозонза	ланга	N	_	Relator|SP|Ill|PxSg3	10	obl:lto	_	_
-14	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:16:5:AtjaninF
-# text = Синь виде ваймот кенярдсть сонь саманцты.
-1	Синь	сон	Pron	_	Pers|Pl3|Nom	4	nsubj	_	_
-2	виде	виде	A	_	Sg|Nom|Indef	3	amod	_	_
-3	ваймот	вайме	N	_	Pl|Nom|Indef	1	dislocated	_	_
-4	кенярдсть	кенярдемс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-5	сонь	сон	Pron	_	Pers|Sg3|Gen	6	nmod	_	_
-6	саманцты	самс	V	_	NomAct|Sg|Dat|PxSg3	4	advcl:to	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:16:6:UchvatovN
-# text = Стаки монь ёрат тиемс аф моли ярмакокс.
-1	Стаки	стаки	Adv	_	_	4	advmod:par	_	_
-2	монь	мон	Pron	_	Pers|Sg1|Gen	4	obj	_	_
-3	ёрат	ёрамс	V	_	Ind|Prs|ScSg2	0	root	_	_
-4	тиемс	тиемс	V	_	Inf	3	xcomp	_	_
-5	аф	аф	V	_	Aux|Neg	6	aux:neg	_	_
-6	моли	молемс	V	_	Ind|Prs|ScSg3	7	acl	_	_
-7	ярмакокс	ярмак	N	_	SP|Tra|Indef	4	xcomp	_	_
-8	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:16:7:KishnjakovI
-# text = Аф эряви тянь лангс ваномс суронь пачк.
-1	Аф	аф	V	_	Aux|Neg	2	aux:neg	_	_
-2	эряви	эрявомс	V	_	Ind|Prs|ScSg3	0	root	_	_
-3	тянь	тя	Pron	_	Dem|Sg|Gen|Indef	4	nmod	_	_
-4	лангс	ланга	N	_	Relator|SP|Ill|Indef	5	obl:lto	_	_
-5	ваномс	ваномс	V	_	Inf	2	xcomp	_	_
-6	суронь	сур	N	_	SP|Gen|Indef	5	obl	_	_
-7	пачк	пачк	Po	_	_	6	case	_	_
-8	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:16:8:DevinI
-# text = Елена Васильевна каяфтозе мирденц шинеленц, валхтозе вазенц.
-1	Елена	Елена	N	_	Prop|Sg|Nom|Indef	3	nsubj	_	_
-2	Васильевна	Василий	N	_	Prop|Der/PatrFem|Sem/Fem-Patr|Sg|Nom|Indef	1	flat:name	_	_
-3	каяфтозе	каяфтомс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-4	мирденц	мирде	N	_	Sg|Gen|PxSg3	5	nmod:poss	_	_
-5	шинеленц	шинель	N	_	Sg|Gen|PxSg3	3	obj	_	_
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	валхтозе	валхтомс	V	_	Ind|Prt1|ScSg3|OcSg3	3	conj	_	_
-8	вазенц	вазь	N	_	Sg|Gen|PxSg3	7	obj	_	_
-9	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:16:9:KuznecovJu
-# text = Колятнень кудсна эздонк тона порядкасоль, пцтай минь каршесонк.
-1	Колятнень	Коля	N	_	Prop|Pl|Gen|Def	2	nmod:poss	_	_
-2	кудсна	куд	N	_	SP|Nom|PxPl3	5	nsubj	_	_
-3	эздонк	эзда	Adp	_	Abl|PxPl1	5	obl:lfrom	_	_
-4	тона	тона	Pron	_	Dem|Sg|Nom|Indef	5	det	_	_
-5	порядкасоль	порядка	N	_	SP|Ine|Indef|Clt/Cop|Prt2|ScSg3	0	root	_	_
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	пцтай	пцтай	Adv	_	_	8	advmod	_	_
-8	минь	мон	Pron	_	Pers|Pl1|Gen	5	conj	_	_
-9	каршесонк	каршеса	ADP	_	Ine|PxPl1	8	case	_	_
-10	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:16:10:LevchaevP
-# text = Тя пингста лия велеста ардсь Кокоревонь отрядоц.
-1	Тя	тя	Pron	_	Dem|Sg|Nom|Indef	2	det	_	_
-2	пингста	пинге	N	_	SP|Ela|Indef	5	obl:tfrom	_	_
-3	лия	лия	DET	_	Sg|Nom|Indef	4	det	_	_
-4	велеста	веле	N	_	SP|Ela|Indef	5	obl:lfrom	_	_
-5	ардсь	ардомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-6	Кокоревонь	Кокорев	N	_	Prop|Sem/Mal-Sur|SP|Gen|Indef	7	nmod:poss	_	_
-7	отрядоц	отряд	N	_	Sg|Nom|PxSg3	5	nsubj	_	_
-8	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:16:11:KishnjakovI
-# text = Тугановонь мяльс лядсь Злобинонь романоц, конань лувозе аф кунара.
-1	Тугановонь	Туганов	N	_	Prop|Sem/Mal-Sur|SP|Gen|Indef	2	nmod:poss	_	_
-2	мяльс	мяль	N	_	SP|Ill|Indef	3	obl:lto	_	_
-3	лядсь	лядемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	Злобинонь	Злобин	N	_	Prop|Sem/Mal-Sur|SP|Gen|Indef	5	nmod:poss	_	_
-5	романоц	роман	N	_	Sg|Nom|PxSg3	3	nsubj	_	_
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	конань	кона	Pron	_	Rel|SP|Gen|Indef	8	obj	_	_
-8	лувозе	лувомс	V	_	Ind|Prt1|ScSg3|OcSg3	5	acl:relcl	_	_
-9	аф	аф	V	_	Aux|Neg	10	aux:neg	_	_
-10	кунара	кунара	Adv	_	_	8	advmod:tmod	_	_
-11	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:16:12:MoiseevM
-# text = Инголест появась, бта модаста лиссь, сенем сельме мазы стирня.
-1	Инголест	инголе	Adp	_	Loc|PxPl3	2	obl:lmod	_	_
-2	появась	появамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	,	,	PUNCT	_	_	6	punct	_	_
-4	бта	бта	Adv	_	_	6	advmod	_	_
-5	модаста	мода	N	_	SP|Ela|Indef	6	obl:lfrom	_	_
-6	лиссь	лисемс	V	_	Ind|Prt1|ScSg3	2	advcl	_	_
-7	,	,	PUNCT	_	_	11	punct	_	_
-8	сенем	сенем	A	_	Sg|Nom|Indef	9	amod	_	_
-9	сельме	сельме	N	_	Sg|Nom|Indef	11	nmod	_	_
-10	мазы	мазы	A	_	Sg|Nom|Indef	11	amod	_	_
-11	стирня	стирня	N	_	Sg|Nom|Indef	2	nsubj	_	_
-12	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:16:13:RadinV
-# text = Фенянь пряса сенем качамонь тюсса вазь.
-1	Фенянь	Феня	N	_	Prop|SP|Gen|Indef	2	nmod:poss	_	_
-2	пряса	пря	N	_	SP|Ine|Indef	0	root	_	_
-3	сенем	сенем	A	_	Sg|Nom|Indef	4	amod	_	_
-4	качамонь	качам	N	_	SP|Gen|Indef	5	nmod	_	_
-5	тюсса	тюс	N	_	SP|Ine|Indef	6	nmod:lmod	_	_
-6	вазь	вазь	N	_	Sg|Nom|Indef	2	nsubj:cop	_	_
-7	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:16:14:KirdjashkinT
-# text = Тишка куцсь шума коренть лангс, валхтозе прястонза вазенц и пешкодсь ёфси алянь вайгяльса.
-1	Тишка	Тишка	N	_	Prop|Sg|Nom|Indef	2	nsubj	_	_
-2	куцсь	куцемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	шума	шума	N	_	Sg|Nom|Indef	4	nmod	_	_
-4	коренть	корень	N	_	Sg|Gen|Def	5	nmod	_	_
-5	лангс	ланга	N	_	Relator|SP|Ill|Indef	2	obl:lto	_	_
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	валхтозе	валхтомс	V	_	Ind|Prt1|ScSg3|OcSg3	2	conj	_	_
-8	прястонза	пря	N	_	SP|Ela|PxSg3	7	obl:lfrom	_	_
-9	вазенц	вазь	N	_	Sg|Gen|PxSg3	7	obj	_	_
-10	и	и	CC	_	_	11	cc	_	_
-11	пешкодсь	пешкодомс	V	_	Ind|Prt1|ScSg3	7	conj	_	_
-12	ёфси	ёфси	Adv	_	_	14	advmod	_	_
-13	алянь	аля	N	_	SP|Gen|Indef	14	nmod:poss	_	_
-14	вайгяльса	вайгяль	N	_	SP|Ine|Indef	11	obl	_	_
-15	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:16:15:KishnjakovI
-# text = Машинать шарыензон ала калдоргодсть доскат — сон кармась ётама перилафтома седть ланга.
-1	Машинать	машина	N	_	Sg|Gen|Def	2	nmod:poss	_	_
-2	шарыензон	шары	N	_	Pl|Gen|PxSg3	4	obl:lmod	_	_
-3	ала	ала	Adp	_	Loc	2	case	_	_
-4	калдоргодсть	калдоргодомс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-5	доскат	доска	N	_	Pl|Nom|Indef	4	nsubj	_	_
-6	—	—	PUNCT	_	_	9	punct	_	_
-7	сон	сон	Pron	_	Pers|Sg3|Nom	9	nsubj	_	_
-8	кармась	кармамс	V	_	Ind|Prt1|ScSg3	9	aux:inch	_	_
-9	ётама	ётамс	V	_	Inf|Loc	4	parataxis	_	_
-10	перилафтома	перила	N	_	SP|Abe|Indef	11	nmod	_	_
-11	седть	седь	N	_	Sg|Gen|Def	12	nmod	_	_
-12	ланга	ланга	N	_	Relator|Sg|Nom|Indef	9	obl:lmp	_	_
-13	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:17:1:UchvatovNa
-# text = Колма шит трудясь Макарня, апак ваймак эрь шиня.
-1	Колма	колма	Num	_	Card|Sg|Nom|Indef	2	nummod	_	_
-2	шит	ши	N	_	Pl|Nom|Indef	3	obl:tmod	_	_
-3	трудясь	трудямс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	Макарня	Макар	N	_	Prop|Dimin|Sg|Nom	3	nsubj	_	_
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	апак	апак	Pcle	_	Neg	7	aux:neg	_	_
-7	ваймак	ваймамс	V	_	ConNegII	3	xcomp	_	_
-8	эрь	эрь	Det	_	Sg|Nom|Indef	9	det	_	_
-9	шиня	ши	N	_	Sg|Temp|Indef	3	obl:freq	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:17:1:UchvatovNb
-# text = Пилсесь-лаксесь, тяшнесь-нарнесь тись псьмаронди кудня.
-1	Пилсесь-лаксесь	пилсемс-лаксемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-2	,	,	PUNCT	_	_	3	punct	_	_
-3	тяшнесь-нарнесь	тяшнемс-нарнемс	V	_	Ind|Prt1|ScSg3	1	conj	_	_
-4	тись	тиемс	V	_	Ind|Prt1|ScSg3	1	conj	_	_
-5	псьмаронди	псьмар	N	_	SP|Dat|Indef	4	obl	_	_
-6	кудня	кудня	N	_	Sg|Nom|Indef	4	obj	_	_
-7	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:17:2:KirdjashkinT
-# text = Москуста тумозонза Тишка аноклазень сембонь: сюлгамонди уськоня, панар петьксонди гаруст, крганянди ожнат.
-1	Москуста	Моску	N	_	Prop|SP|Ela|Indef	2	obl:lfrom	_	_
-2	тумозонза	тумс	V	_	NomAct|SP|Ill|PxSg3	4	advcl:tto	_	_
-3	Тишка	Тишка	N	_	Prop|Sg|Nom|Indef	4	nsubj	_	_
-4	аноклазень	анокламс	V	_	Ind|Prt1|ScSg3|OcPl3	0	root	_	_
-5	сембонь	сембе	Pron	_	SP|Gen|Indef	4	obj	_	_
-6	:	:	PUNCT	_	_	8	punct	_	_
-7	сюлгамонди	сюлгам	N	_	SP|Dat|Indef	8	nmod	_	_
-8	уськоня	уськоня	N	_	Sg|Nom|Indef	5	list	_	_
-9	,	,	PUNCT	_	_	12	punct	_	_
-10	панар	панар	N	_	Sg|Nom|Indef	11	nmod	_	_
-11	петьксонди	петькс	N	_	SP|Dat|Indef	12	nmod	_	_
-12	гаруст	гаруз	N	_	Pl|Nom|Indef	5	list	_	_
-13	,	,	PUNCT	_	_	15	punct	_	_
-14	крганянди	крганя	N	_	SP|Dat|Indef	15	nmod	_	_
-15	ожнат	ожна	N	_	Pl|Nom|Indef	5	list	_	_
-16	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:17:3:KirdjashkinT
-# text = Саввань лангса сукнань поддевка.
-1	Саввань	Савва	N	_	Prop|SP|Gen|Indef	2	nmod	_	_
-2	лангса	ланга	N	_	Relator|SP|Ine|Indef	0	root	_	_
-3	сукнань	сукна	N	_	SP|Gen|Indef	4	nmod	_	_
-4	поддевка	поддёвка	N	_	Sg|Nom|Indef	2	nsubj:cop	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:17:4:DevinI
-# text = Варжалите суронь пачатнень таньфснон!
-1	Варжалите	Варжалите	V	_	Prec|ScSg2	0	root	_	_
-2	суронь	сура	N	_	SP|Gen|Indef	3	nmod	_	_
-3	пачатнень	пача	N	_	Pl|Gen|Def	4	nmod	_	_
-4	таньфснон	таньф	N	_	SP|Gen|PxPl3	1	obj	_	_
-5	!	!	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:17:5:SajginM
-# text = Велень стирьхне, тонцьке содасак, кодама мазыхть и тевонь кельгихть.
-1	Велень	веле	N	_	SP|Gen|Indef	2	nmod	_	_
-2	стирьхне	стирь	N	_	Pl|Nom|Def	8	nsubj:cop	_	_
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	тонцьке	тонць	Pron	_	Refl|Sg2|Nom|Clt/Add	5	nsubj	_	_
-5	содасак	содамс	V	_	Ind|Prs|ScSg2|OcSg3	8	parataxis	_	_
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	кодама	кодама	A	_	Interr|Sg|Nom|Indef	8	advmod	_	_
-8	мазыхть	мазы	A	_	Pl|Nom|Indef	0	root	_	_
-9	и	и	CC	_	_	11	cc	_	_
-10	тевонь	тев	N	_	SP|Gen|Indef	11	obj	_	_
-11	кельгихть	кельгомс	V	_	NomAg|Pl|Nom|Indef	8	conj	_	_
-12	.	.	PUNCT	_	_	8	punct	_	_
-
-# sent_id = MKS:2008:17:6:ImjarekovM
-# text = Луганятне вирьса пяшксетольхть нормальда, танцти шиненясь шарсь перьф.
-1	Луганятне	луга	N	_	Der/Dimin|Pl|Nom|Def	3	nsubj	_	_
-2	вирьса	вирь	N	_	SP|Ine|Indef	3	obl:lmod	_	_
-3	пяшксетольхть	пяшксетольхть	Adv	_	Ine|Cop|Prt1|ScPl3	0	root	_	_
-4	нормальда	нормаль	N	_	SP|Abl|Indef	3	obl	_	_
-5	,	,	PUNCT	_	_	8	punct	_	_
-6	танцти	танцти	A	_	Sg|Nom|Indef	7	amod	_	_
-7	шиненясь	шине	N	_	Der/Dimin|Sg|Nom|Def	8	nsubj	_	_
-8	шарсь	шаромс	V	_	Ind|Prt1|ScSg3	3	conj	_	_
-9	перьф	перьф	Adv	_	_	8	advmod:lmod	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:17:7:KirdjashkinT
-# text = Заводса или фабрикаса работамась кунаркиге ни повсь Тишкань пряс.
-1	Заводса	завод	N	_	SP|Ine|Indef	4	obl:lmod	_	_
-2	или	или	CC	_	_	3	cc	_	_
-3	фабрикаса	фабрика	N	_	SP|Ine|Indef	1	conj	_	_
-4	работамась	работамс	V	_	NomAct|Sg|Nom|Def	7	csubj	_	_
-5	кунаркиге	кунаркиге	Adv	_	Sem/Time	7	advmod:tmod	_	_
-6	ни	ни	Adv	_	Sem/Time	5	advmod:tmod	_	_
-7	повсь	повомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-8	Тишкань	Тишка	N	_	Prop|SP|Gen|Indef	9	nmod:poss	_	_
-9	пряс	пря	N	_	SP|Ill|Indef	7	obl:lto	_	_
-10	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = MKS:2008:17:8:LevchaevP
-# text = Маринкать родителенза юмасть войнань васенце кизотнень.
-1	Маринкать	Маринка	N	_	Prop|Sg|Gen|Def	2	nmod:poss	_	_
-2	родителенза	родитель	N	_	Pl|Nom|PxSg3	3	nsubj	_	_
-3	юмасть	юмамс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-4	войнань	война	N	_	SP|Gen|Indef	6	nmod	_	_
-5	васенце	васенце	A	_	Ord|Sg|Nom|Indef	6	amod	_	_
-6	кизотнень	киза	N	_	Pl|Gen|Def	3	obl:tmod	_	_
-7	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:17:9:AtjaninF
-# text = Больницяса ащесь Паша пялешка част, учсезе передачань примама пингть.
-1	Больницяса	больниця	N	_	SP|Ine|Indef	2	obl:lmod	_	_
-2	ащесь	ащемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	Паша	Паша	N	_	Prop|Sg|Nom|Indef	2	nsubj	_	_
-4	пялешка	пяле	N	_	SP|Cmpr|Indef	5	nmod	_	_
-5	част	част	N	_	Sg|Nom|Indef	2	obj	_	_
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	учсезе	учсемс	V	_	Ind|Prt1|ScSg3|OcSg3	2	conj	_	_
-8	передачань	передача	N	_	SP|Gen|Indef	9	obj	_	_
-9	примама	примамс	V	_	Inf|Loc	10	acl	_	_
-10	пингть	пинге	N	_	Sg|Gen|Def	7	obj	_	_
-11	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:17:10:KishnjakovI
-# text = Командирсь макссь задания и ламос аф учсезь таргазе картать.
-1	Командирсь	командир	N	_	Sg|Nom|Def	2	nsubj	_	_
-2	макссь	максомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	задания	задания	N	_	Sg|Nom|Indef	2	obj	_	_
-4	и	и	CC	_	_	8	cc	_	_
-5	ламос	лама	Det	_	SP|Ill|Indef	7	obl:tto	_	_
-6	аф	аф	V	_	Aux|Neg	7	aux:neg	_	_
-7	учсезь	учсемс	V	_	Der/Ozj|Ger	8	advcl	_	_
-8	таргазе	таргамс	V	_	Ind|Prt1|ScSg3|OcSg3	2	conj	_	_
-9	картать	карта	N	_	Sg|Gen|Def	8	obj	_	_
-10	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:17:11:ViardV
-# text = Цёранясь лувсь книга, а сонць варжакснесь частонзон лангс.
-1	Цёранясь	цёраня	N	_	Sg|Nom|Def	2	nsubj	_	_
-2	лувсь	лувомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	книга	книга	N	_	Sg|Nom|Indef	2	obj	_	_
-4	,	,	PUNCT	_	_	7	punct	_	_
-5	а	а	CC	_	_	7	cc	_	_
-6	сонць	сонць	Pron	_	Refl|Sg3|Nom	7	nsubj	_	_
-7	варжакснесь	варжакснемс	V	_	Ind|Prt1|ScSg3	2	conj	_	_
-8	частонзон	част	N	_	Pl|Gen|PxSg3	9	nmod	_	_
-9	лангс	ланга	N	_	Relator|SP|Ill|Indef	7	obl:lto	_	_
-10	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:17:12:MakulovL
-# text = Атясь эрьхтезе алашать локшеса.
-1	Атясь	атя	N	_	Sg|Nom|Def	2	nsubj	_	_
-2	эрьхтезе	эрьхтемс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-3	алашать	алаша	N	_	Sg|Gen|Def	2	obj	_	_
-4	локшеса	локша	N	_	SP|Ine|Indef	2	obl:inst	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:17:13:BebanM
-# text = Кяльса веляфты тумонь мокорь, а тевса аф мянди копорь.
-1	Кяльса	кяль	N	_	SP|Ine|Indef	2	obl:inst	_	_
-2	веляфты	веляфтомс	V	_	Ind|Prs|ScSg3	0	root	_	_
-3	тумонь	тума	N	_	SP|Gen|Indef	4	nmod	_	_
-4	мокорь	мокорь	N	_	Sg|Nom|Indef	2	obj	_	_
-5	,	,	PUNCT	_	_	9	punct	_	_
-6	а	а	CC	_	_	9	cc	_	_
-7	тевса	тев	N	_	SP|Ine|Indef	9	obl	_	_
-8	аф	аф	V	_	Aux|Neg	9	aux:neg	_	_
-9	мянди	мяндемс	V	_	Ind|Prs|ScSg3	2	conj	_	_
-10	копорь	копорь	N	_	Sg|Nom|Indef	9	obj	_	_
-11	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:17:14:KjashkinM
-# text = Передовойть ширде кулевсть пушкаса и пулемётса ляцендемат.
-1	Передовойть	передовой	A	_	Sg|Gen|Def	2	nmod	_	_
-2	ширде	ширде	NOUN	_	Abl	3	obl:lfrom	_	_
-3	кулевсть	кулевомс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-4	пушкаса	пушка	N	_	SP|Ine|Indef	7	obl:inst	_	_
-5	и	и	CC	_	_	6	cc	_	_
-6	пулемётса	пулемёт	N	_	SP|Ine|Indef	4	conj	_	_
-7	ляцендемат	ляцендемс	V	_	Vnoun|Pl|Nom|Indef	3	nsubj	_	_
-8	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:17:15:BebanM
-# text = Авать вайгяльса марявсь апрякама.
-1	Авать	ава	N	_	Sg|Gen|Def	2	nmod:poss	_	_
-2	вайгяльса	вайгяль	N	_	SP|Ine|Indef	3	obl	_	_
-3	марявсь	марявомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	апрякама	апрякамс	V	_	Vnoun|Sg|Loc|Indef	3	nsubj	_	_
-5	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:17:16:SajginM
-# text = Панчфкясь пуженди шить ала.
-1	Панчфкясь	панчф	N	_	Der/Dimin|Sg|Nom|Def	2	nsubj	_	_
-2	пуженди	пужендомс	V	_	Err/Orth|Ind|Prs|ScSg3	0	root	_	_
-3	шить	ши	N	_	Sg|Gen|Def	2	obl:lmod	_	_
-4	ала	ала	Adp	_	Loc	3	case	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:17:17:LarionovS
-# text = Тугановть эзда кода толда пели совхозоньконь директороц.
-1	Тугановть	Туганов	N	_	Prop|Sem/Mal-Sur|Sg|Gen|Def	5	obl:cau	_	_
-2	эзда	эзда	Adp	_	Abl	1	case	_	_
-3	кода	кода	Adv	_	_	4	advmod	_	_
-4	толда	тол	N	_	SP|Abl|Indef	1	nmod	_	_
-5	пели	пелемс	V	_	Ind|Prs|ScSg3	0	root	_	_
-6	совхозоньконь	совхоз	N	_	SP|Gen|PxPl1	7	nmod	_	_
-7	директороц	директор	N	_	Sg|Nom|PxSg3	5	nsubj	_	_
-8	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:18:1:KuznecovJu
-# text = Ся, кие изь пице паксяса или вирьса ярхцамбяль, аф содасы таньфонц.
-1	Ся	ся	Pron	_	Dem|Sg|Nom|Indef	12	nsubj	_	_
-2	,	,	PUNCT	_	_	5	punct	_	_
-3	кие	кие	Pron	_	Interr|Sg|Nom	5	nsubj	_	_
-4	изь	аф	V	_	Aux|Neg|Ind|Prt1|ScSg3	5	aux:neg	_	_
-5	пице	пицемс	V	_	ConNeg	1	acl:relcl	_	_
-6	паксяса	пакся	N	_	SP|Ine|Indef	5	obl:lmod	_	_
-7	или	или	CC	_	_	8	cc	_	_
-8	вирьса	вирь	N	_	SP|Ine|Indef	6	conj	_	_
-9	ярхцамбяль	ярхцамбяль	N	_	Sg|Nom|Indef	5	obj	_	_
-10	,	,	PUNCT	_	_	5	punct	_	_
-11	аф	аф	V	_	Aux|Neg	12	aux:neg	_	_
-12	содасы	содамс	V	_	Ind|Prs|ScSg3|OcSg3	0	root	_	_
-13	таньфонц	таньф	N	_	Sg|Gen|PxSg3	12	obj	_	_
-14	.	.	PUNCT	_	_	12	punct	_	_
-
-# sent_id = MKS:2008:18:2:KudashkinI
-# text = Цёрашабась лезнель тейнза мезьса маштсь: каннель библиотекста книгат, нолязень почтовай ящикс сёрманзон.
-1	Цёрашабась	цёрашаба	N	_	Sg|Nom|Def	2	nsubj	_	_
-2	лезнель	лезнемс	V	_	Ind|Prt2|ScSg3	0	root	_	_
-3	тейнза	сон	Pron	_	Pers|Sg3|Dat|Short	2	obl	_	_
-4	мезьса	мезе	Pron	_	Interr|SP|Ine	5	obl:inst	_	_
-5	маштсь	маштомс	V	_	Ind|Prt1|ScSg3	2	conj	_	_
-6	:	:	PUNCT	_	_	7	punct	_	_
-7	каннель	каннемс	V	_	Ind|Prt2|ScSg3	2	parataxis	_	_
-8	библиотекста	библиотека	N	_	Err/Orth|SP|Ela|Indef	7	obl:lfrom	_	_
-9	книгат	книга	N	_	Pl|Nom|Indef	7	obj	_	_
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	нолязень	нолямс	V	_	Ind|Prt1|ScSg3|OcPl3	7	conj	_	_
-12	почтовай	почтовай	A	_	Sg|Nom|Indef	13	amod	_	_
-13	ящикс	ящик	N	_	SP|Ill|Indef	11	obl:lto	_	_
-14	сёрманзон	сёрма	N	_	Pl|Gen|PxSg3	11	obj	_	_
-15	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:18:3:MakulovL
-# text = Кой-кинди савсь мянемс вальмава.
-1	Кой-кинди	кой-кие	Pron	_	Indef|SP|Dat	2	obl:agent	_	_
-2	савсь	савомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	мянемс	мянемс	V	_	Inf	2	xcomp	_	_
-4	вальмава	вальмя	N	_	SP|Prl|Indef	3	obl:lmp	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:18:4:PinjasovJa
-# text = Тядяц моли цёранц ваксс, кядьлапшса вадердасыне акша шяярензон, паласы щёкас.
-1	Тядяц	тядя	N	_	Sem/Kin|Sg|Nom|PxSg3	2	nsubj	_	_
-2	моли	молемс	V	_	Ind|Prs|ScSg3	0	root	_	_
-3	цёранц	цёра	N	_	Sg|Gen|PxSg3	2	obl:lto	_	_
-4	ваксс	ваксс	Adp	_	Ill	3	case	_	_
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	кядьлапшса	кядьлапш	N	_	SP|Ine|Indef	7	obl:inst	_	_
-7	вадердасыне	вадердамс	V	_	Ind|Prs|ScSg3|OcPl3	2	conj	_	_
-8	акша	акша	A	_	Sg|Nom|Indef	9	amod	_	_
-9	шяярензон	шяярь	N	_	Pl|Gen|PxSg3	7	obj	_	_
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	паласы	паламс	V	_	Ind|Prs|ScSg3|OcSg3	2	conj	_	_
-12	щёкас	щёка	N	_	SP|Ill|Indef	11	obl:lto	_	_
-13	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:18:5:KuznecovJu
-# text = Шобдава ведть ланга уйсть акша туматт.
-1	Шобдава	шобдава	Adv	_	Prl|Sem/Time	4	advmod:tmod	_	_
-2	ведть	ведь	N	_	Sg|Gen|Def	3	nmod	_	_
-3	ланга	ланга	N	_	Relator|Sg|Nom|Indef	4	obl:lmp	_	_
-4	уйсть	уемс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-5	акша	акша	A	_	Sg|Nom|Indef	6	amod	_	_
-6	туматт	туман	N	_	Pl|Nom|Indef	4	nsubj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:18:6:PinjasovG
-# text = Кудть ингольгя ётнесть лама ломаньда.
-1	Кудть	куд	N	_	Sg|Gen|Def	2	nmod	_	_
-2	ингольгя	инголь	N	_	SP|Prl|Indef	3	obl:lmp	_	_
-3	ётнесть	ётнемс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-4	лама	лама	Det	_	Sg|Nom|Indef	5	det	_	_
-5	ломаньда	ломань	N	_	SP|Abl|Indef	3	obl:qnt	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:18:7:SajginM
-# text = Кальхнень ёткса чильнясть нармоннят, кафтонь лиендсть шуфттнень вельхкска.
-1	Кальхнень	каль	N	_	Pl|Gen|Def	2	nmod	_	_
-2	ёткса	ётка	N	_	Relator|SP|Ine|Indef	3	obl:lmod	_	_
-3	чильнясть	чильнямс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-4	нармоннят	нармоння	N	_	Pl|Nom|Indef	3	nsubj	_	_
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	кафтонь	кафта	Num	_	Card|SP|Gen|Indef	7	advmod	_	_
-7	лиендсть	лиендемс	V	_	Ind|Prt1|ScPl3	3	conj	_	_
-8	шуфттнень	шуфта	N	_	Pl|Gen|Def	9	nmod	_	_
-9	вельхкска	вельхкс	N	_	Relator|SP|Prl|Indef	7	obl:lmp	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:18:8:MoiseevMa
-# text = Утцесь шить, утцесь веть.
-1	Утцесь	утцемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-2	шить	ши	N	_	Sg|Gen|Def	1	obl:tmod	_	_
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	утцесь	утцемс	V	_	Ind|Prt1|ScSg3	1	conj	_	_
-5	веть	ве	N	_	Sg|Gen|Def	4	obl:tmod	_	_
-6	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:18:8:MoiseevMb
-# text = Кизонда яла утцесь шуфттнень ала.
-1	Кизонда	кизонда	Adv	_	Sem/Time	3	advmod:tmod	_	_
-2	яла	яла	Adv	_	Sem/Time	3	advmod:freq	_	_
-3	утцесь	утцемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	шуфттнень	шуфта	N	_	Pl|Gen|Def	3	obl:lmod	_	_
-5	ала	ала	Adp	_	Loc	4	case	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:18:9:TjapaevA
-# text = Сёксенда кемонце классу озан.
-1	Сёксенда	сёксенда	Adv	_	Sem/Time	4	advmod:tmod	_	_
-2	кемонце	кемонце	ADJ	_	Ord|Sg|Nom|Indef	3	amod	_	_
-3	классу	класс	N	_	SP|Lat|Indef	4	obl:lto	_	_
-4	озан	озамс	V	_	Ind|Prs|ScSg1	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:18:10:KuznecovJu
-# text = Модать лангса кунара ни аськолясь тундась.
-1	Модать	мода	N	_	Sg|Gen|Def	2	nmod	_	_
-2	лангса	ланга	N	_	Relator|SP|Ine|Indef	5	obl:lmod	_	_
-3	кунара	кунара	Adv	_	_	5	advmod:tmod	_	_
-4	ни	ни	Adv	_	Sem/Time	3	advmod:tmod	_	_
-5	аськолясь	аськолямс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-6	тундась	тунда	N	_	Sg|Nom|Def	5	nsubj	_	_
-7	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:18:11:KirdjashkinT
-# text = Михалу шинь карша путозь Марянь позялонц.
-1	Михалу	Михалу	N	_	Prop|Sg|Nom|Indef	2	nmod:appos	_	_
-2	шинь	ши	N	_	SP|Gen|Indef	3	nmod	_	_
-3	карша	карша	N	_	Relator|Sg|Nom|Indef	4	obl:tmod	_	_
-4	путозь	путомс	V	_	Der/Ozj|Ger	0	root	_	_
-5	Марянь	Маря	N	_	Prop|SP|Gen|Indef	6	nmod	_	_
-6	позялонц	позял	N	_	Sg|Gen|PxSg3	4	obj	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:18:12:MoiseevM
-# text = Сексе пяли цёрокшсь кармась срхкама школав.
-1	Сексе	сёксе	N	_	Sg|Nom|Indef	2	nmod	_	_
-2	пяли	пяли	N	_	SP|Lat|Indef	5	obl:tto	_	_
-3	цёрокшсь	цёрокш	N	_	Sg|Nom|Def	5	nsubj	_	_
-4	кармась	кармамс	V	_	Ind|Prt1|ScSg3	5	aux:inch	_	_
-5	срхкама	срхкамс	V	_	Inf|Loc	0	root	_	_
-6	школав	школа	N	_	SP|Lat|Indef	5	obl:lto	_	_
-7	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:18:13:LarionovS
-# text = Митричень пингста тиф тя мастерскойсь.
-1	Митричень	Митрич	N	_	Prop|SP|Gen|Indef	3	obl:tfrom	_	_
-2	пингста	пинге	ADP	_	SP|Ela|Indef	1	case	_	_
-3	тиф	тиемс	V	_	Der/f|PrfPrc|Sg|Nom|Indef	0	root	_	_
-4	тя	тя	Pron	_	Dem|Sg|Nom|Indef	5	det	_	_
-5	мастерскойсь	мастерской	N	_	Sg|Nom|Def	3	nsubj:cop	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:18:14:RadinV
-# text = Вельдинонь Крыму курорту колхозсь цебярьста работаманкса прважазе.
-1	Вельдинонь	Вельдин	N	_	Prop|Sem/Mal-Sur|SP|Gen|Indef	7	obj	_	_
-2	Крыму	Крым	N	_	Prop|SP|Lat|Indef	7	obl:lto	_	_
-3	курорту	курорт	N	_	SP|Lat|Indef	2	appos	_	_
-4	колхозсь	колхоз	N	_	Sg|Nom|Def	7	nsubj	_	_
-5	цебярьста	цебярьста	Adv	_	Manner	6	advmod	_	_
-6	работаманкса	работамс	V	_	NomAct|SP|Cau|Indef	7	advcl	_	_
-7	прважазе	прважамс	V	_	Ind|Prt1|ScSg3|OcSg3	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-# sent_id = MKS:2008:18:15:SajginM
-# text = Аф, аф эрявихть Луканди войнаса сяськоманкса шнакшнематне.
-1	Аф	аф	Interj	_	Neg	4	discourse	_	_
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	аф	аф	V	_	Aux|Neg	4	aux:neg	_	_
-4	эрявихть	эрявомс	V	_	Ind|Prs|ScPl3	0	root	_	_
-5	Луканди	Лука	N	_	Prop|SP|Dat|Indef	4	obl	_	_
-6	войнаса	война	N	_	SP|Ine|Indef	7	obl:lmod	_	_
-7	сяськоманкса	сяськомс	V	_	NomAct|SP|Cau|Indef	8	advcl:cau	_	_
-8	шнакшнематне	шнакшнемс	V	_	NomAct|Pl|Nom|Def	4	nsubj	_	_
-9	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:18:16:LevinV
-# text = Залсь бта лопадсь кядень цяпамати.
-1	Залсь	зал	N	_	Sg|Nom|Def	3	nsubj	_	_
-2	бта	бта	Adv	_	_	3	advmod	_	_
-3	лопадсь	лопадемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	кядень	кядь	N	_	SP|Gen|Indef	5	obl	_	_
-5	цяпамати	цяпамс	V	_	NomAct|Sg|Dat|Def	3	obl	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:18:17:PinjasovJa
-# text = Цебярь дружбаснон инкса тейст кармасть мярьгома кафтасть.
-1	Цебярь	цебярь	A	_	Sg|Nom|Indef	2	amod	_	_
-2	дружбаснон	дружба	N	_	SP|Gen|PxPl3	6	obl:cau	_	_
-3	инкса	инкса	Adp	_	Cau	2	case	_	_
-4	тейст	сон	Pron	_	Pers|Pl3|Dat|Short	6	obl	_	_
-5	кармасть	кармамс	V	_	Ind|Prt1|ScPl3	6	aux:inch	_	_
-6	мярьгома	мярьгомс	V	_	Inf|Loc	0	root	_	_
-7	кафтасть	кафтасть	N	_	Sg|Nom|Indef	6	obj	_	_
-8	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = MKS:2008:18:18:TjapaevA
-# text = Лама нужа няйсть ногайхнень сюнеда Мазы Кужень эряйхне.
-1	Лама	лама	Det	_	Sg|Nom|Indef	2	det	_	_
-2	нужа	нужа	N	_	Sg|Nom|Indef	3	obj	_	_
-3	няйсть	няемс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-4	ногайхнень	ногай	N	_	Pl|Gen|Def	3	obl	_	_
-5	сюнеда	сюнеда	Adp	_	Po	4	case	_	_
-6	Мазы	Мазе	N	_	Prop|Sem/Sur|SP|Lat|Indef	8	nmod	_	_
-7	Кужень	кужа	N	_	SP|Gen|Indef	6	flat:name	_	_
-8	эряйхне	эряй	N	_	Pl|Nom|Def	3	nsubj	_	_
-9	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:18:19:KuznecovJu
-# text = Сембось перьфпяле люмбась тя псить эзда.
-1	Сембось	сембе	Pron	_	Sg|Nom|Def	3	nsubj	_	_
-2	перьфпяле	перьфпяле	Adv	_	Loc	3	obl:lmod	_	_
-3	люмбась	люмбамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	тя	тя	Pron	_	Dem|Sg|Nom|Indef	5	det	_	_
-5	псить	пси	N	_	Sg|Gen|Def	3	obl:cau	_	_
-6	эзда	эзда	Adp	_	Abl	5	case	_	_
-7	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:18:20:LarionovS
-# text = Авардемать эзда сембонь сельмосна таргозьфтольхть.
-1	Авардемать	авардемс	V	_	NomAct|Sg|Gen|Def	5	advcl:cau	_	_
-2	эзда	эзда	Adp	_	Abl	1	case	_	_
-3	сембонь	сембе	Pron	_	SP|Gen|Indef	4	nmod:poss	_	_
-4	сельмосна	сельме	N	_	SP|Nom|PxPl3	5	nsubj	_	_
-5	таргозьфтольхть	таргоземс	V	_	Der/f|PrfPrc|Clt/Cop|Prt2|ScPl3	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:19:1:SajginM
-# text = Родькинонь танкац мянць инголи.
-1	Родькинонь	Родькин	N	_	Prop|Sem/Mal-Sur|SP|Gen|Indef	2	nmod:poss	_	_
-2	танкац	танка	N	_	Sg|Nom|PxSg3	3	nsubj	_	_
-3	мянць	мяндемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	инголи	инголь	N	_	Relator|SP|Lat|Indef	3	obl:lto	_	_
-5	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:19:2:PinjasovG
-# text = Тоса уендихть сурбряшка ёршкат.
-1	Тоса	тоса	Adv	_	Ine	2	obl:lmod	_	_
-2	уендихть	уендемс	V	_	Ind|Prs|ScPl3	0	root	_	_
-3	сурбряшка	сурбря	N	_	SP|Cmpr|Indef	4	nmod	_	_
-4	ёршкат	ёршка	N	_	Pl|Nom|Indef	2	nsubj	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:19:3:KirdjashkinT
-# text = Марянь куду сувамац мянь аф сай.. 
-1	Марянь	Маря	N	_	Prop|SP|Gen|Indef	3	nmod	_	_
-2	куду	куд	N	_	SP|Lat|Indef	3	obl:lto	_	_
-3	сувамац	сувамс	V	_	NomAct|Sg|Nom|PxSg3	6	csubj	_	_
-4	мянь	мянь	Adv	_	_	6	advmod	_	_
-5	аф	аф	V	_	Aux|Neg	6	aux:neg	_	_
-6	сай	самс	V	_	Ind|Prs|ScSg3	0	root	_	_
-7	..	..	PUNCT	_	_	6	punct	_	_
-
-# sent_id = MKS:2008:19:4:LarionovS
-# text = Мялецоль тага и тага тердемс Иннать корхнемс мархтонза.
-1	Мялецоль	мяль	N	_	Sg|Nom|PxSg3|Clt/Cop|Prt2|ScSg3	0	root	_	_
-2	тага	тага	Adv	_	Sem/Time	1	advmod:freq	_	_
-3	и	и	CC	_	_	4	cc	_	_
-4	тага	тага	Adv	_	Sem/Time	2	conj	_	_
-5	тердемс	тердемс	V	_	Inf	1	conj	_	_
-6	Иннать	Инна	N	_	Prop|Sg|Gen|Def	5	obj	_	_
-7	корхнемс	корхнемс	V	_	Inf	1	conj	_	_
-8	мархтонза	мархта	Adp	_	PxSg3	7	obl	_	_
-9	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:19:5:JezhovA
-# text = Сон аф пели аф врьгазда, аф пинеда.
-1	Сон	сон	Pron	_	Pers|Sg3|Nom	3	nsubj	_	_
-2	аф	аф	V	_	Aux|Neg	3	aux:neg	_	_
-3	пели	пелемс	V	_	Ind|Prs|ScSg3	0	root	_	_
-4	аф	аф	V	_	Aux|Neg	5	aux:neg	_	_
-5	врьгазда	врьгаз	N	_	SP|Abl|Indef	3	obl:cau	_	_
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	аф	аф	V	_	Aux|Neg	8	aux:neg	_	_
-8	пинеда	пине	N	_	SP|Abl|Indef	5	conj	_	_
-9	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:19:6:LarionovS
-# text = Стирнятне работасть цехса, а Яхим атянь путозь комендантокс.
-1	Стирнятне	стирня	N	_	Pl|Nom|Def	2	nsubj	_	_
-2	работасть	работамс	V	_	Ind|Prt1|ScPl3	0	root	_	_
-3	цехса	цех	N	_	SP|Ine|Indef	2	obl:lmod	_	_
-4	,	,	PUNCT	_	_	8	punct	_	_
-5	а	а	CC	_	_	8	cc	_	_
-6	Яхим	Яхим	N	_	Prop|Sg|Nom|Indef	7	nmod:appos	_	_
-7	атянь	атя	N	_	SP|Gen|Indef	8	obj	_	_
-8	путозь	путомс	V	_	Ind|Prt1|ScPl3|OcSg3	2	conj	_	_
-9	комендантокс	комендант	N	_	SP|Tra|Indef	8	xcomp	_	_
-10	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:19:7:LevchaevP
-# text = Козя ся колхозсь и сёроса, и ярмакса.
-1	Козя	козя	A	_	Sg|Nom|Indef	0	root	_	_
-2	ся	ся	Pron	_	Dem|Sg|Nom|Indef	3	det	_	_
-3	колхозсь	колхоз	N	_	Sg|Nom|Def	1	nsubj:cop	_	_
-4	и	и	CC	_	_	5	cc:preconj	_	_
-5	сёроса	сёра	N	_	SP|Ine|Indef	1	obl	_	_
-6	,	,	PUNCT	_	_	8	punct	_	_
-7	и	и	CC	_	_	8	cc	_	_
-8	ярмакса	ярмак	N	_	SP|Ine|Indef	5	conj	_	_
-9	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:19:8:KirdjashkinT
-# text = Кармась юксондома пильгонзон, конат плманжава пяндрат.
-1	Кармась	кармамс	V	_	Ind|Prt1|ScSg3	2	aux:inch	_	_
-2	юксондома	юксондомс	V	_	Inf|Loc	0	root	_	_
-3	пильгонзон	пильге	N	_	Pl|Gen|PxSg3	2	obj	_	_
-4	,	,	PUNCT	_	_	7	punct	_	_
-5	конат	кона	Pron	_	Rel|Pl|Nom|Indef	7	nsubj:cop	_	_
-6	плманжава	плманжа	N	_	SP|Prl|Indef	7	obl:lmp	_	_
-7	пяндрат	пяндра	A	_	Pl|Nom|Indef	3	acl:relcl	_	_
-8	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:19:9:LevchaevP
-# text = Ну кода аф визькс Дарюняти — хоть шталезе-урядалезе цебярняста!
-1	Ну	ну	Interj	_	_	5	discourse	_	_
-2	кода	кода	Adv	_	_	5	advmod	_	_
-3	аф	аф	V	_	Aux|Neg	4	aux:neg	_	_
-4	визькс	визькс	N	_	Sg|Nom|Indef	5	nsubj:cop	_	_
-5	Дарюняти	Дарюня	N	_	Prop|Sg|Dat|Def	0	root	_	_
-6	—	—	PUNCT	_	_	8	punct	_	_
-7	хоть	хоть	SCONJ	_	_	8	mark	_	_
-8	шталезе-урядалезе	штамс-урядамс	V	_	Conj|ScSg3|OcSg3	5	advcl	_	_
-9	цебярняста	цебярняста	Adv	_	Manner	8	advmod	_	_
-10	!	!	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:19:10:KirdjashkinT
-# text = Лугать ётазь туманть вишке пингстонза, а кда кармасть куцема пандонява вяри, туманць ушедсь шурокстомома.
-1	Лугать	луга	N	_	Sg|Gen|Def	2	obj	_	_
-2	ётазь	ётамс	V	_	Ind|Prt1|ScPl3|OcSg3	0	root	_	_
-3	туманть	туман	N	_	Sg|Gen|Def	5	nmod	_	_
-4	вишке	вишке	A	_	Sg|Nom|Indef	5	amod	_	_
-5	пингстонза	пинге	N	_	SP|Ela|PxSg3	2	obl:tfrom	_	_
-6	,	,	PUNCT	_	_	10	punct	_	_
-7	а	а	CC	_	_	10	cc	_	_
-8	кда	кда	CS	_	_	10	mark	_	_
-9	кармасть	кармамс	V	_	Ind|Prt1|ScPl3	10	aux:inch	_	_
-10	куцема	куцемс	V	_	Inf|Loc	2	conj	_	_
-11	пандонява	пандоня	N	_	SP|Prl|Indef	10	obl:lmp	_	_
-12	вяри	вяри	Adv	_	Lat	10	advmod:lto	_	_
-13	,	,	PUNCT	_	_	16	punct	_	_
-14	туманць	туман	N	_	Sg|Nom|Def	16	nsubj	_	_
-15	ушедсь	ушедомс	V	_	Ind|Prt1|ScSg3	16	aux:inch	_	_
-16	шурокстомома	шурокстомомс	V	_	Inf|Loc	2	conj	_	_
-17	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:19:11:MoiseevM
-# text = Архт, архт меки общежитияв.
-1	Архт	архт	V	_	Imprt|ScSg2	0	root	_	_
-2	,	,	PUNCT	_	_	3	punct	_	_
-3	архт	архт	V	_	Imprt|ScSg2	1	conj	_	_
-4	меки	меки	Adv	_	_	1	advmod:lto	_	_
-5	общежитияв	общежития	N	_	SP|Lat|Indef	4	appos	_	_
-6	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:19:12:DevinI
-# text = Борис вальмава ванць Атять мельгя.
-1	Борис	Борис	N	_	Prop|Sg|Nom|Indef	3	nsubj	_	_
-2	вальмава	вальмя	N	_	SP|Prl|Indef	3	obl:lmp	_	_
-3	ванць	ваномс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	Атять	атя	N	_	Sg|Gen|Def	3	obl	_	_
-5	мельгя	мельге	Po	_	Prl|Err/Orth-lowered-final-e-2-ja	4	case	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:19:13:KuznecovJu
-# text = Мишась лямбе сельмованфса варжакстсь ученикнень шири.
-1	Мишась	Миша	N	_	Prop|Sg|Nom|Def	4	nsubj	_	_
-2	лямбе	лямбе	A	_	Sg|Nom|Indef	3	amod	_	_
-3	сельмованфса	сельмованф	N	_	SP|Ine|Indef	4	obl:inst	_	_
-4	варжакстсь	варжакстомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-5	ученикнень	ученик	N	_	Pl|Gen|Def	6	nmod	_	_
-6	шири	шире	N	_	Relator|SP|Lat|Indef	4	obl:lto	_	_
-7	.	.	PUNCT	_	_	4	punct	_	_
-
-# sent_id = MKS:2008:19:14:AtjaninF
-# text = Пашать шамац акшель эводемать эзда.
-1	Пашать	Паша	N	_	Prop|Sg|Gen|Def	2	nmod:poss	_	_
-2	шамац	шама	N	_	Sg|Nom|PxSg3	3	nsubj:cop	_	_
-3	акшель	акша	A	_	Sg|Nom|Indef|Clt/Cop|Prt2|ScSg3	0	root	_	_
-4	эводемать	эводемс	V	_	NomAct|Sg|Gen|Def	3	advcl:cau	_	_
-5	эзда	эзда	Adp	_	Abl	4	case	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:19:15:MoiseevM
-# text = Василийнь мархта марса сашендовсь васетькшнемс фронтовой аэродромса.
-1	Василийнь	Василийнь	N	_	Prop|SP|Gen|Indef	5	obl	_	_
-2	мархта	мархта	Adp	_	_	1	case	_	_
-3	марса	марса	Adv	_	_	1	advmod	_	_
-4	сашендовсь	сашендовомс	V	_	Ind|Prt1|ScSg3	5	aux:nec	_	_
-5	васетькшнемс	васетькшнемс	V	_	Inf	0	root	_	_
-6	фронтовой	фронтовой	A	_	Sg|Nom|Indef	7	amod	_	_
-7	аэродромса	аэродром	N	_	SP|Ine|Indef	5	obl:lmod	_	_
-8	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:19:16:MaljkinaMa
-# text = Вов вдь мянь коза пачфти тяфтама ётафтысь.
-1	Вов	вов	Interj	_	_	5	discourse	_	_
-2	вдь	вдь	Pcle	_	_	5	advmod	_	_
-3	мянь	мянь	Adv	_	_	5	advmod	_	_
-4	коза	коза	Adv	_	_	5	advmod:lto	_	_
-5	пачфти	пачфтемс	V	_	Ind|Prs|ScSg3	0	root	_	_
-6	тяфтама	тяфтама	A	_	Dem|Sg|Nom|Indef	7	amod	_	_
-7	ётафтысь	ётафтомс	V	_	NomAg|Sg|Nom|Def	5	nsubj	_	_
-8	.	.	PUNCT	_	_	5	punct	_	_
-
-
-# sent_id = MKS:2008:19:16:MaljkinaMb
-# text = Ляпе седи, ёню, сетьме мокшавать образоц занци оцю васта И. Девинонь творчестваса.
-1	Ляпе	ляпе	A	_	_	2	amod	_	_
-2	седи	седи	N	_	Sg|Nom|Indef	7	nmod:bahuv	_	_
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	ёню	ёню	A	_	Sg|Nom|Indef	2	conj	_	_
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	сетьме	сетьме	A	_	Sg|Nom|Indef	2	conj	_	_
-7	мокшавать	мокшава	N	_	Sg|Gen|Def	8	nmod:poss	_	_
-8	образоц	образ	N	_	Sg|Nom|PxSg3	9	nsubj	_	_
-9	занци	занцемс	V	_	Ind|Prs|ScSg3	0	root	_	_
-10	оцю	оцю	A	_	Sg|Nom|Indef	11	amod	_	_
-11	васта	васта	N	_	Sg|Nom|Indef	9	obj	_	_
-12	И.	И	N	_	ABBR	14	nmod	_	_
-13	Девинонь	Девин	N	_	Prop|Sem/Mal-Sur|SP|Gen|Indef	12	flat:name	_	_
-14	творчестваса	творчества	N	_	SP|Ine|Indef	9	obl:lmod	_	_
-15	.	.	PUNCT	_	_	9	punct	_	_
-
-# sent_id = MKS:2008:19:17:LarionovS
-# text = Сувась ёфси од ава.
-1	Сувась	сувамс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-2	ёфси	ёфси	Adv	_	_	3	advmod:deg	_	_
-3	од	од	A	_	Sg|Nom|Indef	4	amod	_	_
-4	ава	ава	N	_	Sg|Nom|Indef	1	nsubj	_	_
-5	.	.	PUNCT	_	_	1	punct	_	_
-
-# sent_id = MKS:2008:19:18:MaljkinaM
-# text = Нильгемонце кизотнень мокшень свадьбатне ванфнезь нинге сире койхнень.
-1	Нильгемонце	нильгемонце	A	_	Ord|Sg|Nom|PxSg2	2	amod	_	_
-2	кизотнень	киза	N	_	Pl|Gen|Def	4	nmod	_	_
-3	мокшень	мокша	N	_	SP|Gen|Indef	4	nmod	_	_
-4	свадьбатне	свадьба	N	_	Pl|Nom|Def	5	nsubj	_	_
-5	ванфнезь	ванфнемс	V	_	Ind|Prt1|ScPl3|OcPl3	0	root	_	_
-6	нинге	нинге	Adv	_	Sem/Time	5	advmod	_	_
-7	сире	сире	A	_	Sg|Nom|Indef	8	amod	_	_
-8	койхнень	кой	N	_	Pl|Gen|Def	5	obj	_	_
-9	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = MKS:2008:19:19:MaljkinaM
-# text = Конашка аськолкс тись Н. Голенков — и кода писатель, и кода эрямань-ащемань шарьхкоди ломань.
-1	Конашка	кона	Pron	_	SP|Cmpr|Indef	2	det	_	_
-2	аськолкс	аськолкс	N	_	Sg|Nom|Indef	3	obj	_	_
-3	тись	тиемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	Н.	Н	N	_	ABBR	3	nsubj	_	_
-5	Голенков	Голенков	N	_	Prop|Sem/Mal-Sur|Sg|Nom|Indef	4	flat:name	_	_
-6	—	—	PUNCT	_	_	9	punct	_	_
-7	и	и	CC	_	_	9	cc:preconj	_	_
-8	кода	кода	Adv	_	_	9	advmod	_	_
-9	писатель	писатель	N	_	Sg|Nom|Indef	3	xcomp	_	_
-10	,	,	PUNCT	_	_	15	punct	_	_
-11	и	и	CC	_	_	15	cc	_	_
-12	кода	кода	Adv	_	_	15	advmod	_	_
-13	эрямань-ащемань	эрямс-ащемс	V	_	NomAct|SP|Gen|Indef	14	obj	_	_
-14	шарьхкоди	шарьхкодемс	V	_	Ind|Prs|ScSg3	15	acl	_	_
-15	ломань	ломань	N	_	Sg|Nom|Indef	9	conj	_	_
-16	.	.	PUNCT	_	_	3	punct	_	_
-
-# sent_id = MKS:2008:19:20:DevinI
-# text = Лепендин ванондсь лангозонза, кельксезе салаваня.
-1	Лепендин	Лепендин	N	_	Prop|Sg|Nom|Indef	2	nsubj	_	_
-2	ванондсь	ванондомс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	лангозонза	ланга	N	_	Relator|SP|Ill|PxSg3	2	obl:lto	_	_
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	кельксезе	кельксемс	V	_	Ind|Prt1|ScSg3|OcSg3	2	conj	_	_
-6	салаваня	салаване	Adv	_	Err/Orth-lowered-final-e-2-ja	5	advmod	_	_
-7	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:19:21:TjapaevA
-# text = Тавря сась куду обедшкада.
-1	Тавря	тавря	N	_	Sg|Nom|Indef	2	nsubj	_	_
-2	сась	самс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-3	куду	куд	N	_	SP|Lat|Indef	2	obl:lto	_	_
-4	обедшкада	обедшкада	Adv	_	Sem/Time	2	obl:tmod	_	_
-5	.	.	PUNCT	_	_	2	punct	_	_
-
-# sent_id = MKS:2008:19:22:KirdjashkinTa
-# text = Кона маштсь нюдиса морама, рамась букань сюра.
-1	Кона	кона	Pron	_	Rel|Sg|Nom|Indef	2	nsubj	_	_
-2	маштсь	маштомс	V	_	Ind|Prt1|ScSg3	6	acl:relcl	_	_
-3	нюдиса	нюди	N	_	SP|Ine|Indef	4	obl:inst	_	_
-4	морама	морамс	V	_	Inf|Loc	2	xcomp	_	_
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	рамась	рамамс	V	_	Ind|Prt1|ScSg3	_	_	_	_
-7	букань	бука	N	_	SP|Gen|Indef	8	nmod:poss	_	_
-8	сюра	сюра	N	_	Sg|Nom|Indef	6	obj	_	_
-9	.	.	PUNCT	_	_	6	punct	_	_
-
-# sent_id = MKS:2008:19:22:KirdjashkinTb
-# text = А кой-кие сиводсь венежса усксема ломатть.
-1	А	а	CC	_	_	3	cc	_	_
-2	кой-кие	кой-кие	Pron	_	Indef|Sg|Nom	3	nsubj	_	_
-3	сиводсь	сиводемс	V	_	Ind|Prt1|ScSg3	0	root	_	_
-4	венежса	венеж	N	_	SP|Ine|Indef	5	obl:inst	_	_
-5	усксема	усксемс	V	_	Inf|Loc	3	xcomp	_	_
-6	ломатть	ломань	N	_	Pl|Nom|Indef	5	obj	_	_
-7	.	.	PUNCT	_	_	3	punct	_	_
+# sent_id = MKS:2008:20:1:MaljkinaMa
+# text = Идень седихне хуш нинге ашесть кенере кувондамс, но тячиень эрямань-ащемань койса кельме пееськаса синьге кой-коста вельхневихть.
+"<Идень>"
+	"идь" N SP Gen Indef
+"<седихне>"
+	"седи" N Pl Nom Def
+"<хуш>"
+	"хуш" Pcle
+"<нинге>"
+	"нинге" Adv Sem/Time
+"<ашесть>"
+	"аф" V Aux Neg Ind Prt1 ScPl3
+"<кенере>"
+	"кенеремс" V IV ConNeg
+"<кувондамс>"
+	"кувондамс" V IV Inf
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<тячиень>"
+	"тячиень" A Gen Attr
+"<эрямань-ащемань>"
+	"ащема" N SP Gen Indef
+		"эряма" N SP Gen Indef Use/Circ Cmp Cmp/Hyph
+	"ащема" N SP Gen Indef
+		"эрямс" V IV NomAct SP Gen Indef Use/Circ Cmp Cmp/Hyph
+	"ащема" N SP Gen Indef
+		"эрямс" V TV NomAct SP Gen Indef Use/Circ Cmp Cmp/Hyph
+"<койса>"
+	"кой" N SP Ine Indef
+"<кельме>"
+	"кельме" A Sg Nom Indef
+	"кельме" N Sg Nom Indef
+"<пееськаса>"
+	"пееськаса" ?
+"<синьге>"
+	"сон" Pron Pers Pl3 Gen Clt/Add
+	"сон" Pron Pers Pl3 Nom Clt/Add
+"<кой-коста>"
+	"кой-коста" Adv Ela
+"<вельхневихть>"
+	"вельхневомс" V IV Ind Prs ScPl3
+	"вельхневомс" V IV NomAg Pl Nom Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:20:1:MaljkinaMb
+# text = Сяс тячи эряви пеетькшнемс: сяда аф макстама пря ризфти ...
+"<Сяс>"
+	"сяс" Adv
+"<тячи>"
+	"тячи" Adv Sem/Time
+"<эряви>"
+	"эрявомс" V IV Ind Prs ScSg3
+"<пеетькшнемс>"
+	"пеетькшнемс" V IV Inf
+	"пеетькшнемс" V TV Inf
+"<:>"
+	":" CLB
+"<сяда>"
+	"сяда" Adv Deg
+	"сяда" Num Card Sg Nom Indef
+"<аф>"
+	"аф" V Aux Neg
+"<макстама>"
+	"максомс" V IV Ind Prs ScPl1
+	"максомс" V TV Ind Prs ScPl1
+"<пря>"
+	"пря" N Sg Nom Indef
+"<ризфти>"
+	"ризф" N Sg Dat Def
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:20:2:EDITORS
+# text = Людмила Ивановать тага кочказь Мордовия Республикань Государственнай Собраниянь депутатокс.
+"<Людмила>"
+	"Людмила" N Prop Sg Nom Indef
+"<Ивановать>"
+	"Иванова" N Prop Sem/Fem-Sur Sg Gen Def
+"<тага>"
+	"тага" Adv Sem/Time
+"<кочказь>"
+	"кочкамс" V TV Der/Ozj Ger
+	"кочкамс" V TV Ind Prt1 ScPl3 OcSg3
+	"кочкамс" V TV Der/Ozj Prc
+	"кочкамс" V TV Ind Prt1 ScPl3 OcPl3
+"<Мордовия>"
+	"Мордовия" N Prop Sem/Plc Sem/Plc Sg Nom Indef
+"<Республикань>"
+	"республика" N SP Gen Indef
+"<Государственнай>"
+	"государственнай" A Sg Nom Indef
+"<Собраниянь>"
+	"собрания" N SP Gen Indef
+"<депутатокс>"
+	"депутат" N SP Tra Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:21:1:Folklore
+# text = Ня колма стирнятне кельгсазь аф аньцек покодемаснон, но и морамаснон.
+"<Ня>"
+	"ня" Det Dem Pl
+"<колма>"
+	"колма" Num Card Sg Nom Indef
+"<стирнятне>"
+	"стирня" N Pl Nom Def
+	"стирня" N Pl Nom PxSg2
+"<кельгсазь>"
+	"кельгомс" V TV Ind Prs ScPl3 OcPl3
+	"кельгомс" V TV Ind Prs ScPl3 OcSg3
+"<аф>"
+	"аф" V Aux Neg
+"<аньцек>"
+	"аньцек" Adv
+"<покодемаснон>"
+	"покодема" N SP Gen PxPl3
+	"покодемс" V IV NomAct SP Gen PxPl3
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<и>"
+	"и" CC
+"<морамаснон>"
+	"морама" N SP Gen PxPl3
+	"морамс" V IV NomAct SP Gen PxPl3
+	"морамс" V TV NomAct SP Gen PxPl3
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:21:2:MokshaFolklore
+# text = Пачкодсть тяфтама оцю вирь кучкас, што шись аф токай козовок алу.
+"<Пачкодсть>"
+	"пачкодемс" V IV Ind Prt1 ScPl3
+"<тяфтама>"
+	"тяфтама" A Dem Sg Nom Indef
+"<оцю>"
+	"оцю" A Sg Nom Indef
+	"оцю" N Sg Nom Indef
+"<вирь>"
+	"вирь" N Sg Nom Indef
+"<кучкас>"
+	"кучка" A SP Ill Indef
+	"кучка" N Relator SP Ill Indef
+"<,>"
+	"," CLB
+"<што>"
+	"што" CS
+"<шись>"
+	"ши" N Sg Nom Def
+"<аф>"
+	"аф" V Aux Neg
+"<токай>"
+	"токамс" V IV Ind Prs ScSg3
+	"токамс" V TV Ind Prs ScSg3
+"<козовок>"
+	"козовок" Adv Indef Ill
+"<алу>"
+	"ал" N SP Lat Indef
+	"ал" N Relator SP Lat Indef
+	"алу" Adp Lat
+	"алу" Adv Lat
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:21:3:LarionovS
+# text = Райононь эрь колхозста тертьфоль пуромксу фкя механизатор ...
+"<Райононь>"
+	"район" N SP Gen Indef
+"<эрь>"
+	"эрь" A Sg Nom Indef
+	"эрь" Det Sg Nom Indef
+"<колхозста>"
+	"колхоз" N SP Ela Indef
+"<тертьфоль>"
+	"тердемс" V IV Der/f PrfPrc Sg Nom Indef Clt/Cop Prt2 ScSg3
+	"тердемс" V TV Der/f PrfPrc Sg Nom Indef Clt/Cop Prt2 ScSg3
+"<пуромксу>"
+	"пуромкс" N SP Lat Indef
+"<фкя>"
+	"фкя" Num Card Sg Nom Indef
+"<механизатор>"
+	"механизатор" N Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:21:4:EDITORS
+# text = Мон лац мяляфтса апрелень ся мани шить ...
+"<Мон>"
+	"мон" Pron Pers Sg1 Nom
+"<лац>"
+	"лад" N SP Ill Indef
+	"лац" Adv
+"<мяляфтса>"
+	"мяляфтомс" V TV Ind Prs ScSg1 OcSg3
+"<апрелень>"
+	"апрель" N SP Gen Indef
+"<ся>"
+	"ся" Pron Dem
+	"ся" Pron Dem Sg Nom Indef
+"<мани>"
+	"мани" A Sg Nom Indef
+	"мани" Adv
+"<шить>"
+	"ши" N Sg Gen Def
+	"шить" Adv
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:21:5:KishniakovI
+# text = Колма кели вальмятне ваныхть ульцяв ...
+"<Колма>"
+	"колма" Num Card Sg Nom Indef
+"<кели>"
+	"келе" N SP Lat Indef
+	"кели" A Sg Nom Indef
+"<вальмятне>"
+	"вальмя" N Pl Nom Def
+	"вальмя" N Pl Nom PxSg2
+"<ваныхть>"
+	"ваномс" V IV Ind Prs ScPl3
+	"ваномс" V IV NomAg Pl Nom Indef
+	"ваномс" V TV Ind Prs ScPl3
+	"ваномс" V TV NomAg Pl Nom Indef
+	"ваны" A Pl Nom Indef
+	"ваны" N Pl Nom Indef
+"<ульцяв>"
+	"ульця" N SP Lat Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:21:6:LukianovA
+# text = Но мон тондейть казян кафта од марлюнят ...
+"<Но>"
+	"но" CC
+"<мон>"
+	"мон" Pron Pers Sg1 Nom
+"<тондейть>"
+	"тон" Pron Pers Sg2 Dat Long
+"<казян>"
+	"каземс" V IV Ind Prs ScSg1
+	"каземс" V TV Ind Prs ScSg1
+"<кафта>"
+	"кафта" Num Card Sg Nom Indef
+	"коф" N SP Abl Indef
+"<од>"
+	"од" A Sg Nom Indef
+	"од" N Sg Nom Indef
+"<марлюнят>"
+	"марлю" N Der/Dimin Pl Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:21:7:LevchaevP
+# text = Очижинь васенце шиня пайге вайгяльхне гамнасть велеть вельхксса ...
+"<Очижинь>"
+	"очижинь" A Gen Attr
+"<васенце>"
+	"васенце" A Ord
+	"фкя" Ex/Num Der/Ord A Ord Sg Nom Indef
+"<шиня>"
+	"ши" N Pl Nom PxSg1 Use/NG Err/Orth-lowered-final-e-2-ja
+	"шине" N Sg Nom Indef Use/NG Err/Orth-lowered-final-e-2-ja
+"<пайге>"
+	"бай" N SP Prl Indef
+	"бай" N Sg Nom Indef Clt/Add
+	"пай" N SP Prl Indef
+	"пай" N Sg Nom Indef Clt/Add
+	"пайге" N Sg Nom Indef
+"<вайгяльхне>"
+	"вайгяль" N Pl Nom Def
+	"вайгяль" N Pl Nom PxSg2
+"<гамнасть>"
+	"гамнамс" V IV Ind Prt1 ScPl3
+"<велеть>"
+	"веле" N Sg Gen Def
+"<вельхксса>"
+	"вельхкс" N Relator SP Ine Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:21:8:AbramovK_Erzya
+# text = Нумань ветеце шиста, обедшкада, паксянь стану Спирька мархта газикса сась Наташа ...
+"<Нумань>"
+	"нума" N SP Gen Indef
+	"нумс" V TV Ind Prt1 ScSg3 OcSg1
+	"нумс" V TV NomAct SP Gen Indef
+"<ветеце>"
+	"вете" Ex/Num Der/Ord A Ord Sg Nom Indef
+	"вете" Num Card Sg Nom PxSg2
+"<шиста>"
+	"ши" N SP Ela Indef
+	"шиста" Adv Ela
+"<,>"
+	"," CLB
+"<обедшкада>"
+	"обедшкада" Adv Sem/Time
+"<,>"
+	"," CLB
+"<паксянь>"
+	"пакся" N SP Gen Indef
+"<стану>"
+	"стан" N SP Lat Indef
+"<Спирька>"
+	"Спирька" ?
+"<мархта>"
+	"мархта" Adp
+"<газикса>"
+	"газик" N SP Ine Indef
+"<сась>"
+	"самс" V IV Ind Prt1 ScSg3
+"<Наташа>"
+	"Наташа" N Prop Sg Nom Indef
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:21:9:EDITORS
+# text = Ся кафта куттне арасть теенза роднойкс и аф юкставикс.
+"<Ся>"
+	"ся" Pron Dem
+	"ся" Pron Dem Sg Nom Indef
+"<кафта>"
+	"кафта" Num Card Sg Nom Indef
+	"коф" N SP Abl Indef
+"<куттне>"
+	"куд" N Pl Nom Def
+	"куд" N Pl Nom PxSg2
+"<арасть>"
+	"арамс" V IV Ind Prt1 ScPl3
+"<теенза>"
+	"сон" Use/NG Pron Pers Sg3 Dat Short
+"<роднойкс>"
+	"родной" A SP Tra Indef
+	"родной" N SP Tra Indef
+"<и>"
+	"и" CC
+"<аф>"
+	"аф" V Aux Neg
+"<юкставикс>"
+	"юкставомс" V IV NomAg SP Tra Indef
+	"юкставомс" V IV NomAg Tra Sg Nom Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:21:10:EDITORS
+# text = Ня вете цалковайхнень мархта мезевок сон аф тии.
+"<Ня>"
+	"ня" Det Dem Pl
+"<вете>"
+	"вете" Num Card Sg Nom Indef
+"<цалковайхнень>"
+	"цалковай" N Pl Gen Def
+	"цалковай" N Pl Gen PxSg2
+"<мархта>"
+	"мархта" Adp
+"<мезевок>"
+	"мезе" Pron SP Prl Indef Sg Nom Clt/Add
+	"мезевок" Pron Indef Sg Nom Indef
+"<сон>"
+	"сон" Pron Pers Sg3 Nom
+"<аф>"
+	"аф" V Aux Neg
+"<тии>"
+	"тиемс" V IV Ind Prs ScSg3
+	"тиемс" V TV Ind Prs ScSg3
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:21:11:AbramovK_Erzyaa
+# text = Равжа ту ста качамсь вельхтязе сембе менельть.
+"<Равжа>"
+	"равжа" A Sg Nom Indef
+	"равжа" N Sg Nom Indef
+"<ту>"
+	"тумс" V IV ConNeg
+	"тумс" V TV ConNeg
+"<ста>"
+	"стамс" V IV ConNeg
+	"стамс" V TV ConNeg
+"<качамсь>"
+	"качам" N Sg Nom Def
+"<вельхтязе>"
+	"вельхтямс" V TV Ind Prt1 ScSg3 OcSg3
+"<сембе>"
+	"сембе" Adv
+	"сембе" Det Qnt Sg Nom Indef
+	"сембе" Pron Sg Nom Indef
+"<менельть>"
+	"менель" N Sg Gen Def
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:21:12:AbramovK_Erzyab
+# text = Сембода пяк кайгсь эчке казяма вайгяль ...
+"<Сембода>"
+	"сембе" Det Qnt SP Abl Indef
+	"сембе" Pron SP Abl Indef
+	"сембода" Pcle Superl Superl
+"<пяк>"
+	"пяк" Adv Deg
+"<кайгсь>"
+	"кайгомс" V IV Ind Prt1 ScSg3
+"<эчке>"
+	"эчке" A Sg Nom Indef
+	"эчке" N Sg Nom Indef
+"<казяма>"
+	"казяма" A Sg Nom Indef
+"<вайгяль>"
+	"вайгяль" N Sg Nom Indef
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:21:13:LevchaevP
+# text = Тяста Сибирень сембе ошненди и велетненди моли цебярь якстерь краскась ...
+"<Тяста>"
+	"тяста" Adv Ela
+"<Сибирень>"
+	"Сибирь" N Prop Sem/Plc SP Gen Indef
+"<сембе>"
+	"сембе" Adv
+	"сембе" Det Qnt Sg Nom Indef
+	"сембе" Pron Sg Nom Indef
+"<ошненди>"
+	"ош" N Pl Dat Def
+	"ош" N Pl Dat PxSg2
+"<и>"
+	"и" CC
+"<велетненди>"
+	"веле" N Pl Dat Def
+	"веле" N Pl Dat PxSg2
+"<моли>"
+	"молемс" V IV Ind Prs ScSg3
+"<цебярь>"
+	"цебярь" A Sg Nom Indef
+	"цебярь" N Sg Nom Indef
+"<якстерь>"
+	"якстерь" A Sg Nom Indef
+"<краскась>"
+	"краска" N Sg Nom Def
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:22:1:AbramovK_Erzya
+# text = Омбоце <pgNo>22</pgNo> комнатаста <b>кувака серай халатса </b>лиссь Варвара Петровна 
+"<Омбоце>"
+	"кафта" Ex/Num Der/Ord A Ord Sg Nom Indef
+	"омба" A Sg Nom PxSg2
+	"омбоце" A Ord Sg Nom Indef
+"<<>"
+	"<" PUNCT LEFT
+"<pgNo>"
+	"pgNo" ?
+"<>>"
+	">" PUNCT RIGHT
+"<22>"
+	"22" A Arab Ord Attr CLBfinal
+	"22" Num Sem/ID
+	 Use/Circ"22" Num Arab Sg Nom
+	 Use/Circ"22" Num Err/Orth Arab Sg Nom
+"<<>"
+	"<" PUNCT LEFT
+"</>"
+	"/" PUNCT
+"<pgNo>"
+	"pgNo" ?
+"<>>"
+	">" PUNCT RIGHT
+"<комнатаста>"
+	"комната" N SP Ela Indef
+"<<>"
+	"<" PUNCT LEFT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+"<кувака>"
+	"кувака" A Sg Nom Indef
+"<серай>"
+	"серай" A Sg Nom Indef
+	"серай" N Sg Nom Indef
+"<халатса>"
+	"халат" N SP Ine Indef
+"<<>"
+	"<" PUNCT LEFT
+"</>"
+	"/" PUNCT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+"<лиссь>"
+	"лисемс" V IV Ind Prt1 ScSg3
+"<Варвара>"
+	"Варвара" N Prop Sg Nom Indef
+"<Петровна>"
+	"Петровна" N Prop Sem/Fem-Patr Sg Nom Indef
+: \n
+:[# sent_id = MKS:2008:22:2:BezborodovM
+# text = Иван шапи якстерь вирень сруб ...
+"<Иван>"
+	"Иван" N Prop Sg Nom Indef
+"<шапи>"
+	"шапомс" V IV Ind Prs ScSg3
+	"шапомс" V TV Ind Prs ScSg3
+"<якстерь>"
+	"якстерь" A Sg Nom Indef
+"<вирень>"
+	"вирь" N SP Gen Indef
+"<сруб>"
+	"сруб" N Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:22:3:LukianovA
+# text = Серай сукнань кепканц алда сельмонзон лангс прасть туста шяяренза ...
+"<Серай>"
+	"серай" A Sg Nom Indef
+	"серай" N Sg Nom Indef
+"<сукнань>"
+	"сукна" N SP Gen Indef
+"<кепканц>"
+	"кепка" N Sg Gen PxSg3
+"<алда>"
+	"ал" N Relator SP Abl Indef
+"<сельмонзон>"
+	"сельме" N Pl Gen PxSg3
+"<лангс>"
+	"ланга" N Relator SP Ill Indef
+"<прасть>"
+	"прамс" V IV Ind Prt1 ScPl3
+"<туста>"
+	"туста" A Sg Nom Indef
+	"туста" N Sg Nom Indef
+"<шяяренза>"
+	"шяярь" N Pl Nom PxSg3
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:22:4:EDITORS
+# text = Курок ушедыхть тундань паксянь тефне...
+"<Курок>"
+	"курок" Adv
+	"курок" N Sg Nom Indef
+"<ушедыхть>"
+	"ушедомс" V IV Ind Prs ScPl3
+	"ушедомс" V IV NomAg Pl Nom Indef
+	"ушедомс" V TV Ind Prs ScPl3
+	"ушедомс" V TV NomAg Pl Nom Indef
+"<тундань>"
+	"тунда" N SP Gen Indef
+"<паксянь>"
+	"пакся" N SP Gen Indef
+"<тефне>"
+	"тев" N Pl Nom Def
+	"тев" N Pl Nom PxSg2
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:22:5:EDITORS
+# text = Марясь няйсь ърьвянять эса маластонь родной ломань.
+"<Марясь>"
+	"Маря" N Prop Sg Nom Def
+	"марямс" V IV Ind Prt1 ScSg3
+	"марямс" V TV Ind Prt1 ScSg3
+"<няйсь>"
+	"няемс" V IV Ind Prt1 ScSg3
+	"няемс" V TV Ind Prt1 ScSg3
+"<ърьвянять>"
+	"ърьвянять" ?
+"<эса>"
+	"эса" Adp Ine
+	"эса" Adv Spat
+"<маластонь>"
+	"мала" Ex/A SP Ela Der/NJ A
+	"мала" Ex/N Relator SP Ela Der/NJ A
+"<родной>"
+	"родной" A Sg Nom Indef
+	"родной" N Sg Nom Indef
+"<ломань>"
+	"ломань" N Sg Nom Indef
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:22:6:EDITORS
+# text = Нинге эрявсь ётамс кели апак сокак пакся ланга ...
+"<Нинге>"
+	"нинге" Adv Sem/Time
+"<эрявсь>"
+	"эрявомс" V IV Ind Prt1 ScSg3
+"<ётамс>"
+	"ётамс" V IV Inf
+	"ётамс" V TV Inf
+"<кели>"
+	"келе" N SP Lat Indef
+	"кели" A Sg Nom Indef
+"<апак>"
+	"апак" Pcle Neg
+"<сокак>"
+	"сокамс" V TV Imprt ScSg2 OcSg3
+	"сокамс" V TV ConNegII
+	"сокамс" V TV Imprt ScSg2
+"<пакся>"
+	"пакся" N Sg Nom Indef
+"<ланга>"
+	"ланга" Adp Prl
+	"ланга" Adv Prl
+	"ланга" N Relator Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:22:7:AbramovK_Erzya
+# text = Мишенди од авась, кодак няезе лапш прянц, тяка пингть аердсь вальмаста ...
+"<Мишенди>"
+	"мишендемс" V IV Ind Prs ScSg3
+	"мишендемс" V TV Ind Prs ScSg3
+"<од>"
+	"од" A Sg Nom Indef
+	"од" N Sg Nom Indef
+"<авась>"
+	"ава" N Sg Nom Def
+"<,>"
+	"," CLB
+"<кодак>"
+	"кодамс" V TV Imprt ScSg2 OcSg3
+	"кодамс" V TV ConNegII
+	"кодамс" V TV Imprt ScSg2
+"<няезе>"
+	"няемс" V TV Ind Prt1 ScSg3 OcSg3
+"<лапш>"
+	"лапш" A Sg Nom Indef
+"<прянц>"
+	"пря" N Sg Gen PxSg3
+"<,>"
+	"," CLB
+"<тяка>"
+	"тяка" Det Dem Sg Nom Indef
+	"тяка" N Sg Nom Indef
+"<пингть>"
+	"пинге" N Sg Gen Def
+"<аердсь>"
+	"аердомс" V IV Ind Prt1 ScSg3
+	"аердомс" V TV Ind Prt1 ScSg3
+"<вальмаста>"
+	"вальмя" N SP Ela Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:22:8:Moksha_Folklore
+# text = Бабанять колма шачи стиренза ...
+"<Бабанять>"
+	"баба" N Der/Dimin Sg Gen Def
+"<колма>"
+	"колма" Num Card Sg Nom Indef
+"<шачи>"
+	"шачемс" V IV Ind Prs ScSg3
+"<стиренза>"
+	"стирь" N Pl Nom PxSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:22:9:EDITORS
+# text = Корхтамась мольсь кафта аф кулхцонды ученикнень квалма ...
+"<Корхтамась>"
+	"корхтама" N Sg Nom Def
+	"корхтамс" V IV NomAct Sg Nom Def
+	"корхтамс" V TV NomAct Sg Nom Def
+"<мольсь>"
+	"молемс" V IV Ind Prt1 ScSg3
+	"моль" N Sg Nom Def
+"<кафта>"
+	"кафта" Num Card Sg Nom Indef
+	"коф" N SP Abl Indef
+"<аф>"
+	"аф" V Aux Neg
+"<кулхцонды>"
+	"кулхцондомс" V IV Ind Prs ScSg3
+	"кулхцондомс" V TV Ind Prs ScSg3
+"<ученикнень>"
+	"ученик" N Pl Gen Def
+	"ученик" N Pl Gen PxSg2
+"<квалма>"
+	"квалма" Adp
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:24:1:EljmeevGa
+# text = Шумбрат, атяй, ськамот што ли?
+"<Шумбрат>"
+	"шумбра" A Pl Nom Indef
+	"шумбра" A Sg Nom Indef Clt/Cop Prs ScSg2
+	"шумбрамс" V IV Ind Prs ScSg2
+"<,>"
+	"," CLB
+"<атяй>"
+	"атя" N Voc
+"<,>"
+	"," CLB
+"<ськамот>"
+	"ськамонза" Pron Exclusive PerifMod PxSg2
+"<што>"
+	"што" CS
+"<ли>"
+	"ли" Use/SpellNoSugg Pcle Qst
+"<?>"
+	"?" CLB
+:\n
+:[# sent_id = MKS:2008:24:1:EljmeevGb
+# text = Кода мяльце тонь аф моли?
+"<Кода>"
+	"кода" Adv
+"<мяльце>"
+	"мяль" N Sg Nom PxSg2
+"<тонь>"
+	"тон" Pron Pers Sg2 Gen
+"<аф>"
+	"аф" V Aux Neg
+"<моли>"
+	"молемс" V IV Ind Prs ScSg3
+"<?>"
+	"?" CLB
+:\n
+:[# sent_id = MKS:2008:24:1:EljmeevGc
+# text = Мезьда порят и симат?
+"<Мезьда>"
+	"мезе" Pron Interr SP Abl
+	"мезе" Pron SP Prl Indef SP Abl
+"<порят>"
+	"поремс" V IV Ind Prs ScSg2
+	"поремс" V TV Ind Prs ScSg2
+"<и>"
+	"и" CC
+"<симат>"
+	"симомс" V IV Ind Prs ScSg2
+	"симомс" V TV Ind Prs ScSg2
+"<?>"
+	"?" CLB
+:\n
+:[# sent_id = MKS:2008:24:1:EljmeevGd
+# text = Мезень тевнят тиендят?
+"<Мезень>"
+	"мезе" Pron Interr SP Gen
+	"мезе" Pron SP Prl Indef SP Gen
+"<тевнят>"
+	"тев" N Der/Dimin Pl Nom Indef
+"<тиендят>"
+	"тиендемс" V IV Ind Prs ScSg2
+	"тиендемс" V TV Ind Prs ScSg2
+"<?>"
+	"?" CLB
+:\n
+:[# sent_id = MKS:2008:24:2:EDITORS
+# text = Шинясь лиесь туцятнень фталда?
+"<Шинясь>"
+	"ши" N Der/Dimin Sg Nom Def
+"<лиесь>"
+	"лиесь" ?
+"<туцятнень>"
+	"туця" N Pl Gen Def
+	"туця" N Pl Gen PxSg2
+"<фталда>"
+	"фтал" N SP Abl Indef
+	"фталда" Adp Abl
+"<?>"
+	"?" CLB
+:\n
+:[# sent_id = MKS:2008:24:3:EDITORSa
+# text = Пиземня ба!
+"<Пиземня>"
+	"пизем" N Pl Nom PxSg1 Use/NG Err/Orth-lowered-final-e-2-ja
+"<ба>"
+	"ба" Pcle Aux Conj
+"<!>"
+	"!" CLB
+:\n
+:[# sent_id = MKS:2008:24:3:EDITORSb
+# text = Эх, тяни ба пси баняня и пси бозаня!
+"<Эх>"
+	"эх" Interj
+"<,>"
+	"," CLB
+"<тяни>"
+	"тяни" Adv Sem/Time
+"<ба>"
+	"ба" Pcle Aux Conj
+"<пси>"
+	"пси" A Sg Nom Indef
+	"пси" N Sg Nom Indef
+"<баняня>"
+	"баня" N Pl Nom PxSg1 Use/NG Err/Orth-lowered-final-e-2-ja
+"<и>"
+	"и" CC
+"<пси>"
+	"пси" A Sg Nom Indef
+	"пси" N Sg Nom Indef
+"<бозаня>"
+	"боза" N Pl Nom PxSg1 Use/NG Err/Orth-lowered-final-e-2-ja
+"<!>"
+	"!" CLB
+:\n
+:[# sent_id = MKS:2008:25:1:EDITORSa
+# text = Тон, улема, ичкозде сафат?
+"<Тон>"
+	"тон" N Sg Nom Indef
+	"тон" Pron Pers Sg2 Nom
+"<,>"
+	"," CLB
+"<улема>"
+	"улема" Pcle Epist
+"<,>"
+	"," CLB
+"<ичкозде>"
+	"ичкозде" Adv Abl
+"<сафат>"
+	"самс" V IV Der/f PrfPrc Sg Nom Indef Clt/Cop Prs ScSg2
+	"саф" N Sg Nom Indef Clt/Cop Prs ScSg2
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:25:1:EDITORSb
+# text = Виде, ня валхнень каршес сон мезевок ашезь пъшкяде.
+"<Виде>"
+	"виде" A Sg Nom Indef
+	"виде" N Sg Nom Indef
+	"виде" Pcle
+	"вимс" V TV Ind Prt1 ScPl2
+	"вимс" V IV Ind Prt1 ScPl2
+"<,>"
+	"," CLB
+"<ня>"
+	"ня" Det Dem Pl
+"<валхнень>"
+	"вал" N Pl Gen Def
+	"вал" N Pl Gen PxSg2
+	"валхнемс" V IV VGen
+	"валхнемс" V TV VGen
+"<каршес>"
+	"карша" N Relator SP Ill Indef
+"<сон>"
+	"сон" Pron Pers Sg3 Nom
+"<мезевок>"
+	"мезе" Pron SP Prl Indef Sg Nom Clt/Add
+	"мезевок" Pron Indef Sg Nom Indef
+"<ашезь>"
+	"аф" V Aux Neg Ind Prt1 ScSg3
+"<пъшкяде>"
+	"пъшкяде" ?
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:25:2:IakushkinT
+# text = Тячи ушесь маниель и лямболь, недляшкада меле солай пильгалот чиворды ляпе ловнясь, горнязевихть шудерьксне, кармайхть путькияма шуфттне ...
+"<Тячи>"
+	"тячи" Adv Sem/Time
+"<ушесь>"
+	"уша" N Sg Nom Def
+"<маниель>"
+	"мани" A Sg Nom Indef Clt/Cop Prt2 ScSg3
+"<и>"
+	"и" CC
+"<лямболь>"
+	"лямбе" A Sg Nom Indef Clt/Cop Prt2 ScSg3
+	"лямбе" N Sg Nom Indef Clt/Cop Prt2 ScSg3
+"<,>"
+	"," CLB
+"<недляшкада>"
+	"недляшкада" ?
+"<меле>"
+	"меле" Adv
+	"меле" Po
+"<солай>"
+	"соламс" V IV Ind Prs ScSg3
+"<пильгалот>"
+	"пильгала" Adp Loc PxSg2
+"<чиворды>"
+	"чивордомс" V IV Ind Prs ScSg3
+"<ляпе>"
+	"ляпе" A
+"<ловнясь>"
+	"лов" N Der/Dimin Sg Nom Def
+"<,>"
+	"," CLB
+"<горнязевихть>"
+	"горнязевомс" V IV Ind Prs ScPl3
+	"горнязевомс" V IV NomAg Pl Nom Indef
+"<шудерьксне>"
+	"шудерькс" N Pl Nom Def
+	"шудерькс" N Pl Nom PxSg2
+	"шудерькс" Pl Nom Def
+	"шудерькс" Pl Nom PxSg2
+"<,>"
+	"," CLB
+"<кармайхть>"
+	"кармамс" V IV Ind Prs ScPl3
+"<путькияма>"
+	"путькиямс" V IV Inf Loc
+"<шуфттне>"
+	"шуфта" N Pl Nom Def
+	"шуфта" N Pl Nom PxSg2
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:25:3:EDITORS
+# text = — Мъзярда тон сать?
+"<—>"
+	"—" PUNCT
+"<Мъзярда>"
+	"Мъзярда" ?
+"<тон>"
+	"тон" N Sg Nom Indef
+	"тон" Pron Pers Sg2 Nom
+"<сать>"
+	"самс" V IV Ind Prt1 ScSg2
+"<?>"
+	"?" CLB
+:\n
+:[# sent_id = MKS:2008:26:1:MakulovL
+# text = Сарасне кепсезь пацяснон, къторфса лийсть пирьфи ...
+"<Сарасне>"
+	"сараз" N Pl Nom Def
+	"сараз" N Pl Nom PxSg2
+"<кепсезь>"
+	"кепсемс" V TV Der/Ozj Ger
+	"кепсемс" V TV Ind Prt1 ScPl3 OcSg3
+	"кепсемс" V TV Der/Ozj Prc
+	"кепсемс" V TV Ind Prt1 ScPl3 OcPl3
+"<пацяснон>"
+	"паця" N SP Gen PxPl3
+"<,>"
+	"," CLB
+"<къторфса>"
+	"къторфса" ?
+"<лийсть>"
+	"лиемс" V IV Ind Prt1 ScPl3
+"<пирьфи>"
+	"пирьф" N SP Lat Indef
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:26:2:PiniasovIa
+# text = Тунда панжихть пяшетне и лаймотне/ кулеви мешень мазы музыка ...
+"<Тунда>"
+	"тунда" Adv Sem/Time
+	"тунда" N Sg Nom Indef
+"<панжихть>"
+	"панжемс" V IV Ind Prs ScPl3
+	"панжемс" V IV NomAg Pl Nom Indef
+	"панжемс" V TV Ind Prs ScPl3
+	"панжемс" V TV NomAg Pl Nom Indef
+"<пяшетне>"
+	"пяше" N Pl Nom Def
+	"пяше" N Pl Nom PxSg2
+"<и>"
+	"и" CC
+"<лаймотне>"
+	"лайме" N Pl Nom Def
+	"лайме" N Pl Nom PxSg2
+"</>"
+	"/" PUNCT
+"<кулеви>"
+	"кулевомс" V IV Ind Prs ScSg3
+"<мешень>"
+	"меш" N SP Gen Indef
+"<мазы>"
+	"мазы" A Sg Nom Indef
+	"мазь" N SP Lat Indef
+"<музыка>"
+	"музыка" N Sg Nom Indef
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:26:3:EDITORS
+# text = Шись пиди аф азовомшка/ пси модать лангс кяпе аф шятяват ...
+"<Шись>"
+	"ши" N Sg Nom Def
+"<пиди>"
+	"пидемс" V IV Ind Prs ScSg3
+	"пидемс" V TV Ind Prs ScSg3
+"<аф>"
+	"аф" V Aux Neg
+"<азовомшка>"
+	"азовомс" V IV Ger Cmpr Sg Nom Indef
+"</>"
+	"/" PUNCT
+"<пси>"
+	"пси" A Sg Nom Indef
+	"пси" N Sg Nom Indef
+"<модать>"
+	"мода" N Sg Gen Def
+"<лангс>"
+	"ланга" N Relator SP Ill Indef
+"<кяпе>"
+	"кяпе" A Sg Nom Indef
+	"кяпе" Adv
+"<аф>"
+	"аф" V Aux Neg
+"<шятяват>"
+	"шятявомс" V IV Ind Prs ScSg2
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:28:1:EDITORSa
+# text = Эрясть-ащесть атят-бабат кафонест.
+"<Эрясть-ащесть>"
+	"ащемс" V IV Ind Prt1 ScPl3
+		"эрямс" V IV Ind Prt1 ScPl3 Cmp/Hyph-Serial Use/Circ Cmp Cmp/Hyph
+	"ащемс" V IV Ind Prt1 ScPl3
+		"эрямс" V TV Ind Prt1 ScPl3 Cmp/Hyph-Serial Use/Circ Cmp Cmp/Hyph
+"<атят-бабат>"
+	"баба" N Pl Nom Indef
+		"атя" N Pl Nom Indef Use/Circ Cmp Cmp/Hyph
+	"бабамс" V IV Ind Prs ScSg2
+		"атя" N Sg Nom Indef Clt/Cop Prs ScSg2 Cmp/Hyph-Serial Use/Circ Cmp Cmp/Hyph
+"<кафонест>"
+	"кафта" Num AssocColl PxPl3
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:28:1:EDITORSb
+# text = Синь ульсть колма церасна.
+"<Синь>"
+	"сон" Pron Pers Pl3 Gen
+	"сон" Pron Pers Pl3 Nom
+"<ульсть>"
+	"улемс" V IV Ind Prt1 ScPl3
+"<колма>"
+	"колма" Num Card Sg Nom Indef
+"<церасна>"
+	"цёра" N SP Nom PxPl3
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:28:1:EDITORSc
+# text = Кафттне — ёнюфт, а колмоцесь — дурак.
+"<Кафттне>"
+	"кафта" Num Card Pl Nom Def
+	"кафта" Num Card Pl Nom PxSg2
+"<—>"
+	"—" PUNCT
+"<ёнюфт>"
+	"ёню" A Pl Pl Nom Indef
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+	"а" Interj
+	"а" N ABBR
+"<колмоцесь>"
+	"колма" Ex/Num Der/Ord A Ord Sg Nom Def
+	"колмоце" A Ord Sg Nom Def
+"<—>"
+	"—" PUNCT
+"<дурак>"
+	"дурак" N Sg Nom Indef
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:28:1:EDITORSd
+# text = Ульцяса кепсесь варманя, каннесь паксянь танцти шиненя.
+"<Ульцяса>"
+	"ульця" N SP Ine Indef
+"<кепсесь>"
+	"кепсемс" V IV Ind Prt1 ScSg3
+	"кепсемс" V TV Ind Prt1 ScSg3
+"<варманя>"
+	"варма" N Pl Nom PxSg1 Use/NG Err/Orth-lowered-final-e-2-ja
+"<,>"
+	"," CLB
+"<каннесь>"
+	"каннемс" V IV Ind Prt1 ScSg3
+	"каннемс" V TV Ind Prt1 ScSg3
+"<паксянь>"
+	"пакся" N SP Gen Indef
+"<танцти>"
+	"танцти" A Sg Nom Indef
+"<шиненя>"
+	"шине" N Pl Nom PxSg1 Use/NG Err/Orth-lowered-final-e-2-ja
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:28:1:EDITORSe
+# text = Розсь акшемсь ни, коськсь, тозерсь нинге сянгяря.
+"<Розсь>"
+	"розь" N Sg Nom Def
+"<акшемсь>"
+	"акшемомс" V IV Ind Prt1 ScSg3
+"<ни>"
+	"ни" Adv Sem/Time
+"<,>"
+	"," CLB
+"<коськсь>"
+	"коське" A Sg Nom Def
+	"коськомс" V IV Ind Prt1 ScSg3
+"<,>"
+	"," CLB
+"<тозерсь>"
+	"тозер" N Sg Nom Def
+"<нинге>"
+	"нинге" Adv Sem/Time
+"<сянгяря>"
+	"сянгяря" A Sg Nom Indef
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:28:1:EDITORSf
+# text = Кафцьке паксятне лакайхть, лангаст якайхть сетьме, кели волнат.
+"<Кафцьке>"
+	"кафта" Num Card Sg Nom Def Clt/Add
+	"кафта" Num Coll Sg Nom
+	"кафцьке" Num
+"<паксятне>"
+	"пакся" N Pl Nom Def
+	"пакся" N Pl Nom PxSg2
+"<лакайхть>"
+	"лакамс" V IV Ind Prs ScPl3
+"<,>"
+	"," CLB
+"<лангаст>"
+	"ланга" Adp Prl PxPl3
+	"лангаз" N Pl Nom Indef
+"<якайхть>"
+	"якай" N Pl Nom Indef
+	"якамс" V IV Ind Prs ScPl3
+	"якамс" V TV Ind Prs ScPl3
+"<сетьме>"
+	"сетьме" A Sg Nom Indef
+	"сетьме" Adv
+	"сетьме" N Sg Nom Indef
+"<,>"
+	"," CLB
+"<кели>"
+	"келе" N SP Lat Indef
+	"кели" A Sg Nom Indef
+"<волнат>"
+	"волна" N Pl Nom Indef
+	"волна" N Sg Nom Indef Clt/Cop Prs ScSg2
+"<.>"
+	"." CLB
+:\n
+:[# sent_id = MKS:2008:28:2:KirdiashkinT
+# text = «Тон коста повоть тяза? Или ялга сать?» — кизефтезе Тишка ...
+"<«>"
+	"«" PUNCT LEFT
+"<Тон>"
+	"тон" N Sg Nom Indef
+	"тон" Pron Pers Sg2 Nom
+"<коста>"
+	"козомс" V IV Prec ScSg2
+	"коста" Adv Ela
+	"коста" Adv Interr Ela
+	"коста" Adv Rel Ela
+"<повоть>"
+	"повомс" V IV Ind Prt1 ScSg2
+"<тяза>"
+	"аф" V Aux Neg Opt ScSg3
+	"тяза" Adv
+"<?>"
+	"?" CLB
+
+"<Или>"
+	"или" CC
+"<ялга>"
+	"ялга" Adv
+	"ялга" N Sg Nom Indef
+"<сать>"
+	"самс" V IV Ind Prt1 ScSg2
+"<?>"
+	"?" CLB
+
+"<»>"
+	"»" PUNCT RIGHT
+"<—>"
+	"—" PUNCT
+"<кизефтезе>"
+	"кизефтемс" V TV Ind Prt1 ScSg3 OcSg3
+"<Тишка>"
+	"Тишка" N Prop Sg Nom Indef
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:28:3:AtianinF
+# text = — Ашеть пеле, кельгомняй, ськамот лиемс? — кизефтезе Сашокть щавац ...
+"<—>"
+	"—" PUNCT
+"<Ашеть>"
+	"аф" V Aux Neg Ind Prt1 ScSg2
+"<пеле>"
+	"пелемс" V IV ConNeg
+	"пелемс" V TV ConNeg
+"<,>"
+	"," CLB
+"<кельгомняй>"
+	"кельгом" N Voc
+"<,>"
+	"," CLB
+"<ськамот>"
+	"ськамонза" Pron Exclusive PerifMod PxSg2
+"<лиемс>"
+	"лиемс" V IV Inf
+"<?>"
+	"?" CLB
+
+"<—>"
+	"—" PUNCT
+"<кизефтезе>"
+	"кизефтемс" V TV Ind Prt1 ScSg3 OcSg3
+"<Сашокть>"
+	"Сашокть" ?
+"<щавац>"
+	"щава" N Sg Nom PxSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:28:4:BezborodovM
+# text = Мес тячи, атяй, тон аф весялат, ёфкст аф азондат, морот аф морат? ...
+"<Мес>"
+	"мес" Adv
+	"мес" Adv Interr Ill
+"<тячи>"
+	"тячи" Adv Sem/Time
+"<,>"
+	"," CLB
+"<атяй>"
+	"атя" N Voc
+"<,>"
+	"," CLB
+"<тон>"
+	"тон" N Sg Nom Indef
+	"тон" Pron Pers Sg2 Nom
+"<аф>"
+	"аф" V Aux Neg
+"<весялат>"
+	"весяла" A Pl Nom Indef
+	"весяла" A Sg Nom Indef Clt/Cop Prs ScSg2
+"<,>"
+	"," CLB
+"<ёфкст>"
+	"ёфкс" N Pl Nom Indef
+"<аф>"
+	"аф" V Aux Neg
+"<азондат>"
+	"азондомс" V IV Ind Prs ScSg2
+	"азондомс" V TV Ind Prs ScSg2
+"<,>"
+	"," CLB
+"<морот>"
+	"мора" N Pl Nom Indef
+"<аф>"
+	"аф" V Aux Neg
+"<морат>"
+	"мор" A Sg Nom Indef Clt/Cop Prs ScSg2
+	"мор" N Sg Nom Indef Clt/Cop Prs ScSg2
+	"мора" N Sg Nom Indef Clt/Cop Prs ScSg2
+	"морамс" V IV Ind Prs ScSg2
+	"морамс" V TV Ind Prs ScSg2
+"<?>"
+	"?" CLB
+
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:29:1:EDITORSa
+# text = Кали минь юкстаськ, мъзяра ломань шавовсь тя войнаса?
+"<Кали>"
+	"кали" Adv
+	"каль" N SP Lat Indef
+"<минь>"
+	"мон" Pron Pers Pl1 Nom
+"<юкстаськ>"
+	"юкстамс" V TV Ind Prt1 ScPl1 OcPl3
+	"юкстамс" V TV Ind Prt1 ScPl1 OcSg3
+"<,>"
+	"," CLB
+"<мъзяра>"
+	"мъзяра" ?
+"<ломань>"
+	"ломань" N Sg Nom Indef
+"<шавовсь>"
+	"шавовомс" V IV Ind Prt1 ScSg3
+"<тя>"
+	"тя" Pron Dem Sg Nom Indef
+"<войнаса>"
+	"война" N SP Ine Indef
+"<?>"
+	"?" CLB
+:\n
+:[# sent_id = MKS:2008:29:1:EDITORSb
+# text = Кали минь седиеньке кевонзасть ся авардематненди, лажнаматненди, юмафксненди?
+"<Кали>"
+	"кали" Adv
+	"каль" N SP Lat Indef
+"<минь>"
+	"мон" Pron Pers Pl1 Nom
+	"мон" Pron Pers Pl1 Gen
+"<седиеньке>"
+	"седиеньке" ?
+"<кевонзасть>"
+	"кевонзамс" V IV Ind Prt1 ScPl3
+"<ся>"
+	"ся" Pron Dem
+	"ся" Pron Dem Sg Nom Indef
+"<авардематненди>"
+	"авардема" N Pl Dat Def
+	"авардема" N Pl Dat PxSg2
+	"авардемс" V TV NomAct Pl Dat PxSg2
+	"авардемс" V IV NomAct Pl Dat Def
+	"авардемс" V IV NomAct Pl Dat PxSg2
+	"авардемс" V TV NomAct Pl Dat Def
+"<,>"
+	"," CLB
+"<лажнаматненди>"
+	"лажнама" N Pl Dat Def
+	"лажнама" N Pl Dat PxSg2
+	"лажнамс" V IV NomAct Pl Dat Def
+	"лажнамс" V IV NomAct Pl Dat PxSg2
+"<,>"
+	"," CLB
+"<юмафксненди>"
+	"юмафкс" N Pl Dat Def
+	"юмафкс" N Pl Dat PxSg2
+"<?>"
+	"?" CLB
+:\n
+:[# sent_id = MKS:2008:29:1:EDITORSc
+# text = Кали тянь аф пачфтьсаськ иденьконди и уноконьконди? ...
+"<Кали>"
+	"кали" Adv
+	"каль" N SP Lat Indef
+"<тянь>"
+	"тя" Pron Dem Sg Gen Indef
+"<аф>"
+	"аф" V Aux Neg
+"<пачфтьсаськ>"
+	"пачфтемс" V TV Ind Prs ScPl1 OcPl3
+	"пачфтемс" V TV Ind Prs ScPl1 OcSg3
+"<иденьконди>"
+	"идь" N SP Dat PxPl1
+"<и>"
+	"и" CC
+"<уноконьконди>"
+	"унок" N SP Dat PxPl1
+"<?>"
+	"?" CLB
+
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:29:2:LobanovVa
+# text = ...Мельгат сёксесь канды пизел сека, золод тюста — коза тята ван.
+"<...>"
+	"..." CLB
+
+"<Мельгат>"
+	"мельге" Po Prl PxSg2
+"<сёксесь>"
+	"сёксе" N Sg Nom Def
+"<канды>"
+	"кандомс" V IV Ind Prs ScSg3
+	"кандомс" V TV Ind Prs ScSg3
+"<пизел>"
+	"пизел" N Sg Nom Indef
+"<сека>"
+	"сёка" N Sg Nom Indef
+"<,>"
+	"," CLB
+"<золод>"
+	"золод" N Sg Nom Indef
+"<тюста>"
+	"тюс" N SP Abl Indef
+"<—>"
+	"—" PUNCT
+"<коза>"
+	"коза" Adv
+"<тята>"
+	"аф" V Aux Neg Prec ScSg2
+"<ван>"
+	"ван" ?
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:29:2:LobanovVb
+# text = Кинди тяни лямбошинкса токан?
+"<Кинди>"
+	"ки" N SP Dat Indef
+	"кие" Pron Interr SP Dat
+"<тяни>"
+	"тяни" Adv Sem/Time
+"<лямбошинкса>"
+	"лямбошинкса" ?
+"<токан>"
+	"ток" N Sg Nom Indef Clt/Cop Prs ScSg1
+	"токамс" V IV Ind Prs ScSg1
+	"токамс" V TV Ind Prs ScSg1
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:29:2:LobanovVc
+# text = Кинди сединь петема суван? ...
+"<Кинди>"
+	"ки" N SP Dat Indef
+	"кие" Pron Interr SP Dat
+"<сединь>"
+	"сединь" ?
+"<петема>"
+	"петема" N Sg Nom Indef
+	"петемс" V IV Inf Loc
+	"петемс" V TV Inf Loc
+"<суван>"
+	"су" N SP Prl PxSg1
+	"су" N Sg Nom Indef Clt/Cop Prs ScSg1
+	"сув" N Sg Nom Indef Clt/Cop Prs ScSg1
+	"сувамс" V IV Ind Prs ScSg1
+	"сувамс" V TV Ind Prs ScSg1
+	"сувомс" V IV Ind Prs ScSg1
+"<?>"
+	"?" CLB
+
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:30:1:EDITORSa
+# text = Ламос нинге карман тонь учендомот?
+"<Ламос>"
+	"лама" Det SP Ill Indef
+	"ламос" Adv
+"<нинге>"
+	"нинге" Adv Sem/Time
+"<карман>"
+	"кармамс" V IV Ind Prs ScSg1
+	"карман" N Sg Nom Indef
+"<тонь>"
+	"тон" Pron Pers Sg2 Gen
+"<учендомот>"
+	"учендомс" V IV Inf Loc PxSg2
+	"учендомс" V TV Inf Loc PxSg2
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:30:1:EDITORSb
+# text = Тон лоткат тячи или аф?
+"<Тон>"
+	"тон" N Sg Nom Indef
+	"тон" Pron Pers Sg2 Nom
+"<лоткат>"
+	"лот" N SP Prl Indef Clt/Cop Prs ScPl3
+	"лот" N SP Prl PxSg2
+	"лотка" N Pl Nom Indef
+	"лоткамс" V IV Ind Prs ScSg2
+"<тячи>"
+	"тячи" Adv Sem/Time
+"<или>"
+	"или" CC
+"<аф>"
+	"аф" Interj Neg
+	"аф" V Aux Neg
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:30:2:EDITORSa
+# text = Кодама тон алят, къда тейть эсксь аф вачкодеви?
+"<Кодама>"
+	"кодамс" V IV Inf Loc
+	"кодама" A Interr Sg Nom Indef
+	"кодама" Det Interr Sg Nom Indef
+	"кодама" N Sg Nom Indef
+	"кодамс" V TV Inf Loc
+"<тон>"
+	"тон" N Sg Nom Indef
+	"тон" Pron Pers Sg2 Nom
+"<алят>"
+	"аля" N Pl Nom Indef
+	"аля" N Sg Nom Indef Clt/Cop Prs ScSg2
+"<,>"
+	"," CLB
+"<къда>"
+	"къда" ?
+"<тейть>"
+	"тон" Pron Pers Sg2 Dat Short
+"<эсксь>"
+	"эска" N Sg Nom Def
+"<аф>"
+	"аф" V Aux Neg
+"<вачкодеви>"
+	"вачкодевомс" V IV Ind Prs ScSg3
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:30:2:EDITORSb
+# text = Коза мон туян шаба мархта?
+"<Коза>"
+	"Коза" N Prop Sem/Sur Sg Nom Indef
+	"коза" Adv
+"<мон>"
+	"мон" Pron Pers Sg1 Nom
+"<туян>"
+	"тумс" V IV Ind Prs ScSg1
+	"тумс" V TV Ind Prs ScSg1
+"<шаба>"
+	"шаба" N Sg Nom Indef
+"<мархта>"
+	"мархта" Adp
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:30:2:EDITORSc
+# text = Кали тонь ваксстот туват?
+"<Кали>"
+	"кали" Adv
+	"каль" N SP Lat Indef
+"<тонь>"
+	"тон" Pron Pers Sg2 Gen
+"<ваксстот>"
+	"вакс" N SP Ela PxSg2
+	"ваксста" Adp Ela PxSg2
+"<туват>"
+	"тува" N Sg Nom Indef Clt/Cop Prs ScSg2
+	"тувомс" V IV Ind Prs ScSg2
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:30:2:EDITORSd
+# text = Кодама калонь кунцият?
+"<Кодама>"
+	"кодамс" V IV Inf Loc
+	"кодама" A Interr Sg Nom Indef
+	"кодама" Det Interr Sg Nom Indef
+	"кодама" N Sg Nom Indef
+	"кодамс" V TV NomAct Sg Nom Indef
+	"кодамс" V IV NomAct Sg Nom Indef
+	"кодамс" V TV Inf Loc
+"<калонь>"
+	"кал" N SP Gen Indef
+"<кунцият>"
+	"кунцият" ?
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:30:2:EDITORSe
+# text = Къда ульмоняцевок аш.
+"<Къда>"
+	"Къда" ?
+"<ульмоняцевок>"
+	"ульме" N Der/Dimin Sg Nom PxSg2 Clt/Add
+"<аш>"
+	"аш" Adv Neg Aux
+	"аш" V Aux Neg Loc Prs ScSg3
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:32:1:PiniasovIa
+# text = Аф оцю залсь сетьмось, и тя сетьмоса марявсь учительть ляпе вайгялец ...
+"<Аф>"
+	"аф" V Aux Neg
+"<оцю>"
+	"оцю" A Sg Nom Indef
+	"оцю" N Sg Nom Indef
+"<залсь>"
+	"зал" N Sg Nom Def
+"<сетьмось>"
+	"сетьме" A Sg Nom Def
+	"сетьме" N Sg Nom Def
+	"сетьмомс" V IV Ind Prt1 ScSg3
+	"сетьмомс" V TV Ind Prt1 ScSg3
+"<,>"
+	"," CLB
+"<и>"
+	"и" CC
+"<тя>"
+	"тя" Pron Dem Sg Nom Indef
+"<сетьмоса>"
+	"сетьме" A SP Ine Indef
+	"сетьме" N SP Ine Indef
+	"сетьмомс" V TV Ind Prs ScSg1 OcSg3
+"<марявсь>"
+	"марявомс" V IV Ind Prt1 ScSg3
+"<учительть>"
+	"учитель" N Sg Gen Def
+"<ляпе>"
+	"ляпе" A
+"<вайгялец>"
+	"вайгяль" N Sg Nom PxSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:32:2:LevchaevP
+# text = Илять сире и од алятне аф эряскодозь вальмала курендакшнельхть да корхнельхть, а стирьхне-цёратне капакшу келуфнень алга морсельхть каши морот ...
+"<Илять>"
+	"илямс" V IV Ind Prt1 ScSg2
+	"илять" Adv Sem/Time
+"<сире>"
+	"сире" A Sg Nom Indef
+"<и>"
+	"и" CC
+"<од>"
+	"од" A Sg Nom Indef
+	"од" N Sg Nom Indef
+"<алятне>"
+	"аля" N Pl Nom Def
+	"аля" N Pl Nom PxSg2
+"<аф>"
+	"аф" V Aux Neg
+"<эряскодозь>"
+	"эряскодозь" Adv
+	"эряскодомс" V IV Der/Ozj Ger
+	"эряскодомс" V IV Der/Ozj Prc
+"<вальмала>"
+	"вальмала" Adv
+"<курендакшнельхть>"
+	"курендакшнемс" V IV Conj ScPl3
+	"курендакшнемс" V IV Ind Prt2 ScPl3
+	"курендамс" Ex/V IV Der/OkshnOms V Conj ScPl3
+	"курендамс" Ex/V IV Der/OkshnOms V Ind Prt2 ScPl3
+"<да>"
+	"да" CC
+"<корхнельхть>"
+	"корхнемс" V TV Ind Prt2 ScPl3
+	"корхнемс" V IV Conj ScPl3
+	"корхнемс" V IV Ind Prt2 ScPl3
+	"корхнемс" V TV Conj ScPl3
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<стирьхне-цёратне>"
+	"цёра" N Pl Nom Def
+		"стирь" N Pl Nom Def Use/Circ Cmp Cmp/Hyph
+	"цёра" N Pl Nom PxSg2
+		"стирь" N Pl Nom PxSg2 Use/Circ Cmp Cmp/Hyph
+"<капакшу>"
+	"капакшу" ?
+"<келуфнень>"
+	"келу" N Pl Pl Gen Def
+	"келу" N Pl Pl Gen PxSg2
+"<алга>"
+	"ал" N Relator SP Prl Indef
+	"ал" N Relator Sg Nom Indef Clt/Add
+"<морсельхть>"
+	"морсемс" V IV Conj ScPl3
+	"морсемс" V IV Ind Prt2 ScPl3
+	"морсемс" V TV Conj ScPl3
+	"морсемс" V TV Ind Prt2 ScPl3
+"<каши>"
+	"каши" ?
+"<морот>"
+	"мора" N Pl Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:32:3:TimoshkinE
+# text = Аф курок жаворонкась моронц кеподьсы тя кели паксять вельхксс ...
+"<Аф>"
+	"аф" V Aux Neg
+"<курок>"
+	"курок" Adv
+	"курок" N Sg Nom Indef
+"<жаворонкась>"
+	"жаворонка" N Sg Nom Def
+"<моронц>"
+	"мор" A Sg Gen PxSg3
+	"мор" N Sg Gen PxSg3
+	"мора" N Sg Gen PxSg3
+"<кеподьсы>"
+	"кеподемс" V TV Ind Prs ScSg3 OcSg3
+"<тя>"
+	"тя" Pron Dem Sg Nom Indef
+"<кели>"
+	"келе" N SP Lat Indef
+	"кели" A Sg Nom Indef
+"<паксять>"
+	"пакся" N Sg Gen Def
+"<вельхксс>"
+	"вельхкс" N Relator SP Ill Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:34:1:AbramovK_Erzya
+# text = Ломаттне — менельса тяшттнень кодямот ...
+"<Ломаттне>"
+	"Ломан" N Prop Sem/Sur Pl Nom Def
+	"Ломан" N Prop Sem/Sur Pl Nom PxSg2
+	"ломань" N Pl Nom Def
+	"ломань" N Pl Nom PxSg2
+"<—>"
+	"—" PUNCT
+"<менельса>"
+	"менель" N SP Ine Indef
+"<тяшттнень>"
+	"тяште" N Pl Gen Def
+	"тяште" N Pl Gen PxSg2
+"<кодямот>"
+	"кодямот" ?
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:34:2:EDITORS
+# text = Тялонда аноклайть сокатнень, а кизонда нурттнень.
+"<Тялонда>"
+	"тялонда" Adv Sem/Time
+"<аноклайть>"
+	"анокламс" V TV Imprt ScSg2 OcPl3
+	"анокламс" V TV NomAg Sg Gen Def
+	"анокламс" V TV Ind Prt1 ScSg2 OcPl3
+"<сокатнень>"
+	"сока" N Pl Gen Def
+	"сока" N Pl Gen PxSg2
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<кизонда>"
+	"кизонда" Adv Sem/Time
+"<нурттнень>"
+	"нурда" N Pl Gen Def
+	"нурда" N Pl Gen PxSg2
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:34:2:MoiseevM
+# text = Удан тяса, но аф ламос лисян ювандема-явондема ...
+"<Удан>"
+	"удомс" V IV Ind Prs ScSg1
+	"удомс" V TV Ind Prs ScSg1
+"<тяса>"
+	"тяса" Adv Ine
+"<,>"
+	"," CLB
+"<но>"
+	"но" CC
+"<аф>"
+	"аф" V Aux Neg
+"<ламос>"
+	"лама" Det SP Ill Indef
+	"ламос" Adv
+"<лисян>"
+	"лисемс" V IV Ind Prs ScSg1
+"<ювандема-явондема>"
+	"ювандема-явондема" ?
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:1:MoiseevM
+# text = Но тяни курок корхтазеват, стяят пильге лангс ...
+"<Но>"
+	"но" CC
+"<тяни>"
+	"тяни" Adv Sem/Time
+"<курок>"
+	"курок" Adv
+	"курок" N Sg Nom Indef
+"<корхтазеват>"
+	"корхтазевомс" V IV Ind Prs ScSg2
+"<,>"
+	"," CLB
+"<стяят>"
+	"стяят" ?
+"<пильге>"
+	"пильге" N Sg Nom Indef
+	"пимс" V IV Conj ScSg3 Clt/Add
+	"пимс" V IV Ind Prt2 ScSg3 Clt/Add
+	"пимс" V TV Conj ScSg3 Clt/Add
+	"пимс" V TV Ind Prt2 ScSg3 Clt/Add
+"<лангс>"
+	"ланга" N Relator SP Ill Indef
+	"лангс" Adp
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:2:MoiseevMa
+# text = Палатав сувась оцю сельмованомаса хирургсь.
+"<Палатав>"
+	"палата" N SP Lat Indef
+"<сувась>"
+	"сувамс" V IV Ind Prt1 ScSg3
+	"сувамс" V TV Ind Prt1 ScSg3
+"<оцю>"
+	"оцю" A Sg Nom Indef
+	"оцю" N Sg Nom Indef
+"<сельмованомаса>"
+	"сельмованомат" N SP Ine Indef
+"<хирургсь>"
+	"хирург" N Sg Nom Def
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:35:2:MoiseevMb
+# text = Маладсь Валентинонди ...
+"<Маладсь>"
+	"маладомс" V IV Ind Prt1 ScSg3
+"<Валентинонди>"
+	"Валентин" N Prop SP Dat Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:3:PiniasovG
+# text = «А тя мороть, Григорий, улема, аф содасак», — кульса Витянь вайгяленц ...
+"<«>"
+	"«" PUNCT LEFT
+"<А>"
+	"а" CC
+"<тя>"
+	"тя" Pron Dem Sg Nom Indef
+"<мороть>"
+	"мора" N Sg Gen Def
+"<,>"
+	"," CLB
+"<Григорий>"
+	"Григорий" N Prop Sg Nom Indef
+"<,>"
+	"," CLB
+"<улема>"
+	"улема" Pcle Epist
+"<,>"
+	"," CLB
+"<аф>"
+	"аф" V Aux Neg
+"<содасак>"
+	"содамс" V TV Ind Prs ScSg2 OcSg3
+"<»>"
+	"»" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<—>"
+	"—" PUNCT
+"<кульса>"
+	"кулемс" V TV Ind Prs ScSg1 OcSg3
+	"куль" N SP Ine Indef
+"<Витянь>"
+	"Витя" N Prop SP Gen Indef
+"<вайгяленц>"
+	"вайгяль" N Sg Gen PxSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:4:PiniasovG
+# text = Казарманьконь лемдеськ оцю тиклакс, кона эцезь эцеф видьмода-эрьгада ...
+"<Казарманьконь>"
+	"казарма" N SP Gen PxPl1
+"<лемдеськ>"
+	"лемдемс" V TV Ind Prt1 ScPl1 OcPl3
+	"лемдемс" V TV Ind Prt1 ScPl1 OcSg3
+"<оцю>"
+	"оцю" A Sg Nom Indef
+	"оцю" N Sg Nom Indef
+"<тиклакс>"
+	"тикла" N SP Tra Indef
+"<,>"
+	"," CLB
+"<кона>"
+	"кона" Pron Rel Sg Nom Indef
+"<эцезь>"
+	"эцемс" V TV Der/Ozj Ger
+	"эцемс" V TV Ind Prt1 ScPl3 OcSg3
+	"эцемс" V TV Der/Ozj Prc
+	"эцемс" V TV Ind Prt1 ScPl3 OcPl3
+"<эцеф>"
+	"эцемс" V IV Der/f PrfPrc Sg Nom Indef
+	"эцемс" V TV Der/f PrfPrc Sg Nom Indef
+"<видьмода-эрьгада>"
+	"видьмода-эрьгада" ?
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:5:PiniasovGa
+# text = «Ашеть атказа лездомда», — мярьгсь Игорь базарста лисемста.
+"<«>"
+	"«" PUNCT LEFT
+"<Ашеть>"
+	"аф" V Aux Neg Ind Prt1 ScSg2
+"<атказа>"
+	"атказамс" V IV ConNeg
+"<лездомда>"
+	"лездомс" V IV Inf Abl
+"<»>"
+	"»" PUNCT RIGHT
+"<,>"
+	"," CLB
+"<—>"
+	"—" PUNCT
+"<мярьгсь>"
+	"мярьгомс" V IV Ind Prt1 ScSg3
+"<Игорь>"
+	"Игорь" N Prop Sg Nom Indef
+"<базарста>"
+	"базар" N SP Ela Indef
+"<лисемста>"
+	"лисемс" V IV Ger Ela
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:35:5:PiniasovGb
+# text = — «Кельгсайне тяфтама ялгатненъ» ...
+"<—>"
+	"—" PUNCT
+"<«>"
+	"«" PUNCT LEFT
+"<Кельгсайне>"
+	"кельгомс" V TV Ind Prs ScSg1 OcPl3
+"<тяфтама>"
+	"тяфтама" A Dem Sg Nom Indef
+"<ялгатненъ>"
+	"ялгатненъ" ?
+"<»>"
+	"»" PUNCT RIGHT
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:6:DevinI
+# text = А къда сафтови, къда тиеви ся тевсь — карман шнамонза ...
+"<А>"
+	"а" CC
+"<къда>"
+	"къда" ?
+"<сафтови>"
+	"сафтовомс" V IV Ind Prs ScSg3
+"<,>"
+	"," CLB
+"<къда>"
+	"къда" ?
+"<тиеви>"
+	"тиевомс" V IV Ind Prs ScSg3
+"<ся>"
+	"ся" Pron Dem
+	"ся" Pron Dem Sg Nom Indef
+"<тевсь>"
+	"тев" N Sg Nom Def
+"<—>"
+	"—" PUNCT
+"<карман>"
+	"кармамс" V IV Ind Prs ScSg1
+	"карман" N Sg Nom Indef
+"<шнамонза>"
+	"шнамс" V IV Inf Loc PxSg3
+	"шнамс" V TV Inf Loc PxSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:7:PiniasovG
+# text = Ушедоме аноклама викторинанди ...
+"<Ушедоме>"
+	"ушедомс" V IV Ind Prt1 ScPl1
+	"ушедомс" V TV Ind Prt1 ScPl1
+"<аноклама>"
+	"аноклама" N Sg Nom Indef
+	"анокламс" V IV Inf Loc
+	"анокламс" V TV Inf Loc
+"<викторинанди>"
+	"викторина" N SP Dat Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:8:KuznecovIu
+# text = Лисенди, ёрат нумс тоса, коса ашеть виде ...
+"<Лисенди>"
+	"лисендемс" V IV Ind Prs ScSg3
+	"лисендемс" V TV Ind Prs ScSg3
+"<,>"
+	"," CLB
+"<ёрат>"
+	"ёр" N Sg Nom Indef Clt/Cop Prs ScSg2
+	"ёрамс" V IV Ind Prs ScSg2
+	"ёрамс" V TV Ind Prs ScSg2
+"<нумс>"
+	"нумс" V IV Inf
+	"нумс" V TV Inf
+"<тоса>"
+	"тоса" Adv Ine
+"<,>"
+	"," CLB
+"<коса>"
+	"коса" Adv Ine
+	"коса" Adv Interr Ine
+	"коса" Adv Rel Ine
+"<ашеть>"
+	"аф" V Aux Neg Ind Prt1 ScSg2
+"<виде>"
+	"видемс" V IV ConNeg
+	"виде" A Sg Nom Indef
+	"виде" N Sg Nom Indef
+	"виде" Pcle
+	"вимс" V TV Ind Prt1 ScPl2
+	"видемс" V TV ConNeg
+	"вимс" V IV Ind Prt1 ScPl2
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:9:PiniasovG
+# text = Аф еярядян, Светлана Петровна... Муворуван... ...
+"<Аф>"
+	"аф" V Aux Neg
+"<еярядян>"
+	"еярядян" ?
+"<,>"
+	"," CLB
+"<Светлана>"
+	"Светлана" N Prop Sg Nom Indef
+"<Петровна>"
+	"Петровна" N Prop Sem/Fem-Patr Sg Nom Indef
+"<...>"
+	"..." CLB
+
+"<Муворуван>"
+	"мувору" A SP Prl PxSg1
+	"мувору" A Sg Nom Indef Clt/Cop Prs ScSg1
+"<...>"
+	"..." CLB
+
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:10:PiniasovG
+# text = Минь щафтамакаряфтама аруняста, анеляфкатама ...
+"<Минь>"
+	"мимс" V TV Ind Prt1 ScSg1
+	"мимс" V IV Ind Prt1 ScSg1
+	"мон" Pron Pers Pl1 Nom
+	"мон" Pron Pers Pl1 Gen
+"<щафтамакаряфтама>"
+	"щафтамакаряфтама" ?
+"<аруняста>"
+	"ару" A Der/Dimin SP Ela Indef
+"<,>"
+	"," CLB
+"<анеляфкатама>"
+	"анелямс" V IV Der/f PrfPrc SP Prl Indef Clt/Cop Prs ScPl1
+	"анелямс" V TV Der/f PrfPrc SP Prl Indef Clt/Cop Prs ScPl1
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:11:MaljkinA
+# text = Мокшень марстор, мазы крайняй, вай пяк эздон ичкозят...
+"<Мокшень>"
+	"мокша" A SP Gen Indef
+	"мокша" N SP Gen Indef
+"<марстор>"
+	"марстор" ?
+"<,>"
+	"," CLB
+"<мазы>"
+	"мазы" A Sg Nom Indef
+	"мазь" N SP Lat Indef
+"<крайняй>"
+	"крайняй" A Sg Nom Indef
+"<,>"
+	"," CLB
+"<вай>"
+	"вай" Interj
+	"вай" N Sg Nom Indef
+"<пяк>"
+	"пяк" Adv Deg
+"<эздон>"
+	"эзда" Adp Abl PxSg1
+"<ичкозят>"
+	"ичкозе" Adv Loc Clt/Cop Prs ScSg2
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:12:IozhovA
+# text = Ефси тейть аф Алдуван, шида валда Валдонян, ну, а нинге Маконян, кельгомнян </b>и <b>Тяконян! </b>
+"<Ефси>"
+	"ёфси" Adv
+"<тейть>"
+	"тон" Pron Pers Sg2 Dat Short
+"<аф>"
+	"аф" V Aux Neg
+"<Алдуван>"
+	"Алду" N Prop SP Prl PxSg1
+	"Алду" N Prop Sg Nom Indef Clt/Cop Prs ScSg1
+"<,>"
+	"," CLB
+"<шида>"
+	"ши" N SP Abl Indef
+"<валда>"
+	"вал" N SP Abl Indef
+	"валда" A Sg Nom Indef
+	"валда" Adv
+	"валда" N Sg Nom Indef
+"<Валдонян>"
+	"валдоня" A Sg Nom Indef Clt/Cop Prs ScSg1
+"<,>"
+	"," CLB
+"<ну>"
+	"ну" Interj
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<нинге>"
+	"нинге" Adv Sem/Time
+"<Маконян>"
+	"Маконян" ?
+"<,>"
+	"," CLB
+"<кельгомнян>"
+	"кельгомс" V IV NomAct Der/Dimin Sg Nom Indef Clt/Cop Prs ScSg1
+	"кельгомс" V TV NomAct Der/Dimin Sg Nom Indef Clt/Cop Prs ScSg1
+"<<>"
+	"<" PUNCT LEFT
+"</>"
+	"/" PUNCT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+"<и>"
+	"и" CC
+"<<>"
+	"<" PUNCT LEFT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+"<Тяконян>"
+	"тяконя" A Sg Nom Indef Clt/Cop Prs ScSg1
+"<!>"
+	"!" CLB
+
+"<<>"
+	"<" PUNCT LEFT
+"</>"
+	"/" PUNCT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+
+# sent_id = MKS:2008:35:13:PiniasovG
+# text = Аськолянь, а прязень мяряйне сексень ърдазти праф лопа лаца... Улень сюдофокс и юкстафокс ...
+"<Аськолянь>"
+	"аськолямс" V IV Ind Prt1 ScSg1
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<прязень>"
+	"пря" N Sg Gen PxSg1
+"<мяряйне>"
+	"мяряйне" ?
+"<сексень>"
+	"сёксе" N SP Gen Indef
+"<ърдазти>"
+	"ърдазти" ?
+"<праф>"
+	"прамс" V IV Der/f PrfPrc Sg Nom Indef
+"<лопа>"
+	"лопа" N Sg Nom Indef
+"<лаца>"
+	"лад" N SP Ine Indef
+	"лаца" Adp Ine
+"<...>"
+	"..." CLB
+
+"<Улень>"
+	"уле" A SP Gen Indef
+	"улемс" V IV Ind Prt1 ScSg1
+"<сюдофокс>"
+	"сюдомс" V IV Der/f PrfPrc SP Tra Indef
+	"сюдомс" V TV Der/f PrfPrc SP Tra Indef
+"<и>"
+	"и" CC
+"<юкстафокс>"
+	"юкстамс" V IV Der/f PrfPrc SP Tra Indef
+	"юкстамс" V TV Der/f PrfPrc SP Tra Indef
+	"юкстаф" N SP Tra Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:14:MoroA_Erzya
+# text = Тячи ават, тячи тядякс арать ...
+"<Тячи>"
+	"тячи" Adv Sem/Time
+"<ават>"
+	"ава" N Pl Nom Indef
+	"ава" N Sg Nom Indef Clt/Cop Prs ScSg2
+"<,>"
+	"," CLB
+"<тячи>"
+	"тячи" Adv Sem/Time
+"<тядякс>"
+	"тядя" N Sem/Kin SP Tra Indef
+"<арать>"
+	"арамс" V IV Ind Prt1 ScSg2
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:15:MoiseevMa
+# text = «Кали афкукс мезевок аф мяляфтат?
+"<«>"
+	"«" PUNCT LEFT
+"<Кали>"
+	"кали" Adv
+	"каль" N SP Lat Indef
+"<афкукс>"
+	"афкукс" Adv
+"<мезевок>"
+	"мезе" Pron SP Prl Indef Sg Nom Clt/Add
+	"мезевок" Pron Indef Sg Nom Indef
+"<аф>"
+	"аф" V Aux Neg
+"<мяляфтат>"
+	"мялямс" V IV Der/f PrfPrc SP Abl Indef Clt/Cop Prs ScSg2
+	"мяляфтомс" V IV Ind Prs ScSg2
+	"мяляфтомс" V TV Ind Prs ScSg2
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:35:15:MoiseevMb
+# text = — «Мес аф мяляфтан?
+"<—>"
+	"—" PUNCT
+"<«>"
+	"«" PUNCT LEFT
+"<Мес>"
+	"мес" Adv
+	"мес" Adv Interr Ill
+"<аф>"
+	"аф" V Aux Neg
+"<мяляфтан>"
+	"мялямс" V IV Der/f PrfPrc SP Abl Indef Clt/Cop Prs ScSg1
+	"мяляфтомс" V IV Ind Prs ScSg1
+	"мяляфтомс" V TV Ind Prs ScSg1
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:35:15:MoiseevMc
+# text = Мяляфтан» ...
+"<Мяляфтан>"
+	"мялямс" V IV Der/f PrfPrc SP Abl Indef Clt/Cop Prs ScSg1
+	"мяляфтомс" V IV Ind Prs ScSg1
+	"мяляфтомс" V TV Ind Prs ScSg1
+"<»>"
+	"»" PUNCT RIGHT
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:16:MoiseevM
+# text = — «Тядяй, оду аф няйсамак!»...
+"<—>"
+	"—" PUNCT
+"<«>"
+	"«" PUNCT LEFT
+"<Тядяй>"
+	"тядя" N Sem/Kin Voc
+"<,>"
+	"," CLB
+"<оду>"
+	"од" A SP Lat Indef
+	"од" N SP Lat Indef
+	"оду" Adv Lat
+"<аф>"
+	"аф" V Aux Neg
+"<няйсамак>"
+	"няемс" V TV Ind Prs ScSg2 OcSg1
+"<!>"
+	"!" CLB
+
+"<»>"
+	"»" PUNCT RIGHT
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:17:MoiseevM
+# text = Мотоциклантень инкса моледа милициянь кудть каршес...
+"<Мотоциклантень>"
+	"мотоцикла" N SP Gen PxPl2
+"<инкса>"
+	"инкса" Adp Cau
+"<моледа>"
+	"молемс" V IV Imprt ScPl2
+"<милициянь>"
+	"милиция" N SP Gen Indef
+"<кудть>"
+	"куд" N Sg Gen Def
+"<каршес>"
+	"карша" N Relator SP Ill Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:35:18:KuznecovIua
+# text = Вирьста самста ёрань видептемс <pgNo>36</pgNo> кизень: <b>ётамс </b>Мокшеть туркс ведьгя и <b>тумс </b>нучк лугава.
+"<Вирьста>"
+	"вирь" N SP Ela Indef
+"<самста>"
+	"самс" V IV Ger Ela
+"<ёрань>"
+	"ёрамс" V IV Ind Prt1 ScSg1
+	"ёрамс" V TV Ind Prt1 ScSg1
+"<видептемс>"
+	"видептемс" V IV Inf
+	"видептемс" V TV Inf
+"<<>"
+	"<" PUNCT LEFT
+"<pgNo>"
+	"pgNo" ?
+"<>>"
+	">" PUNCT RIGHT
+"<36>"
+	"36" A Arab Ord Attr CLBfinal
+	"36" Num Sem/ID
+	 Use/Circ"36" Num Arab Sg Nom
+	 Use/Circ"36" Num Err/Orth Arab Sg Nom
+"<<>"
+	"<" PUNCT LEFT
+"</>"
+	"/" PUNCT
+"<pgNo>"
+	"pgNo" ?
+"<>>"
+	">" PUNCT RIGHT
+"<кизень>"
+	"ки" N Sg Gen PxSg1
+"<:>"
+	":" CLB
+"<<>"
+	"<" PUNCT LEFT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+"<ётамс>"
+	"ётамс" V IV Inf
+	"ётамс" V TV Inf
+"<<>"
+	"<" PUNCT LEFT
+"</>"
+	"/" PUNCT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+"<Мокшеть>"
+	"мокша" A Sg Gen Def
+	"мокша" N Sg Gen Def
+"<туркс>"
+	"тур" N SP Tra Indef
+	"туркс" N Sg Nom Indef
+	"туркс" Po
+"<ведьгя>"
+	"ведь" N SP Prl Indef
+"<и>"
+	"и" CC
+"<<>"
+	"<" PUNCT LEFT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+"<тумс>"
+	"тумс" V IV Inf
+	"тумс" V TV Inf
+"<<>"
+	"<" PUNCT LEFT
+"</>"
+	"/" PUNCT
+"<b>"
+	"b" ?
+"<>>"
+	">" PUNCT RIGHT
+"<нучк>"
+	"нучк" Adv
+"<лугава>"
+	"луга" N SP Prl Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:35:18:KuznecovIub
+# text = Тяфта и тиень. ...
+"<Тяфта>"
+	"тяемс" V IV Der/f PrfPrc SP Abl Indef
+	"тяемс" V TV Der/f PrfPrc SP Abl Indef
+	"тяфта" Adv
+"<и>"
+	"и" CC
+"<тиень>"
+	"тиемс" V IV Ind Prt1 ScSg1
+	"тиемс" V TV Ind Prt1 ScSg1
+"<.>"
+	"." CLB
+
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:36:1:PiniasovGa
+# text = Тяк муця пряцень...
+"<Тяк>"
+	"аф" V Aux Proh ScSg2 OcSg3
+	"тяемс" V TV Imprt ScSg2
+"<муця>"
+	"муцямс" V IV ConNeg
+	"муцямс" V TV ConNeg
+"<пряцень>"
+	"пря" N Sg Gen PxSg2
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:36:1:PiniasovGb
+# text = Эряфса мезе аф уленди...
+"<Эряфса>"
+	"эрямс" V IV Der/f PrfPrc SP Ine Indef
+	"эрямс" V TV Der/f PrfPrc SP Ine Indef
+	"эряф" N SP Ine Indef
+"<мезе>"
+	"мезе" Pron Interr Sg Nom
+	"мезе" Pron SP Prl Indef Sg Nom
+"<аф>"
+	"аф" V Aux Neg
+"<уленди>"
+	"улендемс" V IV Ind Prs ScSg3
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:36:1:PiniasovGc
+# text = А школать тяк кадонда ...
+"<А>"
+	"а" CC
+"<школать>"
+	"школа" N Sg Gen Def
+"<тяк>"
+	"аф" V Aux Proh ScSg2 OcSg3
+	"тяемс" V TV Imprt ScSg2
+"<кадонда>"
+	"кадондомс" V IV ConNeg
+	"кадондомс" V TV ConNeg
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:36:2:KishniakovI
+# text = Тят учсе тя шърать ваксса ...
+"<Тят>"
+	"аф" V Aux Proh ScSg2
+	"тя" Pron Dem Pl Nom Indef
+"<учсе>"
+	"учсемс" V IV ConNeg
+	"учсемс" V TV ConNeg
+"<тя>"
+	"тя" Pron Dem Sg Nom Indef
+"<шърать>"
+	"шърать" ?
+"<ваксса>"
+	"вакс" N SP Ine Indef
+	"ваксса" Adp Ine
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:36:3:KishniakovI
+# text = Тяфтама тренер мархта куломозон лыжаса якалень ...
+"<Тяфтама>"
+	"тяфтама" A Dem Sg Nom Indef
+"<тренер>"
+	"тренер" N Sg Nom Indef
+"<мархта>"
+	"мархта" Adp
+"<куломозон>"
+	"куломс" V IV NomAct Err/Orth SP Ill PxSg1
+"<лыжаса>"
+	"лыжаса" ?
+"<якалень>"
+	"якамс" V IV Conj ScSg1
+	"якамс" V IV Ind Prt2 ScSg1
+	"якамс" V TV Conj ScSg1
+	"якамс" V TV Ind Prt2 ScSg1
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:36:4:Iofks
+# text = Лездолень тейть лихтибряня, аньцек пингозе монь аш ...
+"<Лездолень>"
+	"лездомс" V IV Conj ScSg1
+	"лездомс" V IV Ind Prt2 ScSg1
+"<тейть>"
+	"тон" Pron Pers Sg2 Dat Short
+"<лихтибряня>"
+	"лихтибря" N Pl Nom PxSg1 Use/NG Err/Orth-lowered-final-e-2-ja
+"<,>"
+	"," CLB
+"<аньцек>"
+	"аньцек" Adv
+"<пингозе>"
+	"пинге" N Sg Nom PxSg1
+"<монь>"
+	"мон" Pron Pers Sg1 Gen
+"<аш>"
+	"аш" Adv Neg Aux
+	"аш" V Aux Neg Loc Prs ScSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:36:5:AbramovK_Erzya
+# text = Тяни шинек-венек корхтай: шачфтозан цёра ...
+"<Тяни>"
+	"тяни" Adv Sem/Time
+"<шинек-венек>"
+	"ве" N SP Com Indef AssocColl
+		"ши" N SP Com Indef AssocColl Use/Circ Cmp Cmp/Hyph
+	"шинек-венек" Adv
+"<корхтай>"
+	"корхтамс" V IV Ind Prs ScSg3
+	"корхтамс" V TV Ind Prs ScSg3
+"<:>"
+	":" CLB
+"<шачфтозан>"
+	"шачфтомс" V IV Opt ScSg1
+	"шачфтомс" V TV Opt ScSg1
+"<цёра>"
+	"цёра" N Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:36:6:DevinI
+# text = Мундярян краля — свадьба тиян ...
+"<Мундярян>"
+	"Мундярян" ?
+"<краля>"
+	"краля" ?
+"<—>"
+	"—" PUNCT
+"<свадьба>"
+	"свадьба" N Sg Nom Indef
+	"свадьба" N Use/SpellNoSugg Sg Nom Indef
+"<тиян>"
+	"тиемс" V IV Ind Prs ScSg1
+	"тиемс" V TV Ind Prs ScSg1
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:36:7:DevinI
+# text = Видендярялеть кода эряви, кивок афолензе шумна ...
+"<Видендярялеть>"
+	"видемс" V IV Cond Conj ScSg2
+	"видемс" V TV Cond Conj ScSg2
+"<кода>"
+	"кода" Adv
+"<эряви>"
+	"эрявомс" V IV Ind Prs ScSg3
+"<,>"
+	"," CLB
+"<кивок>"
+	"ки" N Sg Nom Indef Clt/Add
+	"кивок" Pron Indef Sg Nom
+"<афолензе>"
+	"аф" V Aux Neg Conj ScSg3 OcSg2
+"<шумна>"
+	"шумнамс" V IV ConNeg
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:36:8:KuznecovIu
+# text = Таргафтолемайть, Петр Степанович ...
+"<Таргафтолемайть>"
+	"таргафтомс" V TV Conj ScSg2 OcSg1
+	"таргафтомс" V TV Ind Prt2 ScSg2 OcSg1
+"<,>"
+	"," CLB
+"<Петр>"
+	"Пётр" N Prop Sg Nom Indef
+"<Степанович>"
+	"Степан" N Prop Der/PatrMal Sem/Mal-Patr Sg Nom Indef
+	"Степанович" N Prop Sem/Mal-Patr Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:36:9:LarionovSa
+# text = Изь кенерь аделамс васенце стройканц, тердезь военкомату.
+"<Изь>"
+	"аф" Use/NG V Aux Neg Ind Prt1 ScSg3
+"<кенерь>"
+	"кенерь" N Sg Nom Indef
+"<аделамс>"
+	"аделамс" V IV Inf
+	"аделамс" V TV Inf
+"<васенце>"
+	"васенце" A Ord
+	"фкя" Ex/Num Der/Ord A Ord Sg Nom Indef
+"<стройканц>"
+	"стройка" N Sg Gen PxSg3
+"<,>"
+	"," CLB
+"<тердезь>"
+	"тердемс" V TV Der/Ozj Ger
+	"тердемс" V TV Ind Prt1 ScPl3 OcSg3
+	"тердемс" V TV Der/Ozj Prc
+	"тердемс" V TV Ind Prt1 ScPl3 OcPl3
+"<военкомату>"
+	"военкомат" N SP Lat Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:36:9:LarionovSb
+# text = Тоса азозь, што содамошинза пяк эрявихть армияса ...
+"<Тоса>"
+	"тоса" Adv Ine
+"<азозь>"
+	"азомс" V TV Der/Ozj Ger
+	"азомс" V TV Ind Prt1 ScPl3 OcSg3
+	"азомс" V TV Der/Ozj Prc
+	"азомс" V TV Ind Prt1 ScPl3 OcPl3
+"<,>"
+	"," CLB
+"<што>"
+	"што" CS
+"<содамошинза>"
+	"содамоши" N Pl Nom PxSg3
+"<пяк>"
+	"пяк" Adv Deg
+"<эрявихть>"
+	"эрявомс" V IV Ind Prs ScPl3
+	"эрявомс" V IV NomAg Pl Nom Indef
+"<армияса>"
+	"армия" N SP Ine Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:1:PiniasovG
+# text = — Ялгацень аф Василъевичекс сюцесазъ? — мекпяли ашень кирде ...
+"<—>"
+	"—" PUNCT
+"<Ялгацень>"
+	"ялга" N Sg Gen PxSg2
+"<аф>"
+	"аф" V Aux Neg
+"<Василъевичекс>"
+	"Василъевичекс" ?
+"<сюцесазъ>"
+	"сюцесазъ" ?
+"<?>"
+	"?" CLB
+
+"<—>"
+	"—" PUNCT
+"<мекпяли>"
+	"мекпяли" Adv
+"<ашень>"
+	"аф" V Aux Neg Ind Prt1 ScSg1
+"<кирде>"
+	"кирдемс" V IV ConNeg
+	"кирдемс" V TV ConNeg
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:37:2:MaljkinA
+# text = Корхтайхть, Пушкин весть тияне паксянь шовор ластя ардсь ...
+"<Корхтайхть>"
+	"корхтай" N Pl Nom Indef
+	"корхтамс" V IV Ind Prs ScPl3
+	"корхтамс" V TV Ind Prs ScPl3
+"<,>"
+	"," CLB
+"<Пушкин>"
+	"Пушкин" N Prop Sem/Mal-Sur Sg Nom Indef
+"<весть>"
+	"весть" Adv
+	"фкя" Ex/Num Der/Iter Adv Iter
+"<тияне>"
+	"тияне" Adv
+"<паксянь>"
+	"пакся" N SP Gen Indef
+"<шовор>"
+	"шовор" Adv
+"<ластя>"
+	"лазомс" V TV Ind Prs ScSg1 OcSg2
+	"ластя" A Sg Nom Indef
+	"ластя" Adv
+"<ардсь>"
+	"ардомс" V IV Ind Prt1 ScSg3
+	"ардомс" V TV Ind Prt1 ScSg3
+"<...>"
+	"..." CLB
+:\n
+:[# sent_id = MKS:2008:37:3:DevinI
+# text = Мирдень лемса аватненди мярьгихть ...
+"<Мирдень>"
+	"мирде" N SP Gen Indef
+"<лемса>"
+	"лем" N SP Ine Indef
+	"лемса" Adv Ine
+"<аватненди>"
+	"ава" N Pl Dat Def
+	"ава" N Pl Dat PxSg2
+"<мярьгихть>"
+	"мярьгомс" V IV Ind Prs ScPl3
+	"мярьгомс" V IV NomAg Pl Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:4:KuznecovIu
+# text = Корхтайхть, дураконятнень алтаръсонга пикссесазь ...
+"<Корхтайхть>"
+	"корхтай" N Pl Nom Indef
+	"корхтамс" V IV Ind Prs ScPl3
+	"корхтамс" V TV Ind Prs ScPl3
+"<,>"
+	"," CLB
+"<дураконятнень>"
+	"дурак" N Der/Dimin Pl Gen Def
+	"дурак" N Der/Dimin Pl Gen PxSg2
+"<алтаръсонга>"
+	"алтаръсонга" ?
+"<пикссесазь>"
+	"пикссемс" V TV Ind Prs ScPl3 OcPl3
+	"пикссемс" V TV Ind Prs ScPl3 OcSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:5:EDITORS
+# text = Тейть гайфтсть телефонца.
+"<Тейть>"
+	"тон" Pron Pers Sg2 Dat Short
+"<гайфтсть>"
+	"гайфтемс" V IV Ind Prt1 ScPl3
+	"гайфтемс" V TV Ind Prt1 ScPl3
+"<телефонца>"
+	"телефон" N SP Ine Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:37:6:EDITORS
+# text = Кенкшти калдорфтсть.
+"<Кенкшти>"
+	"кенкш" N Sg Dat Def
+"<калдорфтсть>"
+	"калдорфтомс" V IV Ind Prt1 ScPl3
+	"калдорфтомс" V TV Ind Prt1 ScPl3
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:37:7:EDIOTRS
+# text = Кода пачфтсть куля тейть тянь колга?
+"<Кода>"
+	"кода" Adv
+"<пачфтсть>"
+	"пачфтемс" V IV Ind Prt1 ScPl3
+	"пачфтемс" V TV Ind Prt1 ScPl3
+	"пачфтомс" V IV Ind Prt1 ScPl3
+	"пачфтомс" V TV Ind Prt1 ScPl3
+"<куля>"
+	"куля" N Sg Nom Indef
+"<тейть>"
+	"тон" Pron Pers Sg2 Dat Short
+"<тянь>"
+	"тя" Pron Dem Sg Gen Indef
+"<колга>"
+	"колга" Adp
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:37:8:PopovA
+# text = Кундафнень вятезь вели ...
+"<Кундафнень>"
+	"кундамс" V IV Der/f PrfPrc Pl Gen Def
+	"кундамс" V IV Der/f PrfPrc Pl Gen PxSg2
+	"кундамс" V TV Der/f PrfPrc Pl Gen Def
+	"кундамс" V TV Der/f PrfPrc Pl Gen PxSg2
+	"кундафнемс" V IV Ind Prt1 ScSg1
+	"кундафнемс" V TV Ind Prt1 ScSg1
+"<вятезь>"
+	"вятемс" V TV Der/Ozj Ger
+	"вятемс" V TV Ind Prt1 ScPl3 OcSg3
+	"вятемс" V TV Der/Ozj Prc
+	"вятемс" V TV Ind Prt1 ScPl3 OcPl3
+"<вели>"
+	"веле" N SP Lat Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:9:EDITORSa
+# text = Лефкскятнень лувондсазь сёксенда.
+"<Лефкскятнень>"
+	"лефкс" N Der/Dimin Pl Gen Def
+	"лефкс" N Der/Dimin Pl Gen PxSg2
+"<лувондсазь>"
+	"лувондомс" V TV Ind Prs ScPl3 OcPl3
+	"лувондомс" V TV Ind Prs ScPl3 OcSg3
+"<сёксенда>"
+	"сёксенда" Adv Sem/Time
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:37:9:EDITORSb
+# text = 14-це октябръста ули сёксень праздник — Покрав...
+"<14-це>"
+	"14" A Arab Ord Use/Circ Err/Orth Arab Sg Nom
+"<октябръста>"
+	"октябръста" ?
+"<ули>"
+	"улемс" V IV Ind Prs ScSg3
+"<сёксень>"
+	"сёксе" N SP Gen Indef
+"<праздник>"
+	"праздник" N Sg Nom Indef
+"<—>"
+	"—" PUNCT
+"<Покрав>"
+	"покра" N SP Lat Indef
+	"покрав" N Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:10:EDITORS
+# text = сире пингть тя шиня паннелезь сивотьф работникнень ярмакснон ...
+"<сире>"
+	"сире" A Sg Nom Indef
+"<пингть>"
+	"пинге" N Sg Gen Def
+"<тя>"
+	"тя" Pron Dem Sg Nom Indef
+"<шиня>"
+	"ши" N Pl Nom PxSg1 Use/NG Err/Orth-lowered-final-e-2-ja
+	"шине" N Sg Nom Indef Use/NG Err/Orth-lowered-final-e-2-ja
+"<паннелезь>"
+	"паннемс" V TV Ind Prt2 ScPl3 OcSg3
+	"паннемс" V TV Conj ScPl3 OcPl3
+	"паннемс" V TV Conj ScPl3 OcSg3
+	"паннемс" V TV Ind Prt2 ScPl3 OcPl3
+"<сивотьф>"
+	"сиводемс" V IV Der/f PrfPrc Sg Nom Indef
+	"сиводемс" V TV Der/f PrfPrc Sg Nom Indef
+"<работникнень>"
+	"работник" N Pl Gen Def
+	"работник" N Pl Gen PxSg2
+"<ярмакснон>"
+	"ярмак" N SP Gen PxPl3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:11:KuznecovIua
+# text = «Кяльцень нилъсак!» — азыне Иван Петровиченди.
+"<«>"
+	"«" PUNCT LEFT
+"<Кяльцень>"
+	"кяль" N Sg Gen PxSg2
+"<нилъсак>"
+	"нилъсак" ?
+"<!>"
+	"!" CLB
+
+"<»>"
+	"»" PUNCT RIGHT
+"<—>"
+	"—" PUNCT
+"<азыне>"
+	"азомс" V TV Ind Prt1 ScSg1 OcPl3
+	"азомс" V TV Ind Prt1 ScSg1 OcSg3
+"<Иван>"
+	"Иван" N Prop Sg Nom Indef
+"<Петровиченди>"
+	"Петрович" N Prop Sem/Mal-Patr SP Dat Indef
+	"Петрович" N Prop Sem/Sur SP Dat Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:37:11:KuznecovIub
+# text = — «Тяфта [кал шонгарям
+"<,>"
+	"," CLB
+"<улема>"
+	"улема" Pcle Epist
+"<,>"
+	"," CLB
+"<инь>"
+	"инь" Adv
+	"инь" Pcle
+"<цебярь>"
+	"цебярь" A Sg Nom Indef
+	"цебярь" N Sg Nom Indef
+"<рестораттнень>"
+	"ресторан" N Pl Gen Def
+	"ресторан" N Pl Gen PxSg2
+"<эсовок>"
+	"эса" Adp Ine Clt/Add
+"<аф>"
+	"аф" V Aux Neg
+"<пицихтъ>"
+	"пицихтъ" ?
+"<»>"
+	"»" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+"<>"
+	"" PUNCT RIGHT
+"<—>"
+	"—" PUNCT
+"<«>"
+	"«" PUNCT LEFT
+"<Тяфта>"
+	"тяемс" V IV Der/f PrfPrc SP Abl Indef
+	"тяемс" V TV Der/f PrfPrc SP Abl Indef
+	"тяфта" Adv
+:[кал шонгарям
+"<,>"
+	"," CLB
+"<улема>"
+	"улема" Pcle Epist
+"<,>"
+	"," CLB
+"<инь>"
+	"инь" Adv
+	"инь" Pcle
+"<цебярь>"
+	"цебярь" A Sg Nom Indef
+	"цебярь" N Sg Nom Indef
+"<рестораттнень>"
+	"ресторан" N Pl Gen Def
+	"ресторан" N Pl Gen PxSg2
+"<эсовок>"
+	"эса" Adp Ine Clt/Add
+"<аф>"
+	"аф" V Aux Neg
+"<пицихтъ>"
+	"пицихтъ" ?
+"<»>"
+	"»" PUNCT RIGHT
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:37:11:KuznecovIuc
+# text = «Ну!» — кенярдсь ялгазе, мес шназь пидефонц [мон шнайне
+"<.>"
+	"." CLB
+
+"<>"
+	"" PUNCT RIGHT
+"<«>"
+	"«" PUNCT LEFT
+"<Ну>"
+	"ну" Interj
+"<!>"
+	"!" CLB
+
+"<»>"
+	"»" PUNCT RIGHT
+"<—>"
+	"—" PUNCT
+"<кенярдсь>"
+	"кенярдемс" V IV Ind Prt1 ScSg3
+"<ялгазе>"
+	"ялга" N Sg Nom PxSg1
+"<,>"
+	"," CLB
+"<мес>"
+	"мес" Adv
+	"мес" Adv Interr Ill
+"<шназь>"
+	"шнамс" V TV Der/Ozj Ger
+	"шнамс" V TV Ind Prt1 ScPl3 OcSg3
+	"шнамс" V TV Der/Ozj Prc
+	"шнамс" V TV Ind Prt1 ScPl3 OcPl3
+"<пидефонц>"
+	"пидемс" V IV Der/f PrfPrc Sg Gen PxSg3
+	"пидемс" V TV Der/f PrfPrc Sg Gen PxSg3
+:[мон шнайне
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:37:11:KuznecovIud
+# text = — «Ресторанца въдь эряскодыхть, да эрявикс кал аф фалу угадяви... ...
+"<—>"
+	"—" PUNCT
+"<«>"
+	"«" PUNCT LEFT
+"<Ресторанца>"
+	"ресторан" N SP Ine Indef
+"<въдь>"
+	"въдь" ?
+"<эряскодыхть>"
+	"эряскодомс" V IV Ind Prs ScPl3
+	"эряскодомс" V IV NomAg Pl Nom Indef
+"<,>"
+	"," CLB
+"<да>"
+	"да" CC
+"<эрявикс>"
+	"эрявикс" A Sg Nom Indef
+	"эрявомс" V IV NomAg SP Tra Indef
+	"эрявомс" V IV NomAg Tra Sg Nom Indef
+"<кал>"
+	"кал" N Sg Nom Indef
+"<аф>"
+	"аф" V Aux Neg
+"<фалу>"
+	"фалу" Adv Sem/Time
+"<угадяви>"
+	"угадявомс" V IV Ind Prs ScSg3
+"<...>"
+	"..." CLB
+
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:12:MishaninaV
+# text = Мярьгсть, бабай, архт эсь кигат и архт ... ...
+"<Мярьгсть>"
+	"мярьгомс" V IV Ind Prt1 ScPl3
+"<,>"
+	"," CLB
+"<бабай>"
+	"бабамс" V IV Ind Prs ScSg3
+"<,>"
+	"," CLB
+"<архт>"
+	"архт" V Imprt ScSg2
+"<эсь>"
+	"эсь" Det
+"<кигат>"
+	"ки" N SP Prl PxSg2
+"<и>"
+	"и" CC
+"<архт>"
+	"архт" V Imprt ScSg2
+"<...>"
+	"..." CLB
+
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:13:BezborodovM
+# text = Паксяв ванат — мяльце касы: колхозсь сокай тракторса ...
+"<Паксяв>"
+	"пакся" N SP Lat Indef
+"<ванат>"
+	"вана" N Pl Nom Indef
+	"ваномс" V IV Ind Prs ScSg2
+	"ваномс" V TV Ind Prs ScSg2
+"<—>"
+	"—" PUNCT
+"<мяльце>"
+	"мяль" N Sg Nom PxSg2
+"<касы>"
+	"касомс" V IV Ind Prs ScSg3
+	"касомс" V TV Ind Prs ScSg3
+"<:>"
+	":" CLB
+"<колхозсь>"
+	"колхоз" N Sg Nom Def
+"<сокай>"
+	"сокамс" V IV Ind Prs ScSg3
+	"сокамс" V TV Ind Prs ScSg3
+"<тракторса>"
+	"трактор" N SP Ine Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:37:14:KishniakovI
+# text = Маряк аф стак корхнихть мокшетне: «Кафта сялондыхнень ёткс тят шоворькшне» ...
+"<Маряк>"
+	"марямс" V TV Imprt ScSg2 OcSg3
+	"марямс" V TV ConNegII
+	"марямс" V TV Imprt ScSg2
+"<аф>"
+	"аф" V Aux Neg
+"<стак>"
+	"стак" Adv
+	"стамс" V TV Imprt ScSg2 OcSg3
+	"стамс" V TV ConNegII
+	"стамс" V TV Imprt ScSg2
+"<корхнихть>"
+	"корхнемс" V IV Ind Prs ScPl3
+	"корхнемс" V IV NomAg Pl Nom Indef
+	"корхнемс" V TV Ind Prs ScPl3
+	"корхнемс" V TV NomAg Pl Nom Indef
+"<мокшетне>"
+	"мокша" A Pl Nom Def
+	"мокша" A Pl Nom PxSg2
+	"мокша" N Pl Nom Def
+	"мокша" N Pl Nom PxSg2
+"<:>"
+	":" CLB
+"<«>"
+	"«" PUNCT LEFT
+"<Кафта>"
+	"кафта" Num Card Sg Nom Indef
+"<сялондыхнень>"
+	"сялондомс" V IV NomAg Pl Gen Def
+	"сялондомс" V IV NomAg Pl Gen PxSg2
+"<ёткс>"
+	"ётка" N Relator SP Ill Indef
+"<тят>"
+	"аф" V Aux Proh ScSg2
+	"тя" Pron Dem Pl Nom Indef
+"<шоворькшне>"
+	"шоворькшнемс" V IV ConNeg
+"<»>"
+	"»" PUNCT RIGHT
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:1:DevinI
+# text = Пиледот вяри аф комотеват ...
+"<Пиледот>"
+	"пиле" N SP Abl PxSg2
+"<вяри>"
+	"вяри" Adv Lat
+	"вярь" N SP Lat Indef
+"<аф>"
+	"аф" V Aux Neg
+"<комотеват>"
+	"комотевомс" V IV Ind Prs ScSg2
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:2:DevinI
+# text = Симат, симат — иредят; эрят, эрят - сиредят; тарат, тарат — токават ...
+"<Симат>"
+	"Сима" N Prop Pl Nom Indef
+	"Сима" N Prop Sg Nom Indef Clt/Cop Prs ScSg2
+	"симомс" V IV Ind Prs ScSg2
+	"симомс" V TV Ind Prs ScSg2
+"<,>"
+	"," CLB
+"<симат>"
+	"симомс" V IV Ind Prs ScSg2
+	"симомс" V TV Ind Prs ScSg2
+"<—>"
+	"—" PUNCT
+"<иредят>"
+	"иредемс" V IV Ind Prs ScSg2
+"<;>"
+	";" CLB
+"<эрят>"
+	"эрь" A Sg Nom Indef Clt/Cop Prs ScSg2
+	"эрь" Det Sg Nom Indef Clt/Cop Prs ScSg2
+	"эрямс" V IV Ind Prs ScSg2
+	"эрямс" V TV Ind Prs ScSg2
+"<,>"
+	"," CLB
+"<эрят>"
+	"эрямс" V IV Ind Prs ScSg2
+	"эрямс" V TV Ind Prs ScSg2
+"<->"
+	"-" PUNCT
+"<сиредят>"
+	"сиредемс" V IV Ind Prs ScSg2
+"<;>"
+	";" CLB
+"<тарат>"
+	"тар" N Sg Nom Indef Clt/Cop Prs ScSg2
+	"тара" N Pl Nom Indef
+	"тара" N Sg Nom Indef Clt/Cop Prs ScSg2
+	"таромс" V IV Ind Prs ScSg2
+"<,>"
+	"," CLB
+"<тарат>"
+	"тара" N Pl Nom Indef
+	"таромс" V IV Ind Prs ScSg2
+"<—>"
+	"—" PUNCT
+"<токават>"
+	"токавомс" V IV Ind Prs ScSg2
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:3:MoiseevM
+# text = Эряфть аф лоткафтсак, пингть аф кирдьсак ...
+"<Эряфть>"
+	"эрямс" V IV Der/f PrfPrc Sg Gen Def
+	"эрямс" V TV Der/f PrfPrc Sg Gen Def
+	"эряф" N Sg Gen Def
+"<аф>"
+	"аф" V Aux Neg
+"<лоткафтсак>"
+	"лоткафтомс" V TV Ind Prs ScSg2 OcSg3
+"<,>"
+	"," CLB
+"<пингть>"
+	"пинге" N Sg Gen Def
+"<аф>"
+	"аф" V Aux Neg
+"<кирдьсак>"
+	"кирдемс" V TV Ind Prs ScSg2 OcSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:4:PiniasovGa
+# text = Сянкса пара улендсь веть.
+"<Сянкса>"
+	"сянкса" Adv
+"<пара>"
+	"пара" A Sg Nom Indef
+	"пара" Adv
+	"пара" N Sg Nom Indef
+"<улендсь>"
+	"улендемс" V IV Ind Prt1 ScSg3
+"<веть>"
+	"ве" N Sg Gen Def
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:38:4:PiniasovGb
+# text = Лувонтт сельмотнень сярятькстомс.
+"<Лувонтт>"
+	"лувондомс" V IV ConNegII
+	"лувондомс" V IV Imprt ScSg2
+	"лувондомс" V TV ConNegII
+	"лувондомс" V TV Imprt ScSg2
+"<сельмотнень>"
+	"сельме" N Pl Gen Def
+	"сельме" N Pl Gen PxSg2
+"<сярятькстомс>"
+	"сярятькстомс" V IV Inf
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:38:4:PiniasovGc
+# text = Моли мялъце, сувак шабрань комнатав, коса лацонк шинек-венек дежурясть ветродуйхне ...
+"<Моли>"
+	"молемс" V IV Ind Prs ScSg3
+"<мялъце>"
+	"мялъце" ?
+"<,>"
+	"," CLB
+"<сувак>"
+	"сувамс" V TV Imprt ScSg2 OcSg3
+	"сувамс" V TV ConNegII
+	"сувамс" V TV Imprt ScSg2
+"<шабрань>"
+	"шабра" N SP Gen Indef
+"<комнатав>"
+	"комната" N SP Lat Indef
+"<,>"
+	"," CLB
+"<коса>"
+	"коса" Adv Ine
+	"коса" Adv Interr Ine
+	"коса" Adv Rel Ine
+"<лацонк>"
+	"лад" N SP Ine PxPl1
+	"лаца" Adp Ine PxPl1
+"<шинек-венек>"
+	"ве" N SP Com Indef AssocColl
+		"ши" N SP Com Indef AssocColl Use/Circ Cmp Cmp/Hyph
+	"шинек-венек" Adv
+"<дежурясть>"
+	"дежурямс" V TV Imprt ScPl2 OcPl3
+	"дежурямс" V TV Imprt ScPl2 OcSg3
+	"дежурямс" V TV Ind Prt1 ScPl2 OcPl3
+	"дежурямс" V TV Ind Prt1 ScPl2 OcSg3
+	"дежурямс" V TV Ind Prt1 ScPl3
+"<ветродуйхне>"
+	"ветродуйхне" ?
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:5:DevinI
+# text = Якат — аф топодят якамда, шутендат — и шутендамати аш пе ...
+"<Якат>"
+	"якамс" V IV Ind Prs ScSg2
+	"якамс" V TV Ind Prs ScSg2
+"<—>"
+	"—" PUNCT
+"<аф>"
+	"аф" V Aux Neg
+"<топодят>"
+	"топодемс" V IV Ind Prs ScSg2
+"<якамда>"
+	"якамс" V IV Inf Abl
+	"якамс" V TV Inf Abl
+"<,>"
+	"," CLB
+"<шутендат>"
+	"шутендамс" V IV Ind Prs ScSg2
+"<—>"
+	"—" PUNCT
+"<и>"
+	"и" CC
+"<шутендамати>"
+	"шутендама" N Sg Dat Def
+	"шутендамс" V IV NomAct Sg Dat Def
+"<аш>"
+	"аш" Adv Neg Aux
+	"аш" V Aux Neg Loc Prs ScSg3
+"<пе>"
+	"пе" N Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:6:KriginV
+# text = Содаф ся сембонди: катк апак валхт ~ панчфсь вальмялангоннесь пужи... ...
+"<Содаф>"
+	"содамс" V IV Der/f PrfPrc Sg Nom Indef
+	"содамс" V TV Der/f PrfPrc Sg Nom Indef
+"<ся>"
+	"ся" Pron Dem
+	"ся" Pron Dem Sg Nom Indef
+"<сембонди>"
+	"сембе" Det Qnt SP Dat Indef
+	"сембе" Pron SP Dat Indef
+"<:>"
+	":" CLB
+"<катк>"
+	"кадомс" V TV Imprt ScSg2 OcSg3
+	"катк" Pcle
+"<апак>"
+	"апак" Pcle Neg
+"<валхт>"
+	"вал" N Pl Nom Indef
+	"валомс" V IV ConNegII
+	"валомс" V IV Imprt ScSg2
+	"валомс" V TV ConNegII
+	"валомс" V TV Imprt ScSg2
+"<~>"
+	"~" PUNCT
+"<панчфсь>"
+	"панчф" N Sg Nom Def
+"<вальмялангоннесь>"
+	"вальмяланга" Ex/N Der/Poss N Sg Nom Def
+"<пужи>"
+	"пужемс" V IV Ind Prs ScSg3
+"<...>"
+	"..." CLB
+
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:7:DevinI
+# text = Станя или аф — ломанень потмось шобда, архт вешеньк, мезенкса кадозе мирденц, архт кизефнек, мезенкса сяшкава кельгозе Пашуть ...
+"<Станя>"
+	"стане" Adv Use/NG Err/Orth-lowered-final-e-2-ja
+"<или>"
+	"или" CC
+"<аф>"
+	"аф" V Aux Neg
+"<—>"
+	"—" PUNCT
+"<ломанень>"
+	"ломань" N SP Gen Indef
+"<потмось>"
+	"потма" N Relator Sg Nom Def
+"<шобда>"
+	"шобда" A Sg Nom Indef
+	"шобда" N Sg Nom Indef
+"<,>"
+	"," CLB
+"<архт>"
+	"архт" V Imprt ScSg2
+"<вешеньк>"
+	"вешеньк" ?
+"<,>"
+	"," CLB
+"<мезенкса>"
+	"мезе" Pron Interr SP Cau
+	"мезе" Pron SP Prl Indef SP Cau
+"<кадозе>"
+	"кадомс" V TV Ind Prt1 ScSg3 OcSg3
+"<мирденц>"
+	"мирде" N Sg Gen PxSg3
+"<,>"
+	"," CLB
+"<архт>"
+	"архт" V Imprt ScSg2
+"<кизефнек>"
+	"кизефнемс" V TV Imprt ScSg2 OcSg3
+	"кизефнемс" V TV ConNegII
+	"кизефнемс" V TV Imprt ScSg2
+"<,>"
+	"," CLB
+"<мезенкса>"
+	"мезе" Pron Interr SP Cau
+	"мезе" Pron SP Prl Indef SP Cau
+"<сяшкава>"
+	"сяшка" A SP Prl Indef
+	"сяшкава" Adv
+"<кельгозе>"
+	"кельгомс" V TV Ind Prt1 ScSg3 OcSg3
+"<Пашуть>"
+	"Пашу" N Prop Sg Gen Def
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:8:EDITORS
+# text = Ков тят варжакста — каньф и каньф ...
+"<Ков>"
+	"ков" Adv Spat
+	"ков" N Sg Nom Indef
+"<тят>"
+	"аф" V Aux Proh ScSg2
+	"тя" Pron Dem Pl Nom Indef
+"<варжакста>"
+	"варжакстомс" V IV ConNeg
+	"варжакстомс" V TV ConNeg
+"<—>"
+	"—" PUNCT
+"<каньф>"
+	"каньф" N Sg Nom Indef
+"<и>"
+	"и" CC
+	"и" Interj
+	"и" N ABBR
+	"и" Pcle
+"<каньф>"
+	"каньф" N Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:9:KishniakovI
+# text = Аф стак въдна корхнихть: тундярят алубантт — модати эсьморондазь аф кирдеват ...
+"<Аф>"
+	"аф" V Aux Neg
+"<стак>"
+	"стак" Adv
+	"стамс" V TV Imprt ScSg2 OcSg3
+	"стамс" V TV ConNegII
+	"стамс" V TV Imprt ScSg2
+"<въдна>"
+	"въдна" ?
+"<корхнихть>"
+	"корхнемс" V IV Ind Prs ScPl3
+	"корхнемс" V IV NomAg Pl Nom Indef
+	"корхнемс" V TV Ind Prs ScPl3
+	"корхнемс" V TV NomAg Pl Nom Indef
+"<:>"
+	":" CLB
+"<тундярят>"
+	"тундярят" ?
+"<алубантт>"
+	"алубантт" ?
+"<—>"
+	"—" PUNCT
+"<модати>"
+	"мода" N Sg Dat Def
+"<эсьморондазь>"
+	"эсьморондамс" V IV Der/Ozj Ger
+	"эсьморондамс" V IV Der/Ozj Prc
+"<аф>"
+	"аф" V Aux Neg
+"<кирдеват>"
+	"кирдевомс" V IV Ind Prs ScSg2
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:10:KishniakovI
+# text = Кирьхкснень пъргамаснон лангс надияндярят, ...
+"<Кирьхкснень>"
+	"кирьхкс" N Pl Gen Def
+	"кирьхкс" N Pl Gen PxSg2
+"<пъргамаснон>"
+	"пъргамаснон" ?
+"<лангс>"
+	"ланга" N Relator SP Ill Indef
+	"лангс" Adp
+"<надияндярят>"
+	"надиямс" V IV Cond ScSg2
+"<,>"
+	"," CLB
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:11:EDITORS
+# text = Лияста, шять, сувалеть ширезост, пяк ни пинесна кяжи.
+"<Лияста>"
+	"лия" A SP Ela Indef
+	"лияста" Adv
+"<,>"
+	"," CLB
+"<шять>"
+	"шять" Pcle
+"<,>"
+	"," CLB
+"<сувалеть>"
+	"су" N SP Prl Indef Clt/Cop Prt2 ScSg2
+	"сувамс" V IV Conj ScSg2
+	"сувамс" V IV Ind Prt2 ScSg2
+	"сувамс" V TV Conj ScSg2
+	"сувамс" V TV Ind Prt2 ScSg2
+"<ширезост>"
+	"шире" N Relator SP Ill PxPl3
+	"ширь" N SP Ill PxPl3
+"<,>"
+	"," CLB
+"<пяк>"
+	"пяк" Adv Deg
+"<ни>"
+	"ни" Adv Sem/Time
+"<пинесна>"
+	"пине" N SP Nom PxPl3
+"<кяжи>"
+	"кяжи" A Sg Nom Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:38:12:LarionovSa
+# text = Хоть авартть, а сон сонценнеть содай, тисы эсь лацонза.
+"<Хоть>"
+	"хоть" Pcle
+"<авартть>"
+	"авардемс" V IV ConNegII
+	"авардемс" V IV Imprt ScSg2
+	"авардемс" V TV ConNegII
+	"авардемс" V TV Imprt ScSg2
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<сон>"
+	"сон" Pron Pers Sg3 Nom
+"<сонценнеть>"
+	"сон" Pron Pers Sg3 Intensive Gen Der/Poss Sg Gen Def
+	"сонць" Pron Refl Sg3 Gen Long Der/Poss N Sg Gen Def
+"<содай>"
+	"содамс" V IV Ind Prs ScSg3
+	"содамс" V TV Ind Prs ScSg3
+"<,>"
+	"," CLB
+"<тисы>"
+	"тиемс" V TV Ind Prs ScSg3 OcSg3
+"<эсь>"
+	"эсь" Det
+"<лацонза>"
+	"лад" N SP Ine PxSg3
+	"лаца" Adp Ine PxSg3
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:38:12:LarionovSb
+# text = Мезе тят корхта, а ломанць сон аф кальдяв.
+"<Мезе>"
+	"мезе" Pron Interr Sg Nom
+	"мезе" Pron SP Prl Indef Sg Nom
+"<тят>"
+	"аф" V Aux Proh ScSg2
+	"тя" Pron Dem Pl Nom Indef
+"<корхта>"
+	"корхтамс" V IV ConNeg
+	"корхтамс" V TV ConNeg
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+	"а" Interj
+	"а" N ABBR
+"<ломанць>"
+	"ломань" N Sg Nom Def
+"<сон>"
+	"сон" Pron Pers Sg3 Nom
+"<аф>"
+	"аф" V Aux Neg
+"<кальдяв>"
+	"кальдяв" A Sg Nom Indef
+	"кальдяв" N Sg Nom Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:38:12:LarionovSc
+# text = Но мярьгонть тят мярьгонде, а ингольденза зря аф тият.
+"<Но>"
+	"но" CC
+"<мярьгонть>"
+	"мярьгонть" ?
+"<тят>"
+	"аф" V Aux Proh ScSg2
+	"тя" Pron Dem Pl Nom Indef
+"<мярьгонде>"
+	"мярьгондемс" V IV ConNeg
+	"мярьгондемс" V TV ConNeg
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<ингольденза>"
+	"ингольде" Adp Abl PxSg3
+"<зря>"
+	"зря" Adv
+"<аф>"
+	"аф" V Aux Neg
+"<тият>"
+	"тиемс" V IV Ind Prs ScSg2
+	"тиемс" V TV Ind Prs ScSg2
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:38:13:KuznecovIu
+# text = Кода тят корхта, а кажнай ваймось эряфть пулос фатни ...
+"<Кода>"
+	"кода" Adv
+"<тят>"
+	"аф" V Aux Proh ScSg2
+	"тя" Pron Dem Pl Nom Indef
+"<корхта>"
+	"корхтамс" V IV ConNeg
+	"корхтамс" V TV ConNeg
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<кажнай>"
+	"кажнай" Det Sg Nom Indef
+"<ваймось>"
+	"вайме" N Sg Nom Def
+"<эряфть>"
+	"эрямс" V IV Der/f PrfPrc Sg Gen Def
+	"эрямс" V TV Der/f PrfPrc Sg Gen Def
+	"эряф" N Sg Gen Def
+"<пулос>"
+	"пула" N SP Ill Indef
+"<фатни>"
+	"фатнемс" V IV Ind Prs ScSg3
+	"фатнемс" V TV Ind Prs ScSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:38:14:KuznecovIu
+# text = Месть тят корхта, а пингсь моли, кодама сталмот-нужат тяст уле, а касысь-касы, панжись-панжи ...
+"<Месть>"
+	"мезе" Pron Interr Pl Nom
+	"мезе" Pron SP Prl Indef Pl Nom
+"<тят>"
+	"аф" V Aux Proh ScSg2
+	"тя" Pron Dem Pl Nom Indef
+"<корхта>"
+	"корхтамс" V IV ConNeg
+	"корхтамс" V TV ConNeg
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<пингсь>"
+	"пинге" N Sg Nom Def
+"<моли>"
+	"молемс" V IV Ind Prs ScSg3
+"<,>"
+	"," CLB
+"<кодама>"
+	"кодамс" V IV Inf Loc
+	"кодама" A Interr Sg Nom Indef
+	"кодама" Det Interr Sg Nom Indef
+	"кодама" N Sg Nom Indef
+	"кодамс" V TV Inf Loc
+"<сталмот-нужат>"
+	"нужа" N Pl Nom Indef
+		"сталма" N Pl Nom Indef Use/Circ Cmp Cmp/Hyph
+"<тяст>"
+	"аф" V Aux Neg Opt ScPl3
+"<уле>"
+	"уле" A Sg Nom Indef
+	"улемс" V IV ConNeg
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<касысь-касы>"
+	"касысь-касы" ?
+"<,>"
+	"," CLB
+"<панжись-панжи>"
+	"панжись-панжи" ?
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:1:KirdiashkinTa
+# text = Тоса няеви...
+"<Тоса>"
+	"тоса" Adv Ine
+"<няеви>"
+	"няевомс" V IV Ind Prs ScSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:1:KirdiashkinTb
+# text = Шиса ульхтяма — ванцаськ ...
+"<Шиса>"
+	"ши" N SP Ine Indef
+"<ульхтяма>"
+	"улемс" V IV Ind Prs ScPl1
+"<—>"
+	"—" PUNCT
+"<ванцаськ>"
+	"ваномс" V TV Ind Prs ScPl1 OcPl3
+	"ваномс" V TV Ind Prs ScPl1 OcSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:2:AbramovK_Erzya
+# text = Сявсаськ, кепотьксонди, васьфнематнень. Эрь од васьфтемась канды ломаттненди од кенярдема, оцю паваз ...
+"<Сявсаськ>"
+	"сявомс" V TV Ind Prs ScPl1 OcPl3
+	"сявомс" V TV Ind Prs ScPl1 OcSg3
+"<,>"
+	"," CLB
+"<кепотьксонди>"
+	"кепотькс" N SP Dat Indef
+"<,>"
+	"," CLB
+"<васьфнематнень>"
+	"васьфнемс" V IV NomAct Pl Gen Def
+	"васьфнемс" V IV NomAct Pl Gen PxSg2
+	"васьфнемс" V TV NomAct Pl Gen Def
+	"васьфнемс" V TV NomAct Pl Gen PxSg2
+"<.>"
+	"." CLB
+
+"<Эрь>"
+	"эрь" A Sg Nom Indef
+	"эрь" Det Sg Nom Indef
+"<од>"
+	"од" A Sg Nom Indef
+	"од" N Sg Nom Indef
+"<васьфтемась>"
+	"васьфтемс" V IV NomAct Sg Nom Def
+	"васьфтемс" V TV NomAct Sg Nom Def
+"<канды>"
+	"кандомс" V IV Ind Prs ScSg3
+	"кандомс" V TV Ind Prs ScSg3
+"<ломаттненди>"
+	"ломань" N Pl Dat Def
+	"ломань" N Pl Dat PxSg2
+"<од>"
+	"од" A Sg Nom Indef
+	"од" N Sg Nom Indef
+"<кенярдема>"
+	"кенярдема" N Sg Nom Indef
+	"кенярдемс" V IV Inf Loc
+"<,>"
+	"," CLB
+"<оцю>"
+	"оцю" A Sg Nom Indef
+	"оцю" N Sg Nom Indef
+"<паваз>"
+	"паваз" N Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:3:LarionovS
+# text = Корхтатама ломанень колга, а эсь пряньконь аф няйсаськ ...
+"<Корхтатама>"
+	"корхтамс" V IV Ind Prs ScPl1
+	"корхтамс" V TV Ind Prs ScPl1
+"<ломанень>"
+	"ломань" N SP Gen Indef
+"<колга>"
+	"колга" Adp
+"<,>"
+	"," CLB
+"<а>"
+	"а" CC
+"<эсь>"
+	"эсь" Det
+"<пряньконь>"
+	"пря" N SP Gen PxPl1
+"<аф>"
+	"аф" V Aux Neg
+"<няйсаськ>"
+	"няемс" V TV Ind Prs ScPl1 OcPl3
+	"няемс" V TV Ind Prs ScPl1 OcSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:4:KuznecovIua
+# text = Тейне визькс.
+"<Тейне>"
+	"мон" Pron Pers Sg1 Dat Short
+"<визькс>"
+	"визькс" A Sg Nom Indef
+	"визькс" Adv
+	"визькс" N Sg Nom Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:39:4:KuznecovIub
+# text = Модема школав.
+"<Модема>"
+	"Модема" ?
+"<школав>"
+	"школа" N SP Lat Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:39:4:KuznecovIud
+# text = Шобдава сон съргозсь, мъзярда проке ни валдашкодсь ...
+"<Шобдава>"
+	"шобда" A SP Prl Indef
+	"шобда" N SP Prl Indef
+	"шобдава" Adv Sem/Time
+	"шобдава" N Sg Nom Indef
+"<сон>"
+	"сон" Pron Pers Sg3 Nom
+"<съргозсь>"
+	"съргозсь" ?
+"<,>"
+	"," CLB
+"<мъзярда>"
+	"мъзярда" ?
+"<проке>"
+	"проке" ?
+"<ни>"
+	"ни" Adv Sem/Time
+"<валдашкодсь>"
+	"валдашкодомс" V IV Ind Prt1 ScSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:5:LarionovS
+# text = Ватт, Антон, сафтови тейть ся тевса ...
+"<Ватт>"
+	"Ван" N Prop Pl Nom Indef
+	"ватт" N Sg Nom Indef
+	"ваномс" V IV ConNegII
+	"ваномс" V IV Imprt ScSg2
+	"ваномс" V TV ConNegII
+	"ваномс" V TV Imprt ScSg2
+"<,>"
+	"," CLB
+"<Антон>"
+	"Антон" N Prop Sg Nom Indef
+	"Антон" N Prop Sem/Sur Sg Nom Indef
+"<,>"
+	"," CLB
+"<сафтови>"
+	"сафтовомс" V IV Ind Prs ScSg3
+"<тейть>"
+	"тон" Pron Pers Sg2 Dat Short
+"<ся>"
+	"ся" Pron Dem
+	"ся" Pron Dem Sg Nom Indef
+"<тевса>"
+	"тев" N SP Ine Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:6:LarionovS
+# text = Максимти визькс арась, шарфтсь и тусь ошть шири ...
+"<Максимти>"
+	"Максим" N Prop Sg Dat Def
+"<визькс>"
+	"визькс" A Sg Nom Indef
+	"визькс" Adv
+	"визькс" N Sg Nom Indef
+"<арась>"
+	"арамс" V IV Ind Prt1 ScSg3
+"<,>"
+	"," CLB
+"<шарфтсь>"
+	"шарфтомс" V IV Ind Prt1 ScSg3
+	"шарфтомс" V TV Ind Prt1 ScSg3
+"<и>"
+	"и" CC
+"<тусь>"
+	"тумс" V IV Ind Prt1 ScSg3
+	"тумс" V TV Ind Prt1 ScSg3
+"<ошть>"
+	"ош" N Sg Gen Def
+"<шири>"
+	"шире" N Relator SP Lat Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:7:DevinIa
+# text = Ушеса сетьмось, аш кашт моли.
+"<Ушеса>"
+	"уша" N SP Ine Indef
+"<сетьмось>"
+	"сетьме" A Sg Nom Def
+	"сетьме" N Sg Nom Def
+	"сетьмомс" V IV Ind Prt1 ScSg3
+	"сетьмомс" V TV Ind Prt1 ScSg3
+"<,>"
+	"," CLB
+"<аш>"
+	"аш" Adv Neg Aux
+	"аш" V Aux Neg Loc Prs ScSg3
+"<кашт>"
+	"каж" N Pl Nom Indef
+"<моли>"
+	"молемс" V IV Ind Prs ScSg3
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:39:7:DevinIb
+# text = Шись кеподсь пяле шуфтонь серьшка; псилгодсь ...
+"<Шись>"
+	"ши" N Sg Nom Def
+"<кеподсь>"
+	"кеподемс" V IV Ind Prt1 ScSg3
+	"кеподемс" V TV Ind Prt1 ScSg3
+"<пяле>"
+	"пяле" Adp Loc
+	"пяле" N Sg Nom Indef
+"<шуфтонь>"
+	"шуфта" N SP Gen Indef
+"<серьшка>"
+	"серьшка" ?
+"<;>"
+	";" CLB
+"<псилгодсь>"
+	"псилгодомс" V IV Ind Prt1 ScSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:8:LobanovV
+# text = Сюнерьготкшнесь ни. Кшинь мишенди лавкать перьфке очередсь куень пулокс мянцевсь ...
+"<Сюнерьготкшнесь>"
+	"сюнерьготкшнемс" V IV Ind Prt1 ScSg3
+"<ни>"
+	"ни" Adv Sem/Time
+"<.>"
+	"." CLB
+
+"<Кшинь>"
+	"кши" N SP Gen Indef
+"<мишенди>"
+	"мишендемс" V IV Ind Prs ScSg3
+	"мишендемс" V TV Ind Prs ScSg3
+"<лавкать>"
+	"лавка" N Sg Gen Def
+"<перьфке>"
+	"перьфке" Adp
+"<очередсь>"
+	"очередь" N Sg Nom Def
+"<куень>"
+	"куй" N SP Gen Indef
+"<пулокс>"
+	"пула" N SP Tra Indef
+	"пулокс" N Sg Nom Indef
+"<мянцевсь>"
+	"мянцевомс" V IV Ind Prt1 ScSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:9:CilikinN
+# text = Стака, стака, вай, пяк стака кулеме вельфкан уи лажнай нармонь кяльть ...
+"<Стака>"
+	"стака" A Sg Nom Indef
+	"стамс" V TV Prec ScSg2
+	"стамс" V TV Prec ScSg2 OcSg3
+"<,>"
+	"," CLB
+"<стака>"
+	"стака" A Sg Nom Indef
+	"стамс" V TV Prec ScSg2
+	"стамс" V TV Prec ScSg2 OcSg3
+"<,>"
+	"," CLB
+"<вай>"
+	"вай" Interj
+	"вай" N Sg Nom Indef
+"<,>"
+	"," CLB
+"<пяк>"
+	"пяк" Adv Deg
+"<стака>"
+	"стака" A Sg Nom Indef
+	"стамс" V TV Prec ScSg2
+	"стамс" V TV Prec ScSg2 OcSg3
+"<кулеме>"
+	"кулемс" V IV Ind Prt1 ScPl1
+	"кулемс" V TV Ind Prt1 ScPl1
+"<вельфкан>"
+	"вельфкан" ?
+"<уи>"
+	"уемс" V IV Ind Prs ScSg3
+	"уемс" V TV Ind Prs ScSg3
+"<лажнай>"
+	"лажнамс" V IV Ind Prs ScSg3
+"<нармонь>"
+	"нармонь" N Sg Nom Indef
+"<кяльть>"
+	"кяль" N Sg Gen Def
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:10:LevchaevPa
+# text = Тон козонга илять аф якат?
+"<Тон>"
+	"тон" N Sg Nom Indef
+	"тон" Pron Pers Sg2 Nom
+"<козонга>"
+	"козонга" Adv Indef Ill
+"<илять>"
+	"илямс" V IV Ind Prt1 ScSg2
+	"илять" Adv Sem/Time
+"<аф>"
+	"аф" V Aux Neg
+"<якат>"
+	"якамс" V IV Ind Prs ScSg2
+	"якамс" V TV Ind Prs ScSg2
+"<?>"
+	"?" CLB
+
+# sent_id = MKS:2008:39:10:LevchaevPb
+# text = Станя скушна ...
+"<Станя>"
+	"стане" Adv Use/NG Err/Orth-lowered-final-e-2-ja
+"<скушна>"
+	"скушна" N Sg Nom Indef
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:11:KuznecovIua
+# text = Пинети пси.
+"<Пинети>"
+	"пине" N Sg Dat Def
+"<пси>"
+	"пси" A Sg Nom Indef
+	"пси" N Sg Nom Indef
+"<.>"
+	"." CLB
+
+# sent_id = MKS:2008:39:11:KuznecovIub
+# text = Эх, мать честная, конашкава пара! ...
+"<Эх>"
+	"эх" Interj
+"<,>"
+	"," CLB
+"<мать>"
+	"мать" ?
+"<честная>"
+	"честная" ?
+"<,>"
+	"," CLB
+"<конашкава>"
+	"конашкава" Adv
+"<пара>"
+	"пара" A Sg Nom Indef
+	"пара" Adv
+	"пара" N Sg Nom Indef
+"<!>"
+	"!" CLB
+
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:12:KuznecovIu
+# text = Кати-мес тошна арась седизон, ...
+"<Кати-мес>"
+	"кати-мес" Adv Indef
+"<тошна>"
+	"тошна" N Sg Nom Indef
+"<арась>"
+	"арамс" V IV Ind Prt1 ScSg3
+"<седизон>"
+	"седи" N SP Ill PxSg1
+"<,>"
+	"," CLB
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:13:DevinI
+# text = Эряви тяста штамс козовок ...
+"<Эряви>"
+	"эрявомс" V IV Ind Prs ScSg3
+"<тяста>"
+	"тяста" Adv Ela
+"<штамс>"
+	"штамс" V IV Inf
+	"штамс" V TV Inf
+"<козовок>"
+	"козовок" Adv Indef Ill
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:14:DevinI
+# text = А тяни, Аня, корхтамаль ...
+"<А>"
+	"а" CC
+"<тяни>"
+	"тяни" Adv Sem/Time
+"<,>"
+	"," CLB
+"<Аня>"
+	"Аня" N Prop Sg Nom Indef
+"<,>"
+	"," CLB
+"<корхтамаль>"
+	"корхтама" N Sg Nom Indef Clt/Cop Prt2 ScSg3
+	"корхтамс" V IV NomAct Sg Nom Indef Clt/Cop Prt2 ScSg3
+	"корхтамс" V TV NomAct Sg Nom Indef Clt/Cop Prt2 ScSg3
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:15:KuznecovIu
+# text = Сави или аф тага весть васьфтемс сай кизонь шить? ...
+"<Сави>"
+	"савомс" V IV Ind Prs ScSg3
+"<или>"
+	"или" CC
+"<аф>"
+	"аф" V Aux Neg
+"<тага>"
+	"тага" Adv Sem/Time
+"<весть>"
+	"весть" Adv
+	"фкя" Ex/Num Der/Iter Adv Iter
+"<васьфтемс>"
+	"васьфтемс" V IV Inf
+	"васьфтемс" V TV Inf
+"<сай>"
+	"самс" V IV Ind Prs ScSg3
+"<кизонь>"
+	"киза" N SP Gen Indef
+"<шить>"
+	"ши" N Sg Gen Def
+	"шить" Adv
+"<?>"
+	"?" CLB
+
+"<...>"
+	"..." CLB
+
+# sent_id = MKS:2008:39:16:KuznecovIu
+# text = А эсь прянц аф ужяльдьсы — ащекшнемаль да ащекшнемаль лямбе вастоняса ...
+"<А>"
+	"а" CC
+"<эсь>"
+	"эсь" Det
+"<прянц>"
+	"пря" N Sg Gen PxSg3
+"<аф>"
+	"аф" V Aux Neg
+"<ужяльдьсы>"
+	"ужяльдемс" V TV Ind Prs ScSg3 OcSg3
+"<—>"
+	"—" PUNCT
+"<ащекшнемаль>"
+	"ащекшнемс" V IV NomAct Sg Nom Indef Clt/Cop Prt2 ScSg3
+	"ащемс" Ex/V IV Der/OkshnOms V NomAct Sg Nom Indef Clt/Cop Prt2 ScSg3
+"<да>"
+	"да" CC
+"<ащекшнемаль>"
+	"ащекшнемс" V IV NomAct Sg Nom Indef Clt/Cop Prt2 ScSg3
+	"ащемс" Ex/V IV Der/OkshnOms V NomAct Sg Nom Indef Clt/Cop Prt2 ScSg3
+"<лямбе>"
+	"лямбе" A Sg Nom Indef
+	"лямбе" N Sg Nom Indef
+"<вастоняса>"
+	"васта" N Der/Dimin SP Ine Indef
+"<...>"
+	"..." CLB
+
 
