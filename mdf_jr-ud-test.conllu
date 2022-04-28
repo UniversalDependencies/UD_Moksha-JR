@@ -1852,7 +1852,7 @@
 # text =  А ушесь пародонга пароль, хоть и август, а ульцясь июленнекс пси.
 1	А	а	CCONJ	CC	_	4	cc	_	_
 2	ушесь	уша	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj:cop	_	GTtags=Sg,Nom,Def
-3	пародонга	пара	ADJ	A	Case=Abl|Clitic=AddNgA|Definite=Ind|Number=Plur,Sing	4	nmod:comp	_	GTtags=SP,Abl,Indef,Clt/Add
+3	пародонга	пара	ADJ	A	Case=Abl|Clitic=AddNgA|Definite=Ind|Number=Plur,Sing	4	obl:comp	_	GTtags=SP,Abl,Indef,Clt/Add
 4	пароль	пара	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Sg,Nom,Indef,Clt/Cop,Prt2,ScSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	хоть	хоть	PART	Pcle	_	8	mark	_	_
@@ -2646,7 +2646,7 @@
 
 # sent_id = MKS:2008:14:19:MoiseevM
 # text = Тяда инголе тага Платон дивандафтомань.
-1	Тяда	тя	PRON	Pron	Case=Abl|Definite=Ind|Number=Sing|PronType=Dem	2	nmod:comp	_	GTtags=Dem,Sg,Abl,Indef
+1	Тяда	тя	PRON	Pron	Case=Abl|Definite=Ind|Number=Sing|PronType=Dem	2	obl:comp	_	GTtags=Dem,Sg,Abl,Indef
 2	инголе	инголе	ADV	Adv	Case=Loc	5	advmod:tmod	_	GTtags=Loc
 3	тага	тага	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
 4	Платон	Платон	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	GTtags=Prop,Sg,Nom,Indef
@@ -2657,7 +2657,7 @@
 # text = Ужяль — мондедон сяда инголе ни тяса ульсть инжихть.
 1	Ужяль	ужяль	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
 2	—	—	PUNCT	PUNCT	_	7	punct	_	_
-3	мондедон	мон	PRON	Pron	Case=Abl|Number=Sing|Person=1|PronType=Prs	5	nmod:comp	_	GTtags=Pers,Sg1,Abl
+3	мондедон	мон	PRON	Pron	Case=Abl|Number=Sing|Person=1|PronType=Prs	5	obl:comp	_	GTtags=Pers,Sg1,Abl
 4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
 5	инголе	инголе	ADV	Adv	Case=Loc	7	advmod:tmod	_	GTtags=Loc
 6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
@@ -2670,14 +2670,14 @@
 # text = Синь эряйхть корязонк сяда цебярьста.
 1	Синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Pl3,Nom
 2	эряйхть	эрямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScPl3
-3	корязонк	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=1	5	nmod:comp	_	GTtags=Ill,PxPl1
+3	корязонк	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=1	5	obl:comp	_	GTtags=Ill,PxPl1
 4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
 5	цебярьста	цебярьста	ADV	Adv	AdvType=Man	2	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = MKS:2008:14:22:MoiseevM
 # text = Корязост эрязста кундазе тростть и вархцодезе меки.
-1	Корязост	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=3	2	nmod:comp	_	GTtags=Ill,PxPl3
+1	Корязост	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=3	2	obl:comp	_	GTtags=Ill,PxPl3
 2	эрязста	эрязста	ADV	Adv	_	3	advmod:mmod	_	_
 3	кундазе	кундамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3
 4	тростть	трость	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	obj	_	GTtags=Sg,Gen,Def
@@ -2691,7 +2691,7 @@
 1	Ушедсь	ушедомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 2	торгавама	торгавамс	VERB	V	Case=Loc|VerbForm=Inf	1	xcomp	_	GTtags=Inf,Loc
 3	мебельса	мебель	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	2	obl	_	GTtags=SP,Ine,Indef
-4	корязонт	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=2	6	nmod:comp	_	GTtags=Ill,PxPl2
+4	корязонт	коряс	ADP	Adp	Case=Ill|Number[psor]=Plur|Person[psor]=2	6	obl:comp	_	GTtags=Ill,PxPl2
 5	сяда	сяда	ADV	Adv	AdvType=Deg	6	advmod:deg	_	GTtags=Deg
 6	уцезста	уцезста	ADV	Adv	_	2	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	1	punct	_	_
@@ -2753,7 +2753,7 @@
 # text = Ётась кудга сембода сире учительницась и сёрмадозе сонь васенце классти.
 1	Ётась	ётамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
 2	кудга	куд	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	1	obl:lmp	_	GTtags=SP,Prl,Indef
-3	сембода	сембе	PRON	Pron	Case=Abl|Definite=Ind|Number=Plur,Sing	4	nmod:comp	_	GTtags=SP,Abl,Indef
+3	сембода	сембе	PRON	Pron	Case=Abl|Definite=Ind|Number=Plur,Sing	4	obl:comp	_	GTtags=SP,Abl,Indef
 4	сире	сире	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	5	amod	_	GTtags=Sg,Nom,Indef
 5	учительницась	учительница	NOUN	N	Case=Nom|Definite=Def|Number=Sing	1	nsubj	_	GTtags=Sg,Nom,Def
 6	и	и	CCONJ	CC	_	7	cc	_	_
@@ -2765,7 +2765,7 @@
 
 # sent_id = MKS:2008:15:7:MishaninaV
 # text = Аннада цебярь ава тейнза аф муви.
-1	Аннада	Анна	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	2	nmod:comp	_	GTtags=Prop,SP,Abl,Indef
+1	Аннада	Анна	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	2	obl:comp	_	GTtags=Prop,SP,Abl,Indef
 2	цебярь	цебярь	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	amod	_	GTtags=Sg,Nom,Indef
 3	ава	ава	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	nsubj	_	GTtags=Sg,Nom,Indef
 4	тейнза	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	6	obl:agent	_	GTtags=Pers,Sg3,Dat,Short
