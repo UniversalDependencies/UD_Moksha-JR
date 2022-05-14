@@ -144,7 +144,7 @@
     <feat name="VerbType" value="Aux" upos="AUX">52</feat><!-- аф, ашезь, аш, ба, изь, Афоль, афолеть, ашель, ашельхть, ашесть -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="72">
+  <deps unique="71">
     <dep name="acl">6</dep>
     <dep name="acl:relcl">8</dep>
     <dep name="advcl">58</dep>
@@ -191,7 +191,6 @@
     <dep name="nmod">136</dep>
     <dep name="nmod:appos">2</dep>
     <dep name="nmod:bahuv">2</dep>
-    <dep name="nmod:comp">8</dep>
     <dep name="nmod:lmod">2</dep>
     <dep name="nmod:poss">34</dep>
     <dep name="nmod:tmod">1</dep>
@@ -203,7 +202,7 @@
     <dep name="obl">82</dep>
     <dep name="obl:agent">8</dep>
     <dep name="obl:cau">7</dep>
-    <dep name="obl:comp">4</dep>
+    <dep name="obl:comp">12</dep>
     <dep name="obl:freq">3</dep>
     <dep name="obl:inst">15</dep>
     <dep name="obl:lfrom">20</dep>

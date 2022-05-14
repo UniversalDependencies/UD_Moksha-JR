@@ -54,6 +54,9 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 # Changelog
 
+* 2022-04-29
+  * Deprel correction and documentation
+  * Trouble shooting in dependencies
 * 2021-10-31
   * Auxiliary, feature and deprel documentation
   * Example sentences with conditional from Kehayov (2020).
