@@ -4579,3 +4579,16 @@
 13	Наташа	Наташа	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	12	nsubj	_	CGdephead=#13-&gt;12|CGdeprel=@&lt;SUBJ|GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
 14	...	...	PUNCT	CLB	_	12	punct	_	_
 
+# sent_id = MKS:2008:21:9:EDITORS
+# text = Ся кафта куттне арасть теенза роднойкс и аф юкставикс.
+1	Ся	ся	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	3	det	_	CGdephead=#1-&gt;3|CGdeprel=@&gt;N|GTtags=Dem,Sg,Nom,Indef
+2	кафта	кафта	NUM	Num	Case=Nom|Definite=Ind|NumType=Card|Number=Sing	3	nummod	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=Card,Sg,Nom,Indef
+3	куттне	куд	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	CGdephead=#3-&gt;4|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,Def
+4	арасть	арамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScPl3
+5	теенза	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	4	obl	_	CGdephead=#5-&gt;4|CGdeprel=@&lt;ADVL|GTtags=Pers,Sg3,Dat,Short
+6	роднойкс	родной	ADJ	A	Case=Tra|Definite=Ind|Number=Plur,Sing	4	xcomp	_	CGdephead=#6-&gt;6|CGdeprel=@&gt;N|GTtags=SP,Tra,Indef
+7	и	и	CCONJ	CC	_	9	cc	_	CGdephead=#7-&gt;7|CGdeprel=@CC|GTtags=
+8	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	9	aux:neg	_	CGdephead=#8-&gt;8|CGdeprel=@-F&lt;AUXV|GTtags=Aux,Neg
+9	юкставикс	юкставомс	VERB	V	Case=Tra|Definite=Ind|Number=Plur,Sing|Valency=1	6	conj	_	CGdephead=#9-&gt;8|CGdeprel=@IMV|GTtags=IV,NomAg,SP,Tra,Indef|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	4	punct	_	_
+
