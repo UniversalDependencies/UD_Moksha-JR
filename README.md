@@ -54,6 +54,9 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 # Changelog
 
+* 2022-10-31
+  * Grammar research input
+  * Migrating :lmp, :lto, :lfrom into :lmod, and :comp to :cmp
 * 2022-04-29
   * Deprel correction and documentation
   * Trouble shooting in dependencies
