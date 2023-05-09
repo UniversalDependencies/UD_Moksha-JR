@@ -54,6 +54,9 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 # Changelog
 
+* 2023-04-29
+  * Work with Valency, Diminutive
+  * New lines from Moksha syntaxis (2008)
 * 2022-10-31
   * Grammar research input
   * Migrating :lmp, :lto, :lfrom into :lmod, and :comp to :cmp
@@ -87,7 +90,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Rueter, Jack; Levina, Maria; Kabaeva, Nadezhda; Molnár, Judit
+Contributors: Rueter, Jack; Levina, Maria; Kabaeva, Nadezhda; Molnár, Judit; Alnajjar, Khalid
 Contributing: here
 Contact: rueter.jack@gmail.com
 ===============================================================================
