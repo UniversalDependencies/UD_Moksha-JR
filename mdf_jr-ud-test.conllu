@@ -5378,3 +5378,77 @@
 8	армияса	армия	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	obl	_	CGdephead=#8-&gt;7|CGdeprel=@&lt;ADVL|GTtags=SP,Ine,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#9-&gt;2|CGdeprel=@X|GTtags=CLB
 
+# sent_id = MKS:2008:37:1:PiniasovG
+# text = — Ялгацень аф Васильевичекс сюцесазь? — мекпяли ашень кирде.
+1	—	—	PUNCT	PUNCT	_	5	punct	_	CGdephead=#1-&gt;2|CGdeprel=@X|CGdephead=#1-&gt;2|CGdeprel=@X|GTtags=PUNCT
+2	Ялгацень	ялга	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obj	_	CGdephead=#2-&gt;2|CGdeprel=@-FOBJ&gt;|CGdephead=#2-&gt;2|CGdeprel=@-FOBJ&gt;|GTtags=Sg,Gen,PxSg2
+3	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	4	aux:neg	_	CGdephead=#3-&gt;0|CGdeprel=@FAUX|CGdephead=#3-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg
+4	Васильевичекс	Василий	PROPN	N	Animacy=Hum|Case=Tra|Definite=Ind|Number=Plur,Sing	5	xcomp	_	CGdephead=#4-&gt;4|CGdeprel=@PRED-ADVL|CGdephead=#4-&gt;4|CGdeprel=@PRED-ADVL|GTtags=Prop,Der/PatrMal,Sem/Mal-Patr,SP,Tra,Indef
+5	сюцесазь	сюцемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#5-&gt;3|CGdeprel=@FMV|CGdephead=#5-&gt;3|CGdeprel=@FMV|GTtags=Ind,Prs,ScPl3,OcSg3|SpaceAfter=No
+6	?	?	PUNCT	CLB	_	5	punct	_	CGdephead=#6-&gt;3|CGdeprel=@X|CGdephead=#6-&gt;3|CGdeprel=@X|GTtags=CLB
+7	—	—	PUNCT	PUNCT	_	10	punct	_	CGdephead=#1-&gt;2|CGdeprel=@X|CGdephead=#1-&gt;2|CGdeprel=@X|GTtags=PUNCT
+8	мекпяли	мекпяли	ADV	Adv	_	10	advmod	_	CGdephead=#2-&gt;4|CGdeprel=@ADVL&gt;|CGdephead=#2-&gt;4|CGdeprel=@ADVL&gt;|GTtags=
+9	ашень	аф	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past|VerbType=Aux	10	aux:neg	_	CGdephead=#3-&gt;0|CGdeprel=@FAUX|CGdephead=#3-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg,Ind,Prt1,ScSg1
+10	кирде	кирдемс	VERB	V	Connegative=Yes	5	parataxis	_	CGdephead=#4-&gt;3|CGdeprel=@IMV|CGdephead=#4-&gt;3|CGdeprel=@IMV|GTtags=ConNeg|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	5	punct	_	CGdephead=#5-&gt;3|CGdeprel=@X|CGdephead=#5-&gt;3|CGdeprel=@X|GTtags=CLB
+
+# sent_id = MKS:2008:37:2:MaljkinA
+# text = Корхтайхть, Пушкин весть тияне паксянь шовор ластя ардсь.
+1	Корхтайхть	корхтай	VERB	V	Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#1-&gt;0|CGdeprel=@VOC|CGdephead=#1-&gt;0|CGdeprel=@VOC|GTtags=Pl,Nom,Indef|SpaceAfter=No
+2	,	,	PUNCT	CLB	_	9	punct	_	CGdephead=#2-&gt;1|CGdeprel=@X|CGdephead=#2-&gt;1|CGdeprel=@X|GTtags=CLB
+3	Пушкин	Пушкин	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	9	nsubj	_	CGdephead=#3-&gt;8|CGdeprel=@SUBJ&gt;|CGdephead=#3-&gt;8|CGdeprel=@SUBJ&gt;|GTtags=Prop,Sg,Nom,Indef
+4	весть	весть	ADV	Adv	_	9	advmod:tmod	_	CGdephead=#4-&gt;8|CGdeprel=@ADVL&gt;|CGdephead=#4-&gt;8|CGdeprel=@ADVL&gt;|GTtags=
+5	тияне	тияне	ADV	Adv	_	9	advmod:lmod	_	CGdephead=#5-&gt;8|CGdeprel=@ADVL&gt;|CGdephead=#5-&gt;8|CGdeprel=@ADVL&gt;|GTtags=
+6	паксянь	пакся	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	CGdephead=#6-&gt;6|CGdeprel=@&gt;N|CGdephead=#6-&gt;6|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
+7	шовор	шовор	ADP	Adv	_	6	case	_	CGdephead=#7-&gt;8|CGdeprel=@ADVL&gt;|CGdephead=#7-&gt;8|CGdeprel=@ADVL&gt;|GTtags=
+8	ластя	лазомс	ADV	Adv	_	9	advmod	_	CGdephead=#8-&gt;0|CGdeprel=@FMV|CGdephead=#8-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg1,OcSg2
+9	ардсь	ардомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	1	ccomp	_	CGdephead=#9-&gt;8|CGdeprel=@FMV|CGdephead=#9-&gt;8|CGdeprel=@FMV|GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	1	punct	_	CGdephead=#10-&gt;1|CGdeprel=@X|CGdephead=#10-&gt;1|CGdeprel=@X|GTtags=CLB
+
+# sent_id = MKS:2008:37:3:DevinI
+# text = Мирдень лемса аватненди мярьгихть.
+1	Мирдень	мирде	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod:poss	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
+2	лемса	лем	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	obl	_	CGdephead=#2-&gt;0|CGdeprel=@X|CGdephead=#2-&gt;0|CGdeprel=@X|GTtags=SP,Ine,Indef
+3	аватненди	ава	NOUN	N	Case=Dat|Definite=Def|Number=Plur	4	obl	_	CGdephead=#3-&gt;0|CGdeprel=@X|CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=Pl,Dat,Def
+4	мярьгихть	мярьгомс	VERB	V	Case=Nom|Definite=Ind|Derivation=NomAg|Number=Plur	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@SPRED|CGdephead=#4-&gt;0|CGdeprel=@SPRED|GTtags=Der/NomAg,N,Pl,Nom,Indef|SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	CGdephead=#5-&gt;4|CGdeprel=@X|CGdephead=#5-&gt;4|CGdeprel=@X|GTtags=CLB
+
+# sent_id = MKS:2008:37:4:KuznecovIu
+# text = Корхтайхть, дураконятнень алтарьсонга пикссесазь.
+1	Корхтайхть	корхтай	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#1-&gt;0|CGdeprel=@VOC|CGdephead=#1-&gt;0|CGdeprel=@VOC|GTtags=Pl,Nom,Indef|SpaceAfter=No
+2	,	,	PUNCT	CLB	_	5	punct	_	CGdephead=#2-&gt;1|CGdeprel=@X|CGdephead=#2-&gt;1|CGdeprel=@X|GTtags=CLB
+3	дураконятнень	дурак	NOUN	N	Case=Gen|Definite=Def|Degree=Dim|Number=Plur	5	obj	_	CGdephead=#3-&gt;5|CGdeprel=@OBJ&gt;|CGdephead=#3-&gt;5|CGdeprel=@OBJ&gt;|GTtags=Der/Dimin,N,Pl,Gen,Def
+4	алтарьсонга	алтарь	NOUN	N	Case=Ine|Clitic=Add|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	CGdephead=#4-&gt;5|CGdeprel=@ADVL&gt;|CGdephead=#4-&gt;5|CGdeprel=@ADVL&gt;|GTtags=SP,Ine,Indef,Clt/Add
+5	пикссесазь	пикссемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres	1	ccomp	_	CGdephead=#5-&gt;0|CGdeprel=@FMV|CGdephead=#5-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScPl3,OcPl3|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	1	punct	_	CGdephead=#6-&gt;1|CGdeprel=@X|CGdephead=#6-&gt;1|CGdeprel=@X|GTtags=CLB
+
+# sent_id = MKS:2008:37:5:EDITORS
+# text = Тейть гайфтсть телефонца.
+1	Тейть	тон	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	2	obl	_	CGdephead=#1-&gt;2|CGdeprel=@ADVL&gt;|CGdephead=#1-&gt;2|CGdeprel=@ADVL&gt;|GTtags=Pers,Sg2,Dat,Short
+2	гайфтсть	гайфтемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@FMV|CGdephead=#2-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prt1,ScPl3
+3	телефонца	телефон	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	2	obl	_	CGdephead=#3-&gt;2|CGdeprel=@&lt;ADVL|CGdephead=#3-&gt;2|CGdeprel=@&lt;ADVL|GTtags=SP,Ine,Indef|SpaceAfter=No
+4	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#4-&gt;2|CGdeprel=@X|CGdephead=#4-&gt;2|CGdeprel=@X|GTtags=CLB
+
+# sent_id = MKS:2008:37:6:EDITORS
+# text = Кенкшти калдорфтсть.
+1	Кенкшти	кенкш	NOUN	N	Case=Dat|Definite=Def|Number=Sing	2	obl	_	CGdephead=#1-&gt;2|CGdeprel=@ADVL&gt;|CGdephead=#1-&gt;2|CGdeprel=@ADVL&gt;|GTtags=Sg,Dat,Def
+2	калдорфтсть	калдорфтомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@FMV|CGdephead=#2-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prt1,ScPl3|SpaceAfter=No
+3	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#3-&gt;2|CGdeprel=@X|CGdephead=#3-&gt;2|CGdeprel=@X|GTtags=CLB
+
+# sent_id = MKS:2008:37:7:EDIOTRS
+# text = Кода пачфтсть куля тейть тянь колга?
+1	Кода	кода	ADV	Adv	AdvType=Man	2	advmod	_	CGdephead=#1-&gt;2|CGdeprel=@ADVL&gt;|CGdephead=#1-&gt;2|CGdeprel=@ADVL&gt;|GTtags=Manner
+2	пачфтсть	пачфтемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@FMV|CGdephead=#2-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prt1,ScPl3
+3	куля	куля	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	obj	_	CGdephead=#3-&gt;0|CGdeprel=@X|CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=Sg,Nom,Indef
+4	тейть	тон	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs|Variant=Short	2	obl	_	CGdephead=#4-&gt;2|CGdeprel=@&lt;ADVL|CGdephead=#4-&gt;2|CGdeprel=@&lt;ADVL|GTtags=Pers,Sg2,Dat,Short
+5	тянь	тя	PRON	Pron	Case=Gen|Definite=Ind|Number=Sing|PronType=Dem	2	obl	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;P|CGdephead=#5-&gt;6|CGdeprel=@&gt;P|GTtags=Dem,Sg,Gen,Indef
+6	колга	колга	ADP	Po	AdpType=Post	5	case	_	CGdephead=#6-&gt;2|CGdeprel=@&lt;ADVL|CGdephead=#6-&gt;2|CGdeprel=@&lt;ADVL|GTtags=Po|SpaceAfter=No
+7	?	?	PUNCT	CLB	_	2	punct	_	CGdephead=#7-&gt;2|CGdeprel=@X|CGdephead=#7-&gt;2|CGdeprel=@X|GTtags=CLB
+
+# sent_id = MKS:2008:37:8:PopovA
+# text = Кундафнень вятезь вели.
+1	Кундафнень	кундамс	VERB	V	Case=Gen|Definite=Def|Number=Plur|PartForm=Past|VerbForm=Part	2	obj	_	CGdephead=#1-&gt;2|CGdeprel=@-FOBJ&gt;|CGdephead=#1-&gt;2|CGdeprel=@-FOBJ&gt;|GTtags=Der/f,PrfPrc,Pl,Gen,Def
+2	вятезь	вятемс	VERB	V	VerbForm=Conv	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@SPRED|CGdephead=#2-&gt;0|CGdeprel=@SPRED|GTtags=Der/Ozj,Ger
+3	вели	веле	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	CGdephead=#3-&gt;3|CGdeprel=@&lt;ADVL|CGdephead=#3-&gt;3|CGdeprel=@&lt;ADVL|GTtags=SP,Lat,Indef|SpaceAfter=No
+4	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#4-&gt;2|CGdeprel=@X|CGdephead=#4-&gt;2|CGdeprel=@X|GTtags=CLB
+
