@@ -54,6 +54,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 # Changelog
 
+* 2023-10-29
+  * Add CCC variant to train.conllu for minimal data split
 * 2023-04-29
   * Work with Valency, Diminutive
   * New lines from Moksha syntaxis (2008)
