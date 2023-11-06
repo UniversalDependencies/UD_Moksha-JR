@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Moksha-JR:
-commit a1cf9a290e2542abddd9482a861959c5af6b457e
-Merge: d594689 17e8382
+commit 0f21aa6a93d68982478a99274893ef1d89f225c1
+Merge: 4518cf3 d7adb8a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 4081 of 4081 words (nodes).
-Size: min(0, log((N/1000)**2)) = 2.81268411284734.
+Size: counted 4131 of 4131 words (nodes).
+Size: min(0, log((N/1000)**2)) = 2.83703901682926.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,26 +15,28 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 2823 out of 4081 total words have one or more features.
+Features: 2855 out of 4131 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL        412
-Udapi: found 412 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 4081 words.
+               TOTAL        423
+Udapi: found 423 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 4131 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang mdf --max-err=10 UD_Moksha-JR/mdf_jr-ud-test.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang mdf --max-err=10 UD_Moksha-JR/mdf_jr-ud-train.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.203588864924424) = 0.0522022730575445
+(weight=0.256410256410256) * (score{size}=0.205351731658862) = 0.052654290168939
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.713513513513514) = 0.0548856548856549
-(TOTAL score=0.300722920401721) * (availability=1) * (validity=1) = 0.300722920401721
+(TOTAL score=0.301174937513116) * (availability=1) * (validity=1) = 0.301174937513116
 STARS = 1.5
-UD_Moksha-JR	0.300722920401721	1.5
+UD_Moksha-JR	0.301174937513116	1.5
