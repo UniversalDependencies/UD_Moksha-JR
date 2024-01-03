@@ -4635,7 +4635,7 @@
 # text = Эрясть-ащесть атят-бабат кафонест.
 1	Эрясть-ащесть	ащемс	VERB	V	Mood=Imp|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=2	0	root	_	CGdephead=#1-&gt;0|CGdeprel=@FMV|GTtags=Imprt,ScPl2,OcPl3
 2	атят-бабат	атят-бабат	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	1	nsubj	_	CGdephead=#2-&gt;1|CGdeprel=@&lt;OBJ|GTtags=Pl,Nom,Indef
-3	кафонест	кафонест	PRON	Pron	Number[psor]=Plur|NumType=Sets|Person[psor]=3	1	advcl	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=AssocColl,PxPl3|SpaceAfter=No
+3	кафонест	кафонест	PRON	Pron	Number=Plur|NumType=Sets|Person=3|PronType=Tot	1	advcl	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=AssocColl,PxPl3|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	CGdephead=#4-&gt;1|CGdeprel=@X|GTtags=CLB
 
 # sent_id = MKS:2008:28:1:EDITORSb
