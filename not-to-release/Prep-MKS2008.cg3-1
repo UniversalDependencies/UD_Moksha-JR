@@ -1,12 +1,4 @@
 
-# sent_id = MKS:2008:38:1:DevinI
-# text = Пиледот вяри аф комотеват.
-1	Пиледот	пиле	NOUN	N	Case=Abl|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=2	4	obl	_	CGdephead=#1-&gt;4|CGdeprel=@ADVL&gt;|GTtags=SP,Abl,PxSg2
-2	вяри	вяри	ADV	Adv	Case=Lat	4	advmod	_	CGdephead=#2-&gt;4|CGdeprel=@ADVL&gt;|GTtags=Lat
-3	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	0	aux:neg	_	CGdephead=#3-&gt;0|CGdeprel=@IAUX|GTtags=Aux,Neg
-4	комотеват	комотевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	3	punct	_	CGdephead=#5-&gt;3|CGdeprel=@X|GTtags=CLB
-
 # sent_id = MKS:2008:38:2:DevinI
 # text = Симат, симат — иредят; эрят, эрят - сиредят; тарат, тарат — токават.
 1	Симат	Сима	PROPN	N	Case=Nom|Definite=Ind|Number=Plur	0	voc	_	CGdephead=#1-&gt;0|CGdeprel=@VOC|GTtags=Prop,Pl,Nom,Indef|SpaceAfter=No
