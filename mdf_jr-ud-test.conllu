@@ -3168,7 +3168,7 @@
 
 # sent_id = MKS:2008:18:11:KirdjashkinT
 # text = Михалу шинь карша путозь Марянь позялонц.
-1	Михалу	Михалу	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	nmod:appos	_	GTtags=Prop,Sg,Nom,Indef
+1	Михалу	Михалу	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	compound:nn	_	GTtags=Prop,Sg,Nom,Indef
 2	шинь	ши	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	3	nmod	_	GTtags=SP,Gen,Indef
 3	карша	карша	NOUN	N	Case=Nom|Definite=Ind|NounType=Relat|Number=Sing	4	obl:tmod	_	GTtags=Relator,Sg,Nom,Indef
 4	путозь	путомс	VERB	V	Derivation=Ozj|VerbForm=Conv	0	root	_	GTtags=Der/Ozj,Ger
@@ -3329,7 +3329,7 @@
 3	цехса	цех	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	GTtags=SP,Ine,Indef|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	8	punct	_	_
 5	а	а	CCONJ	CC	_	8	cc	_	_
-6	Яхим	Яхим	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nmod:appos	_	GTtags=Prop,Sg,Nom,Indef
+6	Яхим	Яхим	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	compound:nn	_	GTtags=Prop,Sg,Nom,Indef
 7	атянь	атя	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	8	obj	_	GTtags=SP,Gen,Indef
 8	путозь	путомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	2	conj	_	GTtags=Ind,Prt1,ScPl3,OcSg3
 9	комендантокс	комендант	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	GTtags=SP,Tra,Indef|SpaceAfter=No
