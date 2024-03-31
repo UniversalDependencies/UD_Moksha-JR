@@ -1349,8 +1349,8 @@
 
 # sent_id = MKS:2008:11:MishaninaV:2
 # text = Анна баба эрь тевс анок.
-1	Анна	Анна	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	5	nsubj:cop	_	GTtags=Prop,Sg,Nom,Indef
-2	баба	баба	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	1	flat	_	GTtags=Sg,Nom,Indef
+1	Анна	Анна	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	compound:nn	_	GTtags=Prop,Sg,Nom,Indef
+2	баба	баба	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	nsubj:cop	_	GTtags=Sg,Nom,Indef
 3	эрь	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing	4	det	_	GTtags=Sg,Nom,Indef
 4	тевс	тев	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	5	nmod	_	GTtags=SP,Ill,Indef
 5	анок	анок	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
@@ -1897,7 +1897,7 @@
 3	приметазе	приметамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3
 4	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg3,Nom|SpaceAfter=No
 5	:	:	PUNCT	PUNCT	_	8	punct	_	_
-6	Советский	Советский	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	7	nmod	_	GTtags=Prop,Sem/Mal-Sur,Sg,Nom,Indef
+6	Советский	Советский	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	7	compound:nn	_	GTtags=Prop,Sem/Mal-Sur,Sg,Nom,Indef
 7	ульцява	ульця	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	8	obl:lmod	_	GTtags=SP,Prl,Indef
 8	ласьки	ласькомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	GTtags=Ind,Prs,ScSg3
 9	ава	ава	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	8	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
@@ -4203,7 +4203,7 @@
 2	Ивановать	Иванова	PROPN	N	Animacy=Hum|Case=Gen|Definite=Def|Gender=Fem|NameType=Sur|Number=Sing	1	flat:name	_	CGdephead=#2-&gt;2|CGdeprel=@-FOBJ&gt;|GTtags=Prop,Sem/Fem-Sur,Sg,Gen,Def
 3	тага	тага	ADV	Adv	_	4	advmod	_	CGdephead=#3-&gt;4|CGdeprel=@ADVL&gt;|GTtags=
 4	кочказь	кочкамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=TV,Ind,Prt1,ScPl3,OcSg3
-5	Мордовия	Мордовия	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	6	nmod	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
+5	Мордовия	Мордовия	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	6	compound:nn	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
 6	Республикань	республика	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	8	nmod	_	CGdephead=#6-&gt;8|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
 7	Государственнай	государственнай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	8	amod	_	CGdephead=#7-&gt;8|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
 8	Собраниянь	собрания	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	9	nmod	_	CGdephead=#8-&gt;9|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
