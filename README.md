@@ -54,6 +54,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 # Changelog
 
+* 2024-04-29
+  * Add compound:nn
 * 2023-10-29
   * Add CCC variant to train.conllu for minimal data split
 * 2023-04-29
