@@ -1,25 +1,4 @@
 
-# sent_id = MKS:2008:38:2:DevinI
-# text = Симат, симат — иредят; эрят, эрят - сиредят; тарат, тарат — токават.
-1	Симат	Сима	PROPN	N	Case=Nom|Definite=Ind|Number=Plur	0	voc	_	CGdephead=#1-&gt;0|CGdeprel=@VOC|GTtags=Prop,Pl,Nom,Indef|SpaceAfter=No
-2	,	,	PUNCT	CLB	_	1	punct	_	CGdephead=#2-&gt;1|CGdeprel=@X|GTtags=CLB
-3	симат	симомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	CGdephead=#3-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2
-4	—	—	PUNCT	PUNCT	_	5	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=PUNCT
-5	иредят	иредемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	CGdephead=#5-&gt;3|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2|SpaceAfter=No
-6	;	;	PUNCT	CLB	_	1	punct	_	CGdephead=#6-&gt;1|CGdeprel=@X|GTtags=CLB
-7	эрят	эрь	DET	Det	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=2|Tense=Pres	5	dep	_	CGdephead=#7-&gt;5|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef,Clt/Cop,Prs,ScSg2|SpaceAfter=No
-8	,	,	PUNCT	CLB	_	1	punct	_	CGdephead=#8-&gt;1|CGdeprel=@X|GTtags=CLB
-9	эрят	эрямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	CGdephead=#9-&gt;5|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2
-10	-	-	PUNCT	PUNCT	_	11	punct	_	CGdephead=#10-&gt;11|CGdeprel=@+FMAINV|GTtags=PUNCT
-11	сиредят	сиредемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	CGdephead=#11-&gt;5|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2|SpaceAfter=No
-12	;	;	PUNCT	CLB	_	1	punct	_	CGdephead=#12-&gt;1|CGdeprel=@X|GTtags=CLB
-13	тарат	тар	NOUN	N	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=2|Tense=Pres	11	dep	_	CGdephead=#13-&gt;11|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef,Clt/Cop,Prs,ScSg2|SpaceAfter=No
-14	,	,	PUNCT	CLB	_	13	punct	_	CGdephead=#14-&gt;13|CGdeprel=@X|GTtags=CLB
-15	тарат	тара	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	17	obj	_	CGdephead=#15-&gt;17|CGdeprel=@OBJ&gt;|GTtags=Pl,Nom,Indef
-16	—	—	PUNCT	PUNCT	_	17	punct	_	CGdephead=#16-&gt;17|CGdeprel=@X|GTtags=PUNCT
-17	токават	токамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Voice=Pass	0	root	_	CGdephead=#17-&gt;5|CGdeprel=@FMV|GTtags=Der/OvOms,V,Ind,Prs,ScSg2|SpaceAfter=No
-18	.	.	PUNCT	CLB	_	1	punct	_	CGdephead=#18-&gt;1|CGdeprel=@X|GTtags=CLB
-
 # sent_id = MKS:2008:38:3:MoiseevM
 # text = Эряфть аф лоткафтсак, пингть аф кирдьсак.
 1	Эряфть	эрямс	VERB	V	Case=Gen|Definite=Def|Number=Sing|Tense=Prt|VerbForm=Part	2	dep	_	CGdephead=#1-&gt;2|CGdeprel=@IMV|GTtags=Der/f,PrfPrc,Sg,Gen,Def
