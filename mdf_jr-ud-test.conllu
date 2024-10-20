@@ -753,8 +753,8 @@
 
 # sent_id = MKS:2008:8:RadinV:1
 # text = Аф лама минутада меле шофёрсь и санитарсь састь кафта солдат мархта, синь кандсть кафонц носилкат.
-1	Аф	аф	AUX	Pcle	Polarity=Neg	2	aux:neg	_	GTtags=Neg
-2	лама	лама	DET	Det	Case=Nom|Definite=Ind|Number=Sing	3	det	_	GTtags=Sg,Nom,Indef
+1	Аф	аф	AUX	Pcle	Polarity=Neg	3	det	_	GTtags=Neg
+2	лама	лама	DET	Det	Case=Nom|Definite=Ind|Number=Sing	1	fixed	_	GTtags=Sg,Nom,Indef
 3	минутада	минута	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	4	obl:cmp	_	GTtags=SP,Abl,Indef
 4	меле	меле	ADV	Adv	AdvType=Tim	8	advmod:tmod	_	_
 5	шофёрсь	шофёр	NOUN	N	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	GTtags=Sg,Nom,Def
