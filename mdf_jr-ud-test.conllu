@@ -3709,7 +3709,7 @@
 # text_en = How beautiful are their words!
 1	Конашкава	конашкава	ADV	Adv	_	2	advmod	_	_
 2	мазыхть	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	0	root	_	GTtags=Pl,Nom,Indef
-3	синь	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	det	_	GTtags=Pers,Pl3,Gen
+3	синь	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	nmod:poss	_	GTtags=Pers,Pl3,Gen
 4	валсна	вал	NOUN	N	Case=Nom|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	2	nsubj:cop	_	GTtags=SP,Nom,PxPl3|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -3766,7 +3766,7 @@
 12	юмандяряй	юмамс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	20	advcl	_	GTtags=Cond,ScSg3|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	эста	эста	ADV	Adv	AdvType=Tim	20	advmod:tmod	_	GTtags=Sem/Time
-15	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	det	_	GTtags=Pers,Sg3,Gen
+15	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	nmod:poss	_	GTtags=Pers,Sg3,Gen
 16	вастозонза	васта	NOUN	N	Case=Ill|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=3	20	obl	_	GTtags=SP,Ill,PxSg3
 17	од	од	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	18	amod	_	GTtags=Sg,Nom,Indef
 18	квитанция	квитанция	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	20	obj	_	GTtags=Sg,Nom,Indef
@@ -4137,7 +4137,7 @@
 # gloss_en = our Russian_woman:POSS.1PL.PL young:COM-old:COM see-COND-S3PL photographer.NOM  run:CVB-run:IND.PRS.3PL
 # source = Бебан, Тундань нармотть 1995: 145; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Our Russian women, young and old, if they see a photographer, they run fast.
-1	Минь	мон	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	det	_	GTtags=Pers,Pl1,Gen
+1	Минь	мон	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	GTtags=Pers,Pl1,Gen
 2	рузаваньке	рузава	NOUN	N	Case=Nom|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	11	nsubj	_	GTtags=SP,Nom,PxPl1|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	4	punct	_	_
 4	однек-сиренек	однек-сиренек	ADV	Adv	_	2	appos	_	SpaceAfter=No
@@ -4489,7 +4489,7 @@
 # text = Кода мяльце тонь аф моли?
 1	Кода	кода	ADV	Adv	_	5	advmod	_	CGdephead=#1-&gt;5|CGdeprel=@ADVL&gt;|GTtags=
 2	мяльце	мяль	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	nsubj	_	CGdephead=#2-&gt;5|CGdeprel=@SUBJ&gt;|GTtags=Sg,Nom,PxSg2
-3	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	det	_	CGdephead=#3-&gt;4|CGdeprel=@-FOBJ&gt;|GTtags=Pers,Sg2,Gen
+3	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	CGdephead=#3-&gt;4|CGdeprel=@-FOBJ&gt;|GTtags=Pers,Sg2,Gen
 4	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	5	aux	_	CGdephead=#4-&gt;4|CGdeprel=@-FAUXV&gt;|GTtags=Aux,Neg
 5	моли	молемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#5-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 6	?	?	PUNCT	CLB	_	5	punct	_	_
@@ -4774,7 +4774,7 @@
 # sent_id = MKS:2008:29:1:EDITORSb
 # text = Кали минь седиеньке кевонзасть ся авардематненди, лажнаматненди, юмафксненди?
 1	Кали	кали	ADV	Adv	_	4	advmod:tmod	_	CGdephead=#1-&gt;4|CGdeprel=@ADVL&gt;|GTtags=
-2	минь	мон	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	det	_	CGdephead=#2-&gt;6|CGdeprel=@&gt;N|GTtags=Pers,Pl1,Gen
+2	минь	мон	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod:poss	_	CGdephead=#2-&gt;6|CGdeprel=@&gt;N|GTtags=Pers,Pl1,Gen
 3	седиеньке	седиеньке	NOUN	_	_	4	nsubj	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=?
 4	кевонзасть	кевонзамс	VERB	V	Mood=Imp|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=2	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=Imprt,ScPl2,OcPl3
 5	ся	ся	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	6	det	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=Dem,Sg,Nom,Indef
@@ -4875,7 +4875,7 @@
 # sent_id = MKS:2008:30:2:EDITORSc
 # text = Кали тонь ваксстот туват?
 1	Кали	кали	ADV	Adv	_	4	advmod:tmod	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=
-2	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	det	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=Pers,Sg2,Gen
+2	тонь	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=Pers,Sg2,Gen
 3	ваксстот	вакс	NOUN	N	Case=Ela|Number=Plur,Sing|Number[psor]=Sing|Person[psor]=2	4	obl:lmod	_	CGdephead=#3-&gt;3|CGdeprel=@ADVL&gt;|GTtags=SP,Ela,PxSg2
 4	туват	тувомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef,Clt/Cop,Prs,ScSg2|SpaceAfter=No
 5	?	?	PUNCT	CLB	_	4	punct	_	CGdephead=#5-&gt;4|CGdeprel=@X|GTtags=CLB
@@ -5610,7 +5610,7 @@
 4	—	—	PUNCT	PUNCT	_	5	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=PUNCT
 5	иредят	иредемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	1	conj	_	CGdephead=#5-&gt;3|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2|SpaceAfter=No
 6	;	;	PUNCT	CLB	_	7	punct	_	CGdephead=#6-&gt;1|CGdeprel=@X|GTtags=CLB
-7	эрят	эрямс	VERB	Det	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	1	conj	_	CGdephead=#7-&gt;5|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef,Clt/Cop,Prs,ScSg2|SpaceAfter=No
+7	эрят	эрямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	1	conj	_	CGdephead=#7-&gt;5|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef,Clt/Cop,Prs,ScSg2|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	CGdephead=#8-&gt;1|CGdeprel=@X|GTtags=CLB
 9	эрят	эрямс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	7	conj	_	CGdephead=#9-&gt;5|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg2
 10	-	-	PUNCT	PUNCT	_	11	punct	_	CGdephead=#10-&gt;11|CGdeprel=@+FMAINV|GTtags=PUNCT
