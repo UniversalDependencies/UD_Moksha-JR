@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Moksha-JR:
-commit ad90550759a8f7c5b92190af7c53365691749646
-Merge: 493c331 0eae1c5
+commit 1c6d422d7729b0b3df5c682f617b93f91293cb06
+Merge: 762576d 21195e8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 4353 of 4353 words (nodes).
 Size: min(0, log((N/1000)**2)) = 2.94173052514032.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL        476
-Udapi: found 476 bugs.
+               TOTAL        477
+Udapi: found 477 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 4353 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang mdf --max-err=10 UD_Moksha-JR/mdf_jr-ud-test.conllu
