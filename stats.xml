@@ -76,7 +76,6 @@
     <feat name="Derivation" value="Cond" upos="AUX,VERB">24</feat><!-- Касондярян, ба, матодовондяряй, Видендярялеть, Путондяряльхть, Сандяряль, Улендяряль, кадондярясак, кизефтендярясамазь, кирдендярясы -->
     <feat name="Derivation" value="F" upos="VERB">12</feat><!-- анеляф, ацафоль, максф, маскировандафт, путфт, ранендаф, содафоль, таргозьфтольхть, тиф, шавф -->
     <feat name="Derivation" value="GenAttr" upos="ADJ">2</feat><!-- маластонь, озадонь -->
-    <feat name="Derivation" value="NomAg" upos="VERB">6</feat><!-- Лядыхне, аноклайхть, кельгихть, мярьгихть, сялондыхнень, эряскодыхть -->
     <feat name="Derivation" value="OvOms" upos="VERB">5</feat><!-- азовомшка, вачкодеви, марявсь, шавовсь, шятяват -->
     <feat name="Derivation" value="Ozj" upos="VERB">8</feat><!-- ётазь, Нолдазь, дивандазь, кенордазь, палозь, путозь, учсезь -->
     <feat name="Derivation" value="Poss" upos="NOUN">5</feat><!-- вальмялангоннесь, зрняннеть, июленнекс, кизоннекс, сияннеть -->
@@ -96,6 +95,7 @@
     <feat name="NameType" value="Giv" upos="PROPN">26</feat><!-- Петя, Марья, Алда-баба, Анна, Архипонь, Ванянди, Варвара, Василь, Васясь, Володя -->
     <feat name="NameType" value="Pat" upos="PROPN">7</feat><!-- Петровна, Васильевич, Васильевна, Михайлович, Светлана, Степанович -->
     <feat name="NameType" value="Sur" upos="NOUN,PROPN">29</feat><!-- Браун, Вельдинонь, Вельматов, Веряскинонди, Голенков, Девинонь, Девятаев, Злобинонь, Ивановать, Канайкинонь -->
+    <feat name="Nomzr" value="Ag" upos="VERB">6</feat><!-- Лядыхне, аноклайхть, кельгихть, мярьгихть, сялондыхнень, эряскодыхть -->
     <feat name="NounType" value="Relat" upos="ADP,NOUN">45</feat><!-- лангс, ланга, каршес, лангса, кучкас, лангозонза, шири, ёткста, Лангсонза, алга -->
     <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,NUM,PRON,VERB">243</feat><!-- синь, минь, ломаттне, ня, стирнятне, валхнень, ломатть, гулянятнень, досканят, жаворонкатне -->
     <feat name="Number" value="Plur,Sing" upos="ADJ,ADV,DET,NOUN,NUM,PRON,PROPN,VERB">493</feat><!-- лангс, паксянь, сембонь, каршес, сёксень, вирьса, кудса, ламос, лангса, ульцяв -->
@@ -175,10 +175,10 @@
     <dep name="advmod:tmod">112</dep>
     <dep name="amod">152</dep>
     <dep name="appos">27</dep>
-    <dep name="aux">6</dep>
+    <dep name="aux">86</dep>
     <dep name="aux:cnd">4</dep>
     <dep name="aux:nec">10</dep>
-    <dep name="aux:neg">114</dep>
+    <dep name="aux:neg">33</dep>
     <dep name="aux:opt">3</dep>
     <dep name="aux:q">1</dep>
     <dep name="case">87</dep>
@@ -192,11 +192,11 @@
     <dep name="csubj">6</dep>
     <dep name="csubj:cop">2</dep>
     <dep name="dep">5</dep>
-    <dep name="det">66</dep>
+    <dep name="det">60</dep>
     <dep name="discourse">15</dep>
     <dep name="dislocated">2</dep>
     <dep name="expl">1</dep>
-    <dep name="fixed">9</dep>
+    <dep name="fixed">10</dep>
     <dep name="flat">3</dep>
     <dep name="flat:name">18</dep>
     <dep name="list">3</dep>
@@ -205,7 +205,7 @@
     <dep name="nmod:bahuv">2</dep>
     <dep name="nmod:gobj">2</dep>
     <dep name="nmod:lmod">3</dep>
-    <dep name="nmod:poss">36</dep>
+    <dep name="nmod:poss">42</dep>
     <dep name="nmod:tmod">1</dep>
     <dep name="nsubj">350</dep>
     <dep name="nsubj:cop">61</dep>
