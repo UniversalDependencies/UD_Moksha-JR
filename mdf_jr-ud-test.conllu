@@ -613,8 +613,8 @@
 12	сельмованфоц	сельмованф	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	GTtags=Sg,Nom,PxSg3
 13	курькстсь	курькстомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	conj	_	GTtags=IV,Ind,Prt1,ScSg3
 14	Колянь	Коля	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	15	nmod	_	GTtags=Prop,SP,Gen,Indef
-15	ронгонц	ронга	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl:lmod	_	GTtags=Sg,Gen,PxSg3
-16	кувалмова	кувалма	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	15	case	_	GTtags=SP,Prl,Indef|SpaceAfter=No
+15	ронгонц	ронга	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	obl:lmod	_	GTtags=Sg,Gen,PxSg3
+16	кувалмова	кувалма	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	13	obl:lmod	_	GTtags=SP,Prl,Indef|SpaceAfter=No
 17	.	.	PUNCT	CLB	_	2	punct	_	_
 
 # sent_id = MKS:2008:8:MishaninaV:1
@@ -753,7 +753,7 @@
 
 # sent_id = MKS:2008:8:RadinV:1
 # text = Аф лама минутада меле шофёрсь и санитарсь састь кафта солдат мархта, синь кандсть кафонц носилкат.
-1	Аф	аф	AUX	Pcle	Polarity=Neg	3	det	_	GTtags=Neg
+1	Аф	аф	AUX	Pcle	ExtPos=DET|Polarity=Neg	3	det	_	GTtags=Neg
 2	лама	лама	DET	Det	Case=Nom|Definite=Ind|Number=Sing	1	fixed	_	GTtags=Sg,Nom,Indef
 3	минутада	минута	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	4	obl:cmp	_	GTtags=SP,Abl,Indef
 4	меле	меле	ADV	Adv	AdvType=Tim	8	advmod:tmod	_	_
@@ -2304,7 +2304,7 @@
 2	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	3	aux:neg	_	GTtags=Aux,Neg
 3	стака	стака	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	1	nsubj	_	GTtags=Sg,Nom,Indef
 4	штормань	шторма	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	obl:tmod	_	GTtags=SP,Gen,Indef
-5	пингть	пинге	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	case	_	GTtags=Sg,Gen,Def
+5	пингть	пингть	ADP	Po	_	4	case	_	GTtags=Sg,Gen,Def
 6	уемс	уемс	VERB	V	VerbForm=Inf	1	xcomp	_	GTtags=Inf
 7	морява	моря	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=SP,Prl,Indef|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	1	punct	_	_
@@ -3630,7 +3630,7 @@
 # gloss_en = what	Q(yes/no)	say:IND.PRS.2SG	close:PASS:CONJ.3SG	church:POSS.1PL.SG rise-COND.CONJ.3SG	whole	village:DEF.NOM	antichrist:PL.DEF:GEN	against:ILL
 # source = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = What do you say – why would be our church closed, if the whole village had risen against those antichrists?
-1	Што	што	SCONJ	CS	_	6	advmod	_	_
+1	Што	што	SCONJ	CS	ExtPos=ADV	6	advmod	_	_
 2	ли	ли	AUX	Pcle	_	1	fixed	_	GTtags=Pcle,Qst|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	мярьгат	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	GTtags=Ind,Prs,ScSg2|SpaceAfter=No
@@ -4216,7 +4216,7 @@
 2	колма	колма	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	3	nummod	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=Card,Sg,Nom,Indef
 3	стирнятне	стирня	NOUN	N	Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	CGdephead=#3-&gt;4|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,Def
 4	кельгсазь	кельгомс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=TV,Ind,Prs,ScPl3,OcPl3
-5	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	7	cc:preconj	_	CGdephead=#5-&gt;5|CGdeprel=@-F&lt;AUXV|GTtags=Aux,Neg
+5	аф	аф	AUX	V	ExtPos=CCONJ|Polarity=Neg|VerbType=Aux	7	cc:preconj	_	CGdephead=#5-&gt;5|CGdeprel=@-F&lt;AUXV|GTtags=Aux,Neg
 6	аньцек	аньцек	ADV	Adv	_	5	fixed	_	CGdephead=#6-&gt;5|CGdeprel=@&lt;ADVL|GTtags=
 7	покодемаснон	покодемс	VERB	V	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3|VerbForm=Vnoun	4	obj	_	CGdephead=#7-&gt;5|CGdeprel=@IMV|GTtags=IV,NomAct,SP,Gen,PxPl3|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	CGdephead=#8-&gt;9|CGdeprel=@CLB|GTtags=CLB
@@ -4397,7 +4397,7 @@
 1	Серай	серай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	2	amod	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
 2	сукнань	сукна	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	3	nmod	_	CGdephead=#2-&gt;3|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
 3	кепканц	кепка	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl:lmod	_	CGdephead=#3-&gt;3|CGdeprel=@&gt;P|GTtags=Sg,Gen,PxSg3
-4	алда	ал	NOUN	N	Case=Abl|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	case	_	CGdephead=#4-&gt;7|CGdeprel=@ADVL&gt;|GTtags=Relator,SP,Abl,Indef
+4	алда	алда	ADP	Po	Case=Abl	3	case	_	CGdephead=#4-&gt;7|CGdeprel=@ADVL&gt;|GTtags=Relator,SP,Abl,Indef
 5	сельмонзон	сельме	NOUN	N	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	6	nmod	_	CGdephead=#5-&gt;5|CGdeprel=@&gt;P|GTtags=Pl,Gen,PxSg3
 6	лангс	ланга	NOUN	N	Case=Ill|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	obl:lmod	_	CGdephead=#6-&gt;7|CGdeprel=@ADVL&gt;|GTtags=Relator,SP,Ill,Indef
 7	прасть	прамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#7-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScPl3
@@ -4928,7 +4928,7 @@
 14	стирьхне-цёратне	цёра	NOUN	N	Case=Nom|Definite=Def|Number=Plur	18	nsubj	_	CGdephead=#14-&gt;18|CGdeprel=@SUBJ&gt;|GTtags=Pl,Nom,Def
 15	капакшу	капакшу	ADJ	_	_	16	amod	_	CGdephead=#15-&gt;0|CGdeprel=@X|GTtags=?
 16	келуфнень	келу	NOUN	N	Case=Gen|Definite=Def|Number=Plur	18	obl	_	CGdephead=#16-&gt;16|CGdeprel=@&gt;P|GTtags=Pl,Pl,Gen,Def
-17	алга	ал	NOUN	N	Case=Prl|Definite=Ind|NounType=Relat|Number=Plur,Sing	16	case	_	CGdephead=#17-&gt;18|CGdeprel=@ADVL&gt;|GTtags=Relator,SP,Prl,Indef
+17	алга	алга	ADP	Po	Case=Prl	16	case	_	CGdephead=#17-&gt;18|CGdeprel=@ADVL&gt;|GTtags=Relator,SP,Prl,Indef
 18	морсельхть	морсемс	VERB	V	Mood=Sub|Number[subj]=Plur|Person[subj]=3	9	conj	_	CGdephead=#18-&gt;9|CGdeprel=@FMV|GTtags=Conj,ScPl3
 19	каши	каши	ADJ	_	_	20	amod	_	CGdephead=#19-&gt;0|CGdeprel=@X|GTtags=?
 20	морот	мора	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	18	obj	_	CGdephead=#20-&gt;18|CGdeprel=@&lt;SUBJ|GTtags=Pl,Nom,Indef
@@ -5247,7 +5247,7 @@
 6	:	:	PUNCT	CLB	_	7	punct	_	CGdephead=#7-&gt;3|CGdeprel=@X|GTtags=CLB
 7	ётамс	ётамс	VERB	V	VerbForm=Inf	4	conj	_	CGdephead=#8-&gt;4|CGdeprel=@IMV|GTtags=Inf
 8	Мокшеть	мокша	PROPN	A	Case=Gen|Definite=Def|Number=Sing	7	obl	_	CGdephead=#9-&gt;0|CGdeprel=@X|GTtags=Sg,Gen,Def
-9	туркс	тур	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	8	case	_	CGdephead=#10-&gt;10|CGdeprel=@PRED-ADVL|GTtags=SP,Tra,Indef
+9	туркс	туркс	ADP	Po	_	8	case	_	CGdephead=#10-&gt;10|CGdeprel=@PRED-ADVL|GTtags=SP,Tra,Indef
 10	ведьгя	ведь	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	7	obl	_	CGdephead=#11-&gt;0|CGdeprel=@X|GTtags=SP,Prl,Indef
 11	и	и	CCONJ	CC	_	12	cc	_	CGdephead=#12-&gt;8|CGdeprel=@CNP
 12	тумс	тумс	VERB	V	VerbForm=Inf	7	conj	_	CGdephead=#13-&gt;8|CGdeprel=@IMV|GTtags=Inf
