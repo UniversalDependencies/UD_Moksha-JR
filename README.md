@@ -54,6 +54,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 # Changelog
 
+* 2025-04-30
+  * Add ExtPos feature
 * 2024-11-01
   * Correct DET children
   * Add Nomzr Ag and Derivation=NomAg
