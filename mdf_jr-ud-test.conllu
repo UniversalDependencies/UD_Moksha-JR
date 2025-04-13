@@ -1051,7 +1051,7 @@
 # text = Фёдор Михайлович туркс сельмот варжакстсь цёранц лангс.
 1	Фёдор	Фёдор	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	5	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom,Indef
 2	Михайлович	Михайлович	PROPN	N	Case=Nom|Definite=Ind|NameType=Pat|Number=Sing	1	flat:name	_	GTtags=Prop,Sem/Patr-Mal,Sg,Nom,Indef
-3	туркс	туркс	ADV	Adv	_	5	advmod	_	_
+3	туркс	туркс	ADV	Adv	ExtPos=ADV	5	advmod	_	_
 4	сельмот	сельме	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	3	fixed	_	GTtags=Pl,Nom,Indef
 5	варжакстсь	варжакстомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 6	цёранц	цёра	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl:lmod	_	GTtags=Sg,Gen,PxSg3
@@ -3759,7 +3759,7 @@
 5	ули	улемс	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	7	cop	_	GTtags=Ind,Prs,ScSg3
 6	кода	кода	SCONJ	CS	_	7	mark	_	_
 7	максомс	максомс	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
-8	кинди	кие	PRON	Pron	Case=Dat|Number=Plur,Sing|PronType=Int	7	obl	_	GTtags=Interr,SP,Dat
+8	кинди	кие	PRON	Pron	Case=Dat|ExtPos=PRON|Number=Plur,Sing|PronType=Int	7	obl	_	GTtags=Interr,SP,Dat
 9	повсь	повомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	8	fixed	_	GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	но	но	CCONJ	CC	_	12	cc	_	_
@@ -3801,7 +3801,7 @@
 3	кой	кой	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	обедамста-ужнамста	обедамс-ужнамс	VERB	V	Case=Ela|VerbForm=Conv	8	advcl:tcl	_	GTtags=Ger,Ela
-6	аньцек	аньцек	ADV	Adv	_	8	advmod	_	_
+6	аньцек	аньцек	ADV	Adv	ExtPos=ADV	8	advmod	_	_
 7	и	и	CCONJ	CC	_	6	fixed	_	_
 8	кулят	кулемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	3	conj	_	GTtags=Ind,Prs,ScSg2
 9	сяка	сяка	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing	10	det	_	GTtags=Sg,Nom,Indef
@@ -4006,7 +4006,7 @@
 6	смузти	смузь	NOUN	N	Case=Dat|Definite=Def|Number=Sing	7	obl	_	GTtags=Sg,Dat,Def
 7	тонафтомс	тонафтомс	VERB	V	VerbForm=Inf	4	xcomp	_	GTtags=Inf|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	11	punct	_	_
-9	а	а	CCONJ	CC	_	11	cc	_	_
+9	а	а	CCONJ	CC	ExtPos=CCONJ	11	cc	_	_
 10	то	то	SCONJ	CS	_	9	fixed	_	_
 11	лядондяряй	лядомс	VERB	V	Derivation=Cond|Mood=Ind|Number[subj]=Sing|Person[subj]=3	19	advcl	_	GTtags=Cond,ScSg3
 12	тядяфтома-аляфтома	тядяфтома-аляфтома	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	11	xcomp	_	GTtags=Sg,Nom,Indef
@@ -4220,7 +4220,7 @@
 6	аньцек	аньцек	ADV	Adv	_	5	fixed	_	CGdephead=#6-&gt;5|CGdeprel=@&lt;ADVL|GTtags=
 7	покодемаснон	покодемс	VERB	V	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3|VerbForm=Vnoun	4	obj	_	CGdephead=#7-&gt;5|CGdeprel=@IMV|GTtags=IV,NomAct,SP,Gen,PxPl3|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	11	punct	_	CGdephead=#8-&gt;9|CGdeprel=@CLB|GTtags=CLB
-9	но	но	CCONJ	CC	_	11	cc	_	CGdephead=#9-&gt;9|CGdeprel=@CC|GTtags=
+9	но	но	CCONJ	CC	ExtPos=CCONJ	11	cc	_	CGdephead=#9-&gt;9|CGdeprel=@CC|GTtags=
 10	и	и	CCONJ	CC	_	9	fixed	_	CGdephead=#10-&gt;10|CGdeprel=@CC|GTtags=
 11	морамаснон	морамс	VERB	V	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3|VerbForm=Vnoun	7	conj	_	CGdephead=#11-&gt;7|CGdeprel=@IMV|GTtags=IV,NomAct,SP,Gen,PxPl3|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -4481,7 +4481,7 @@
 3	атяй	атя	NOUN	N	_	5	vocative	_	CGdephead=#3-&gt;3|CGdeprel=@ADDR|GTtags=Voc|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	CGdephead=#4-&gt;3|CGdeprel=@CLB|GTtags=CLB
 5	ськамот	ськамот	PRON	Pron	Number[psor]=Sing|Person[psor]=2	0	root	_	CGdephead=#5-&gt;0|CGdeprel=@X|GTtags=Exclusive,PerifMod,PxSg2
-6	што	што	SCONJ	CS	_	5	parataxis	_	CGdephead=#6-&gt;6|CGdeprel=@SC|GTtags=
+6	што	што	SCONJ	CS	ExtPos=ADV	5	parataxis	_	CGdephead=#6-&gt;6|CGdeprel=@SC|GTtags=
 7	ли	ли	AUX	_	_	6	fixed	_	CGdephead=#7-&gt;7|CGdeprel=@&lt;QST|GTtags=Use/SpellNoSugg,Pcle,Qst|SpaceAfter=No
 8	?	?	PUNCT	CLB	_	5	punct	_	_
 

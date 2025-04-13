@@ -229,7 +229,7 @@
 3	ашезь	аш	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	сатов	сатовомс	VERB	_	Connegative=Yes	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
-6	сяс	сяс	ADV	_	_	8	mark	_	_
+6	сяс	сяс	ADV	_	ExtPos=SCONJ	8	mark	_	_
 7	мес	мес	ADV	_	_	6	fixed	_	_
 8	ласьксь	ласькомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	4	advcl	_	GTtags=Ind,Prt1,ScSg3
 9	пяк	пяк	ADV	_	AdvType=Deg	10	advmod:deg	_	GTtags=AdA
