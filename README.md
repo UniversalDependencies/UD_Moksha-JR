@@ -56,6 +56,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 * 2025-04-30
   * Add ExtPos feature
+  * Align :tmod and :lmod in advmod and obl to practice with :unmarked for alignment with issue 1028
+  * remove :tcl
 * 2024-11-01
   * Correct DET children
   * Add Nomzr Ag and Derivation=NomAg
