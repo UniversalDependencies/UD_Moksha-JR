@@ -4034,13 +4034,13 @@
 # source = Gor’kij 01.01.1955: Lomаnenʹ širevа; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = If he had stopped speaking, I would have started, …
 1	Кда	кда	SCONJ	CS	_	4	mark	_	_
-2	ба	ба	AUX	Pcle	Derivation=Cond|Mood=Ind|VerbType=Aux	4	aux:cnd	_	GTtags=Aux,Cond
+2	ба	ба	AUX	Pcle	Mood=Cnd|VerbType=Aux	4	aux	_	GTtags=Aux,Cond
 3	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
 4	лоткаль	лоткамс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3	7	advcl	_	GTtags=Conj,ScSg3
 5	корхтамда	корхтамс	VERB	V	Case=Abl|VerbForm=Inf	4	obl	_	GTtags=Inf,Abl|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	4	punct	_	_
 7	ушедолень	ушедомс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=1	0	root	_	GTtags=Conj,ScSg1
-8	ба	ба	AUX	Pcle	Derivation=Cond|Mood=Ind|VerbType=Aux	7	aux:cnd	_	GTtags=Aux,Cond
+8	ба	ба	AUX	Pcle	Mood=Cnd|VerbType=Aux	7	aux	_	GTtags=Aux,Cond
 9	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
 10	...	...	PUNCT	PUNCT	_	7	punct	_	_
 
@@ -4520,7 +4520,7 @@
 # sent_id = MKS:2008:24:3:EDITORSa
 # text = Пиземня ба!
 1	Пиземня	пизем	NOUN	N	Case=Tem|Number=Plur,Sing	0	root	_	CGdephead=#1-&gt;1|CGdeprel=@OBJ|GTtags=Pl,Nom,PxSg1,Err/Orth-lowered-final-e-2-ja
-2	ба	ба	AUX	Pcle	Mood=Sub|VerbType=Aux	1	aux:cnd	_	CGdephead=#2-&gt;2|CGdeprel=@+FMAINV|GTtags=Aux,Conj|SpaceAfter=No
+2	ба	ба	AUX	Pcle	Mood=Cnd|VerbType=Aux	1	aux	_	CGdephead=#2-&gt;2|CGdeprel=@+FMAINV|GTtags=Aux,Conj|SpaceAfter=No
 3	!	!	PUNCT	CLB	_	1	punct	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=CLB
 
 # sent_id = MKS:2008:24:3:EDITORSb
@@ -4528,7 +4528,7 @@
 1	Эх	эх	INTJ	Interj	_	3	discourse	_	CGdephead=#1-&gt;0|CGdeprel=@INTERJ|GTtags=|SpaceAfter=No
 2	,	,	PUNCT	CLB	_	1	punct	_	CGdephead=#2-&gt;1|CGdeprel=@X|GTtags=CLB
 3	тяни	тяни	ADV	Adv	_	0	root	_	CGdephead=#3-&gt;3|CGdeprel=@ADVL&gt;|GTtags=
-4	ба	ба	AUX	Pcle	Mood=Sub|VerbType=Aux	3	aux:cnd	_	CGdephead=#4-&gt;4|CGdeprel=@+FMAINV|GTtags=Aux,Conj
+4	ба	ба	AUX	Pcle	Mood=Cnd|VerbType=Aux	3	aux	_	CGdephead=#4-&gt;4|CGdeprel=@+FMAINV|GTtags=Aux,Conj
 5	пси	пси	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	6	amod	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
 6	баняня	баня	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	CGdephead=#6-&gt;6|CGdeprel=@OBJ|GTtags=Pl,Nom,PxSg1,Err/Orth-lowered-final-e-2-ja
 7	и	и	CCONJ	CC	_	9	cc	_	CGdephead=#7-&gt;6|CGdeprel=@CNP|GTtags=

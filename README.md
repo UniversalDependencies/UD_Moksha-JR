@@ -59,6 +59,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
   * Align :tmod and :lmod in advmod and obl to practice with :unmarked for alignment with issue 1028
   * remove :tcl, :lmod, :lto, :lfrom
   * Add PART PartType=Int
+  * change aux:cnd presentation to Mood=Cnd
 * 2024-11-01
   * Correct DET children
   * Add Nomzr Ag and Derivation=NomAg
