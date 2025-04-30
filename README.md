@@ -57,7 +57,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 * 2025-04-30
   * Add ExtPos feature
   * Align :tmod and :lmod in advmod and obl to practice with :unmarked for alignment with issue 1028
-  * remove :tcl, :lmod, :lto, :lfrom, :mmod, :foc, :deg, :cau, :inst, :freq
+  * remove :tcl, :lmod, :lto, :lfrom, :mmod, :foc, :deg, :cau, :inst, :freq, :eval
   * Add PART PartType=Int
   * simplify deprels: aux:cnd > aux with Mood=Cnd, aux:nec > aux 
 * 2024-11-01
