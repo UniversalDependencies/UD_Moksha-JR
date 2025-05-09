@@ -140,7 +140,7 @@
 # text_fi = Heillä ei ole ideaa siitä kuka sen kirjoitti.
 # text_kpv = Найӧ дзик оз тӧдны, коді тайӧс гижис.
 1	Синь	сон	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod	_	GTtags=Pers,Pl3,Gen
-2	мялезостка	мяль	NOUN	N	Case=Ill|Clitic=AddGA|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	4	obl:lmod	_	GTtags=SP,Ill,PxPl3,Clt/Ka
+2	мялезостка	мяль	NOUN	N	Case=Ill|Clitic=AddGA|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	4	obl	_	GTtags=SP,Ill,PxPl3,Clt/Ka
 3	ашезь	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	кунда	кундамс	VERB	V	Connegative=Yes	0	root	_	GTtags=TV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
@@ -154,7 +154,7 @@
 # text_sms = Mâiʹd ǩiõččak?
 # text_fi = Mitä katsot?
 # text_kpv = Мый вылӧ тэ видзӧдан?
-1	Мезень	мезе	PRON	Pron	Case=Gen|Number=Plur,Sing|PronType=Int	3	obl:lmod	_	GTtags=Interr|SP,Gen
+1	Мезень	мезе	PRON	Pron	Case=Gen|Number=Plur,Sing|PronType=Int	3	obl	_	GTtags=Interr|SP,Gen
 2	лангс	лангс	ADP	Po	Case=Ill	1	case	_	GTtags=Ill
 3	ванат	ваномс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg2|SpaceAfter=No
 4	?	?	PUNCT	CLB	_	3	punct	_	_
@@ -164,10 +164,10 @@
 # text_sms = Mâiʹd joordak što kuäʹss piâzzčiǩ?
 # text_fi = Milloin luulet voivasi tulla?
 # text_kpv = Тэ кыдзи мӧвпалан, кор верман волыны?
-1	Кода	кода	ADV	_	_	2	advmod:mmod	_	_
+1	Кода	кода	ADV	Adv	AdvType=Man	2	advmod	_	_
 2	арьсят	арьсемс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg2|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	6	punct	_	_
-4	мзярда	мзярда	ADV	_	AdvType=Tim	6	advmod:tmod	_	_
+4	мзярда	мзярда	ADV	_	AdvType=Tim	6	advmod	_	_
 5	тон	тон	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg2,Nom
 6	сават	савомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	2	parataxis	_	GTtags=IV,Ind,Prs,ScSg2|SpaceAfter=No
 7	?	?	PUNCT	CLB	_	2	punct	_	_
@@ -183,7 +183,7 @@
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	а	а	CCONJ	CC	_	6	cc	_	_
 6	брадоц	брад	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	conj	_	GTtags=Sg,Nom,PxSg3
-7	аньцек	аньцек	ADV	_	_	8	advmod:foc	_	_
+7	аньцек	аньцек	ADV	_	_	8	advmod	_	_
 8	велосипед	велосипед	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	6	orphan	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -198,7 +198,7 @@
 4	ашкордасть	ашкордамс	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScPl3
 5	и	и	CCONJ	CC	_	6	cc	_	_
 6	лиссть	лисемс	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	4	conj	_	GTtags=IV,Ind,Prt1,ScPl3
-7	комнатаста	комната	NOUN	_	Case=Ela|Definite=Ind|Number=Plur,Sing	6	obl:lmod	_	GTtags=SP,Ela,Indef|SpaceAfter=No
+7	комнатаста	комната	NOUN	_	Case=Ela|Definite=Ind|Number=Plur,Sing	6	obl	_	GTtags=SP,Ela,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = LM_brat_2018:17
@@ -207,13 +207,13 @@
 # text_fi = Hänen olisi pitänyt olla laittamassa kampaustaan mutta jostain syystä ei voinutkaan sinä päivänä
 # text_kpv = Сылы коліс юрсисӧ мичаа вӧчны, но мыйлакӧ тайӧ лунӧ сійӧ эз кӧсйы.
 1	Сондеенза	сон	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Long	3	obl:agent	_	GTtags=Pers,Sg3,Dat,Long
-2	эрявсть	эрявомс	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	3	aux:nec	_	GTtags=IV,Ind,Prt1,ScPl3
+2	эрявсть	эрявомс	AUX	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	3	aux	_	GTtags=IV,Ind,Prt1,ScPl3
 3	тиемс	тиемс	VERB	_	VerbForm=Inf	0	root	_	GTtags=TV,Inf
 4	шяяренза	шяярь	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Pl,Nom,PxSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
-6	аньцек	аньцек	ADV	_	_	9	advmod:foc	_	_
+6	аньцек	аньцек	ADV	_	_	9	advmod	_	_
 7	ся	ся	DET	_	Case=Nom|Number=Sing|PronType=Dem	8	det	_	GTtags=Dem,Sg,Nom
-8	шиня	ши	NOUN	_	Case=Tem|Definite=Ind|Number=Sing	9	obl:tmod	_	GTtags=Der/Dimin,N,Sg,Nom,Indef
+8	шиня	ши	NOUN	_	Case=Tem|Definite=Ind|Number=Sing	9	obl	_	GTtags=Der/Dimin,N,Sg,Nom,Indef
 9	сонь	сон	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	conj	_	GTtags=Pers,Sg3,Gen
 10	ашель	аш	AUX	_	Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	9	cop	_	GTtags=Aux,Neg,Prt2,ScSg3
 11	мялец	мяль	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
@@ -229,11 +229,11 @@
 3	ашезь	аш	AUX	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
 4	сатов	сатовомс	VERB	_	Connegative=Yes	0	root	_	GTtags=IV,ConNeg|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
-6	сяс	сяс	ADV	_	_	8	mark	_	_
+6	сяс	сяс	ADV	_	ExtPos=SCONJ	8	mark	_	_
 7	мес	мес	ADV	_	_	6	fixed	_	_
 8	ласьксь	ласькомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	4	advcl	_	GTtags=Ind,Prt1,ScSg3
-9	пяк	пяк	ADV	_	AdvType=Deg	10	advmod:deg	_	GTtags=AdA
-10	вишкста	вишкста	ADV	Adv	AdvType=Man	8	advmod:mmod	_	SpaceAfter=No
+9	пяк	пяк	ADV	_	AdvType=Deg	10	advmod	_	GTtags=AdA
+10	вишкста	вишкста	ADV	Adv	AdvType=Man	8	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	4	punct	_	_
 
 # sent_id = LM_brat_2018:19
@@ -249,7 +249,7 @@
 6	и	и	CCONJ	CC	_	7	cc	_	_
 7	кандозь	кандомс	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	3	conj	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
 8	сонь	сон	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	obj	_	GTtags=Pers,Sg3,Gen
-9	исяк	исяк	ADV	_	AdvType=Tim	7	advmod:tmod	_	SpaceAfter=No
+9	исяк	исяк	NOUN	Case=Nom|Definite=Ind|Number=Sing	AdvType=Tim	7	obl:tmod	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
 # sent_id = LM_brat_2018:20
@@ -259,7 +259,7 @@
 # text_kpv = Сійӧ быдмис Парижын, Францияса юркарын.
 1	Сон	сон	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	кассь	касомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-3	Парижса	Париж	PROPN	_	Case=Ine|Definite=Ind|NameType=Geo|Number=Plur,Sing	2	obl:lmod	_	GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
+3	Парижса	Париж	PROPN	_	Case=Ine|Definite=Ind|NameType=Geo|Number=Plur,Sing	2	obl	_	GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 5	Парижсь	Париж	PROPN	_	Case=Nom|Definite=Def|NameType=Geo|Number=Sing	10	nsubj	_	GTtags=Prop,Sg,Nom,Def
 6	–	–	PUNCT	_	_	7	punct	_	_
