@@ -3579,9 +3579,9 @@
 9	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = KehayovP2020:4a:Kirdiashkin1953:KeliMoksha:8
-# text_orig = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən azəŋkšńəma, sati kafta šit.
+# text_orig = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən azəŋkšńəma, sati kafta šit.
 # text = Ату мон ушедондярян аватнень эряфснон азонкшнема, саты кафта шит.
-# gloss_en = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən chatter:INF suffice:IND.PRS.3SG two days
+# gloss_en = Atu mon ušədə-ńďäŕä-n avaťńəń eŕafsnən chatter:INF suffice:IND.PRS.3SG two days
 # source = Кирдяшкин, Кели Мокша 1953: 8; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
 # text_en = Otherwise, if I begin chattering about the lives of the women, it will take two days.
 1	Ату	ату	ADV	Adv	_	3	advmod	_	_
@@ -3597,7 +3597,7 @@
 11	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = KehayovP2020:4b:Tiapaev1990:SedjLangsaTol:266
-# text_orig = Uĺə-ńďäŕäĺ kudsa, noldaĺəźä.
+# text_orig = Uĺə-ńďäŕäĺ kudsa, noldaĺəźä.
 # text = Улендяряль кудса, нолдалезе.
 # gloss_en = be-COND.CONJ.3SG at_home let_in:CONJ:S3SG>O3SG
 # source = Тяпаев, Седь лангса тол 1990: 266; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3609,7 +3609,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = KehayovP2020:5a:Devin1991:Nardishe:144
-# text_orig = Odu savə-ńďäŕä-j veńćams, tonga ťafta ťik svaďbaćəń.
+# text_orig = Odu savə-ńďäŕä-j veńćams, tonga ťafta ťik svaďbaćəń.
 # text = Оду савондяряй венцямс, тонга тяфта тик свадьбацень.
 # gloss_en = again have_to-COND-3SG marry:INF you.NOM:CL like_this do:IMP.2SG wedding:POSS.2SG.SG:ACC
 # source = Девин, Нардише 1991: 144; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3625,7 +3625,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = KehayovP2020:5b:Devin1991:Nardishe:165:1
-# text_orig = Što ĺi, mäŕgat, śoĺgəvəĺ ćeŕkavəńkä, ĺiśə-ńďäŕäĺ śеmbä veĺəś ańťiχristťńəń karšəs?
+# text_orig = Što ĺi, mäŕgat, śoĺgəvəĺ ćeŕkavəńkä, ĺiśə-ńďäŕäĺ śеmbä veĺəś ańťiχristťńəń karšəs?
 # text = Што ли, мярьгат, сёлговоль церькавоньке, лисендяряль сембе велесь антихристтнень каршес?
 # gloss_en = what	Q(yes/no)	say:IND.PRS.2SG	close:PASS:CONJ.3SG	church:POSS.1PL.SG rise-COND.CONJ.3SG	whole	village:DEF.NOM	antichrist:PL.DEF:GEN	against:ILL
 # source = Девин, Нардише 1991: 165; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3656,7 +3656,7 @@
 3	!	!	PUNCT	_	_	2	punct	_	_
 
 # sent_id = KehayovP2020:6:Devin1991:Nardishe:93
-# text_orig = A eŕavə-ńďäŕä-j kačka, – mon ťijan, af staka, juvaďś gollandka ftalda Pivkin.
+# text_orig = A eŕavə-ńďäŕä-j kačka, – mon ťijan, af staka, juvaďś gollandka ftalda Pivkin.
 # text = А эрявондяряй качка, - мон тиян, аф стака, ювадсь голландка фталда Пивкин.
 # gloss_en = and be_necessary-COND-3SG cradle.NOM I.NOM make:IND.PRS.S1SG NEG difficult shout:IND.PST1.3SG brick_oven.NOM back:ABL Pivkin
 # source = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3679,7 +3679,7 @@
 16	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = KehayovP2020:7:Beban1995:TundanjNarmottj:60
-# text_orig = Äŕ, avańät, af ozadəń śeďi uĺə-f-ťäŕäĺ, ďäŕäj śävəĺχćä iĺəń pŕä urmať, …
+# text_orig = Äŕ, avańät, af ozadəń śeďi uĺə-f-ťäŕäĺ, ďäŕäj śävəĺχćä iĺəń pŕä urmať, …
 # text = Эрь, аванят, аф озадонь седи улефтяряль, дяряй сявольхце илянь пря урмать, ...
 # gloss_en = INTERJ	woman:DIM:PL NEG sitting:GEN heart.NOM be-NEG-COND.CONJ.3SG EMPH.PTCL take:CONJ:S3SG>O3SG other:GEN head.NOM illness:DEF.ACC
 # source = Бебан, Тундань нармотть 1995: 60; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3702,7 +3702,7 @@
 16	...	...	PUNCT	PUNCT	_	11	punct	_	_
 
 # sent_id = KehayovP2020:8:Teriohkina1991:SajAkshaLishmosa:169:1
-# text_orig = Konaškava mazijχť siń valsna.
+# text_orig = Konaškava mazijχť siń valsna.
 # text = Конашкава мазыхть синь валсна.
 # gloss_en = how beautiful:PRS.3SG their word:POSS.3PL.PL.NOM
 # source = Терёшкина, Сай акша лишмоса 1991: 169; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3714,7 +3714,7 @@
 5	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = KehayovP2020:8:Teriohkina1991:SajAkshaLishmosa:169:2
-# text_orig = Konaškava mazijχť siń valsna. Kasə-ńďäŕä-n, objazaťeĺna tonafńəsa ciganəń käĺť.
+# text_orig = Konaškava mazijχť siń valsna. Kasə-ńďäŕä-n, objazaťeĺna tonafńəsa ciganəń käĺť.
 # text = Касондярян, обязательна тонафнеса цыганонь кяльть.
 # gloss_en = how beautiful:PRS.3SG their word:POSS.3PL.PL.NOM grow_up-COND-1SG necessarily	learn:IND.PRS.S1SG>O3SG Romani:GEN language:DEF.ACC
 # source = Терёшкина, Сай акша лишмоса 1991: 169; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3728,7 +3728,7 @@
 7	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = KehayovP2020:9:Mishanina1993:OzksTumotjTaradonza:56
-# text_orig = Tʼä ńiŋgä lac ašəź matədəv, a matədəvə-ńďäŕä-j, kiŕďəst śťenaťńä.
+# text_orig = Tʼä ńiŋgä lac ašəź matədəv, a matədəvə-ńďäŕä-j, kiŕďəst śťenaťńä.
 # text = Тя нинге лац ашезь матодов, а матодовондяряй, кирдест стенатне.
 # gloss_en = this.NOM yet well NEG.PST1.3SG fall_asleep.CNG and fall_asleep-COND-3SG hold_up:IND.PST1.3PL wall:PL.DEF.NOM
 # source = Мишанина, Озкс тумоть тарадонза 1993: 56; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3775,7 +3775,7 @@
 21	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = KehayovP2020:11:Beban1995:TundanjNarmottj:118
-# text_orig = Śasi korχtan, ĺezdə-ńďäŕä-tada jarmaksa, vajməńkəń targasaśk.
+# text_orig = Śasi korχtan, ĺezdə-ńďäŕä-tada jarmaksa, vajməńkəń targasaśk.
 # text = Сясы корхтан, лездондярятада ярмакса, ваймоньконь таргасаськ.
 # gloss_en = therefore say:IND.PRS:1SG help-COND-S2PL money:INE soul:POSS.1PL.SG:ACC pull:IND.PRS.S1PL>O3SG
 # source = Бебан, Тундань нармотть 1995: 118; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3791,7 +3791,7 @@
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = KehayovP2020:12:Devin1991:Nardishe:93
-# text_orig = A zavtrakamsta koj, abedamsta-užnamsta ańćək i  kuĺat śaka valənc: “Jarχcada, jarχcada …” bəta af mäŕgə-ńďäŕä-j ťafta, lomaťťńä iĺadijχť  vačədəńä.
+# text_orig = A zavtrakamsta koj, abedamsta-užnamsta ańćək i  kuĺat śaka valənc: “Jarχcada, jarχcada …” bəta af mäŕgə-ńďäŕä-j ťafta, lomaťťńä iĺadijχť  vačədəńä.
 # text = А завтракамста кой, обедамста-ужнамста аньцек и кулят сяка валонц: "Ярхцада, ярхцада ... ", бта аф мярьгондяряй тяфта, ломаттне илядыхть вачедоня.
 # gloss_en = but eat_breakfast:CVB habit eat_lunch:CVB-eat_dinner:CVB only PTCL hear:IND.PRS.2SG same word:ACC:POSS.3SG.SG eat:IMP.2PL eat:IMP.2PL as_if NEG say-COND-S3SG so  people:DEF remain:IND.PRS.3PL hungry:DIM
 # source = Девин, Нардише 1991: 93; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3855,7 +3855,7 @@
 10	.	.	PUNCT	PUNCT	_	9	punct	_	GTtags=PUNCT
 
 # sent_id = KehayovP2020:13:Tiapaev1990:SedjLangsaTol:34:3
-# text_orig = Śergej, učiĺiščasa storəšks rabotan! Oformilsja česť -po -česťi, a meĺä śormaćä saś. Sa-ńďäŕäĺ śada rana, šäť, aŕśəĺəń  – arams iĺi af storəšks.
+# text_orig = Śergej, učiĺiščasa storəšks rabotan! Oformilsja česť -po -česťi, a meĺä śormaćä saś. Sa-ńďäŕäĺ śada rana, šäť, aŕśəĺəń  – arams iĺi af storəšks.
 # text = Сандяряль сяда рана, шять, арьселень - арамс или аф сторожкс.
 # gloss_en = come:IND.PST1.3SG come-COND.CONJ.3SG more early maybe think:CONJ:1SG become:INF or NEG guard:TRNSL
 # source = Тяпаев, Седь лангса тол 1990: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3875,7 +3875,7 @@
 13	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:1
-# text_orig = A koda laďaĺ utəmńaś ťejst, ńä šočkńəń ezda ťijemacka meźəvək aš, anək šapft.
+# text_orig = A koda laďaĺ utəmńaś ťejst, ńä šočkńəń ezda ťijemacka meźəvək aš, anək šapft.
 # text = А кода ладяль утомнясь тейст, ня шочкнень эзда тиемацка мезевок аш, анок шапфт.
 # gloss_en = and how build_up:CONJ.S3SG barn:DEF.NOM they:DAT those log:PL.DEF:GEN from making:PTCL nothing NEG.EXIST ready notch:PST.PASS.PTCP:PL
 # source = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3898,7 +3898,7 @@
 16	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:2
-# text_orig = Kizənda šabanza purəmijχť, fḱä kudsa matńəms aš koza.
+# text_orig = Kizənda šabanza purəmijχť, fḱä kudsa matńəms aš koza.
 # text = Кизонда шабанза пуромихть, фкя кудса матнемс аш коза.
 # gloss_en = in_summer child:POSS.3SG.PL.NOM gather:IND.PRS.3PL one house:INE put_to_bed:INF NEG.EXIST where
 # source = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3915,7 +3915,7 @@
 10	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:3
-# text_orig = Putən-ńďäŕäĺ-χť utəmńa, kudsta ĺišnaj karχčńəń tov ĺiχťəĺχť da ńiŋgä laďaĺχť tov kravať iĺi mäń kafta.
+# text_orig = Putən-ńďäŕäĺ-χť utəmńa, kudsta ĺišnaj karχčńəń tov ĺiχťəĺχť da ńiŋgä laďaĺχť tov kravať iĺi mäń kafta.
 # text = Путондяряльхть утомня, кудста лишнай кархчнень тов лихтельхть да нинге ладяльхть тов кровать или мянь кафта.
 # gloss_en = build-COND.CONJ-S3PL barn.NOM house:ELA superfluous housewares:ACC there bury:CONJ:S3PL and also fix_up:CONJ:S3PL there bed.NOM or even two
 # source = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3939,7 +3939,7 @@
 17	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 # sent_id = KehayovP2020:14:Mishanina1993:OzksTumotjTaradonza:34:4
-# text_orig = Kizənda šabaťńəńďi uťcəms aru kožfkasa konaškava para.
+# text_orig = Kizənda šabaťńəńďi uťcəms aru kožfkasa konaškava para.
 # text = Кизонда шабатненди утцемс ару кожфкаса конашкава пара.
 # gloss_en = in_summer child:PL.DEF:DAT sleep:INF clear air:INE  how_much good
 # source = Мишанина, Озкс тумоть тарадонза 1993: 34; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3954,7 +3954,7 @@
 8	.	.	PUNCT	PUNCT	_	7	punct	_	GTtags=CLB
 
 # sent_id = KehayovP2020:15:Beban1995:TundanjNarmottj:186
-# text_orig = I af stak: tundac ćebäŕəĺ, viďəmda meĺä estəkigä tušəndśť para piźəpt, šiťńä ĺämbət, śorəťńä tuśť lac, i kəda ťaftak kiŕďə-ńďäŕä-si piŋgənc, śokśənda päškəďijχť utəpńä śorəda.
+# text_orig = I af stak: tundac ćebäŕəĺ, viďəmda meĺä estəkigä tušəndśť para piźəpt, šiťńä ĺämbət, śorəťńä tuśť lac, i kəda ťaftak kiŕďə-ńďäŕä-si piŋgənc, śokśənda päškəďijχť utəpńä śorəda.
 # text = И аф стак: тундац цебярель, видемда меле эстокиге тушендсть пара пизепт, шитне лямбот, сёротне тусть лац, и кда тяфтак кирдендярясы пингонц, сёксенда пяшкодихть утопне сёрода.
 # gloss_en = and NEG without_reason spring:POSS.3SG.SG.NOM fine:PST2.3SG sowing:ABL after immediately go:IND.PST1.3PL good rains.NOM days:DEF.NOM warm:PL grains:DEF.NOM go:IND.PST1.3PL well and if so hold-COND-S3SG>O3SG time:POSS.3SG.SG.ACC in_autumn fill:IND.PRS.S3PL granaries:DEF.NOM grain:ABL 
 # source = Бебан, Тундань нармотть 1995: 186; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -3993,7 +3993,7 @@
 32	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 # sent_id = KehayovP2020:16:Mishanina1993:OzksTumotjTaradonza:16
-# text_orig = … ańəĺaf ćoranc piŋgä eŕafəń smuźťi tonaftəms, a to ĺadə-ńďäŕä-j ťäďäftəma-aĺäftəma da ńiŋgä kəda urmac vijijäj, jumaj-araj, af ävəndaj famiĺijəń poladivək.
+# text_orig = … ańəĺaf ćoranc piŋgä eŕafəń smuźťi tonaftəms, a to ĺadə-ńďäŕä-j ťäďäftəma-aĺäftəma da ńiŋgä kəda urmac vijijäj, jumaj-araj, af ävəndaj famiĺijəń poladivək.
 # text = ... анеляф цёранц пинге эряфонь смузти тонафтомс, а то лядондяряй тядяфтома-аляфтома да нинге кда урмац виияй, юмай-арай, аф эвондай фамилиянь поладывок.
 # gloss_en = coddle:PASS.PTCP boy:POSS.3SG.SG.ACC time life:GEN meaning:ALL teach:INF otherwise remain-COND-3SG without_parents and also if  illness:POSS.3SG.SG.NOM grow_stronger:IND.PRS.3SG vanish:IND.PRS.3SG NEG be_born:IND.PRS.3SG family:GEN progeny:PTCL
 # source = Мишанина, Озкс тумоть тарадонза 1993: 16; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -4028,7 +4028,7 @@
 27	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 # sent_id = KehayovP2020:17:Gorjkij01011955:LomanjShireva:
-# text_orig = Kəda ba son lotka-ĺ korχtamda, ušədə-ĺə-ń ba mon, …
+# text_orig = Kəda ba son lotka-ĺ korχtamda, ušədə-ĺə-ń ba mon, …
 # text = Кда ба сон лоткаль корхтамда, ушедолень ба мон ...
 # gloss_en = if IRR.PTCL s/he stop-CONJ.3SG speaking:ABL start-CONJ-S1SG IRR.PTCL I
 # source = Gor’kij 01.01.1955: Lomаnenʹ širevа; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -4045,7 +4045,7 @@
 10	...	...	PUNCT	PUNCT	_	7	punct	_	_
 
 # sent_id = KehayovP2020:18:Beban1995:TundanjNarmottj:31
-# text_orig = Kolχozu, korχtan, afə-ľǝ-ť ana pŕä, nužaś stardə-ńďäŕä-tanza.
+# text_orig = Kolχozu, korχtan, afə-ľǝ-ť ana pŕä, nužaś stardə-ńďäŕä-tanza.
 # text = Колхозу, корхтан, афолеть ана пря, нужась стардондярятанза.
 # gloss_en = kolkhoz:LAT say:IND.PRS:S1SG NEG-CONJ-2SG beg.CNG head.NOM need:DEF.NOM compel-COND-S3SG>O2SG
 # source = Бебан, Тундань нармотть 1995: 31; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -4063,7 +4063,7 @@
 11	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 # sent_id = KehayovP2020:19:Terioshkina1991:SajAkshaLishmosa:43
-# text_orig = A kadə-ńďäŕä-sak ťaftak, Škajś vanə-za-źä, kaťi-meźä ľiśi.
+# text_orig = A kadə-ńďäŕä-sak ťaftak, Škajś vanə-za-źä, kaťi-meźä ľiśi.
 # text = А кадондярясак тяфтак, Шкайсь ванозазе, кати-мезе лиси.
 # gloss_en = and leave-COND-S2SG>O3SG in_this_way God:DEF.NOM see-OPT-PST1.S3SG>O3SG what.NOM come_out:IND.PRS.3SG
 # source = Терёшкина, Сай акша лишмоса 1991: 43; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -4080,7 +4080,7 @@
 10	.	.	PUNCT	PUNCT	_	9	punct	_	_
 
 # sent_id = KehayovP2020:20:Kaganovich1929:GosudarstvanjZajmatnia
-# text_orig = Kepəťksəńďi, putə-ńďäŕä-j kodaməvək lomańć vanftəms 225 calkovajń piťńä obligacijat, esta son vanftəməda karmaj  pandəma kizəťi 7 ťŕošńəkt.
+# text_orig = Kepəťksəńďi, putə-ńďäŕä-j kodaməvək lomańć vanftəms 225 calkovajń piťńä obligacijat, esta son vanftəməda karmaj  pandəma kizəťi 7 ťŕošńəkt.
 # text = Кепотьксонди, путондяряй кодамовок ломанць ванфтомс 225 цалковайнь питня облигацият, эста сон ванфтомода кармай пандома кизоти 7 трёшнект.
 # gloss_en = for_example put-COND-S3SG any_kind person.NOM  save:INF 225 rouble:GEN value.NOM bonds.NOM then s/he.NOM deposit:ABL begin:IND.PRS.3SG pay:INF year:ALL 7 kopek:PL   
 # source = Kаgаnovič 01.01.1929: Gosudаrstvаnʹ zаjmаtnâ; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -4107,7 +4107,7 @@
 20	.	.	PUNCT	PUNCT	_	15	punct	_	_
 
 # sent_id = KehayovP2020:21:
-# text_orig = Meźä mäŕgan, kiźəfťə-ńďäŕä-samaź lomaťť, koda eŕat-aščat ton, moń fkä śaka śťiŕńəźä?
+# text_orig = Meźä mäŕgan, kiźəfťə-ńďäŕä-samaź lomaťť, koda eŕat-aščat ton, moń fkä śaka śťiŕńəźä?
 # text = Мезе мярьган, кизефтендярясамазь ломатть, кода эрят-ащат тон, монь фкя сяка стирнязе?
 # gloss_en = what.NOM say:IND.PRS.S1SG ask-COND-S3PL>O1SG people.NOM how live:IND.PRS.2SG-dwell:IND.PRS.2SG you.NOM my one_and_only daughter:DIM:POSS.1SG.SG.NOM
 # source = Девин, Нардише 1991: 85; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
@@ -4132,7 +4132,7 @@
 17	?	?	PUNCT	PUNCT	_	2	punct	_	_
 
 # sent_id = KehayovP2020:22:Beban1995:TundanjNarmottj:145
-# text_orig = Miń ruzavańkä, odńək-śiŕəńək, ńäjə-ńďäŕä-jχť fotograf, laśkəź-laśkijχť.
+# text_orig = Miń ruzavańkä, odńək-śiŕəńək, ńäjə-ńďäŕä-jχť fotograf, laśkəź-laśkijχť.
 # text = Минь рузаваньке, однек-сиренек, няендяряйхть фотограф, ласькозь-ласькихть.
 # gloss_en = our Russian_woman:POSS.1PL.PL young:COM-old:COM see-COND-S3PL photographer.NOM  run:CVB-run:IND.PRS.3PL
 # source = Бебан, Тундань нармотть 1995: 145; Kehayov, Petar (https://dx.doi.org/10.3176/lu.2020.1.03)
