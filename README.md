@@ -97,6 +97,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction news
 Lemmas: converted from manual
 UPOS: converted from manual
