@@ -54,6 +54,8 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 # Changelog
 
+* 2025-10-30
+  * Address VerbType=Fin
 * 2025-04-30
   * Add ExtPos feature
   * Align :tmod and :lmod in advmod and obl to practice with :unmarked for alignment with issue 1028
