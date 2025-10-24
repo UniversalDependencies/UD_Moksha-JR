@@ -50,6 +50,10 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 
 - Алямкин, Н. С. (гл. ред.); Гришунина, В. П.; Иванова, Г. С.; Кабаева, Н. Ф.; Кулакова, Н. А.; Левина, М. З.; Поляков, О. Е. (гл. ред.); Рогожина, В. Ф.; Седова, П. Е. 2008: * Мокшень кяль. Синтаксис : учебник [Moksha language. Syntax: reader]. -- Саранск : Изд-во Мордов. ун-та.
 - Alâmkin, N. S. (chief ed.); Grushinina, V. P.; Ivanova, G. S.; Kabaeva, N. F.; Kulakova, N. A.; Levina, M. Z.; Polâkov, O. E. (chief ed.); Rogozhina, V. F.; Sedova, P. E. 2008: * Mokshen' kâl'. Sintaksis: uchebnik [Moksha language. Syntax: reader]. -- Saransk : Izd-vo Mordov. un-ta.
+- Feoktistov, Aleksandr P. 1976. Očerki po istorii formirovanija mordovskix pis’menno-literaturnyx jazykov (rannij
+period) [Essays on the history of formation of Mordvin literary languages (early period)]. Moscow: Nauka.
+- Helsingin yliopisto, FIN-CLARIN, Rueter, J., & Axelson, E. (2022). Raamatun jakeita uralilaisille kielille, rinnakkaiskorpus, Korp [aineisto]. Kielipankki. http://urn.fi/urn:nbn:fi:lb-2020021121
+- Jurkiewicz-Rohrbacher, Edyta; Kehayov, Petar 2024: Deeply embedded clauses in Finno-Ugric: A pilot study on Estonian and Moksha Mordvin. * Finnish Journal of Linguistics * 37 (2024), 105–133. DOI: 10.61197/fjl.144760
 - Kehayov, Petar 2020: Between facts and speech acts: The conditional and condictional-conjunctive in Moksha Mordvin. *Linguistica Uralica LVI 2020 1* [https://dx.doi.org/10.3176/lu.2020.1.03]
 
 # Changelog
@@ -57,6 +61,7 @@ Jack Rueter. (2018, January 20). Erme UD Moksha (Version v1.0) http://doi.org/10
 * 2025-10-30
   * Add VerbType=Fin for verbal forms with mood marker
   * Add PronType for DET and PRON
+  * Add Prontype=Art
 * 2025-04-30
   * Add ExtPos feature
   * Align :tmod and :lmod in advmod and obl to practice with :unmarked for alignment with issue 1028

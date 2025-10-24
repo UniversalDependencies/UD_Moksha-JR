@@ -269,3 +269,91 @@
 10	ошец	ош	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	parataxis	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	10	punct	_	_
 
+# sent_id = Feok_1976:249:kratkat1861:17-20:4
+# text_orig = Тѣ анамать вельде минь максисаскъ эсь вольнякинь казнисъ Шкабазти и анатама, мезе Сонъ тіиль мартанакъ, мезе Тѣйнза эряви и Соннъ оцю Іоанцти, стане, мезя и лие ломатьне мяль марта тіильхть Соннъ волянцъ колга мастыртъ лангса, кода цеберста тіинцазь Соннъ волянцъ Ангельхтне менель ланкса.
+# text = Тя анамать вельде минь макссесаськ эсь воляньконь казнес Шкабазти и анатама, мезе Сон тиель мархтонк, мезе Тейнза эряви и Сон оцю Иоанцти, стане, мезе и лия ломаттне мяль мархта тиельхть Сонь волянц колга масторть лангса, кода цеберьста тиенцазь Сонь волянц Ангельхтне менель лангса.
+# text_en = With this request, we give our freedom as a gift to God and ask [that He would do with us [what He needs according to His great intention, and what other people would also properly do according to His will on earth, [just as the angels in heaven gladly fulfil His will]]]].
+# comment = Feok_1976:249:kratkat1861:17-20:4, Jurkiewicz-Rohrbacher, Edyta; Kehayov, Petar 2024: 107
+1	Тя	тя	DET	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
+2	анамать	анама	NOUN	N	Case=Gen|Number=Sing	5	obl	_	_
+3	вельде	вельде	ADP	Po	AdpType=Post	2	case	_	_
+4	минь	мон	PRON	Pron	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+5	макссесаськ	макссемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres	0	root	_	_
+6	эсь	эсь	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
+7	воляньконь	воля	NOUN	Case=Gen|Number=Plur	_	5	obj	_	_
+8	казнес	казне	NOUN	Case=Ill|Number=Plur,Sing	_	5	obl	_	_
+9	Шкабазти	Шкабаз	PROPN	N	Case=Dat|Definite=Def|Number=Sing	5	obl	_	_
+10	и	и	CCONJ	CC	_	11	cc	_	_
+11	анатама	анамс	VERB	V	Mood=Ind|Tense=Pres	5	conj	_	SpaceAfter=No
+12	,	,	PUNCT	CLB	_	11	punct	_	_
+13	мезе	мезе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	15	obj	_	_
+14	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	тиель	тиемс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3	11	advcl	_	_
+16	мархтонк	мархта	ADP	Po	AdpType=Post|Number[psor]=Plur|Person[psor]=1	15	obl	_	SpaceAfter=No
+17	,	,	PUNCT	CLB	_	16	punct	_	_
+18	мезе	мезе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	20	obj	_	_
+19	Тейнза	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
+20	эряви	эрявомс	VERB	V	Mood=Ind|Tense=Pres	15	conj	_	_
+21	и	и	CCONJ	CC	_	24	cc	_	_
+22	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	24	orphan	_	_
+23	оцю	оцю	ADJ	A	Case=Nom|Number=Sing	24	amod	_	_
+24	Иоанцти	Иоан	PROPN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2	15	conj	_	SpaceAfter=No
+25	,	,	PUNCT	CLB	_	24	punct	_	_
+26	стане	стане	ADV	Adv	_	24	advmod	_	SpaceAfter=No
+27	,	,	PUNCT	CLB	_	26	punct	_	_
+28	мезе	мезе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	34	obj	_	_
+29	и	и	CCONJ	CC	_	34	cc	_	_
+30	лия	лия	ADJ	A	Case=Nom|Number=Sing	31	amod	_	_
+31	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	34	nsubj	_	_
+32	мяль	мяль	NOUN	N	Case=Nom|Number=Sing	34	obl	_	_
+33	мархта	мархта	ADP	Po	AdpType=Post	32	case	_	_
+34	тиельхть	тиемс	VERB	V	Mood=Sub|Number[subj]=Plur|Person[subj]=3	15	conj	_	_
+35	Сонь	сон	PRON	Pron	Number=Sing|Person=3|PronType=Prs	36	det	_	_
+36	волянц	воля	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	34	obl	_	_
+37	колга	колга	ADP	Po	AdpType=Post	36	case	_	_
+38	масторть	мастор	NOUN	N	Case=Gen|Definite=Def|Number=Sing	39	nmod	_	_
+39	лангса	ланга	NOUN	N	Case=Ine|NounType=Relat|Number=Plur,Sing	34	obl	_	SpaceAfter=No
+40	,	,	PUNCT	CLB	_	39	punct	_	_
+41	кода	кода	ADV	Adv	_	42	advmod	_	_
+42	цеберьста	цеберьста	ADV	Adv	_	43	advmod	_	_
+43	тиенцазь	тиендемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres	34	advcl	_	_
+44	Сонь	сон	PRON	Pron	Number=Sing|Person=3|PronType=Prs	45	det	_	_
+45	волянц	воля	NOUN	N	Case=Gen|Number=Sing	43	obj	_	_
+46	Ангельхтне	Ангель	NOUN	N	Case=Nom|Definite=Def|Number=Plur	43	nsubj	_	_
+47	менель	менель	NOUN	N	Case=Nom|Number=Sing	48	nmod	_	_
+48	лангса	ланга	NOUN	N	Case=Ine|NounType=Relat|Number=Plur,Sing	43	obl	_	SpaceAfter=No
+49	.	.	PUNCT	CLB	_	5	punct	_	_
+
+# sent_id = mdf_2016_LUK.14.5
+# text = Сяльде Сон мярьгсь тостотненди: «Ёткстонт киньге цёрац али букац прандяряй эшис, кали аф эстокиге таргасы, улендяряза тя шись ваймамань ши?»
+# text_en = Then He said to those from there: «Were a son or bull of any among you to fall in a well, would you not pull him out immediately, even if the day be one of rest?»
+# comment = Helsingin yliopisto, FIN-CLARIN, Rueter, J., & Axelson, E. (2022). Translation to Moksha: Valentina Mishanina 2016, IBT Helsinki, Finland.
+1	Сяльде	сяльде	ADV	Adv	_	3	advmod	_	CGdephead=#1-&gt;3|CGdeprel=@ADVL&gt;|CGdephead=#1-&gt;3|CGdeprel=@ADVL&gt;|GTtags=
+2	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	CGdephead=#2-&gt;3|CGdeprel=@SUBJ&gt;|CGdephead=#2-&gt;3|CGdeprel=@SUBJ&gt;|GTtags=Pers,Sg3,Nom
+3	мярьгсь	мярьгомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	CGdephead=#3-&gt;0|CGdeprel=@FMV|CGdephead=#3-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prt1,ScSg3
+4-5	тостотненди	_	_	_	_	_	_	_	SpaceAfter=No
+4	тосто	тосто	ADV	_	_	5	nmod	_	CGdephead=#4-&gt;0|CGdeprel=@X|CGdephead=#4-&gt;0|CGdeprel=@X|GTtags=?
+5	тненди	сь	PRON	Pron	Case=Dat|Definite=Def|Number=Plur|PronType=Art	3	obl	_	_
+6	:	:	PUNCT	CLB	_	3	punct	_	CGdephead=#5-&gt;3|CGdeprel=punct|CGdephead=#5-&gt;3|CGdeprel=punct|GTtags=CLB
+7	«	«	PUNCT	PUNCT	PunctSide=Ini	8	punct	_	CGdephead=#6-&gt;7|CGdeprel=@X|CGdephead=#6-&gt;7|CGdeprel=@X|GTtags=PUNCT,LEFT|SpaceAfter=No
+8	Ёткстонт	ётка	NOUN	N	Case=Ela|NounType=Relat|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=2	13	obl	_	CGdephead=#7-&gt;12|CGdeprel=@ADVL&gt;|CGdephead=#7-&gt;12|CGdeprel=@ADVL&gt;|GTtags=Relat,SP,Ela,PxPl2
+9	киньге	кивок	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing|PronType=Ind	10	nmod	_	CGdephead=#8-&gt;0|CGdeprel=@X|CGdephead=#8-&gt;0|CGdeprel=@X|GTtags=Indef,SP,Gen
+10	цёрац	цёра	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	CGdephead=#9-&gt;12|CGdeprel=@SUBJ&gt;|CGdephead=#9-&gt;12|CGdeprel=@SUBJ&gt;|GTtags=Sg,Nom,PxSg3
+11	али	али	CCONJ	CC	_	12	cc	_	CGdephead=#10-&gt;9|CGdeprel=@CNP|CGdephead=#10-&gt;9|CGdeprel=@CNP|GTtags=
+12	букац	бука	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	conj	_	CGdephead=#11-&gt;9|CGdeprel=@SUBJ&gt;|CGdephead=#11-&gt;9|CGdeprel=@SUBJ&gt;|GTtags=Sg,Nom,PxSg3
+13	прандяряй	прамс	VERB	V	Derivation=Cond|Number[subj]=Sing|Person[subj]=3	19	advcl	_	CGdephead=#12-&gt;3|CGdeprel=@FMV|CGdephead=#12-&gt;3|CGdeprel=@FMV|GTtags=Cond,ScSg3
+14	эшис	эши	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	13	obl	_	CGdephead=#13-&gt;12|CGdeprel=@&lt;ADVL|CGdephead=#13-&gt;12|CGdeprel=@&lt;ADVL|GTtags=SP,Ill,Indef|SpaceAfter=No
+15	,	,	PUNCT	CLB	_	14	punct	_	CGdephead=#14-&gt;13|CGdeprel=punct|CGdephead=#14-&gt;13|CGdeprel=punct|GTtags=CLB
+16	кали	кали	ADV	Adv	_	19	advmod	_	CGdephead=#15-&gt;18|CGdeprel=@ADVL&gt;|CGdephead=#15-&gt;18|CGdeprel=@ADVL&gt;|GTtags=
+17	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	19	aux:neg	_	CGdephead=#16-&gt;12|CGdeprel=@FAUX|CGdephead=#16-&gt;12|CGdeprel=@FAUX|GTtags=Aux,Neg
+18	эстокиге	эстокиге	ADV	Adv	_	19	advmod	_	CGdephead=#17-&gt;18|CGdeprel=@ADVL&gt;|CGdephead=#17-&gt;18|CGdeprel=@ADVL&gt;|GTtags=
+19	таргасы	таргамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	CGdephead=#18-&gt;16|CGdeprel=@FMV|CGdephead=#18-&gt;16|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg3,OcSg3|SpaceAfter=No
+20	,	,	PUNCT	CLB	_	19	punct	_	CGdephead=#19-&gt;18|CGdeprel=punct|CGdephead=#19-&gt;18|CGdeprel=punct|GTtags=CLB
+21	улендяряза	улемс	AUX	_	Derivation=Cond|Mood=Imp|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	25	cop	_	CGdephead=#20-&gt;0|CGdeprel=@X|CGdephead=#20-&gt;0|CGdeprel=@X|GTtags=?
+22	тя	тя	DET	Det	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	23	det	_	CGdephead=#21-&gt;22|CGdeprel=@&gt;N|CGdephead=#21-&gt;22|CGdeprel=@&gt;N|GTtags=Dem,Sg,Nom,Indef
+23	шись	ши	NOUN	N	Case=Nom|Definite=Def|Number=Sing	25	nsubj:cop	_	CGdephead=#22-&gt;22|CGdeprel=@COPSUBJ&gt;|CGdephead=#22-&gt;22|CGdeprel=@COPSUBJ&gt;|GTtags=Sg,Nom,Def
+24	ваймамань	ваймама	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	25	nmod	_	CGdephead=#23-&gt;24|CGdeprel=@&gt;N|CGdephead=#23-&gt;24|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
+25	ши	ши	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	19	obj	_	CGdephead=#24-&gt;18|CGdeprel=@&lt;OBJ|CGdephead=#24-&gt;18|CGdeprel=@&lt;OBJ|GTtags=Sg,Nom,Indef|SpaceAfter=No
+26	?	?	PUNCT	CLB	_	3	punct	_	CGdephead=#25-&gt;3|CGdeprel=punct|CGdephead=#25-&gt;3|CGdeprel=punct|GTtags=CLB|SpaceAfter=No
+27	»	»	PUNCT	PUNCT	PunctSide=Fin	3	punct	_	CGdephead=#1-&gt;0|CGdeprel=@X|CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=PUNCT,RIGHT
+
