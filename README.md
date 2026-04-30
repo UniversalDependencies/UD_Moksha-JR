@@ -58,6 +58,8 @@ period) [Essays on the history of formation of Mordvin literary languages (early
 
 # Changelog
 
+* 2026-04-30
+  * Add trees.
 * 2025-10-30
   * Add VerbType=Fin for verbal forms with mood marker
   * Add PronType for DET and PRON
