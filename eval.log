@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Moksha-JR:
-commit 2f2eee16244f79d3243a27fc7acd29f577887aab
-Merge: d4a1a0d 9c2a62f
+commit 60a39361ce56ecaaec38a96297d8cbd0cebdc2f4
+Merge: ab3f5ca 423b75a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'mdf_jr'
 Language code (from CoNLL-U file name) = 'mdf'
 Found the following data files: mdf_jr-ud-test.conllu, mdf_jr-ud-train.conllu
-Size: counted 4429 of 4429 words (nodes).
-Size: min(0, log((N/1000)**2)) = 2.97634764988212.
+Size: counted 4579 of 4579 words (nodes).
+Size: min(0, log((N/1000)**2)) = 3.04296126734992.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,7 +19,7 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 3105 out of 4429 total words have one or more features.
+Features: 3195 out of 4579 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
@@ -32,10 +32,10 @@ Validity: 1
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
-(weight=0.37037037037037) * (score{size}=0.215435226761586) = 0.0797908247265134
+(weight=0.37037037037037) * (score{size}=0.220256881175899) = 0.0815766226577404
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.752941176470588) = 0.0836601307189542
 (weight=0.111111111111111) * (score{udeprels}=0.713513513513514) = 0.0792792792792793
-(TOTAL score=0.433594432255611) * (availability=1) * (validity=1) = 0.433594432255611
+(TOTAL score=0.435380230186838) * (availability=1) * (validity=1) = 0.435380230186838
 STARS = 2
-UD_Moksha-JR	0.433594432255611	2
+UD_Moksha-JR	0.435380230186838	2
