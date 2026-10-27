@@ -288,7 +288,7 @@
 12	,	,	PUNCT	CLB	_	11	punct	_	_
 13	мезе	мезе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	15	obj	_	_
 14	Сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-15	тиель	тиемс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3	11	advcl	_	_
+15	тиель	тиемс	VERB	V	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	11	advcl	_	_
 16	мархтонк	мархта	ADP	Po	AdpType=Post|Number[psor]=Plur|Person[psor]=1	15	obl	_	SpaceAfter=No
 17	,	,	PUNCT	CLB	_	16	punct	_	_
 18	мезе	мезе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	20	obj	_	_
@@ -307,7 +307,7 @@
 31	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	34	nsubj	_	_
 32	мяль	мяль	NOUN	N	Case=Nom|Number=Sing	34	obl	_	_
 33	мархта	мархта	ADP	Po	AdpType=Post	32	case	_	_
-34	тиельхть	тиемс	VERB	V	Mood=Sub|Number[subj]=Plur|Person[subj]=3	15	conj	_	_
+34	тиельхть	тиемс	VERB	V	Mood=Cnd|Number[subj]=Plur|Person[subj]=3	15	conj	_	_
 35	Сонь	сон	PRON	Pron	Number=Sing|Person=3|PronType=Prs	36	det	_	_
 36	волянц	воля	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	34	obl	_	_
 37	колга	колга	ADP	Po	AdpType=Post	36	case	_	_
@@ -341,7 +341,7 @@
 10	цёрац	цёра	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nsubj	_	CGdephead=#9-&gt;12|CGdeprel=@SUBJ&gt;|CGdephead=#9-&gt;12|CGdeprel=@SUBJ&gt;|GTtags=Sg,Nom,PxSg3
 11	али	али	CCONJ	CC	_	12	cc	_	CGdephead=#10-&gt;9|CGdeprel=@CNP|CGdephead=#10-&gt;9|CGdeprel=@CNP|GTtags=
 12	букац	бука	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	conj	_	CGdephead=#11-&gt;9|CGdeprel=@SUBJ&gt;|CGdephead=#11-&gt;9|CGdeprel=@SUBJ&gt;|GTtags=Sg,Nom,PxSg3
-13	прандяряй	прамс	VERB	V	Derivation=Cond|Number[subj]=Sing|Person[subj]=3	19	advcl	_	CGdephead=#12-&gt;3|CGdeprel=@FMV|CGdephead=#12-&gt;3|CGdeprel=@FMV|GTtags=Cond,ScSg3
+13	прандяряй	прамс	VERB	V	ConjType=Cnd|Mood=Ind|Number[subj]=Sing|Person[subj]=3	19	advcl	_	CGdephead=#12-&gt;3|CGdeprel=@FMV|CGdephead=#12-&gt;3|CGdeprel=@FMV|GTtags=Cond,ScSg3
 14	эшис	эши	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	13	obl	_	CGdephead=#13-&gt;12|CGdeprel=@&lt;ADVL|CGdephead=#13-&gt;12|CGdeprel=@&lt;ADVL|GTtags=SP,Ill,Indef|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	14	punct	_	CGdephead=#14-&gt;13|CGdeprel=punct|CGdephead=#14-&gt;13|CGdeprel=punct|GTtags=CLB
 16	кали	кали	ADV	Adv	_	19	advmod	_	CGdephead=#15-&gt;18|CGdeprel=@ADVL&gt;|CGdephead=#15-&gt;18|CGdeprel=@ADVL&gt;|GTtags=
@@ -349,7 +349,7 @@
 18	эстокиге	эстокиге	ADV	Adv	_	19	advmod	_	CGdephead=#17-&gt;18|CGdeprel=@ADVL&gt;|CGdephead=#17-&gt;18|CGdeprel=@ADVL&gt;|GTtags=
 19	таргасы	таргамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	CGdephead=#18-&gt;16|CGdeprel=@FMV|CGdephead=#18-&gt;16|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg3,OcSg3|SpaceAfter=No
 20	,	,	PUNCT	CLB	_	19	punct	_	CGdephead=#19-&gt;18|CGdeprel=punct|CGdephead=#19-&gt;18|CGdeprel=punct|GTtags=CLB
-21	улендяряза	улемс	AUX	_	Derivation=Cond|Mood=Imp|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	25	cop	_	CGdephead=#20-&gt;0|CGdeprel=@X|CGdephead=#20-&gt;0|CGdeprel=@X|GTtags=?
+21	улендяряза	улемс	AUX	_	ConjType=Cnd|Mood=Imp|Number[subj]=Sing|Person[subj]=3|VerbForm=Fin	25	cop	_	CGdephead=#20-&gt;0|CGdeprel=@X|CGdephead=#20-&gt;0|CGdeprel=@X|GTtags=?
 22	тя	тя	DET	Det	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	23	det	_	CGdephead=#21-&gt;22|CGdeprel=@&gt;N|CGdephead=#21-&gt;22|CGdeprel=@&gt;N|GTtags=Dem,Sg,Nom,Indef
 23	шись	ши	NOUN	N	Case=Nom|Definite=Def|Number=Sing	25	nsubj:cop	_	CGdephead=#22-&gt;22|CGdeprel=@COPSUBJ&gt;|CGdephead=#22-&gt;22|CGdeprel=@COPSUBJ&gt;|GTtags=Sg,Nom,Def
 24	ваймамань	ваймама	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	25	nmod	_	CGdephead=#23-&gt;24|CGdeprel=@&gt;N|CGdephead=#23-&gt;24|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
