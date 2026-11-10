@@ -58,6 +58,12 @@ period) [Essays on the history of formation of Mordvin literary languages (early
 
 # Changelog
 
+* 2026-10-30
+  * change aux to aux:neg in instances of аф with verb head.
+  * Introduce ConjType=Cnd, which means SCONJ `кда` and VERB, AUX can be marked, 
+  * Mood no longer takes double for CndSub or hypothetical CndOpt. `вОль` 
+  * is now Mood=Cnd as is ба
+  * Cleansing and testing new tools
 * 2026-04-30
   * Add trees.
 * 2025-10-30
